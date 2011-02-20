@@ -112,6 +112,15 @@ header {
       ul li {
          margin-bottom: 2px;
       }
+
+      a:hover {
+         text-decoration: underline;
+      }
+
+      a {
+         color: #444;
+         text-decoration: none;
+      }
    }
 }
 
