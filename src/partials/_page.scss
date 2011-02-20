@@ -1,0 +1,118 @@
+@import "compass/css3";
+
+//-----------------------------------------------
+// The following html5-boilerplate styles should
+// probably be customized for each site
+//-----------------------------------------------
+
+h1, h2, h3, h4, h5, h6 {
+  // Bold might not be the best choice if you are
+  // embedding font faces that are already bold
+  font-weight: bold;
+}
+
+strong, th {
+  font-weight: bold;
+}
+
+small {
+  // Use font-size mixin to convert to percentage for YUI
+  // http://developer.yahoo.com/yui/3/cssfonts/#fontsize
+  @include font-size(11px);  // approx 85% when base-font-size eq 13px
+}
+
+// Add the 'required' attribute on your
+// inputs if you want to use these
+input:valid, textarea:valid {}
+input:invalid, textarea:invalid {
+  @include border-radius(1px);
+  @include box-shadow(red, 0, 0, 5px, 0);
+}
+.no-boxshadow input:invalid,
+.no-boxshadow textarea:invalid { background-color: #f0dddd; }
+
+
+//-----------------------------------
+// Add your own custom styles below
+//-----------------------------------
+
+body {}
+
+#container {}
+
+header {
+   width: 100%;
+   overflow-x: hidden;
+   color: white;
+   margin-bottom: 60px;
+
+   .inner {
+      height: 110px;
+      width: 120%;
+      margin-left: -10%;
+      padding-top: 15px;
+      @include linear-gradient(color-stops(#66dd55, #55c044));
+      @include border-radius(0 0 50% 50%, 0 0 50px 50px);
+      border-bottom: #44bb33;
+   }
+
+   .toolbox {
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      margin-left: -300px;
+      height: 164px;
+      width: 164px;
+      background-image: url(../img/toolbox.png);
+      background-repeat: no-repeat;
+   }
+
+   h1, .description {
+      width: 500px;
+      margin: auto;
+      padding-left: 170px;
+      @include text-shadow(#44bb33, 1px, -1px, 0);
+   }
+
+   h1 {
+      font-family: Lato, sans-serif;
+      font-size: 44px;
+      font-weight: normal;
+   }
+
+   .description {
+      font-family: Arimo;
+      font-size: 16px;
+   }
+
+   #j {
+      font-style: italic;
+      margin-right: 5px;
+   }
+}
+
+#main {
+   margin: auto;
+   width: 750px;
+
+   .category {
+      float: left;
+      width: 250px;
+      font-size: 11pt;
+
+      h2 {
+         font-size: 16pt;
+         margin-bottom: 4px;
+      }
+
+      ul {
+         list-style: square;
+      }
+
+      ul li {
+         margin-bottom: 2px;
+      }
+   }
+}
+
+footer {}
