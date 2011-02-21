@@ -11,17 +11,17 @@ cake:
 ring_json_params:
   name: ring-json-params
   url: https://github.com/mmcgrana/ring-json-param
-  category: Ring Middleware
+  category: Request Middleware
 
 ring_basic_authentication:
   name: ring-basic-authentication
   url: https://github.com/remvee/ring-basic-authenticatio
-  category: Ring Middleware
+  category: Authentication
 
 ring_gzip_middleware:
   name: ring-gzip-middleware
   url: https://github.com/mikejs/ring-gzip-middleware
-  category: Ring Middleware
+  category: Request Middleware
 
 enlive:
   name: Enlive
@@ -36,17 +36,17 @@ hiccup:
 ring_etag_middleware:
   name: ring-etag-middleware
   url: https://github.com/mikejs/ring-etag-middleware
-  category: Ring Middleware
+  category: Request Middleware
 
 ring_upload_progress:
   name: ring-upload-progress
   url: https://github.com/joodie/ring-upload-progress
-  category: Ring Middleware
+  category: Request Middleware
 
 clj_hoptoad:
   name: clj-hoptoad
   url: https://github.com/leadtune/clj-hoptoad
-  category: Ring Middleware
+  category: Exception Handling
 
 compojure:
   name: Compojure
@@ -66,4 +66,34 @@ fjord:
 ring-mock:
   name: Ring-Mock
   url: https://github.com/weavejester/ring-mock
-  category: Mocking
+  category: Mocking Web Requests
+
+ring_netty_adapter:
+  name: ring-netty-adapter
+  url: https://github.com/datskos/ring-netty-adapter
+  category: Ring Adapters
+
+ring_mongrel2_adapter:
+  name: ring-mongrel2-adapter
+  url: https://github.com/mikejs/ring-mongrel2-adapter
+  category: Ring Adapters
+
+rrss:
+  name: RRSS
+  url: https://github.com/paraseba/rrss
+  category: Ring Session Stores
+
+mongodb_session:
+  name: mongodb-session
+  url: https://github.com/hozumi/mongodb-session
+  category: Ring Session Stores
+
+midje:
+  name: Midje
+  url: https://github.com/marick/Midje
+  category: Unit Testing
+
+lazy_test:
+  name: Lazytest
+  url: https://github.com/stuartsierra/lazytest
+  category: Unit Testing

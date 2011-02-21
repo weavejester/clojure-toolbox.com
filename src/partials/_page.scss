@@ -91,18 +91,23 @@ header {
    }
 }
 
+.js #project-list {
+   visibility: hidden;
+}
+
 #main {
    margin: auto;
-   width: 750px;
+   width: 780px;
    font-size: 11pt;
 
    .category {
-      width: 250px;
+      width: 260px;
       float: left;
-      margin-bottom: 10px;
+      margin-bottom: 1em;
 
       h2 {
-         font-size: 16pt;
+         font-size: 14pt;
+         font-weight: bold;
          margin-bottom: 4px;
       }
 
