@@ -51,7 +51,8 @@ header {
       width: 120%;
       margin-left: -10%;
       padding-top: 15px;
-      @include linear-gradient(color-stops(#66dd55, #55c044));
+      background-color: #60c050;
+      @include linear-gradient(color-stops(#66cc55, #55b044));
       @include border-radius(0 0 50% 50%, 0 0 50px 50px);
       border-bottom: #44bb33;
    }
