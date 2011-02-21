@@ -32,3 +32,38 @@ hiccup:
   name: Hiccup
   url: https://github.com/weavejester/hiccup
   category: Template Languages
+
+ring_etag_middleware:
+  name: ring-etag-middleware
+  url: https://github.com/mikejs/ring-etag-middleware
+  category: Ring Middleware
+
+ring_upload_progress:
+  name: ring-upload-progress
+  url: https://github.com/joodie/ring-upload-progress
+  category: Ring Middleware
+
+clj_hoptoad:
+  name: clj-hoptoad
+  url: https://github.com/leadtune/clj-hoptoad
+  category: Ring Middleware
+
+compojure:
+  name: Compojure
+  url: https://github.com/weavejester/compojure
+  category: Web Frameworks
+
+moustache:
+  name: Moustache
+  url: https://github.com/cgrand/moustache
+  category: Web Frameworks
+
+fjord:
+  name: Fjord
+  url: https://github.com/notifymd/fjord
+  category: Web Frameworks
+
+ring-mock:
+  name: Ring-Mock
+  url: https://github.com/weavejester/ring-mock
+  category: Mocking
