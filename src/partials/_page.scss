@@ -94,28 +94,22 @@ header {
 #main {
    margin: auto;
    width: 750px;
+   font-size: 11pt;
 
    .category {
-      float: left;
       width: 250px;
-      font-size: 11pt;
+      float: left;
+      margin-bottom: 10px;
 
       h2 {
          font-size: 16pt;
          margin-bottom: 4px;
       }
 
-      ul {
-         list-style: square;
-      }
+      ul { list-style: square; }
+      ul li { margin-bottom: 2px; }
 
-      ul li {
-         margin-bottom: 2px;
-      }
-
-      a:hover {
-         text-decoration: underline;
-      }
+      a:hover { text-decoration: underline; }
 
       a {
          color: #444;
