@@ -101,7 +101,7 @@ lazy_test:
 ring:
   name: Ring
   url: https://github.com/mmcgrana/ring
-  category: HTTP Abstraction
+  category: Web Server Abstraction
 
 clj_http:
   name: clj-http
@@ -212,3 +212,43 @@ redis_clojure:
   name: redis-clojure
   url: https://github.com/ragnard/redis-clojure
   category: Redis Clients
+
+sandbar:
+  name: Sandbar
+  url: https://github.com/brentonashworth/sandbar
+  category: Authentication, Request Middleware, Form Validation
+
+marginalia:
+  name: Marginalia
+  url: https://github.com/fogus/marginalia
+  category: Documentation Tools
+
+autodoc:
+  name: Autodoc
+  url: https://github.com/tomfaulhaber/autodoc
+  category: Documentation Tools
+
+clj-yaml:
+  name: clj-yaml
+  url: https://github.com/lancepantz/clj-yaml
+  category: YAML Parsing
+
+lamina:
+  name: Lamina
+  url: https://github.com/ztellman/lamina
+  category: Event-driven Workflows
+
+sexpbot:
+  name: sexpbot
+  url: https://github.com/Raynes/sexpbot
+  category: IRC Bots
+
+irclj:
+  name: irclj
+  url: https://github.com/Raynes/irclj
+  category: IRC Bots
+
+sdb:
+  name: sdb
+  url: https://github.com/richhickey/sdb
+  category: SimpleDB Client
