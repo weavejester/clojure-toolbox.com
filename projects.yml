@@ -166,7 +166,7 @@ postal:
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
-  category: Deployment
+  category: Deployment, Ring Development
 
 lein_beanstalk:
   name: lein-beanstalk
@@ -182,3 +182,33 @@ aleph:
   name: Aleph
   url: https://github.com/ztellman/aleph
   category: Asynchronous HTTP
+
+ring_serve:
+  name: Ring-Serve
+  url: https://github.com/weavejester/ring-serve
+  category: Ring Development
+
+clutch:
+  name: Clutch
+  url: https://github.com/ashafa/clutch
+  category: CouchDB Clients
+
+appengine_magic:
+  name: appengine-magic
+  url: https://github.com/gcv/appengine-magic
+  category: Deployment
+
+http_async_client:
+  name: http.async.client
+  url: https://github.com/neotyk/http.async.client
+  category: HTTP Clients
+
+clj_stacktrace:
+  name: clj-stacktrace
+  url: https://github.com/mmcgrana/clj-stacktrace
+  category: Exception Handling
+
+redis_clojure:
+  name: redis-clojure
+  url: https://github.com/ragnard/redis-clojure
+  category: Redis Clients
