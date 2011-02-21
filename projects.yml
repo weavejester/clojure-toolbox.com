@@ -1,0 +1,34 @@
+leiningen:
+  name: Leiningen
+  url: https://github.com/technomancy/leiningen
+  category: Build Tools
+
+cake:
+  name: Cake
+  url: https://github.com/ninjudd/cake
+  category: Build Tools
+
+ring_json_params:
+  name: ring-json-params
+  url: https://github.com/mmcgrana/ring-json-param
+  category: Ring Middleware
+
+ring_basic_authentication:
+  name: ring-basic-authentication
+  url: https://github.com/remvee/ring-basic-authenticatio
+  category: Ring Middleware
+
+ring_gzip_middleware:
+  name: ring-gzip-middleware
+  url: https://github.com/mikejs/ring-gzip-middleware
+  category: Ring Middleware
+
+enlive:
+  name: Enlive
+  url: https://github.com/cgrand/enlive
+  category: Template Languages
+
+hiccup:
+  name: Hiccup
+  url: https://github.com/weavejester/hiccup
+  category: Template Languages
