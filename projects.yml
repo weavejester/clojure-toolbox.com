@@ -97,3 +97,48 @@ lazy_test:
   name: Lazytest
   url: https://github.com/stuartsierra/lazytest
   category: Unit Testing
+
+ring:
+  name: Ring
+  url: https://github.com/mmcgrana/ring
+  category: HTTP Abstraction
+
+clj_http:
+  name: clj-http
+  url: https://github.com/mmcgrana/clj-http
+  category: HTTP Clients
+
+ring_httpcore_adapter:
+  name: ring-httpcore-adapter
+  url: https://github.com/mmcgrana/ring-httpcore-adapter
+  category: Ring Adapters
+
+conjure:
+  name: Conjure
+  url: http://github.com/macourtney/Conjure
+  category: Web Frameworks
+
+incanter:
+  name: Incanter
+  url: http://incanter.org/
+  category: Statistical Computing
+
+clojail:
+  name: Clojail
+  url: https://github.com/Raynes/clojail
+  category: Sandboxes
+
+congo_mongo:
+  name: CongoMongo
+  url: https://github.com/somnium/congomongo
+  category: MongoDB Clients
+
+karras:
+  name: Karras
+  url: https://github.com/wilkes/karras
+  category: MongoDB Clients
+
+hassium:
+  name: Hassium
+  url: https://github.com/weavejester/hassium
+  category: MongoDB Clients
