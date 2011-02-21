@@ -142,3 +142,43 @@ hassium:
   name: Hassium
   url: https://github.com/weavejester/hassium
   category: MongoDB Clients
+
+fleet:
+  name: Fleet
+  url: https://github.com/Flamefork/fleet
+  category: Template Languages
+
+clojureql:
+  name: ClojureQL
+  url: https://github.com/LauJensen/clojureql
+  category: SQL Abstraction
+
+clj_record:
+  name: clj-record
+  url: https://github.com/duelinmarkers/clj-record
+  category: SQL Abstraction
+
+postal:
+  name: Postal
+  url: https://github.com/drewr/postal
+  category: Email Sending
+
+lein_ring:
+  name: lein-ring
+  url: https://github.com/weavejester/lein-ring
+  category: Deployment
+
+lein_beanstalk:
+  name: lein-beanstalk
+  url: https://github.com/weavejester/lein-beanstalk
+  category: Deployment
+
+leiningen_war:
+  name: Leinginen War Plugin
+  url: https://github.com/alienscience/leiningen-war
+  category: Deployment
+
+aleph:
+  name: Aleph
+  url: https://github.com/ztellman/aleph
+  category: Asynchronous HTTP
