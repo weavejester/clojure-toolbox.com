@@ -54,7 +54,7 @@ header {
       background-color: #60c050;
       @include linear-gradient(color-stops(#66cc55, #55b044));
       @include border-radius(0 0 50% 50%, 0 0 50px 50px);
-      border-bottom: #44bb33;
+      border-bottom: #44aa33;
    }
 
    .toolbox {
@@ -72,7 +72,7 @@ header {
       width: 500px;
       margin: auto;
       padding-left: 170px;
-      @include text-shadow(#44bb33, 1px, -1px, 0);
+      @include text-shadow(#44aa33, 1px, -1px, 0);
    }
 
    h1 {
