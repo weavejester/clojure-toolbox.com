@@ -251,7 +251,7 @@ irclj:
 sdb:
   name: sdb
   url: https://github.com/richhickey/sdb
-  category: SimpleDB Cliento
+  category: SimpleDB Client
 
 penumbra:
   name: Penumbra
