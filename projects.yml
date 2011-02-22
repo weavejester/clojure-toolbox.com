@@ -251,4 +251,19 @@ irclj:
 sdb:
   name: sdb
   url: https://github.com/richhickey/sdb
-  category: SimpleDB Client
+  category: SimpleDB Cliento
+
+penumbra:
+  name: Penumbra
+  url: https://github.com/ztellman/penumbra
+  category: Graphics
+
+clj_processing:
+  name: clj-processing
+  url: https://github.com/rosado/clj-processing
+  category: Graphics
+
+ring_reload_modified:
+  name: ring-reload-modified
+  url: https://github.com/weavejester/ring-reload-modified
+  category: Ring Development
