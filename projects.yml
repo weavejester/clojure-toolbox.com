@@ -267,3 +267,33 @@ ring_reload_modified:
   name: ring-reload-modified
   url: https://github.com/weavejester/ring-reload-modified
   category: Ring Development
+
+pallet:
+  name: Pallet
+  url: http://hugoduncan.github.com/pallet/
+  category: Deployment
+
+cascalog:
+  name: Cascalog
+  url: https://github.com/nathanmarz/cascalog
+  category: Distributed Programming
+
+swarmiji:
+  name: swarmiji
+  url: https://github.com/amitrathore/swarmiji
+  category: Distributed Programming
+
+conduit:
+  name: Conduit
+  url: https://github.com/jduey/conduit
+  category: Stream Processing
+
+crane:
+  name: crane
+  url: https://github.com/getwoven/crane
+  category: Deployment
+
+docjure:
+  name: Docjure
+  url: https://github.com/ative/docjure
+  category: MS Office Documents
