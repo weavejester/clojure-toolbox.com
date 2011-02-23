@@ -81,12 +81,12 @@ ring_mongrel2_adapter:
 rrss:
   name: RRSS
   url: https://github.com/paraseba/rrss
-  category: Ring Session Stores
+  category: Ring Sessions
 
 mongodb_session:
   name: mongodb-session
   url: https://github.com/hozumi/mongodb-session
-  category: Ring Session Stores
+  category: Ring Sessions
 
 midje:
   name: Midje
@@ -216,7 +216,7 @@ redis_clojure:
 sandbar:
   name: Sandbar
   url: https://github.com/brentonashworth/sandbar
-  category: Authentication, Request Middleware, Form Validation
+  category: Authentication, Ring Sessions, Form Validation
 
 marginalia:
   name: Marginalia
