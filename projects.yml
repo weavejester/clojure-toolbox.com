@@ -166,7 +166,7 @@ postal:
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
-  category: Deployment, Ring Development
+  category: War Files, Ring Development
 
 lein_beanstalk:
   name: lein-beanstalk
@@ -176,7 +176,7 @@ lein_beanstalk:
 leiningen_war:
   name: Leinginen War Plugin
   url: https://github.com/alienscience/leiningen-war
-  category: Deployment
+  category: War Files
 
 aleph:
   name: Aleph
@@ -196,7 +196,7 @@ clutch:
 appengine_magic:
   name: appengine-magic
   url: https://github.com/gcv/appengine-magic
-  category: Deployment
+  category: Google App Engine
 
 http_async_client:
   name: http.async.client
