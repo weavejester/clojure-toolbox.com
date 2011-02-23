@@ -64,10 +64,10 @@ header {
       width: 120%;
       margin-left: -10%;
       padding-top: 15px;
-      background-color: #60c050;
-      @include linear-gradient(color-stops(#66cc55, #55b044));
+      background-color: #60b050;
+      @include linear-gradient(color-stops(#66bb55, #55a044));
       @include border-radius(0 0 50% 50%, 0 0 50px 50px);
-      border-bottom: 1px solid #44aa33;
+      border-bottom: 1px solid #449933;
    }
 
    .toolbox {
@@ -85,7 +85,7 @@ header {
       width: 500px;
       margin: auto;
       padding-left: 170px;
-      @include text-shadow(#44aa33, 1px, -1px, 0);
+      @include text-shadow(#338822, 1px, -1px, 0);
    }
 
    h1 {
@@ -96,6 +96,7 @@ header {
 
    .description {
       font-family: sans-serif;
+      font-weight: lighter;
       font-size: 16px;
    }
 
