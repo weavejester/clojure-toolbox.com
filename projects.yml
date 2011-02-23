@@ -297,3 +297,8 @@ docjure:
   name: Docjure
   url: https://github.com/ative/docjure
   category: MS Office Documents
+
+overtone:
+  name: Overtone
+  url: https://github.com/overtone/overtone
+  category: Music &amp; Sound Synthesis
