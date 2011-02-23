@@ -67,7 +67,7 @@ header {
       background-color: #60c050;
       @include linear-gradient(color-stops(#66cc55, #55b044));
       @include border-radius(0 0 50% 50%, 0 0 50px 50px);
-      border-bottom: #44aa33;
+      border-bottom: 1px solid #44aa33;
    }
 
    .toolbox {
@@ -105,7 +105,11 @@ header {
    }
 }
 
-.js #project-list {
+html.no-js {
+   #project-list, footer { visibility: visible; }
+}
+
+#project-list, footer {
    visibility: hidden;
 }
 
@@ -142,10 +146,10 @@ footer {
    bottom: 0;
    left: 0;
    width: 100%;
-   height: 40px;
-   background: #303070;
-   @include linear-gradient(color-stops(#333377, #222266));
-   border-top: 3px solid #555599;
+   height: 35px;
+   background: #303060;
+   @include linear-gradient(color-stops(#333366, #222255));
+   border-top: 2px solid #555599;
    color: white;
    margin-bottom: 0px;
    font-size: 12px;
