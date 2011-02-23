@@ -147,9 +147,9 @@ footer {
    left: 0;
    width: 100%;
    height: 35px;
-   background: #303060;
-   @include linear-gradient(color-stops(#333366, #222255));
-   border-top: 2px solid #555599;
+   background: #191990;
+   @include linear-gradient(color-stops(#335588, #224477));
+   border-top: 1px solid #224477;
    color: white;
    margin-top: 20px;
    font-size: 12px;
@@ -161,6 +161,7 @@ footer {
       span { margin-right: 20px; }
    }
 
-   a { color: white; }
-   a:visited { color: white; }
+   a, a:visited, a:hover, a:active {
+      color: white;
+   }
 }
