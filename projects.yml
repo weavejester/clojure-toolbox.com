@@ -166,7 +166,7 @@ postal:
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
-  category: War Files, Ring Development
+  category: WAR File Generation, Ring Development
 
 lein_beanstalk:
   name: lein-beanstalk
@@ -176,7 +176,7 @@ lein_beanstalk:
 leiningen_war:
   name: Leinginen War Plugin
   url: https://github.com/alienscience/leiningen-war
-  category: War Files
+  category: WAR File Generation
 
 aleph:
   name: Aleph
@@ -306,7 +306,7 @@ overtone:
 lein_js:
   name: lein-js
   url: https://github.com/maravillas/lein-js
-  category: Javascript Tools
+  category: Javascript Minimization
 
 swank_clojure:
   name: swank-clojure
