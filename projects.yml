@@ -251,7 +251,7 @@ irclj:
 sdb:
   name: sdb
   url: https://github.com/richhickey/sdb
-  category: SimpleDB Client
+  category: Amazon SimpleDB Clients
 
 penumbra:
   name: Penumbra
@@ -327,3 +327,33 @@ lein_diagnostics:
   name: lein-diagnostics
   url: https://github.com/robwolfe/lein-diagnostics
   category: Dependency Management
+
+bandalore:
+  name: Bandalore
+  url: https://github.com/cemerick/bandalore
+  category: Amazon SQS Clients
+
+scriptjure:
+  name: Scriptjure
+  url: https://github.com/arohner/scriptjure
+  category: Javascript Generation
+
+clojurejs:
+  name: clojurejs
+  url: https://github.com/kriyative/clojurejs
+  category: Javascript Generation
+
+cssgen:
+  name: cssgen
+  url: https://github.com/paraseba/cssgen
+  category: CSS Generation
+
+gaka:
+  name: Gaka
+  url: https://github.com/briancarper/gaka
+  category: CSS Generation
+
+slice:
+  name: slice
+  url: https://github.com/scottjad/slice
+  category: Template Languages
