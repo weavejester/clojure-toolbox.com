@@ -316,7 +316,12 @@ swank_clojure:
 lein_search:
   name: lein-search
   url: http://github.com/Licenser/lein-search
-  category: Dependency Management
+  category: Clojars, Dependency Management
+
+lein_clojars:
+  name: lein-clojars
+  url: https://github.com/ato/lein-clojars
+  category: Clojars
 
 namespace_depends:
   name: namespace-depends
@@ -357,3 +362,23 @@ slice:
   name: slice
   url: https://github.com/scottjad/slice
   category: Template Languages
+
+vimclojure:
+  name: VimClojure
+  url: https://bitbucket.org/kotarak/vimclojure
+  category: Vim Integration
+
+session_expiry:
+  name: session-expiry
+  url: https://github.com/hozumi/session-expiry
+  category: Ring Sessions
+
+ring_session_riak:
+  name: ring-session-riak
+  url: https://github.com/ossareh/ring-session-riak
+  category: Ring Sessions
+
+clout:
+  name: Clout
+  url: http://github.com/weavejester/clout
+  category: Ring Routing
