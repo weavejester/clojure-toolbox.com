@@ -302,3 +302,28 @@ overtone:
   name: Overtone
   url: https://github.com/overtone/overtone
   category: Music &amp; Sound Synthesis
+
+lein_js:
+  name: lein-js
+  url: https://github.com/somnium/lein-js
+  category: Javascript Tools
+
+swank_clojure:
+  name: swank-clojure
+  url: https://github.com/technomancy/swank-clojure
+  category: Emacs Integration
+
+lein_search:
+  name: lein-search
+  url: http://github.com/Licenser/lein-search
+  category: Dependency Management
+
+namespace_depends:
+  name: namespace-depends
+  url: https://github.com/hugoduncan/namespace-depends
+  category: Dependency Management
+
+lein_diagnostics:
+  name: lein-diagnostics
+  url: https://github.com/robwolfe/lein-diagnostics
+  category: Dependency Management
