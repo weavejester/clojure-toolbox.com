@@ -382,3 +382,18 @@ clout:
   name: Clout
   url: http://github.com/weavejester/clout
   category: Ring Routing
+
+enclojure:
+  name: Enclojure
+  url: http://www.enclojure.org/
+  category: IDE Integration
+
+counterclockwise:
+  name: Counterclockwise
+  url: http://code.google.com/p/counterclockwise/
+  category: IDE Integration
+
+la_clojure:
+  name: La Clojure
+  url: http://plugins.intellij.net/plugin/?id=4050
+  category: IDE Integration
