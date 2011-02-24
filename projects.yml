@@ -171,7 +171,7 @@ lein_ring:
 lein_beanstalk:
   name: lein-beanstalk
   url: https://github.com/weavejester/lein-beanstalk
-  category: Deployment
+  category: Deployment Automation
 
 leiningen_war:
   name: Leinginen War Plugin
@@ -271,7 +271,7 @@ ring_reload_modified:
 pallet:
   name: Pallet
   url: http://hugoduncan.github.com/pallet/
-  category: Deployment
+  category: Deployment Automation
 
 cascalog:
   name: Cascalog
@@ -291,7 +291,7 @@ conduit:
 crane:
   name: crane
   url: https://github.com/getwoven/crane
-  category: Deployment
+  category: Deployment Automation
 
 docjure:
   name: Docjure
