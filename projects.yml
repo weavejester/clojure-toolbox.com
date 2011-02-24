@@ -270,7 +270,7 @@ ring_reload_modified:
 
 pallet:
   name: Pallet
-  url: http://hugoduncan.github.com/pallet/
+  url: http://pallet.github.com/pallet/
   category: Deployment Automation
 
 cascalog:
