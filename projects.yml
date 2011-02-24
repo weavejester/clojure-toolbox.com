@@ -305,7 +305,7 @@ overtone:
 
 lein_js:
   name: lein-js
-  url: https://github.com/somnium/lein-js
+  url: https://github.com/maravillas/lein-js
   category: Javascript Tools
 
 swank_clojure:
