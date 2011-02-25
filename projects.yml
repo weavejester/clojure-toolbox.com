@@ -251,7 +251,7 @@ irclj:
 sdb:
   name: sdb
   url: https://github.com/richhickey/sdb
-  category: Amazon SimpleDB Clients
+  category: SimpleDB Clients
 
 penumbra:
   name: Penumbra
@@ -333,11 +333,6 @@ lein_diagnostics:
   url: https://github.com/robwolfe/lein-diagnostics
   category: Dependency Management
 
-bandalore:
-  name: Bandalore
-  url: https://github.com/cemerick/bandalore
-  category: Amazon SQS Clients
-
 scriptjure:
   name: Scriptjure
   url: https://github.com/arohner/scriptjure
@@ -397,3 +392,13 @@ la_clojure:
   name: La Clojure
   url: http://plugins.intellij.net/plugin/?id=4050
   category: IDE Integration
+
+wabbitmq:
+  name: WabbitMQ
+  url: https://github.com/mefesto/wabbitmq
+  category: Message Queues
+
+bandalore:
+  name: Bandalore
+  url: https://github.com/cemerick/bandalore
+  category: Message Queues
