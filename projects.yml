@@ -402,3 +402,8 @@ bandalore:
   name: Bandalore
   url: https://github.com/cemerick/bandalore
   category: Message Queues
+
+clojush:
+  name: Clojush
+  url: https://github.com/lspector/Clojush
+  category: Genetic Programming
