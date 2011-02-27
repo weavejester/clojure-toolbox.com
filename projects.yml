@@ -407,3 +407,33 @@ clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
   category: Genetic Programming
+
+infer:
+  name: Infer
+  url: https://github.com/getwoven/infer
+  category: Machine Learning
+
+clj_json:
+  name: clj-json
+  url: https://github.com/mmcgrana/clj-json
+  category: JSON Parsing
+
+clojuresque:
+  name: clojuresque
+  url: https://bitbucket.org/kotarak/clojuresque/src
+  category: Build Tools
+
+clj_time:
+  name: clj-time
+  url: https://github.com/getwoven/clj-time
+  category: Date and Time
+
+clothesline:
+  name: Clothesline
+  url: https://github.com/BankSimple/Clothesline
+  category: Web Frameworks
+
+work:
+  name: work
+  url: https://github.com/getwoven/work
+  category: Distributed Programming
