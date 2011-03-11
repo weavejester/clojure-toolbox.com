@@ -437,3 +437,43 @@ work:
   name: work
   url: https://github.com/getwoven/work
   category: Distributed Programming
+
+mad:
+  name: M.A.D (Music as Data)
+  url: http://mad.emotionull.com
+  category: Music &amp; Sound Synthesis
+
+jark:
+  name: Jark
+  url: http://icylisper.in/clojure/jark.html
+  category: JVM Daemons
+
+borneo:
+  name: borneo
+  url: https://github.com/wagjo/borneo
+  category: Neo4j Clients
+
+rummage:
+  name: Rummage
+  url: https://github.com/cemerick/rummage
+  category: SimpleDB Clients
+
+mycroft:
+  name: Mycroft
+  url: https://github.com/relevance/mycroft
+  category: Debugging
+
+cdt:
+  name: CDT
+  url: http://georgejahad.com/clojure/cdt.html
+  category: Debugging
+
+debug_repl:
+  name: debug-repl
+  url: https://github.com/georgejahad/debug-repl
+  category: Debugging
+
+lein_cdt:
+  name: lein-cdt
+  url: https://github.com/travis/lein-cdt
+  category: Debugging
