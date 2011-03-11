@@ -497,3 +497,13 @@ clj_digest:
   name: digest
   url: https://bitbucket.org/tebeka/clj-digest/src
   category: Cryptography
+
+analemma:
+  name: Analemma
+  url: https://github.com/liebke/analemma
+  category: SVG Generation
+
+clj_tagsoup:
+  name: clj-tagsoup
+  url: https://github.com/nathell/clj-tagsoup
+  category: HTML Parsing
