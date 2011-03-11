@@ -231,7 +231,7 @@ autodoc:
 clj-yaml:
   name: clj-yaml
   url: https://github.com/lancepantz/clj-yaml
-  category: YAML Parsing
+  category: YAML Parsers
 
 lamina:
   name: Lamina
@@ -416,7 +416,7 @@ infer:
 clj_json:
   name: clj-json
   url: https://github.com/mmcgrana/clj-json
-  category: JSON Parsing
+  category: JSON Parsers
 
 clojuresque:
   name: clojuresque
@@ -506,4 +506,4 @@ analemma:
 clj_tagsoup:
   name: clj-tagsoup
   url: https://github.com/nathell/clj-tagsoup
-  category: HTML Parsing
+  category: HTML Parsers
