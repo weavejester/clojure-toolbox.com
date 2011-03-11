@@ -10,7 +10,7 @@ cake:
 
 ring_json_params:
   name: ring-json-params
-  url: https://github.com/mmcgrana/ring-json-param
+  url: https://github.com/mmcgrana/ring-json-params
   category: Request Middleware
 
 ring_basic_authentication:
