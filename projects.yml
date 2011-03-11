@@ -477,3 +477,23 @@ lein_cdt:
   name: lein-cdt
   url: https://github.com/travis/lein-cdt
   category: Debugging
+
+dr_evil:
+  name: Dr. Evil
+  url: https://bitbucket.org/tebeka/dr-evil/src
+  category: Debugging
+
+fleetdb:
+  name: FleetDB
+  url: http://fleetdb.org
+  category: Databases
+
+jiraph:
+  name: Jiraph
+  url: https://github.com/ninjudd/jiraph
+  category: Databases
+
+clj_digest:
+  name: digest
+  url: https://bitbucket.org/tebeka/clj-digest/src
+  category: Cryptography
