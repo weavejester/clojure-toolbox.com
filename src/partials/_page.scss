@@ -46,19 +46,6 @@ header {
    color: white;
    margin-bottom: 60px;
 
-   #beta {
-      position: absolute;
-      top: 0;
-      right: 30px;
-      background: #bb0000;
-      color: white;
-      font-size: 20px;
-      padding: 4px 8px 4px 8px;
-      @include border-bottom-radius(3px);
-      @include text-shadow(#990000, 1px, -1px, 0);
-      border: 1px solid #990000;
-   }
-
    .inner {
       height: 110px;
       width: 120%;
