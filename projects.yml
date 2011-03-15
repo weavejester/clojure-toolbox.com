@@ -15,7 +15,7 @@ ring_json_params:
 
 ring_basic_authentication:
   name: ring-basic-authentication
-  url: https://github.com/remvee/ring-basic-authenticatio
+  url: https://github.com/remvee/ring-basic-authentication
   category: Authentication
 
 ring_gzip_middleware:
