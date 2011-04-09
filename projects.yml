@@ -507,3 +507,13 @@ clj_tagsoup:
   name: clj-tagsoup
   url: https://github.com/nathell/clj-tagsoup
   category: HTML Parsers
+
+lein_retest:
+  name: lein-retest
+  url: https://github.com/technomancy/lein-retest
+  category: Continuous Testing
+
+lein_autotest:
+  name: lein-autotest
+  url: https://github.com/dakrone/lein-autotest
+  category: Continuous Testing
