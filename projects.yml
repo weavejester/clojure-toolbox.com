@@ -532,3 +532,8 @@ tikkba:
   name: Tikkba
   url: https://github.com/pallix/tikkba
   category: SVG Generation
+
+beanstalk:
+  name: beanstalk
+  url: https://github.com/drsnyder/beanstalk
+  category: Message Queues
