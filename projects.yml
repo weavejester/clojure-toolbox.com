@@ -522,3 +522,13 @@ lobos:
   name: Lobos
   url: http://budu.github.com/lobos
   category: Database Migrations
+
+ring_anti_forgery:
+  name: ring-anti-forgery
+  url: https://github.com/weavejester/ring-anti-forgery
+  category: Ring Security
+
+tikkba:
+  name: Tikkba
+  url: https://github.com/pallix/tikkba
+  category: SVG Generation
