@@ -6,7 +6,7 @@ leiningen:
 cake:
   name: Cake
   url: https://github.com/ninjudd/cake
-  category: Build Tools
+  category: Build Tools, Persistent JVM
 
 ring_json_params:
   name: ring-json-params
@@ -446,7 +446,7 @@ mad:
 jark:
   name: Jark
   url: http://icylisper.in/clojure/jark.html
-  category: JVM Daemons
+  category: Persistent JVM
 
 borneo:
   name: borneo
