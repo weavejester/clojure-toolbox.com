@@ -213,6 +213,11 @@ redis_clojure:
   url: https://github.com/ragnard/redis-clojure
   category: Redis Clients
 
+clj_redis:
+  name: clj-redis
+  url: https://github.com/mmcgrana/clj-redis
+  category: Redis Clients
+
 sandbar:
   name: Sandbar
   url: https://github.com/brentonashworth/sandbar
@@ -537,3 +542,8 @@ beanstalk:
   name: beanstalk
   url: https://github.com/drsnyder/beanstalk
   category: Message Queues
+
+slamhound:
+  name: Slamhound
+  url: https://github.com/technomancy/slamhound
+  category: Code Generation
