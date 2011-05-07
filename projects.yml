@@ -547,3 +547,13 @@ slamhound:
   name: Slamhound
   url: https://github.com/technomancy/slamhound
   category: Code Generation
+
+cheshire:
+  name: Cheshire
+  url: https://github.com/dakrone/cheshire
+  category: JSON Parsers
+
+clojure_json:
+  name: clojure-json
+  url: https://github.com/danlarkin/clojure-json
+  category: JSON Parsers
