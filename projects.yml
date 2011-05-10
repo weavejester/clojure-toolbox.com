@@ -158,6 +158,11 @@ clj_record:
   url: https://github.com/duelinmarkers/clj-record
   category: SQL Abstraction
 
+carte:
+  name: Carte
+  url: https://github.com/brentonashworth/carte
+  category: SQL Abstraction
+
 postal:
   name: Postal
   url: https://github.com/drewr/postal
@@ -513,6 +518,11 @@ clj_tagsoup:
   url: https://github.com/nathell/clj-tagsoup
   category: HTML Parsers
 
+webmine:
+  name: Webmine
+  url: https://github.com/getwoven/webmine
+  category: HTML Parsers
+
 lein_retest:
   name: lein-retest
   url: https://github.com/technomancy/lein-retest
@@ -526,7 +536,7 @@ lein_autotest:
 lobos:
   name: Lobos
   url: http://budu.github.com/lobos
-  category: Database Migrations
+  category: Database Migrations, SQL Abstraction
 
 ring_anti_forgery:
   name: ring-anti-forgery
