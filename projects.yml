@@ -592,3 +592,13 @@ clucy:
   name: Clucy
   url: https://github.com/weavejester/clucy
   category: Text Search
+
+tools.macro:
+  name: tools.macro
+  url: https://github.com/clojure/tools.macro
+  category: Macros
+
+thread_expr:
+  name: thread-expr
+  url: https://github.com/pallet/thread-expr
+  category: Macros
