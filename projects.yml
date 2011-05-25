@@ -258,6 +258,11 @@ irclj:
   url: https://github.com/Raynes/irclj
   category: IRC Bots
 
+subrosa:
+  name: Subrosa
+  url: https://github.com/danlarkin/subrosa
+  category: IRC Servers
+
 sdb:
   name: sdb
   url: https://github.com/richhickey/sdb
@@ -508,6 +513,11 @@ clj_digest:
   url: https://bitbucket.org/tebeka/clj-digest/src
   category: Cryptography
 
+crypto_random:
+  name: crypto-random
+  url: https://github.com/weavejester/crypto-random
+  category: Cryptography
+
 analemma:
   name: Analemma
   url: https://github.com/liebke/analemma
@@ -577,3 +587,8 @@ re_rand:
   name: re-rand
   url: https://github.com/weavejester/re-rand
   category: Random Data Generation
+
+clucy:
+  name: Clucy
+  url: https://github.com/weavejester/clucy
+  category: Text Search
