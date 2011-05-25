@@ -168,6 +168,11 @@ postal:
   url: https://github.com/drewr/postal
   category: Email Sending
 
+clj_mail:
+  name: clj-mail
+  url: https://github.com/MayDaniel/clj-mail
+  category: Email Sending
+
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
@@ -563,6 +568,11 @@ beanstalk:
   url: https://github.com/drsnyder/beanstalk
   category: Message Queues
 
+spine:
+  name: Spine
+  url: https://github.com/mmcgrana/spine
+  category: Message Queues
+
 slamhound:
   name: Slamhound
   url: https://github.com/technomancy/slamhound
@@ -602,3 +612,23 @@ thread_expr:
   name: thread-expr
   url: https://github.com/pallet/thread-expr
   category: Macros
+
+syntax_rules:
+  name: syntax-rules
+  url: https://github.com/qbg/syntax-rules
+  category: Macros
+
+tools.logging:
+  name: tools.logging
+  url: https://github.com/clojure/tools.logging
+  category: Logging
+
+calx:
+  name: Calx
+  url: https://github.com/ztellman/calx
+  category: OpenCL
+
+clansi:
+  name: Clansi
+  url: https://github.com/ams-clj/clansi
+  category: Terminal Utilities
