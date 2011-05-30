@@ -208,6 +208,11 @@ appengine_magic:
   url: https://github.com/gcv/appengine-magic
   category: Google App Engine
 
+gaeshi:
+  name: gaeshi
+  url: https://github.com/slagyr/gaeshi
+  category: Google App Engine
+
 http_async_client:
   name: http.async.client
   url: https://github.com/neotyk/http.async.client
