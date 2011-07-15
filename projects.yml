@@ -642,3 +642,8 @@ seesaw:
   name: Seesaw
   url: https://github.com/daveray/seesaw
   category: GUIs
+
+clojure_opennlp:
+  name: Clojure-OpenNLP
+  url: https://github.com/dakrone/clojure-opennlp
+  category: Natural Language
