@@ -637,3 +637,8 @@ clansi:
   name: Clansi
   url: https://github.com/ams-clj/clansi
   category: Terminal Utilities
+
+seesaw:
+  name: Seesaw
+  url: https://github.com/daveray/seesaw
+  category: GUIs
