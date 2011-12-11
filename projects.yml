@@ -647,3 +647,8 @@ clojure_opennlp:
   name: Clojure-OpenNLP
   url: https://github.com/dakrone/clojure-opennlp
   category: Natural Language
+
+noir:
+  name: Noir
+  url: http://webnoir.org/
+  category: Web Frameworks
