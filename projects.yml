@@ -682,3 +682,18 @@ lazybot:
   name: lazybot
   url: http://lazybot.org/
   category: IRC Bots
+
+gloss:
+  name: Gloss
+  url: https://github.com/ztellman/gloss
+  category: Parsing, Network Protocols
+
+core_logic:
+  name: core.logic
+  url: https://github.com/clojure/core.logic
+  category: Logic Programming
+
+ns_tracker:
+  name: ns-tracker
+  url: https://github.com/weavejester/ns-tracker
+  category: Filesystem Watcher
