@@ -667,3 +667,18 @@ korma:
   name: Korma
   url: http://sqlkorma.com/
   category: SQL Abstraction
+
+slingshot:
+  name: Slingshot
+  url: https://github.com/scgilardi/slingshot
+  category: Exception Handling
+
+clojurebot:
+  name: clojurebot
+  url: https://github.com/hiredman/clojurebot
+  category: IRC Bots
+
+lazybot:
+  name: lazybot
+  url: http://lazybot.org/
+  category: IRC Bots
