@@ -697,3 +697,18 @@ ns_tracker:
   name: ns-tracker
   url: https://github.com/weavejester/ns-tracker
   category: Filesystem Watcher
+
+migratus:
+  name: Migratus
+  url: https://github.com/pjstadig/migratus
+  category: Database Migrations
+
+drift:
+  name: Drift
+  url: https://github.com/macourtney/drift
+  category: Database Migrations
+
+ragtime:
+  name: Ragtime
+  url: https://github.com/weavejester/ragtime
+  category: Database Migrations
