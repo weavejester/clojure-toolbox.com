@@ -652,3 +652,18 @@ noir:
   name: Noir
   url: http://webnoir.org/
   category: Web Frameworks
+
+clarity:
+  name: Clarity
+  url: https://github.com/stathissideris/clarity
+  category: GUIs
+
+snowball_stemmer:
+  name: Snowball Stemmer
+  url: https://github.com/weavejester/snowball-stemmer
+  category: Full text search
+
+korma:
+  name: Korma
+  url: http://sqlkorma.com/
+  category: SQL Abstraction
