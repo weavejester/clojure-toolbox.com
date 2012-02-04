@@ -727,3 +727,33 @@ avout:
   name: Avout
   url: http://avout.io/
   category: Distributed Programming
+
+algo_generic:
+  name: algo.generic
+  url: https://github.com/clojure/algo.generic
+  category: Functional Programming
+
+algo_monads:
+  name: algo.monads
+  url: https://github.com/clojure/algo.monads
+  category: Functional Programming
+
+core_match:
+  name: core.match
+  url: https://github.com/clojure/core.match
+  category: Functional Programming
+
+core_incubator:
+  name: core.incubator
+  url: https://github.com/clojure/core.incubator
+  category: Functional Programming
+
+core_cache:
+  name: core.cache
+  url: https://github.com/clojure/core.cache
+  category: Caching
+
+core_memoize:
+  name: core.memoize
+  url: https://github.com/clojure/core.memoize
+  category: Caching
