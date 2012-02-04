@@ -712,3 +712,18 @@ ragtime:
   name: Ragtime
   url: https://github.com/weavejester/ragtime
   category: Database Migrations
+
+clj_aws_s3:
+  name: clj-aws-s3
+  url: https://github.com/weavejester/clj-aws-s3
+  category: S3 Clients
+
+codox:
+  name: Codox
+  url: https://github.com/weavejester/codox
+  category: Documentation Tools
+
+avout:
+  name: Avout
+  url: http://avout.io/
+  category: Distributed Programming
