@@ -450,7 +450,7 @@ clojuresque:
 
 clj_time:
   name: clj-time
-  url: https://github.com/getwoven/clj-time
+  url: https://github.com/seancorfield/clj-time
   category: Date and Time
 
 clothesline:
