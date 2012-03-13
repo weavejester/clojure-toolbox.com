@@ -757,3 +757,13 @@ core_memoize:
   name: core.memoize
   url: https://github.com/clojure/core.memoize
   category: Caching
+
+watchtower:
+  name: Watchtower
+  url: https://github.com/ibdknox/watchtower
+  category: Filesystem Watcher
+
+kibit:
+  name: Kibit
+  url: https://github.com/jonase/kibit
+  category: Code Analysis
