@@ -540,7 +540,7 @@ clj_tagsoup:
 
 webmine:
   name: Webmine
-  url: https://github.com/getwoven/webmine
+  url: https://github.com/tol/webmine
   category: HTML Parsers
 
 lein_retest:
