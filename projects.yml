@@ -43,9 +43,9 @@ ring_upload_progress:
   url: https://github.com/joodie/ring-upload-progress
   category: Request Middleware
 
-clj_hoptoad:
-  name: clj-hoptoad
-  url: https://github.com/leadtune/clj-hoptoad
+clj_airbrake
+  name: clj-airbrake
+  url: https://github.com/leadtune/clj-airbrake
   category: Exception Handling
 
 compojure:
