@@ -225,7 +225,7 @@ clj_stacktrace:
 
 redis_clojure:
   name: redis-clojure
-  url: https://github.com/ragnard/redis-clojure
+  url: https://github.com/tavisrudd/redis-clojure
   category: Redis Clients
 
 clj_redis:
