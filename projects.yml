@@ -125,12 +125,12 @@ incanter:
 
 clojail:
   name: Clojail
-  url: https://github.com/Raynes/clojail
+  url: https://github.com/flatland/clojail
   category: Sandboxes
 
 congo_mongo:
   name: CongoMongo
-  url: https://github.com/somnium/congomongo
+  url: https://github.com/aboekhoff/congomongo
   category: MongoDB Clients
 
 karras:
@@ -200,7 +200,7 @@ ring_serve:
 
 clutch:
   name: Clutch
-  url: https://github.com/ashafa/clutch
+  url: https://github.com/clojure-clutch/clutch
   category: CouchDB Clients
 
 appengine_magic:
@@ -225,7 +225,7 @@ clj_stacktrace:
 
 redis_clojure:
   name: redis-clojure
-  url: https://github.com/ragnard/redis-clojure
+  url: https://github.com/tavisrudd/redis-clojure
   category: Redis Clients
 
 clj_redis:
@@ -283,9 +283,9 @@ penumbra:
   url: https://github.com/ztellman/penumbra
   category: Graphics
 
-clj_processing:
-  name: clj-processing
-  url: https://github.com/rosado/clj-processing
+quil:
+  name: quil
+  url: https://github.com/quil/quil
   category: Graphics
 
 ring_reload_modified:
@@ -348,9 +348,9 @@ lein_clojars:
   url: https://github.com/ato/lein-clojars
   category: Clojars
 
-namespace_depends:
-  name: namespace-depends
-  url: https://github.com/hugoduncan/namespace-depends
+lein_namespace_depends:
+  name: lein-namespace-depends
+  url: https://github.com/hugoduncan/lein-namespace-depends
   category: Dependency Management
 
 lein_diagnostics:
@@ -435,7 +435,7 @@ clojush:
 
 infer:
   name: Infer
-  url: https://github.com/getwoven/infer
+  url: https://github.com/aria42/infer
   category: Machine Learning
 
 clj_json:
@@ -455,7 +455,7 @@ clj_time:
 
 clothesline:
   name: Clothesline
-  url: https://github.com/BankSimple/Clothesline
+  url: https://github.com/banjiewen/Clothesline
   category: Web Frameworks
 
 work:
@@ -470,7 +470,7 @@ mad:
 
 jark:
   name: Jark
-  url: http://icylisper.in/clojure/jark.html
+  url: http://icylisper.in/jark/
   category: Persistent JVM
 
 borneo:
