@@ -767,3 +767,8 @@ kibit:
   name: Kibit
   url: https://github.com/jonase/kibit
   category: Code Analysis
+
+clostache:
+  name: Clostache
+  url: https://github.com/fhd/clostache
+  category: Template Languages
