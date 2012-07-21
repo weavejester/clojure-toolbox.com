@@ -772,3 +772,8 @@ clostache:
   name: Clostache
   url: https://github.com/fhd/clostache
   category: Template Languages
+  
+parse-ez:
+  name: Parse-EZ
+  url: https://github.com/protoflex/parse-ez
+  category: Parsing
