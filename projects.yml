@@ -100,7 +100,7 @@ lazy_test:
 
 ring:
   name: Ring
-  url: https://github.com/mmcgrana/ring
+  url: https://github.com/ring-clojure/ring
   category: Web Server Abstraction
 
 clj_http:
