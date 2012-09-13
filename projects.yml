@@ -148,6 +148,11 @@ fleet:
   url: https://github.com/Flamefork/fleet
   category: Template Languages
 
+hyperion:
+  name: Hyperion
+  url: https://github.com/8thlight/hyperion
+  category: SQL Abstraction
+
 clojureql:
   name: ClojureQL
   url: https://github.com/LauJensen/clojureql
