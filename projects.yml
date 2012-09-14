@@ -98,6 +98,11 @@ lazy_test:
   url: https://github.com/stuartsierra/lazytest
   category: Unit Testing
 
+speclj:
+  name: Speclj
+  url: http://speclj.com
+  category: Unit Testing
+
 ring:
   name: Ring
   url: https://github.com/mmcgrana/ring
