@@ -65,7 +65,7 @@ fjord:
 
 joodo:
   name: Joodo
-  url: https://github.com/slagyr/joodo
+  url: http://joodoweb.com
   category: Web Frameworks
 
 ring-mock:
@@ -777,7 +777,7 @@ clostache:
   name: Clostache
   url: https://github.com/fhd/clostache
   category: Template Languages
-  
+
 parse-ez:
   name: Parse-EZ
   url: https://github.com/protoflex/parse-ez
