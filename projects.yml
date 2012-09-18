@@ -63,6 +63,11 @@ fjord:
   url: https://github.com/notifymd/fjord
   category: Web Frameworks
 
+joodo:
+  name: Joodo
+  url: http://joodoweb.com
+  category: Web Frameworks
+
 ring-mock:
   name: Ring-Mock
   url: https://github.com/weavejester/ring-mock
