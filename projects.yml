@@ -243,6 +243,11 @@ sandbar:
   url: https://github.com/brentonashworth/sandbar
   category: Authentication, Ring Sessions, Form Validation
 
+metis:
+  name: Metis
+  url: https://github.com/mylesmegyesi/metis
+  category: Form Validation
+
 marginalia:
   name: Marginalia
   url: https://github.com/fogus/marginalia
