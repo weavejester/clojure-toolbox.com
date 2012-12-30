@@ -3,14 +3,9 @@ leiningen:
   url: https://github.com/technomancy/leiningen
   category: Build Tools
 
-cake:
-  name: Cake
-  url: https://github.com/ninjudd/cake
-  category: Build Tools, Persistent JVM
-
-ring_json_params:
-  name: ring-json-params
-  url: https://github.com/mmcgrana/ring-json-params
+ring_json:
+  name: ring-json
+  url: https://github.com/ring/ring-json
   category: Request Middleware
 
 ring_basic_authentication:
@@ -58,11 +53,6 @@ moustache:
   url: https://github.com/cgrand/moustache
   category: Web Frameworks
 
-fjord:
-  name: Fjord
-  url: https://github.com/notifymd/fjord
-  category: Web Frameworks
-
 joodo:
   name: Joodo
   url: http://joodoweb.com
@@ -71,7 +61,17 @@ joodo:
 ring-mock:
   name: Ring-Mock
   url: https://github.com/weavejester/ring-mock
-  category: Mocking Web Requests
+  category: Web Testing
+
+kerodon:
+  name: Kerodon
+  url: https://github.com/xeqi/kerodon
+  category: Web Testing
+
+peridot:
+  name: Peridot
+  url: https://github.com/xeqi/peridot
+  category: Web Testing
 
 ring_netty_adapter:
   name: ring-netty-adapter
@@ -148,11 +148,6 @@ karras:
   url: https://github.com/wilkes/karras
   category: MongoDB Clients
 
-hassium:
-  name: Hassium
-  url: https://github.com/weavejester/hassium
-  category: MongoDB Clients
-
 fleet:
   name: Fleet
   url: https://github.com/Flamefork/fleet
@@ -166,11 +161,6 @@ hyperion:
 clojureql:
   name: ClojureQL
   url: https://github.com/LauJensen/clojureql
-  category: SQL Abstraction
-
-clj_record:
-  name: clj-record
-  url: https://github.com/duelinmarkers/clj-record
   category: SQL Abstraction
 
 carte:
@@ -208,9 +198,9 @@ aleph:
   url: https://github.com/ztellman/aleph
   category: Asynchronous HTTP
 
-ring_serve:
+ring_server:
   name: Ring-Serve
-  url: https://github.com/weavejester/ring-serve
+  url: https://github.com/weavejester/ring-server
   category: Ring Development
 
 clutch:
@@ -268,7 +258,7 @@ autodoc:
   url: https://github.com/tomfaulhaber/autodoc
   category: Documentation Tools
 
-clj-yaml:
+clj_yaml:
   name: clj-yaml
   url: https://github.com/lancepantz/clj-yaml
   category: YAML Parsers
@@ -293,9 +283,9 @@ subrosa:
   url: https://github.com/danlarkin/subrosa
   category: IRC Servers
 
-sdb:
-  name: sdb
-  url: https://github.com/richhickey/sdb
+rummage:
+  name: Rummage
+  url: https://github.com/cemerick/rummage
   category: SimpleDB Clients
 
 penumbra:
@@ -423,11 +413,6 @@ clout:
   url: http://github.com/weavejester/clout
   category: Ring Routing
 
-enclojure:
-  name: Enclojure
-  url: http://www.enclojure.org/
-  category: IDE Integration
-
 counterclockwise:
   name: Counterclockwise
   url: http://code.google.com/p/counterclockwise/
@@ -483,25 +468,10 @@ work:
   url: https://github.com/getwoven/work
   category: Distributed Programming
 
-mad:
-  name: M.A.D (Music as Data)
-  url: http://mad.emotionull.com
-  category: Music &amp; Sound Synthesis
-
-jark:
-  name: Jark
-  url: http://icylisper.in/jark/
-  category: Persistent JVM
-
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
   category: Neo4j Clients
-
-rummage:
-  name: Rummage
-  url: https://github.com/cemerick/rummage
-  category: SimpleDB Clients
 
 mycroft:
   name: Mycroft
