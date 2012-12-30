@@ -348,6 +348,11 @@ swank_clojure:
   url: https://github.com/technomancy/swank-clojure
   category: Emacs Integration
 
+nrepl_el:
+  name: nrepl.el
+  url: https://github.com/kingtim/nrepl.el
+  category: Emacs Integration
+  
 lein_search:
   name: lein-search
   url: http://github.com/Licenser/lein-search
@@ -496,6 +501,11 @@ lein_cdt:
 dr_evil:
   name: Dr. Evil
   url: https://bitbucket.org/tebeka/dr-evil/src
+  category: Debugging
+
+ritz:
+  name: Ritz
+  url: https://github.com/pallet/ritz
   category: Debugging
 
 fleetdb:
@@ -772,3 +782,8 @@ qseq:
   name: qseq
   url: https://github.com/mccraigmccraig/qseq
   category: SQL Abstraction
+
+nrepl:
+  name: nREPL
+  url: https://github.com/clojure/tools.nrepl
+  category: REPLs
