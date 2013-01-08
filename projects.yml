@@ -882,3 +882,8 @@ protocol_monads:
   name: protocol-monads
   url: https://github.com/jduey/protocol-monads
   category: Functional Programming
+
+lein_pedantic:
+  name: lein-pedantic
+  url: https://github.com/xeqi/lein-pedantic
+  category: Dependency Management
