@@ -821,7 +821,7 @@ quartzite:
 spyglass:
   name: Spyglass
   url: https://github.com/clojurewerkz/spyglass
-  category: Memcached Clients
+  category: Memcached Clients, Caching
 
 cassaforte:
   name: Cassaforte
@@ -831,4 +831,4 @@ cassaforte:
 elastisch:
   name: Elastisch
   url: https://github.com/clojurewerkz/elastisch
-  category: ElasticSearch Clients
+  category: ElasticSearch Clients, Text Search
