@@ -867,3 +867,8 @@ ordered:
   name: ordered
   url: https://github.com/flatland/ordered
   category: Data Structures
+
+shake:
+  name: Shake
+  url: https://github.com/sunng87/shake
+  category: Terminal Utilities
