@@ -857,3 +857,13 @@ clj_rss:
   name: clj-rss
   url: https://github.com/yogthos/clj-rss
   category: RSS Generation
+
+ring_buffer:
+  name: ring-buffer
+  url: https://github.com/amalloy/ring-buffer
+  category: Data Structures
+
+ordered:
+  name: ordered
+  url: https://github.com/flatland/ordered
+  category: Data Structures
