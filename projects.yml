@@ -842,3 +842,13 @@ markdown_clj:
   name: markdown-clj
   url: https://github.com/yogthos/markdown-clj
   category: Markdown Parsers
+
+clj_pdf:
+  name: clj-pdf
+  url: https://github.com/yogthos/clj-pdf
+  category: PDF Generation
+
+clj_rss:
+  name: clj-rss
+  url: https://github.com/yogthos/clj-rss
+  category: RSS Generation
