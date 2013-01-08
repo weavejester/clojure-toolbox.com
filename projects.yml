@@ -13,6 +13,11 @@ ring_basic_authentication:
   url: https://github.com/remvee/ring-basic-authentication
   category: Authentication
 
+friend:
+  name: Friend
+  url: https://github.com/cemerick/friend
+  category: Authentication
+
 ring_gzip_middleware:
   name: ring-gzip-middleware
   url: https://github.com/mikejs/ring-gzip-middleware
@@ -431,7 +436,7 @@ la_clojure:
 wabbitmq:
   name: WabbitMQ
   url: https://github.com/mefesto/wabbitmq
-  category: Message Queues
+  category: Message Queues, RabbitMQ Clients
 
 bandalore:
   name: Bandalore
@@ -787,3 +792,43 @@ nrepl:
   name: nREPL
   url: https://github.com/clojure/tools.nrepl
   category: REPLs
+
+monger:
+  name: Monger
+  url: http://clojuremongodb.info/
+  category: MongoDB Clients
+
+langohr:
+  name: Langohr
+  url: https://github.com/michaelklishin/langohr
+  category: Message Queues, RabbitMQ Clients
+
+neocons:
+  name: Neocons
+  url: https://github.com/michaelklishin/neocons
+  category: Neo4j Clients
+
+welle:
+  name: Welle
+  url: http://clojureriak.info/
+  category: Riak Clients
+
+quartzite:
+  name: Quartzite
+  url: http://clojurequartz.info/
+  category: Scheduling
+
+spyglass:
+  name: Spyglass
+  url: https://github.com/clojurewerkz/spyglass
+  category: Memcached Clients
+
+cassaforte:
+  name: Cassaforte
+  url: https://github.com/clojurewerkz/cassaforte
+  category: Cassandra Clients
+
+elastisch:
+  name: Elastisch
+  url: https://github.com/clojurewerkz/elastisch
+  category: ElasticSearch Clients
