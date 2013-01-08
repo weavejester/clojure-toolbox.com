@@ -473,11 +473,6 @@ clothesline:
   url: https://github.com/banjiewen/Clothesline
   category: Web Frameworks
 
-work:
-  name: work
-  url: https://github.com/getwoven/work
-  category: Distributed Programming
-
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
