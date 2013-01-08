@@ -843,6 +843,11 @@ markdown_clj:
   url: https://github.com/yogthos/markdown-clj
   category: Markdown Parsers
 
+cegdown:
+  name: Cegdown
+  url: https://github.com/Raynes/cegdown
+  category: Markdown Parsers
+
 clj_pdf:
   name: clj-pdf
   url: https://github.com/yogthos/clj-pdf
