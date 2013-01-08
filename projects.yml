@@ -837,3 +837,8 @@ crypto_keystore:
   name: crypto-keystore
   url: https://github.com/weavejester/crypto-keystore
   category: Cryptography
+
+conch:
+  name: Conch
+  url: https://github.com/Raynes/conch
+  category: Terminal Utilities
