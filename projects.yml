@@ -588,11 +588,6 @@ cheshire:
   url: https://github.com/dakrone/cheshire
   category: JSON Parsers
 
-clojure_json:
-  name: clojure-json
-  url: https://github.com/danlarkin/clojure-json
-  category: JSON Parsers
-
 faker:
   name: Faker
   url: https://github.com/paraseba/faker
