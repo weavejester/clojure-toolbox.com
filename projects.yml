@@ -872,3 +872,8 @@ shake:
   name: Shake
   url: https://github.com/sunng87/shake
   category: Terminal Utilities
+
+protocol_monads:
+  name: protocol-monads
+  url: https://github.com/jduey/protocol-monads
+  category: Functional Programming
