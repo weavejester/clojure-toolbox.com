@@ -273,11 +273,6 @@ lamina:
   url: https://github.com/ztellman/lamina
   category: Event-driven Workflows
 
-sexpbot:
-  name: sexpbot
-  url: https://github.com/Raynes/sexpbot
-  category: IRC Bots
-
 irclj:
   name: irclj
   url: https://github.com/Raynes/irclj
