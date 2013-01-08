@@ -638,6 +638,11 @@ clojure_opennlp:
   url: https://github.com/dakrone/clojure-opennlp
   category: Natural Language
 
+inflections_clj:
+  name: inflections-clj
+  url: https://github.com/r0man/inflections-clj
+  category: Natural Language
+
 noir:
   name: Noir
   url: http://webnoir.org/
