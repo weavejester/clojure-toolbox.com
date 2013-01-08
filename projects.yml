@@ -827,3 +827,18 @@ elastisch:
   name: Elastisch
   url: https://github.com/clojurewerkz/elastisch
   category: ElasticSearch Clients, Text Search
+
+crouton:
+  name: Crouton
+  url: https://github.com/weavejester/crouton
+  category: HTML Parsers
+
+rotary:
+  name: Rotary
+  url: https://github.com/weavejester/rotary
+  category: DynamoDB Clients
+
+crypto_keystore:
+  name: crypto-keystore
+  url: https://github.com/weavejester/crypto-keystore
+  category: Cryptography
