@@ -882,3 +882,18 @@ lein_pedantic:
   name: lein-pedantic
   url: https://github.com/xeqi/lein-pedantic
   category: Dependency Management
+
+laser:
+  name: Laser
+  url: https://github.com/Raynes/laser
+  category: Template Languages
+
+stencil:
+  name: Stencil
+  url: https://github.com/davidsantiago/stencil
+  category: Template Languages
+
+tinsel:
+  name: Tinsel
+  url: https://github.com/davidsantiago/tinsel
+  category: Template Languages
