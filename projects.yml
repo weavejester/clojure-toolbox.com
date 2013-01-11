@@ -927,3 +927,13 @@ bishop:
   name: Bishop
   url: https://github.com/cmiles74/bishop
   category: RESTful Web Services
+
+mississippi:
+  name: Mississippi
+  url: https://github.com/mikejones/mississippi
+  category: Validation
+
+bouncer:
+  name: Bouncer
+  url: https://github.com/leonardoborges/bouncer
+  category: Validation
