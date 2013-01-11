@@ -902,3 +902,13 @@ clj_webdriver:
   name: clj-webdriver
   url: https://github.com/semperos/clj-webdriver
   category: Web Testing
+
+evaljs:
+  name: evaljs
+  url: https://github.com/weavejester/evaljs
+  category: Javascript Integration
+
+clj_rhino:
+  name: clj-rhino
+  url: https://github.com/marianoguerra/clj-rhino
+  category: Javascript Integration
