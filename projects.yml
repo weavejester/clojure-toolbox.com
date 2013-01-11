@@ -204,7 +204,7 @@ aleph:
   category: Asynchronous HTTP
 
 ring_server:
-  name: Ring-Serve
+  name: Ring-Server
   url: https://github.com/weavejester/ring-server
   category: Ring Development
 
