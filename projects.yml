@@ -912,3 +912,13 @@ clj_rhino:
   name: clj-rhino
   url: https://github.com/marianoguerra/clj-rhino
   category: Javascript Integration
+
+liberator:
+  name: Liberator
+  url: http://clojure-liberator.github.com/
+  category: RESTful Web Services
+
+bishop:
+  name: Bishop
+  url: https://github.com/cmiles74/bishop
+  category: RESTful Web Services
