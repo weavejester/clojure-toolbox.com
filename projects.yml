@@ -897,3 +897,8 @@ tinsel:
   name: Tinsel
   url: https://github.com/davidsantiago/tinsel
   category: Template Languages
+
+clj_webdriver:
+  name: clj-webdriver
+  url: https://github.com/semperos/clj-webdriver
+  category: Web Testing
