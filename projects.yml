@@ -937,3 +937,8 @@ bouncer:
   name: Bouncer
   url: https://github.com/leonardoborges/bouncer
   category: Validation
+
+data_union_find:
+  name: data.union-find
+  url: https://github.com/jordanlewis/data.union-find
+  category: Data Structures
