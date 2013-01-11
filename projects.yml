@@ -246,13 +246,18 @@ clj_redis:
 sandbar:
   name: Sandbar
   url: https://github.com/brentonashworth/sandbar
-  category: Authentication, Ring Sessions, Form Validation
+  category: Authentication, Ring Sessions, Validation
 
 metis:
   name: Metis
   url: https://github.com/mylesmegyesi/metis
-  category: Form Validation
+  category: Validation
 
+validateur:
+  name: Validateur
+  url: https://github.com/michaelklishin/validateur
+  category: Validation
+  
 marginalia:
   name: Marginalia
   url: https://github.com/fogus/marginalia
