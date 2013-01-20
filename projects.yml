@@ -458,11 +458,6 @@ clj_time:
   url: https://github.com/seancorfield/clj-time
   category: Date and Time
 
-clothesline:
-  name: Clothesline
-  url: https://github.com/banjiewen/Clothesline
-  category: Web Frameworks
-
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
