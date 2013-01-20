@@ -942,3 +942,13 @@ data_union_find:
   name: data.union-find
   url: https://github.com/jordanlewis/data.union-find
   category: Data Structures
+
+comb:
+  name: Comb
+  url: https://github.com/weavejester/comb
+  category: Template Languages
+
+clabango:
+  name: Clabango
+  url: https://github.com/danlarkin/clabango
+  category: Template Languages
