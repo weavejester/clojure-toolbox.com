@@ -947,3 +947,8 @@ clabango:
   name: Clabango
   url: https://github.com/danlarkin/clabango
   category: Template Languages
+
+luminus:
+  name: Luminus
+  url: http://www.luminusweb.net/
+  category: Web Frameworks
