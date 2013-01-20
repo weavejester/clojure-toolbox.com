@@ -393,11 +393,6 @@ gaka:
   url: https://github.com/briancarper/gaka
   category: CSS Generation
 
-slice:
-  name: slice
-  url: https://github.com/scottjad/slice
-  category: Template Languages
-
 vimclojure:
   name: VimClojure
   url: https://bitbucket.org/kotarak/vimclojure
