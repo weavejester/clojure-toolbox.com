@@ -947,3 +947,8 @@ luminus:
   name: Luminus
   url: http://www.luminusweb.net/
   category: Web Frameworks
+
+pantomime:
+  name: Pantomime
+  url: https://github.com/michaelklishin/pantomime
+  category: MIME Types
