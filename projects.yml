@@ -962,3 +962,23 @@ data_csv:
   name: data.csv
   url: https://github.com/clojure/data.csv
   category: CSV Parsers
+
+basil:
+  name: Basil
+  url: https://github.com/kumarshantanu/basil
+  category: Template Languages
+
+hickory:
+  name: Hickory
+  url: https://github.com/davidsantiago/hickory
+  category: Parsing
+
+foreplay_vim:
+  name: foreplay.vim
+  url: https://github.com/tpope/vim-foreplay
+  category: Vim Integration
+
+necessary_evil:
+  name: necessary-evil
+  url: https://github.com/brehaut/necessary-evil
+  category: XML-RPC
