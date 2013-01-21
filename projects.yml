@@ -997,3 +997,13 @@ bultitude:
   name: Bultitude
   url: https://github.com/Raynes/bultitude
   category: Namespace Utilities
+
+ojo:
+  name: Ojo
+  url: https://github.com/drakerlabs/ojo
+  category: Filesystem Watchers
+
+filevents:
+  name: filevents
+  url: https://github.com/Raynes/filevents
+  category: Filesystem Watchers
