@@ -681,7 +681,7 @@ core_logic:
 ns_tracker:
   name: ns-tracker
   url: https://github.com/weavejester/ns-tracker
-  category: Filesystem Watcher, Namespace Utilities
+  category: Filesystem Watchers, Namespace Utilities
 
 migratus:
   name: Migratus
@@ -746,7 +746,7 @@ core_memoize:
 watchtower:
   name: Watchtower
   url: https://github.com/ibdknox/watchtower
-  category: Filesystem Watcher
+  category: Filesystem Watchers
 
 kibit:
   name: Kibit
