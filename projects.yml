@@ -1007,3 +1007,23 @@ filevents:
   name: filevents
   url: https://github.com/Raynes/filevents
   category: Filesystem Watchers
+
+innuendo:
+  name: Innuendo
+  url: https://github.com/Raynes/innuendo
+  category: Web API Clients
+
+ororo:
+  name: Ororo
+  url: https://github.com/Raynes/ororo
+  category: Web API Clients
+
+tentacles:
+  name: Tentacles
+  url: https://github.com/Raynes/tentacles
+  category: Web API Clients
+
+clavatar:
+  name: Clavatar
+  url: https://github.com/Raynes/clavatar
+  category: Web API Clients
