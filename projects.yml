@@ -681,7 +681,7 @@ core_logic:
 ns_tracker:
   name: ns-tracker
   url: https://github.com/weavejester/ns-tracker
-  category: Filesystem Watcher
+  category: Filesystem Watcher, Namespace Utilities
 
 migratus:
   name: Migratus
@@ -982,3 +982,18 @@ necessary_evil:
   name: necessary-evil
   url: https://github.com/brehaut/necessary-evil
   category: XML-RPC
+
+fs:
+  name: fs
+  url: https://github.com/Raynes/fs
+  category: Filesystem Utilities
+
+tools_namespace:
+  name: tools.namespace
+  url: https://github.com/clojure/tools.namespace
+  category: Namespace Utilities
+
+bultitude:
+  name: Bultitude
+  url: https://github.com/Raynes/bultitude
+  category: Namespace Utilities
