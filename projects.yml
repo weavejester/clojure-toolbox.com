@@ -952,3 +952,13 @@ pantomime:
   name: Pantomime
   url: https://github.com/michaelklishin/pantomime
   category: MIME Types
+
+data_json:
+  name: data.json
+  url: https://github.com/clojure/data.json
+  category: JSON Parsers
+
+data_csv:
+  name: data.csv
+  url: https://github.com/clojure/data.csv
+  category: CSV Parsers
