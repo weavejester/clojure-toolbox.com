@@ -1027,3 +1027,8 @@ clavatar:
   name: Clavatar
   url: https://github.com/Raynes/clavatar
   category: Web API Clients
+
+datomic:
+  name: Datomic
+  url: http://www.datomic.com/
+  category: Databases
