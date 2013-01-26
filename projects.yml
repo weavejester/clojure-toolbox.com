@@ -1032,3 +1032,13 @@ datomic:
   name: Datomic
   url: http://www.datomic.com/
   category: Databases
+
+tower:
+  name: Tower
+  url: https://github.com/ptaoussanis/tower
+  category: Internationalization
+
+j18n:
+  name: j18n
+  url: https://bitbucket.org/kotarak/j18n
+  category: Internationalization
