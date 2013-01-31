@@ -203,6 +203,11 @@ aleph:
   url: https://github.com/ztellman/aleph
   category: Asynchronous HTTP
 
+http_kit:
+  name: http-kit
+  url: http://http-kit.org/
+  category: Asynchronous HTTP
+
 ring_server:
   name: Ring-Server
   url: https://github.com/weavejester/ring-server
