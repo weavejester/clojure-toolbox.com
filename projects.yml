@@ -183,6 +183,11 @@ clj_mail:
   url: https://github.com/MayDaniel/clj-mail
   category: Email Sending
 
+mailer:
+  name: Mailer
+  url: https://github.com/clojurewerkz/mailer
+  category: Email Sending
+
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
