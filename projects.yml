@@ -1062,3 +1062,8 @@ ring_ratelimit:
   name: ring-ratelimit
   url: https://github.com/myfreeweb/ring-ratelimit
   category: Response Middleware
+
+clisk:
+  name: Clisk
+  url: https://github.com/mikera/clisk
+  category: Graphics
