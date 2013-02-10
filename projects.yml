@@ -1067,3 +1067,13 @@ clisk:
   name: Clisk
   url: https://github.com/mikera/clisk
   category: Graphics
+
+kern:
+  name: Kern
+  url: https://github.com/blancas/kern
+  category: Parsing
+
+morph:
+  name: Morph
+  url: https://github.com/blancas/morph
+  category: Functional Programming
