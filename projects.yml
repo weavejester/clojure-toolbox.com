@@ -5,7 +5,7 @@ leiningen:
 
 ring_json:
   name: ring-json
-  url: https://github.com/ring/ring-json
+  url: https://github.com/ring-clojure/ring-json
   category: Request Middleware, Response Middleware
 
 ring_basic_authentication:
