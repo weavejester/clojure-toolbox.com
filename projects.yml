@@ -1082,3 +1082,8 @@ babbage:
   name: Babbage
   url: https://github.com/ReadyForZero/babbage
   category: Functional Programming
+
+crypto_password:
+  name: crypto-password
+  url: https://github.com/weavejester/crypto-password
+  category: Cryptography
