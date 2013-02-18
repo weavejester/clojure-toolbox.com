@@ -981,7 +981,7 @@ basil:
 hickory:
   name: Hickory
   url: https://github.com/davidsantiago/hickory
-  category: Parsing
+  category: HTML Parsers
 
 foreplay_vim:
   name: foreplay.vim
