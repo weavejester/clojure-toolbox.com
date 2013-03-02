@@ -1087,3 +1087,8 @@ crypto_password:
   name: crypto-password
   url: https://github.com/weavejester/crypto-password
   category: Cryptography
+
+criterium:
+  name: Criterium
+  url: https://github.com/hugoduncan/criterium
+  category: Benchmarking
