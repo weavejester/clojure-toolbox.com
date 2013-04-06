@@ -983,9 +983,9 @@ hickory:
   url: https://github.com/davidsantiago/hickory
   category: HTML Parsers
 
-foreplay_vim:
-  name: foreplay.vim
-  url: https://github.com/tpope/vim-foreplay
+fireplace_vim:
+  name: fireplace.vim
+  url: https://github.com/tpope/vim-fireplace
   category: Vim Integration
 
 necessary_evil:
