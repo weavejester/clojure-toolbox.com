@@ -1092,3 +1092,13 @@ criterium:
   name: Criterium
   url: https://github.com/hugoduncan/criterium
   category: Benchmarking
+
+data_priority_map:
+  name: data.priority-map
+  url: https://github.com/clojure/data.priority-map
+  category: Data Structures
+
+data_finger_tree:
+  name: data.finger-tree
+  url: https://github.com/clojure/data.finger-tree
+  category: Data Structures
