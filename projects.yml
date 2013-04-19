@@ -1102,3 +1102,8 @@ data_finger_tree:
   name: data.finger-tree
   url: https://github.com/clojure/data.finger-tree
   category: Data Structures
+
+clonfig:
+  name: clonfig
+  url: https://github.com/mccraigmccraig/clonfig
+  category: Configuration
