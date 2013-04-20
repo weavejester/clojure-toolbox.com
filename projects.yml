@@ -1112,3 +1112,8 @@ environ:
   name: Environ
   url: https://github.com/weavejester/environ
   category: Configuration
+
+least:
+  name: Least
+  url: https://github.com/Raynes/least
+  category: Web API Clients
