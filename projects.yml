@@ -1117,3 +1117,8 @@ least:
   name: Least
   url: https://github.com/Raynes/least
   category: Web API Clients
+
+repetition-hunter:
+  name: repetition-hunter
+  url: https://github.com/mynomoto/repetition-hunter
+  category: Code Analysis
