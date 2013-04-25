@@ -1122,3 +1122,8 @@ repetition-hunter:
   name: repetition-hunter
   url: https://github.com/mynomoto/repetition-hunter
   category: Code Analysis
+
+garden:
+  name: Garden
+  url: https://github.com/noprompt/garden
+  category: CSS Generation
