@@ -1127,3 +1127,8 @@ garden:
   name: Garden
   url: https://github.com/noprompt/garden
   category: CSS Generation
+
+instaparse:
+  name: Instaparse
+  url: https://github.com/Engelberg/instaparse
+  category: Parsing
