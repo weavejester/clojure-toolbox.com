@@ -1132,3 +1132,8 @@ instaparse:
   name: Instaparse
   url: https://github.com/Engelberg/instaparse
   category: Parsing
+
+fungp:
+  name: fungp
+  url: https://github.com/probabilityZero/fungp
+  category: Machine Learning
