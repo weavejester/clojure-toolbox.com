@@ -1137,3 +1137,8 @@ fungp:
   name: fungp
   url: https://github.com/probabilityZero/fungp
   category: Machine Learning
+
+conf_er:
+  name: conf-er
+  url: https://github.com/TouchType/conf-er
+  category: Configuration
