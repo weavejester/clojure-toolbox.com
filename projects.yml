@@ -1142,3 +1142,8 @@ conf_er:
   name: conf-er
   url: https://github.com/TouchType/conf-er
   category: Configuration
+
+monads:
+  name: monads
+  url: https://github.com/bwo/monads
+  category: Functional Programming
