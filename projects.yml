@@ -1147,3 +1147,8 @@ monads:
   name: monads
   url: https://github.com/bwo/monads
   category: Functional Programming
+
+core_rrb_vector:
+  name: core.rrb-vector
+  url: https://github.com/clojure/core.rrb-vector
+  category: Data Structures
