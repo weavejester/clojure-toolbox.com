@@ -446,7 +446,7 @@ bandalore:
 clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
-  category: Genetic Programming
+  category: Machine Learning
 
 infer:
   name: Infer
