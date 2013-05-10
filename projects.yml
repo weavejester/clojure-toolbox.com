@@ -1152,3 +1152,23 @@ core_rrb_vector:
   name: core.rrb-vector
   url: https://github.com/clojure/core.rrb-vector
   category: Data Structures
+
+carbonite:
+  name: Carbonite
+  url: https://github.com/revelytix/carbonite
+  category: Serialization
+
+deep_freeze:
+  name: Deep Freeze
+  url: https://github.com/halgari/deep-freeze
+  category: Serialization
+
+nippy:
+  name: Nippy
+  url: https://github.com/ptaoussanis/nippy
+  category: Serialization
+
+tools_reader:
+  name: tools.reader
+  url: https://github.com/clojure/tools.reader
+  category: Serialization
