@@ -1155,7 +1155,7 @@ core_rrb_vector:
 
 carbonite:
   name: Carbonite
-  url: https://github.com/revelytix/carbonite
+  url: https://github.com/sritchie/carbonite
   category: Serialization
 
 deep_freeze:
