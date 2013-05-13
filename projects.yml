@@ -1182,3 +1182,8 @@ alia:
   name: Alia
   url: https://github.com/mpenet/alia
   category: Cassandra Clients
+
+clearley:
+  name: Clearley
+  url: https://github.com/eightnotrump/clearley
+  category: Parsing
