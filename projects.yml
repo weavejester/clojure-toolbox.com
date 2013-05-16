@@ -290,7 +290,7 @@ lamina:
 
 irclj:
   name: irclj
-  url: https://github.com/Raynes/irclj
+  url: https://github.com/flatland/irclj
   category: IRC Bots
 
 subrosa:
