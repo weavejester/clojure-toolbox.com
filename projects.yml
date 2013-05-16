@@ -1187,3 +1187,8 @@ clearley:
   name: Clearley
   url: https://github.com/eightnotrump/clearley
   category: Parsing
+
+tools_trace:
+  name: tools.trace
+  url: https://github.com/clojure/tools.trace
+  category: Debugging
