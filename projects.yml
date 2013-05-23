@@ -1192,3 +1192,8 @@ tools_trace:
   name: tools.trace
   url: https://github.com/clojure/tools.trace
   category: Debugging
+
+timbre:
+  name: Timbre
+  url: https://github.com/ptaoussanis/timbre
+  category: Logging
