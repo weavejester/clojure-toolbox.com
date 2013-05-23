@@ -731,7 +731,7 @@ algo_generic:
 algo_monads:
   name: algo.monads
   url: https://github.com/clojure/algo.monads
-  category: Functional Programming
+  category: Functional Programming, Monads
 
 core_match:
   name: core.match
@@ -881,7 +881,7 @@ shake:
 protocol_monads:
   name: protocol-monads
   url: https://github.com/jduey/protocol-monads
-  category: Functional Programming
+  category: Functional Programming, Monads
 
 lein_pedantic:
   name: lein-pedantic
@@ -1076,7 +1076,7 @@ kern:
 morph:
   name: Morph
   url: https://github.com/blancas/morph
-  category: Functional Programming
+  category: Functional Programming, Monads
 
 babbage:
   name: Babbage
@@ -1146,7 +1146,7 @@ conf_er:
 monads:
   name: monads
   url: https://github.com/bwo/monads
-  category: Functional Programming
+  category: Functional Programming, Monads
 
 core_rrb_vector:
   name: core.rrb-vector
