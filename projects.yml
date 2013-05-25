@@ -1197,3 +1197,8 @@ timbre:
   name: Timbre
   url: https://github.com/ptaoussanis/timbre
   category: Logging
+
+sigmund:
+  name: Sigmund
+  url: https://github.com/zcaudate/sigmund
+  category: Diagnostics
