@@ -1202,3 +1202,13 @@ sigmund:
   name: Sigmund
   url: https://github.com/zcaudate/sigmund
   category: Diagnostics
+
+clj_message_digest:
+  name: clj-message-digest
+  url: https://github.com/ray1729/clj-message-digest
+  category: Cryptography
+
+pandect:
+  name: Pandect
+  url: https://github.com/xsc/pandect
+  category: Cryptography
