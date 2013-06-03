@@ -1212,3 +1212,13 @@ pandect:
   name: Pandect
   url: https://github.com/xsc/pandect
   category: Cryptography
+
+faraday:
+  name: Faraday
+  url: https://github.com/ptaoussanis/faraday
+  category: DynamoDB Clients
+
+touchstone:
+  name: Touchstone
+  url: https://github.com/ptaoussanis/touchstone
+  category: A/B Testing
