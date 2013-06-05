@@ -1222,3 +1222,13 @@ touchstone:
   name: Touchstone
   url: https://github.com/ptaoussanis/touchstone
   category: A/B Testing
+
+chime:
+  name: Chime
+  url: https://github.com/james-henderson/chime
+  category: Scheduling
+
+nomad:
+  name: Nomad
+  url: https://github.com/james-henderson/nomad
+  category: Configuration
