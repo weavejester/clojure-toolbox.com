@@ -516,7 +516,7 @@ jiraph:
 clj_digest:
   name: digest
   url: https://bitbucket.org/tebeka/clj-digest/src
-  category: Cryptography
+  category: Cryptography, Hashing
 
 crypto_random:
   name: crypto-random
@@ -1206,12 +1206,12 @@ sigmund:
 clj_message_digest:
   name: clj-message-digest
   url: https://github.com/ray1729/clj-message-digest
-  category: Cryptography
+  category: Cryptography, Hashing
 
 pandect:
   name: Pandect
   url: https://github.com/xsc/pandect
-  category: Cryptography
+  category: Cryptography, Hashing
 
 faraday:
   name: Faraday
