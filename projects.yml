@@ -1242,3 +1242,8 @@ pedestal:
   name: Pedestal
   url: http://pedestal.io/
   category: Web Frameworks, Asynchronous HTTP
+
+honey_sql:
+  name: Honey SQL
+  url: https://github.com/jkk/honeysql
+  category: SQL Abstraction
