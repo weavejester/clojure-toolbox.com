@@ -1247,3 +1247,8 @@ honey_sql:
   name: Honey SQL
   url: https://github.com/jkk/honeysql
   category: SQL Abstraction
+
+carmine:
+  name: Carmine
+  url: https://github.com/ptaoussanis/carmine
+  category: Redis Clients
