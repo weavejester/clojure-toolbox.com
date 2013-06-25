@@ -1252,3 +1252,8 @@ carmine:
   name: Carmine
   url: https://github.com/ptaoussanis/carmine
   category: Redis Clients
+
+clojure-watch:
+  name: Clojure Watch
+  url: https://github.com/derekchiang/Clojure-Watch
+  category: Filesystem Watchers
