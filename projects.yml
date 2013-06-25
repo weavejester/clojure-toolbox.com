@@ -1257,3 +1257,8 @@ clojure-watch:
   name: Clojure Watch
   url: https://github.com/derekchiang/Clojure-Watch
   category: Filesystem Watchers
+
+megaref:
+  name: megaref
+  url: https://github.com/cgrand/megaref
+  category: Concurrency
