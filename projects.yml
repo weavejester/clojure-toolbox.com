@@ -1272,3 +1272,8 @@ fast_zip:
   name: fast-zip
   url: https://github.com/akhudek/fast-zip
   category: Data Structures
+
+clojure_csv:
+  name: Clojure-CSV
+  url: https://github.com/davidsantiago/clojure-csv
+  category: CSV Parsers
