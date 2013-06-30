@@ -1262,3 +1262,8 @@ megaref:
   name: megaref
   url: https://github.com/cgrand/megaref
   category: Concurrency
+
+fast_zip:
+  name: fast-zip
+  url: https://github.com/akhudek/fast-zip
+  category: Data Structures
