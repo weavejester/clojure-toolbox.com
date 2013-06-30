@@ -286,7 +286,12 @@ clj_yaml:
 lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
-  category: Event-driven Workflows
+  category: Asynchronous Programming
+
+core_async:
+  name: core.async
+  url: https://github.com/clojure/core.async
+  category: Asynchronous Programming
 
 irclj:
   name: irclj
