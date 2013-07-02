@@ -1282,3 +1282,8 @@ fluokitten:
   name: Fluokitten
   url: http://fluokitten.uncomplicate.org/
   category: Functional Programming, Monads
+
+byte_streams:
+  name: byte-streams
+  url: https://github.com/ztellman/byte-streams
+  category: Java Integration
