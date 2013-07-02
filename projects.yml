@@ -1277,3 +1277,8 @@ clojure_csv:
   name: Clojure-CSV
   url: https://github.com/davidsantiago/clojure-csv
   category: CSV Parsers
+
+fluokitten:
+  name: Fluokitten
+  url: http://fluokitten.uncomplicate.org/
+  category: Functional Programming, Monads
