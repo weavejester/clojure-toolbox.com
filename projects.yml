@@ -1287,3 +1287,8 @@ byte_streams:
   name: byte-streams
   url: https://github.com/ztellman/byte-streams
   category: Java Integration
+
+endophile:
+  name: Endophile
+  url: https://github.com/theJohnnyBrown/endophile
+  category: Markdown Parsers
