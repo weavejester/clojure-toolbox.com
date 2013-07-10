@@ -1292,3 +1292,8 @@ endophile:
   name: Endophile
   url: https://github.com/theJohnnyBrown/endophile
   category: Markdown Parsers
+
+hiphip:
+  name: HipHip
+  url: https://github.com/Prismatic/hiphip
+  category: Java Integration
