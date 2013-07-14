@@ -1296,4 +1296,9 @@ endophile:
 hiphip:
   name: HipHip
   url: https://github.com/Prismatic/hiphip
-  category: Java Integration
+  category: Java Integration, Performance
+
+proteus:
+  name: Proteus
+  url: https://github.com/ztellman/proteus
+  category: Performance
