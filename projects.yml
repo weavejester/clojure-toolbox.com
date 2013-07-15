@@ -1302,3 +1302,8 @@ proteus:
   name: Proteus
   url: https://github.com/ztellman/proteus
   category: Performance
+
+vertigo:
+  name: Vertigo
+  url: https://github.com/ztellman/vertigo
+  category: Performance
