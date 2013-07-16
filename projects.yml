@@ -1307,3 +1307,8 @@ vertigo:
   name: Vertigo
   url: https://github.com/ztellman/vertigo
   category: Performance
+
+chp:
+  name: ClojureHomePage
+  url: https://github.com/runexec/chp/
+  category: Web Frameworks
