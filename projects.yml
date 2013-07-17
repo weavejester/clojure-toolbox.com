@@ -136,7 +136,7 @@ conjure:
 incanter:
   name: Incanter
   url: http://incanter.org/
-  category: Statistical Computing
+  category: Statistical Computing, Math
 
 clojail:
   name: Clojail
@@ -1312,3 +1312,13 @@ chp:
   name: ClojureHomePage
   url: https://github.com/runexec/chp/
   category: Web Frameworks
+
+vectorz_clj:
+  name: vectorz-clj
+  url: https://github.com/mikera/vectorz-clj
+  category: Math
+
+math_numeric_tower:
+  name: math.numeric-tower
+  url: https://github.com/clojure/math.numeric-tower
+  category: Math
