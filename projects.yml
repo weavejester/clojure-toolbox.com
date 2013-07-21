@@ -1324,6 +1324,6 @@ math_numeric_tower:
   category: Math
 
 potemkin:
-  name: potemkin
+  name: Potemkin
   url: https://github.com/ztellman/potemkin
   category: Macros, Namespace Utilities
