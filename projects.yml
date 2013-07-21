@@ -1322,3 +1322,8 @@ math_numeric_tower:
   name: math.numeric-tower
   url: https://github.com/clojure/math.numeric-tower
   category: Math
+
+potemkin:
+  name: potemkin
+  url: https://github.com/ztellman/potemkin
+  category: Macros, Namespace Utilities
