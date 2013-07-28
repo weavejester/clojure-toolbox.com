@@ -713,6 +713,11 @@ ragtime:
   url: https://github.com/weavejester/ragtime
   category: Database Migrations
 
+clj-sql-up:
+  name: clj-sql-up
+  url: https://github.com/ckuttruff/clj-sql-up
+  category: Database Migrations
+
 clj_aws_s3:
   name: clj-aws-s3
   url: https://github.com/weavejester/clj-aws-s3
