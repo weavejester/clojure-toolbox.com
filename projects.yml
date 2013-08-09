@@ -1327,3 +1327,19 @@ potemkin:
   name: Potemkin
   url: https://github.com/ztellman/potemkin
   category: Macros, Namespace Utilities
+
+clj-excel:
+  name: clj-excel
+  url: https://github.com/mebaran/clj-excel
+  category: MS Office Documents
+
+spreadmap:
+  name: spreadmap
+  url: https://github.com/cgrand/spreadmap
+  category: MS Office Documents
+
+lein-ancient
+  name: lein-ancient
+  url: https://github.com/xsc/lein-ancient
+  category: Dependency Management
+
