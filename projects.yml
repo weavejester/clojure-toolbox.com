@@ -1342,3 +1342,8 @@ lein-ancient:
   name: lein-ancient
   url: https://github.com/xsc/lein-ancient
   category: Dependency Management
+
+euclidean:
+  name: Euclidean
+  url: https://github.com/weavejester/euclidean
+  category: Math
