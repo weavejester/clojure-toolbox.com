@@ -1347,3 +1347,8 @@ euclidean:
   name: Euclidean
   url: https://github.com/weavejester/euclidean
   category: Math
+
+route_one:
+  name: Route One
+  url: https://github.com/clojurewerkz/route-one
+  category: Ring Routing
