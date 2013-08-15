@@ -1352,3 +1352,8 @@ route_one:
   name: Route One
   url: https://github.com/clojurewerkz/route-one
   category: Ring Routing
+
+red_tape:
+  name: Red Tape
+  url: http://sjl.bitbucket.org/red-tape/
+  category: Validation
