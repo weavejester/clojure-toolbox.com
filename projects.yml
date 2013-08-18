@@ -1357,3 +1357,8 @@ red_tape:
   name: Red Tape
   url: http://sjl.bitbucket.org/red-tape/
   category: Validation
+
+ring_undertow_adapter:
+  name: ring-undertow-adapter
+  url: https://github.com/piranha/ring-undertow-adapter
+  category: Ring Adapters
