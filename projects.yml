@@ -28,6 +28,11 @@ enlive:
   url: https://github.com/cgrand/enlive
   category: Template Languages
 
+selmer:
+  name: Selmer
+  url: https://github.com/yogthos/Selmer
+  category: Template Languages
+
 hiccup:
   name: Hiccup
   url: https://github.com/weavejester/hiccup
