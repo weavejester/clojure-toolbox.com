@@ -1367,3 +1367,28 @@ ring_undertow_adapter:
   name: ring-undertow-adapter
   url: https://github.com/piranha/ring-undertow-adapter
   category: Ring Adapters
+
+tools_cli:
+  name: tools.cli
+  url: https://github.com/clojure/tools.cli
+  category: Command line tools
+
+clojure_android:
+  name: clojure-android
+  url: https://github.com/clojure-android
+  category: Mobile
+
+clj_ml:
+  name: clj-ml
+  url: https://github.com/antoniogarrote/clj-ml
+  category: Machine Learning
+
+clj_bigml:
+  name: clj-bigml
+  url: https://github.com/antoniogarrote/clj-bigml
+  category: Machine Learning
+
+enclog:
+  name: enclog
+  url: https://github.com/jimpil/enclog
+  category: Machine Learning
