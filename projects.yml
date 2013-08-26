@@ -1376,7 +1376,7 @@ tools_cli:
 clojure_android:
   name: clojure-android
   url: https://github.com/clojure-android
-  category: Mobile
+  category: Android
 
 clj_ml:
   name: clj-ml
