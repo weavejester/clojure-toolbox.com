@@ -1397,3 +1397,18 @@ enclog:
   name: enclog
   url: https://github.com/jimpil/enclog
   category: Machine Learning
+
+expresso:
+  name: expresso
+  url: https://github.com/clojure-numerics/expresso
+  category: Math
+
+core_matrix:
+  name: core.matrix
+  url: https://github.com/mikera/matrix-api
+  category: Math
+
+clatrix:
+  name: clatrix
+  url: https://github.com/tel/clatrix
+  category: Math
