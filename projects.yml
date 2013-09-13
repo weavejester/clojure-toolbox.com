@@ -1417,3 +1417,8 @@ crypto_equality:
   name: crypto-equality
   url: https://github.com/weavejester/crypto-equality
   category: Cryptography
+
+merkle:
+  name: Merkle
+  url: https://github.com/aphyr/merkle
+  category: Data Structures
