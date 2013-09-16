@@ -1422,3 +1422,8 @@ merkle:
   name: Merkle
   url: https://github.com/aphyr/merkle
   category: Data Structures
+
+manners:
+  name: Manners
+  url: https://github.com/RyanMcG/manners
+  category: Validation
