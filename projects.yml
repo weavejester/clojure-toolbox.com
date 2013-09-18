@@ -1427,3 +1427,13 @@ manners:
   name: Manners
   url: https://github.com/RyanMcG/manners
   category: Validation
+
+riddley:
+  name: Riddley
+  url: https://github.com/ztellman/riddley
+  category: Code Generation
+
+sleight:
+  name: Sleight
+  url: https://github.com/ztellman/sleight
+  category: Code Generation
