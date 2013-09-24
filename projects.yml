@@ -1437,3 +1437,8 @@ sleight:
   name: Sleight
   url: https://github.com/ztellman/sleight
   category: Code Generation
+
+camel_snake_kebab:
+  name: Camel-Snake-Kebab
+  url: https://github.com/qerub/camel-snake-kebab
+  category: String Manipulation
