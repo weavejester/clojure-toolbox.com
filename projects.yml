@@ -1442,3 +1442,18 @@ camel_snake_kebab:
   name: Camel-Snake-Kebab
   url: https://github.com/qerub/camel-snake-kebab
   category: String Manipulation
+
+lein_midje_doc:
+  name: MidjeDoc
+  url: https://github.com/zcaudate/lein-midje-doc
+  category: Documentation Tools
+
+cronj:
+  name: Cronj
+  url: https://github.com/zcaudate/cronj
+  category: Scheduling
+
+ribol:
+  name: Ribol
+  url: https://github.com/zcaudate/ribol
+  category: Exception Handling
