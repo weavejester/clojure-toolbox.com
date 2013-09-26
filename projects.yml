@@ -1458,7 +1458,3 @@ ribol:
   url: https://github.com/zcaudate/ribol
   category: Exception Handling
   
-sigmund:
-  name: Sigmund
-  url: https://github.com/zcaudate/sigmund
-  category: System Analytics
