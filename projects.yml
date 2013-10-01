@@ -1457,3 +1457,8 @@ ribol:
   name: Ribol
   url: https://github.com/zcaudate/ribol
   category: Exception Handling
+
+abracad:
+  name: Abracad
+  url: https://github.com/damballa/abracad
+  category: Serialization
