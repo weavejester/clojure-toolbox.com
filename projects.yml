@@ -1467,3 +1467,13 @@ abracad:
   name: Abracad
   url: https://github.com/damballa/abracad
   category: Serialization
+
+useful:
+  name: Useful
+  url: https://github.com/flatland/useful
+  category: Misc. Functions
+
+medley:
+  name: Medley
+  url: https://github.com/weavejester/medley
+  category: Misc. Functions
