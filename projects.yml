@@ -272,6 +272,11 @@ validateur:
   name: Validateur
   url: https://github.com/michaelklishin/validateur
   category: Validation
+
+vlad:
+  name: Vlad
+  url: https://github.com/logaan/vlad
+  category: Validation
   
 marginalia:
   name: Marginalia
