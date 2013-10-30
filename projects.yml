@@ -1477,3 +1477,8 @@ medley:
   name: Medley
   url: https://github.com/weavejester/medley
   category: Misc. Functions
+
+dire:
+  name: Dire
+  url: https://github.com/MichaelDrogalis/dire
+  category: Exception Handling
