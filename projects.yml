@@ -1487,3 +1487,8 @@ dire:
   name: Dire
   url: https://github.com/MichaelDrogalis/dire
   category: Exception Handling
+
+closerve:
+  name: CloServe
+  url: https://github.com/zhaojw/closerve
+  category: Web Frameworks
