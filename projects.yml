@@ -729,7 +729,7 @@ clj-sql-up:
   category: Database Migrations
 
 kapooya:
-  name: kapooya
+  name: Kapooya
   url: https://github.com/bayan/kapooya
   category: Database Migrations
 
