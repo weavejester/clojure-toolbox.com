@@ -18,6 +18,11 @@ friend:
   url: https://github.com/cemerick/friend
   category: Authentication
 
+pocheshiro:
+  name: Pocheshiro
+  url: https://github.com/inventiLT/Pocheshiro
+  category: Authentication
+
 ring_gzip_middleware:
   name: ring-gzip-middleware
   url: https://github.com/mikejs/ring-gzip-middleware
