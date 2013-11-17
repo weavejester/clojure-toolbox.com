@@ -1497,3 +1497,8 @@ closerve:
   name: CloServe
   url: https://github.com/zhaojw/closerve
   category: Web Frameworks
+
+overload_middleware:
+  name: overload-middleware
+  url: https://github.com/rkday/overload-middleware
+  category: Response Middleware
