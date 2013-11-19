@@ -1502,3 +1502,8 @@ overload_middleware:
   name: overload-middleware
   url: https://github.com/rkday/overload-middleware
   category: Response Middleware
+
+caribou:
+  name: Caribou
+  url: http://let-caribou.in/
+  category: Web Frameworks
