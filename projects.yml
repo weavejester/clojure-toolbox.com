@@ -282,7 +282,7 @@ vlad:
   name: Vlad
   url: https://github.com/logaan/vlad
   category: Validation
-  
+
 marginalia:
   name: Marginalia
   url: https://github.com/fogus/marginalia
@@ -382,7 +382,7 @@ nrepl_el:
   name: nrepl.el
   url: https://github.com/kingtim/nrepl.el
   category: Emacs Integration
-  
+
 lein_search:
   name: lein-search
   url: http://github.com/Licenser/lein-search
@@ -1507,3 +1507,8 @@ caribou:
   name: Caribou
   url: http://let-caribou.in/
   category: Web Frameworks
+
+sqlingvo:
+  name: SQLingvo
+  url: https://github.com/r0man/sqlingvo
+  category: SQL Abstraction
