@@ -1512,3 +1512,8 @@ sqlingvo:
   name: SQLingvo
   url: https://github.com/r0man/sqlingvo
   category: SQL Abstraction
+
+optimus:
+  name: Optimus
+  url: https://github.com/magnars/optimus
+  category: Front-end Optimization
