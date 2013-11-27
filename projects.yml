@@ -1512,3 +1512,13 @@ sqlingvo:
   name: SQLingvo
   url: https://github.com/r0man/sqlingvo
   category: SQL Abstraction
+
+verily:
+  name: Verily
+  url: https://github.com/jkk/verily
+  category: Validation
+
+valip:
+  name: Valip
+  url: https://github.com/weavejester/valip
+  category: Validation
