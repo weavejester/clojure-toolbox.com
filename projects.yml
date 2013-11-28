@@ -403,6 +403,11 @@ lein_diagnostics:
   url: https://github.com/robwolfe/lein-diagnostics
   category: Dependency Management
 
+chlorinejs:
+  name: chlorinejs
+  url: https://github.com/chlorinejs/chlorine
+  category: Javascript Generation
+
 scriptjure:
   name: Scriptjure
   url: https://github.com/arohner/scriptjure
