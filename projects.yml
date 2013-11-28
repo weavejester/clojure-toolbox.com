@@ -383,16 +383,6 @@ nrepl_el:
   url: https://github.com/kingtim/nrepl.el
   category: Emacs Integration
 
-lein_search:
-  name: lein-search
-  url: http://github.com/Licenser/lein-search
-  category: Clojars, Dependency Management
-
-lein_clojars:
-  name: lein-clojars
-  url: https://github.com/ato/lein-clojars
-  category: Clojars
-
 lein_namespace_depends:
   name: lein-namespace-depends
   url: https://github.com/hugoduncan/lein-namespace-depends
