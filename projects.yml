@@ -1512,3 +1512,13 @@ optimus:
   name: Optimus
   url: https://github.com/magnars/optimus
   category: Front-end Optimization
+
+verily:
+  name: Verily
+  url: https://github.com/jkk/verily
+  category: Validation
+
+valip:
+  name: Valip
+  url: https://github.com/weavejester/valip
+  category: Validation
