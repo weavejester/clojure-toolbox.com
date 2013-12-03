@@ -1522,3 +1522,13 @@ valip:
   name: Valip
   url: https://github.com/weavejester/valip
   category: Validation
+
+lein_test_refresh:
+  name: lein-test-refresh
+  url: https://github.com/jakemcc/lein-test-refresh
+  category: Continuous Testing
+
+quickie:
+  name: quickie
+  url: https://github.com/jakepearson/quickie
+  category: Continuous Testing
