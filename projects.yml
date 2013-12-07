@@ -1537,3 +1537,18 @@ annagreta:
   name: annagreta
   url: https://github.com/molst/annagreta
   category: Authorization
+
+component:
+  name: Component
+  url: https://github.com/stuartsierra/component
+  category: Reloaded Workflow
+
+jig:
+  name: Jig
+  url: https://github.com/juxt/jig
+  category: Reloaded Workflow
+
+pisto:
+  name: pisto
+  url: https://github.com/molst/pisto
+  category: Reloaded Workflow
