@@ -221,7 +221,7 @@ aleph:
 http_kit:
   name: http-kit
   url: http://http-kit.org/
-  category: Asynchronous HTTP
+  category: Asynchronous HTTP, HTTP Servers
 
 ring_server:
   name: Ring-Server
@@ -1557,3 +1557,8 @@ buffy:
   name: Buffy
   url: https://github.com/clojurewerkz/buffy
   category: Parsing, Binary Data
+
+immutant:
+  name: Immutant
+  url: http://immutant.org/
+  category: HTTP Servers
