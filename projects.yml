@@ -696,7 +696,7 @@ lazybot:
 gloss:
   name: Gloss
   url: https://github.com/ztellman/gloss
-  category: Parsing, Network Protocols
+  category: Parsing, Binary Data
 
 core_logic:
   name: core.logic
@@ -1552,3 +1552,8 @@ pisto:
   name: pisto
   url: https://github.com/molst/pisto
   category: Reloaded Workflow
+
+buffy:
+  name: Buffy
+  url: https://github.com/clojurewerkz/buffy
+  category: Parsing, Binary Data
