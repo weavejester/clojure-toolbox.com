@@ -16,7 +16,7 @@ ring_basic_authentication:
 friend:
   name: Friend
   url: https://github.com/cemerick/friend
-  category: Authentication
+  category: Authentication, Authorization
 
 pocheshiro:
   name: Pocheshiro
@@ -1532,3 +1532,8 @@ quickie:
   name: quickie
   url: https://github.com/jakepearson/quickie
   category: Continuous Testing
+
+annagreta:
+  name: annagreta
+  url: https://github.com/molst/annagreta
+  category: Authorization
