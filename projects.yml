@@ -1557,3 +1557,8 @@ buffy:
   name: Buffy
   url: https://github.com/clojurewerkz/buffy
   category: Parsing, Binary Data
+
+ring-async:
+  name: ring-async
+  url: https://github.com/ninjudd/ring-async
+  category: Asynchronous HTTP
