@@ -1557,3 +1557,8 @@ immutant:
   name: Immutant
   url: http://immutant.org/
   category: HTTP Servers
+
+ring_async:
+  name: ring-async
+  url: https://github.com/ninjudd/ring-async
+  category: Asynchronous HTTP
