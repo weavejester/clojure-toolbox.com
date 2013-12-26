@@ -1562,3 +1562,23 @@ ring_async:
   name: ring-async
   url: https://github.com/ninjudd/ring-async
   category: Asynchronous HTTP
+
+hoplon:
+  name: hoplon
+  url: https://github.com/tailrecursion/hoplon
+  category: Web Frameworks, HTML Generation
+
+castra:
+  name: castra
+  url: https://github.com/tailrecursion/castra
+  category: RPC
+
+javelin:
+  name: javelin
+  url: https://github.com/tailrecursion/javelin
+  category: Reactive Programming
+
+boot:
+  name: boot
+  url: https://github.com/tailrecursion/boot
+  category: Build Tools
