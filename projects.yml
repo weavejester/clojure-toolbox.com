@@ -483,6 +483,11 @@ clj_time:
   url: https://github.com/seancorfield/clj-time
   category: Date and Time
 
+clojure.joda_time:
+  name: Clojure.Joda-Time
+  url: https://github.com/dm3/clojure.joda-time
+  category: Date and Time
+
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
