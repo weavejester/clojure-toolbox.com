@@ -1587,3 +1587,9 @@ boot:
   name: boot
   url: https://github.com/tailrecursion/boot
   category: Build Tools
+
+ring_rewrite:
+  name: ring-rewrite
+  url: https://github.com/ebaxt/ring-rewrite
+  category: Request Middleware, Response Middleware
+  
