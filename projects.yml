@@ -1587,3 +1587,8 @@ boot:
   name: boot
   url: https://github.com/tailrecursion/boot
   category: Build Tools
+
+pigpen:
+  name: PigPen
+  url: https://github.com/Netflix/PigPen
+  category: Distributed Programming
