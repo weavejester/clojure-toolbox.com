@@ -1592,3 +1592,13 @@ pigpen:
   name: PigPen
   url: https://github.com/Netflix/PigPen
   category: Distributed Programming
+
+gudu:
+  name: gudu
+  url: https://github.com/thatismatt/gudu
+  category: Ring Routing
+
+bidi:
+  name: bidi
+  url: https://github.com/juxt/bidi
+  category: Ring Routing
