@@ -1607,3 +1607,8 @@ bidi:
   name: bidi
   url: https://github.com/juxt/bidi
   category: Ring Routing
+
+schmetterling:
+  name: Schmetterling
+  url: https://github.com/prismofeverything/schmetterling
+  category: Debugging
