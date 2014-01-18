@@ -1632,3 +1632,8 @@ core_typed:
   name: core.typed
   url: https://github.com/clojure/core.typed
   category: Static Typing
+
+schema:
+  name: Schema
+  url: https://github.com/Prismatic/schema
+  category: Validation
