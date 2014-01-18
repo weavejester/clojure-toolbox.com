@@ -1612,3 +1612,8 @@ schmetterling:
   name: Schmetterling
   url: https://github.com/prismofeverything/schmetterling
   category: Debugging
+
+biomass:
+  name: biomass
+  url: https://github.com/smnirven/biomass
+  category: Mechanical Turk Clients
