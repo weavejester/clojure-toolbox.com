@@ -1627,3 +1627,8 @@ synthread:
   name: SynThread
   url: https://github.com/LonoCloud/synthread
   category: Macros
+
+core_typed:
+  name: core.typed
+  url: https://github.com/clojure/core.typed
+  category: Static Typing
