@@ -1637,3 +1637,8 @@ schema:
   name: Schema
   url: https://github.com/Prismatic/schema
   category: Validation
+
+nginx_clojure:
+  name: Nginx-Clojure
+  url: https://github.com/xfeep/nginx-clojure
+  category: HTTP Servers
