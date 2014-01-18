@@ -1617,3 +1617,13 @@ biomass:
   name: biomass
   url: https://github.com/smnirven/biomass
   category: Mechanical Turk Clients
+
+swiss_arrows:
+  name: swiss-arrows
+  url: https://github.com/rplevy/swiss-arrows
+  category: Macros
+
+synthread:
+  name: SynThread
+  url: https://github.com/LonoCloud/synthread
+  category: Macros
