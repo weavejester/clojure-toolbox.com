@@ -1677,3 +1677,13 @@ ring_http_response:
   name: ring-http-response
   url: https://github.com/metosin/ring-http-response
   category: Ring Utilities
+
+bacwn:
+  name: Bacwn
+  url: https://github.com/tailrecursion/bacwn
+  category: Datalog
+
+datalog:
+  name: datalog
+  url: https://github.com/martintrojer/datalog
+  category: Datalog
