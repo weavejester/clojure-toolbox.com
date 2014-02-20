@@ -1692,3 +1692,13 @@ conformity:
   name: conformity
   url: https://github.com/rkneufeld/conformity
   category: Datomic
+
+ring_codec:
+  name: Ring-Codec
+  url: https://github.com/ring-clojure/ring-codec
+  category: Encoding/Decoding
+
+data_codec:
+  name: data.codec
+  url: https://github.com/clojure/data.codec
+  category: Encoding/Decoding
