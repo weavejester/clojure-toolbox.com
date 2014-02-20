@@ -1687,3 +1687,8 @@ datalog:
   name: datalog
   url: https://github.com/martintrojer/datalog
   category: Datalog
+
+conformity:
+  name: conformity
+  url: https://github.com/rkneufeld/conformity
+  category: Datomic
