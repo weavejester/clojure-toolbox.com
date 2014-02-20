@@ -1672,3 +1672,8 @@ incise:
   name: Incise
   url: https://github.com/RyanMcG/incise
   category: Static Site Generation
+
+ring_http_response:
+  name: ring-http-response
+  url: https://github.com/metosin/ring-http-response
+  category: Ring Utilities
