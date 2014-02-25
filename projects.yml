@@ -1702,3 +1702,8 @@ data_codec:
   name: data.codec
   url: https://github.com/clojure/data.codec
   category: Encoding/Decoding
+
+claypoole:
+  name: Claypoole
+  url: https://github.com/TheClimateCorporation/claypoole/
+  category: Concurrency
