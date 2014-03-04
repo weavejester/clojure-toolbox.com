@@ -1702,8 +1702,13 @@ claypoole:
   name: Claypoole
   url: https://github.com/TheClimateCorporation/claypoole/
   category: Concurrency
-  
+
 clj_template:
   name: clj-template
   url: https://github.com/brennonyork/clj-template
   category: Template Languages, HTML Generation
+
+eastwood:
+  name: Eastwood
+  url: https://github.com/jonase/eastwood
+  category: Code Analysis
