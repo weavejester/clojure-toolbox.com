@@ -1707,3 +1707,8 @@ claypoole:
   name: Claypoole
   url: https://github.com/TheClimateCorporation/claypoole/
   category: Concurrency
+
+eastwood:
+  name: Eastwood
+  url: https://github.com/jonase/eastwood
+  category: Code Analysis
