@@ -1636,7 +1636,7 @@ core_typed:
 schema:
   name: Schema
   url: https://github.com/Prismatic/schema
-  category: Validation
+  category: Static Typing, Validation
 
 nginx_clojure:
   name: Nginx-Clojure
