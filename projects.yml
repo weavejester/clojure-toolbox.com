@@ -1742,3 +1742,8 @@ stch_ns:
   name: stch.ns
   url: https://github.com/stch-library/ns
   category: Namespace Utilities
+
+expectations:
+  name: Expectations
+  url: http://jayfields.com/expectations/
+  category: Unit Testing
