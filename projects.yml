@@ -178,11 +178,6 @@ clojureql:
   url: https://github.com/LauJensen/clojureql
   category: SQL Abstraction
 
-carte:
-  name: Carte
-  url: https://github.com/brentonashworth/carte
-  category: SQL Abstraction
-
 postal:
   name: Postal
   url: https://github.com/drewr/postal
