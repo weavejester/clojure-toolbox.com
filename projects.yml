@@ -1737,3 +1737,8 @@ stch_stateful:
   name: stch.stateful
   url: https://github.com/stch-library/stateful
   category: Request Middleware, Response Middleware
+
+stch_ns:
+  name: stch.ns
+  url: https://github.com/stch-library/ns
+  category: Namespace Utilities
