@@ -1587,7 +1587,7 @@ ring_rewrite:
   name: ring-rewrite
   url: https://github.com/ebaxt/ring-rewrite
   category: Request Middleware, Response Middleware
-  
+
 pigpen:
   name: PigPen
   url: https://github.com/Netflix/PigPen
@@ -1712,3 +1712,33 @@ eastwood:
   name: Eastwood
   url: https://github.com/jonase/eastwood
   category: Code Analysis
+
+stch_routing:
+  name: stch.routing
+  url: https://github.com/stch-library/routing
+  category: Web Frameworks
+
+stch_html:
+  name: stch.html
+  url: https://github.com/stch-library/html
+  category: HTML Generation
+
+stch_sql:
+  name: stch.sql
+  url: https://github.com/stch-library/sql
+  category: SQL Abstraction
+
+stch_schema:
+  name: stch.schema
+  url: https://github.com/stch-library/schema
+  category: Validation
+
+stch_stateful:
+  name: stch.stateful
+  url: https://github.com/stch-library/stateful
+  category: Request Middleware, Response Middleware
+
+stch_ns:
+  name: stch.ns
+  url: https://github.com/stch-library/ns
+  category: Namespace Utilities
