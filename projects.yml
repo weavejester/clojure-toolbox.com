@@ -1747,3 +1747,18 @@ expectations:
   name: Expectations
   url: http://jayfields.com/expectations/
   category: Unit Testing
+
+drip:
+  name: Drip
+  url: https://github.com/ninjudd/drip
+  category: Preloaders
+
+grenchman:
+  name: Grenchman
+  url: https://github.com/technomancy/grenchman
+  category: Preloaders
+
+quick:
+  name: quick-clojure
+  url: https://github.com/benwbooth/quick-clojure
+  category: Preloaders
