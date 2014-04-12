@@ -1762,3 +1762,8 @@ quick:
   name: quick-clojure
   url: https://github.com/benwbooth/quick-clojure
   category: Preloaders
+
+zeus:
+  name: zeus
+  url: https://github.com/chmllr/zeus
+  category: Compression
