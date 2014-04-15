@@ -438,9 +438,9 @@ counterclockwise:
   url: http://code.google.com/p/counterclockwise/
   category: IDE Integration
 
-la_clojure:
-  name: La Clojure
-  url: http://plugins.intellij.net/plugin/?id=4050
+cursive:
+  name: Cursive Clojure
+  url: https://cursiveclojure.com
   category: IDE Integration
 
 wabbitmq:
