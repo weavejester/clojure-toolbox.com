@@ -1548,6 +1548,11 @@ pisto:
   url: https://github.com/molst/pisto
   category: Reloaded Workflow
 
+reloaded_repl:
+  name: reloaded.repl
+  url: https://github.com/weavejester/reloaded.repl
+  category: Reloaded Workflow
+
 buffy:
   name: Buffy
   url: https://github.com/clojurewerkz/buffy
