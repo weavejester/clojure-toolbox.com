@@ -1593,6 +1593,11 @@ ring_rewrite:
   url: https://github.com/ebaxt/ring-rewrite
   category: Request Middleware, Response Middleware
 
+ring_ssl:
+  name: ring-ssl
+  url: https://github.com/listora/ring-ssl
+  category: Response Middleware
+
 pigpen:
   name: PigPen
   url: https://github.com/Netflix/PigPen
