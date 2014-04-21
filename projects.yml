@@ -893,6 +893,11 @@ ordered:
   url: https://github.com/flatland/ordered
   category: Data Structures
 
+immutable_int_map:
+  name: immutable-int-map
+  url: https://github.com/ztellman/immutable-int-map
+  category: Data Structures
+
 shake:
   name: Shake
   url: https://github.com/sunng87/shake
