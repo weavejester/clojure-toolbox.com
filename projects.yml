@@ -896,12 +896,12 @@ ordered:
 immutable_int_map:
   name: immutable-int-map
   url: https://github.com/ztellman/immutable-int-map
-  category: Data Structures
+  category: Data Structures, Performance
 
 immutable_bitset:
   name: immutable-bitset
   url: https://github.com/ztellman/immutable-bitset
-  category: Data Structures
+  category: Data Structures, Performance
 
 shake:
   name: Shake
