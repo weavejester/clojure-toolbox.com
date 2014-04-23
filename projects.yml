@@ -898,6 +898,11 @@ immutable_int_map:
   url: https://github.com/ztellman/immutable-int-map
   category: Data Structures
 
+immutable_bitset:
+  name: immutable-bitset
+  url: https://github.com/ztellman/immutable-bitset
+  category: Data Structures
+
 shake:
   name: Shake
   url: https://github.com/sunng87/shake
