@@ -1391,7 +1391,7 @@ ring_undertow_adapter:
 tools_cli:
   name: tools.cli
   url: https://github.com/clojure/tools.cli
-  category: Command line tools
+  category: Command Line Tools
 
 clojure_android:
   name: clojure-android
