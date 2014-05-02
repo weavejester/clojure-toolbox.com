@@ -1782,3 +1782,18 @@ quick:
   name: quick-clojure
   url: https://github.com/benwbooth/quick-clojure
   category: Preloaders
+
+puget:
+  name: Puget
+  url: https://github.com/greglook/puget
+  category: Command Line Tools
+
+lein-hiera:
+  name: lein-hiera
+  url: https://github.com/greglook/lein-hiera
+  category: Code Analysis
+
+clj-pgp:
+  name: clj-pgp
+  url: https://github.com/greglook/clj-pgp
+  category: Cryptography
