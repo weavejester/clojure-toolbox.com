@@ -1797,3 +1797,8 @@ clj-pgp:
   name: clj-pgp
   url: https://github.com/greglook/clj-pgp
   category: Cryptography
+
+zeus:
+  name: zeus
+  url: https://github.com/chmllr/zeus
+  category: Compression
