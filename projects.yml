@@ -1116,7 +1116,12 @@ babbage:
 crypto_password:
   name: crypto-password
   url: https://github.com/weavejester/crypto-password
-  category: Cryptography
+  category: Cryptography, Password Security
+
+scrypt:
+  name: scrypt
+  url: https://github.com/clojurewerkz/scrypt
+  category: Cryptography, Password Security
 
 criterium:
   name: Criterium
