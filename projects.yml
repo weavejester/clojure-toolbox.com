@@ -373,9 +373,9 @@ swank_clojure:
   url: https://github.com/technomancy/swank-clojure
   category: Emacs Integration
 
-nrepl_el:
-  name: nrepl.el
-  url: https://github.com/kingtim/nrepl.el
+cider:
+  name: CIDER
+  url: https://github.com/clojure-emacs/cider
   category: Emacs Integration
 
 lein_namespace_depends:
