@@ -1807,3 +1807,18 @@ zeus:
   name: zeus
   url: https://github.com/chmllr/zeus
   category: Compression
+
+lein-jslint:
+  name: lein-jslint
+  url: https://github.com/vbauer/lein-jslint
+  category: Code Analysis
+
+lein-jshint:
+  name: lein-jshint
+  url: https://github.com/vbauer/lein-jshint
+  category: Code Analysis
+
+lein-plantuml:
+  name: lein-plantuml
+  url: https://github.com/vbauer/lein-plantuml
+  category: Documentation Tools
