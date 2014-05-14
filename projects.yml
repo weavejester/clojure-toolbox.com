@@ -1822,3 +1822,8 @@ lein-plantuml:
   name: lein-plantuml
   url: https://github.com/vbauer/lein-plantuml
   category: Documentation Tools
+
+automat:
+  name: Automat
+  url: https://github.com/ztellman/automat
+  category: State Machines, Performance, Parsing
