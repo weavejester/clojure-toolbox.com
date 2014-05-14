@@ -1827,3 +1827,8 @@ automat:
   name: Automat
   url: https://github.com/ztellman/automat
   category: State Machines, Performance, Parsing
+
+brute:
+  name: Brute
+  url: https://github.com/markmandel/brute
+  category: Game Development
