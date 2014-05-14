@@ -1301,7 +1301,7 @@ megaref:
 fast_zip:
   name: fast-zip
   url: https://github.com/akhudek/fast-zip
-  category: Data Structures, Performance
+  category: Data Structures, Performance, Zippers
 
 clojure_csv:
   name: Clojure-CSV
@@ -1832,3 +1832,13 @@ brute:
   name: Brute
   url: https://github.com/markmandel/brute
   category: Game Development
+
+data_zip:
+  name: data.zip
+  url: https://github.com/clojure/data.zip
+  category: Zippers
+
+zip_visit:
+  name: zip-visit
+  url: https://github.com/akhudek/zip-visit
+  category: Zippers
