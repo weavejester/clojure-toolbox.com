@@ -1301,7 +1301,7 @@ megaref:
 fast_zip:
   name: fast-zip
   url: https://github.com/akhudek/fast-zip
-  category: Data Structures
+  category: Data Structures, Performance
 
 clojure_csv:
   name: Clojure-CSV
