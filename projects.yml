@@ -1610,8 +1610,8 @@ ring_rewrite:
 
 ring_ssl:
   name: ring-ssl
-  url: https://github.com/listora/ring-ssl
-  category: Response Middleware
+  url: https://github.com/ring-clojure/ring-ssl
+  category: Ring Security
 
 pigpen:
   name: PigPen
