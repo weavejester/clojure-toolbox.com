@@ -1833,6 +1833,11 @@ brute:
   url: https://github.com/markmandel/brute
   category: Game Development
 
+play_clj:
+  name: play-clj
+  url: https://github.com/oakes/play-clj
+  category: Game Development
+
 data_zip:
   name: data.zip
   url: https://github.com/clojure/data.zip
