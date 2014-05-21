@@ -1493,6 +1493,11 @@ medley:
   url: https://github.com/weavejester/medley
   category: Misc. Functions
 
+plumbing:
+  name: Plumbing
+  url: https://github.com/prismatic/plumbing
+  category: Misc. Functions
+
 dire:
   name: Dire
   url: https://github.com/MichaelDrogalis/dire
