@@ -950,7 +950,7 @@ clj_rhino:
 
 liberator:
   name: Liberator
-  url: http://clojure-liberator.github.com/
+  url: http://clojure-liberator.github.io/liberator
   category: RESTful Web Services
 
 bishop:
