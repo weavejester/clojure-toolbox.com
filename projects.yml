@@ -1598,6 +1598,11 @@ castra:
   url: https://github.com/tailrecursion/castra
   category: RPC
 
+slacker:
+  name: Slacker
+  url: https://github.com/sunng87/slacker
+  category: RPC
+
 javelin:
   name: javelin
   url: https://github.com/tailrecursion/javelin
