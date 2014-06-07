@@ -558,6 +558,11 @@ lein_retest:
   url: https://github.com/technomancy/lein-retest
   category: Continuous Testing
 
+prism:
+  name: prism
+  url: https://github.com/aphyr/prism
+  category: Continuous Testing
+
 lein_autotest:
   name: lein-autotest
   url: https://github.com/dakrone/lein-autotest
