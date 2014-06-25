@@ -1857,3 +1857,8 @@ zip_visit:
   name: zip-visit
   url: https://github.com/akhudek/zip-visit
   category: Zippers
+
+humane_test_output:
+  name: Humane Test Output
+  url: https://github.com/pjstadig/humane-test-output
+  category: Unit Testing
