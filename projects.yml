@@ -1862,3 +1862,8 @@ humane_test_output:
   name: Humane Test Output
   url: https://github.com/pjstadig/humane-test-output
   category: Unit Testing
+
+seqexp:
+  name: Seqexp
+  url: https://github.com/cgrand/seqexp
+  category: Parsing, Code Generation
