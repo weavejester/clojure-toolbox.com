@@ -1867,3 +1867,23 @@ seqexp:
   name: Seqexp
   url: https://github.com/cgrand/seqexp
   category: Parsing, Code Generation
+
+metam:
+  name: Metam
+  url: https://github.com/friemen/metam
+  category: Code Generation
+
+aggregate:
+  name: Aggregate
+  url: https://github.com/friemen/aggregate
+  category: SQL Abstraction
+
+examine:
+  name: Examine
+  url: https://github.com/friemen/examine
+  category: Validation
+  
+parsargs:
+  name: Parsargs
+  url: https://github.com/friemen/parsargs
+  category: Parsing
