@@ -718,6 +718,11 @@ ragtime:
   url: https://github.com/weavejester/ragtime
   category: Database Migrations
 
+joplin:
+  name: Joplin
+  url: https://github.com/juxt/joplin
+  category: Database Migrations
+
 clj-sql-up:
   name: clj-sql-up
   url: https://github.com/ckuttruff/clj-sql-up
@@ -1882,7 +1887,7 @@ examine:
   name: Examine
   url: https://github.com/friemen/examine
   category: Validation
-  
+
 parsargs:
   name: Parsargs
   url: https://github.com/friemen/parsargs
