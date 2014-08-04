@@ -1896,9 +1896,9 @@ parsargs:
 frinj:
   name: Frinj
   url: https://github.com/martintrojer/frinj
-  category: Unit of Measure
+  category: Measurement Units
 
 minderbinder:
   name: Minderbinder
   url: https://github.com/fogus/minderbinder
-  category: Unit of Measure
+  category: Measurement Units
