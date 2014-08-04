@@ -1892,3 +1892,13 @@ parsargs:
   name: Parsargs
   url: https://github.com/friemen/parsargs
   category: Parsing
+
+frinj:
+  name: Frinj
+  url: https://github.com/martintrojer/frinj
+  category: Measurement Units
+
+minderbinder:
+  name: Minderbinder
+  url: https://github.com/fogus/minderbinder
+  category: Measurement Units
