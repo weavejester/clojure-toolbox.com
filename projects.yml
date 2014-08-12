@@ -1902,3 +1902,8 @@ minderbinder:
   name: Minderbinder
   url: https://github.com/fogus/minderbinder
   category: Measurement Units
+
+yesql:
+  name: Yesql
+  url: https://github.com/krisajenkins/yesql
+  category: SQL Abstraction
