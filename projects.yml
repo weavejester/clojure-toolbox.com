@@ -1897,9 +1897,13 @@ minderbinder:
   name: Minderbinder
   url: https://github.com/fogus/minderbinder
   category: Measurement Units
-  
+
 parkour:
   name: Parkour
   url: https://github.com/damballa/parkour
   category: Distributed Programming
-  
+
+lein-asciidoc:
+  name: lein-asciidoc
+  url: https://github.com/vbauer/lein-asciidoc
+  category: Documentation Tools
