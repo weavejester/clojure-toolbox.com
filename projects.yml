@@ -1907,3 +1907,8 @@ lein-asciidoc:
   name: lein-asciidoc
   url: https://github.com/vbauer/lein-asciidoc
   category: Documentation Tools
+
+yesql:
+  name: Yesql
+  url: https://github.com/krisajenkins/yesql
+  category: SQL Abstraction
