@@ -453,6 +453,11 @@ wabbitmq:
   url: https://github.com/mefesto/wabbitmq
   category: Message Queues, RabbitMQ Clients
 
+jnanomsg:
+  name: jnanomsg
+  url: https://github.com/niwibe/jnanomsg
+  category: Message Queues
+
 bandalore:
   name: Bandalore
   url: https://github.com/cemerick/bandalore
