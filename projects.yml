@@ -1088,6 +1088,11 @@ datomic:
   url: http://www.datomic.com/
   category: Databases
 
+clojure_jdbc:
+  name: clojure.jdbc
+  url: https://github.com/niwibe/clojure.jdbc
+  category: SQL Clients
+
 tower:
   name: Tower
   url: https://github.com/ptaoussanis/tower
