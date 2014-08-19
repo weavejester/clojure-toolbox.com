@@ -763,6 +763,11 @@ algo_monads:
   url: https://github.com/clojure/algo.monads
   category: Functional Programming, Monads
 
+cats:
+  name: cats
+  url: https://github.com/niwibe/cats
+  category: Functional Programming, Monads
+
 core_match:
   name: core.match
   url: https://github.com/clojure/core.match
