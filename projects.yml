@@ -18,6 +18,11 @@ friend:
   url: https://github.com/cemerick/friend
   category: Authentication, Authorization
 
+buddy:
+  name: Buddy
+  url: https://github.com/niwibe/buddy
+  category: Authentication, Authorization, Cryptography, Hashing
+
 pocheshiro:
   name: Pocheshiro
   url: https://github.com/inventiLT/Pocheshiro
