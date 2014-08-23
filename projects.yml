@@ -1903,9 +1903,9 @@ parkour:
   url: https://github.com/damballa/parkour
   category: Distributed Programming
 
-lein-asciidoc:
-  name: lein-asciidoc
-  url: https://github.com/vbauer/lein-asciidoc
+lein-asciidoctor:
+  name: lein-asciidoctor
+  url: https://github.com/asciidoctor/asciidoctor-lein-plugin
   category: Documentation Tools
 
 yesql:
