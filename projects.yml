@@ -1089,7 +1089,7 @@ datomic:
   category: Databases
 
 clojure_jdbc:
-  name: clojure.jdbc
+  name: clojure.jdbc (unofficial)
   url: https://github.com/niwibe/clojure.jdbc
   category: SQL Clients
 
@@ -1932,3 +1932,8 @@ yesql:
   name: Yesql
   url: https://github.com/krisajenkins/yesql
   category: SQL Abstraction
+
+clojure_java_jdbc:
+  name: clojure.java.jdbc
+  url: https://github.com/clojure/java.jdbc
+  category: SQL Clients
