@@ -18,6 +18,11 @@ friend:
   url: https://github.com/cemerick/friend
   category: Authentication, Authorization
 
+buddy:
+  name: Buddy
+  url: https://github.com/niwibe/buddy
+  category: Authentication, Authorization, Cryptography, Hashing
+
 pocheshiro:
   name: Pocheshiro
   url: https://github.com/inventiLT/Pocheshiro
@@ -448,6 +453,11 @@ wabbitmq:
   url: https://github.com/mefesto/wabbitmq
   category: Message Queues, RabbitMQ Clients
 
+jnanomsg:
+  name: jnanomsg
+  url: https://github.com/niwibe/jnanomsg
+  category: Message Queues
+
 bandalore:
   name: Bandalore
   url: https://github.com/cemerick/bandalore
@@ -751,6 +761,11 @@ algo_generic:
 algo_monads:
   name: algo.monads
   url: https://github.com/clojure/algo.monads
+  category: Functional Programming, Monads
+
+cats:
+  name: cats
+  url: https://github.com/niwibe/cats
   category: Functional Programming, Monads
 
 core_match:
@@ -1072,6 +1087,11 @@ datomic:
   name: Datomic
   url: http://www.datomic.com/
   category: Databases
+
+clojure_jdbc:
+  name: clojure.jdbc
+  url: https://github.com/niwibe/clojure.jdbc
+  category: SQL Clients
 
 tower:
   name: Tower
