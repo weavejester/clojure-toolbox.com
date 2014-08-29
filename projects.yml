@@ -1937,3 +1937,25 @@ clojure_java_jdbc:
   name: clojure.java.jdbc
   url: https://github.com/clojure/java.jdbc
   category: SQL Clients
+
+rook:
+  name: Rook
+  url: https://github.com/AvisoNovate/rook
+  category: RESTful Web Services, Asynchronous HTTP
+
+pretty:
+  name: Pretty
+  url: https://github.com/AvisoNovate/pretty
+  category: Exception Handling, Terminal Utilities
+
+tracker:
+  name: Tracker
+  url: https://github.com/AvisoNovate/tracker
+  category: Debugging
+
+twixt:
+  name: Twixt
+  url: https://github.com/AvisoNovate/tracker
+  category: Web Frameworks
+
+
