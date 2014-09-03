@@ -1962,4 +1962,4 @@ twixt:
 backplane:
   name: Backplane
   url: https://github.com/elasticlearn/backplane
-  category: Distributed Programming
+  category: Message Queues
