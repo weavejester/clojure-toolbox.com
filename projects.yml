@@ -218,6 +218,11 @@ aleph:
   url: https://github.com/ztellman/aleph
   category: Asynchronous HTTP
 
+jet:
+  name: jet
+  url: https://github.com/mpenet/jet
+  category: Asynchronous HTTP, HTTP Servers, HTTP Clients
+
 http_kit:
   name: http-kit
   url: http://http-kit.org/
@@ -1957,5 +1962,3 @@ twixt:
   name: Twixt
   url: https://github.com/AvisoNovate/twixt
   category: Web Frameworks
-
-
