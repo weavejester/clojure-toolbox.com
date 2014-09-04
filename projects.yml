@@ -1962,3 +1962,8 @@ twixt:
   name: Twixt
   url: https://github.com/AvisoNovate/twixt
   category: Web Frameworks
+
+backplane:
+  name: Backplane
+  url: https://github.com/elasticlearn/backplane
+  category: Message Queues
