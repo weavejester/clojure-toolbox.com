@@ -1967,3 +1967,8 @@ backplane:
   name: Backplane
   url: https://github.com/elasticlearn/backplane
   category: Message Queues
+
+lein-coffeescript:
+    name: lein-coffeescript
+    url: https://github.com/vbauer/lein-coffeescript
+    category: Javascript Generation
