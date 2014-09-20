@@ -1398,6 +1398,11 @@ lein-ancient:
   url: https://github.com/xsc/lein-ancient
   category: Dependency Management
 
+lein-plz:
+  name: lein-plz
+  url: https://github.com/johnwalker/lein-plz
+  category: Dependency Management
+
 euclidean:
   name: Euclidean
   url: https://github.com/weavejester/euclidean
