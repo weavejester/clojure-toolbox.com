@@ -914,8 +914,8 @@ ordered:
   category: Data Structures
 
 immutable_int_map:
-  name: immutable-int-map
-  url: https://github.com/ztellman/immutable-int-map
+  name: data.int-map
+  url: https://github.com/clojure/data.int-map
   category: Data Structures, Performance
 
 immutable_bitset:
