@@ -534,8 +534,8 @@ ritz:
   category: Debugging
 
 fleetdb:
-  name: FleetDB
-  url: http://fleetdb.org
+  name: FleetDB (inactive)
+  url: https://github.com/mmcgrana/fleetdb
   category: Databases
 
 jiraph:
