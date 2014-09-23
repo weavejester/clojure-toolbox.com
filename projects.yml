@@ -1977,3 +1977,8 @@ lein-coffeescript:
     name: lein-coffeescript
     url: https://github.com/vbauer/lein-coffeescript
     category: Javascript Generation
+
+onyx:
+    name: Onyx
+    url: https://github.com/MichaelDrogalis/onyx
+    category: Distributed Programming
