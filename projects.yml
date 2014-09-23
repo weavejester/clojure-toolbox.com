@@ -1973,12 +1973,12 @@ backplane:
   url: https://github.com/elasticlearn/backplane
   category: Message Queues
 
-lein-coffeescript:
-    name: lein-coffeescript
-    url: https://github.com/vbauer/lein-coffeescript
-    category: Javascript Generation
+lein_coffeescript:
+  name: lein-coffeescript
+  url: https://github.com/vbauer/lein-coffeescript
+  category: Javascript Generation
 
 onyx:
-    name: Onyx
-    url: https://github.com/MichaelDrogalis/onyx
-    category: Distributed Programming
+  name: Onyx
+  url: https://github.com/MichaelDrogalis/onyx
+  category: Distributed Programming
