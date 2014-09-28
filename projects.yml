@@ -1982,3 +1982,9 @@ onyx:
   name: Onyx
   url: https://github.com/MichaelDrogalis/onyx
   category: Distributed Programming
+
+synaptic:
+  name: synaptic
+  url: https://github.com/japonophile/synaptic
+  category: Machine Learning
+
