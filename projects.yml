@@ -1988,3 +1988,7 @@ synaptic:
   url: https://github.com/japonophile/synaptic
   category: Machine Learning
 
+hikari-cp:
+  name: hikari-cp
+  url: https://github.com/tomekw/hikari-cp
+  category: Connection Pools
