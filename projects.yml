@@ -1992,3 +1992,8 @@ hikari-cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   category: Connection Pools
+
+duckling:
+  name: Duckling
+  url: http://duckling-lib.org/
+  category: Date and Time, Parsing
