@@ -271,7 +271,7 @@ clj_redis:
 sandbar:
   name: Sandbar
   url: https://github.com/brentonashworth/sandbar
-  category: Authentication, Ring Sessions, Validation
+  category: Authentication, Ring Sessions, Validation, Web Frameworks
 
 metis:
   name: Metis
@@ -340,7 +340,7 @@ quil:
 
 pallet:
   name: Pallet
-  url: http://pallet.github.com/pallet/
+  url: http://palletops.com/
   category: Deployment Automation
 
 cascalog:
@@ -357,11 +357,6 @@ conduit:
   name: Conduit
   url: https://github.com/jduey/conduit
   category: Stream Processing
-
-crane:
-  name: crane
-  url: https://github.com/getwoven/crane
-  category: Deployment Automation
 
 docjure:
   name: Docjure
@@ -423,6 +418,8 @@ gaka:
   url: https://github.com/briancarper/gaka
   category: CSS Generation
 
+# Consider removing since author now endorses fireplace:
+# https://twitter.com/kotarak/status/432166576050434048
 vimclojure:
   name: VimClojure
   url: https://bitbucket.org/kotarak/vimclojure
@@ -1496,7 +1493,7 @@ camel_snake_kebab:
 lein_midje_doc:
   name: MidjeDoc
   url: https://github.com/zcaudate/lein-midje-doc
-  category: Documentation Tools
+  category: Documentation Tools, Continuous Testing
 
 cronj:
   name: Cronj
@@ -1640,7 +1637,7 @@ javelin:
 
 boot:
   name: boot
-  url: https://github.com/tailrecursion/boot
+  url: https://github.com/boot-clj/boot
   category: Build Tools
 
 ring_rewrite:
@@ -1958,6 +1955,11 @@ pretty:
   url: https://github.com/AvisoNovate/pretty
   category: Exception Handling, Terminal Utilities
 
+fipp:
+  name: Fipp
+  url: https://github.com/brandonbloom/fipp
+  category: Exception Handling, Terminal Utilities
+
 tracker:
   name: Tracker
   url: https://github.com/AvisoNovate/tracker
@@ -1992,3 +1994,27 @@ hikari-cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   category: Connection Pools
+
+clj-jade:
+  url: https://github.com/ryangreenhall/clj-jade
+  category: Template Languages
+
+vim-redl:
+  url: https://github.com/dgrnbrg/vim-redl
+  category: Vim Integration
+
+vim-clojure-static:
+  url: https://github.com/guns/vim-clojure-static
+  category: Vim Integration
+
+vim-sexp:
+  url: https://github.com/guns/vim-sexp
+  category: Vim Integration
+
+reagent:
+  url: https://github.com/reagent-project/reagent
+  category: HTTP Clients
+
+om:
+  url: https://github.com/swannodette/om
+  category: HTTP Clients
