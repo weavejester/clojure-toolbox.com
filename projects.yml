@@ -1843,6 +1843,11 @@ zeus:
   url: https://github.com/chmllr/zeus
   category: Compression
 
+swindon:
+  name: swindon
+  url: https://github.com/AeroNotix/swindon
+  category: Compression
+
 lein-jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
