@@ -358,11 +358,6 @@ conduit:
   url: https://github.com/jduey/conduit
   category: Stream Processing
 
-crane:
-  name: crane
-  url: https://github.com/getwoven/crane
-  category: Deployment Automation
-
 docjure:
   name: Docjure
   url: https://github.com/ative/docjure
