@@ -1698,6 +1698,11 @@ nginx_clojure:
   url: https://github.com/xfeep/nginx-clojure
   category: HTTP Servers
 
+cryogen:
+  name: Cryogen
+  url : https://github.com/lacarmen/cryogen
+  category: Static Site Generation
+
 stasis:
   name: Stasis
   url: https://github.com/magnars/stasis
