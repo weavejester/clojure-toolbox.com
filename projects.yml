@@ -1435,7 +1435,7 @@ clj_ml:
 
 clj_bigml:
   name: clj-bigml
-  url: https://github.com/antoniogarrote/clj-bigml
+  url: https://github.com/bigmlcom/clj-bigml
   category: Machine Learning
 
 enclog:
