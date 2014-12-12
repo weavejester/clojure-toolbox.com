@@ -2002,3 +2002,8 @@ duckling:
   name: Duckling
   url: http://duckling-lib.org/
   category: Date and Time, Parsing
+
+clj_thymeleaf:
+  name: clj-thymeleaf
+  url: https://github.com/plakat/clj-thymeleaf
+  category: Template Languages
