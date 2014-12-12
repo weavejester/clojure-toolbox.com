@@ -1696,7 +1696,12 @@ core_typed:
 schema:
   name: Schema
   url: https://github.com/Prismatic/schema
-  category: Validation
+  category: Schema, Validation
+
+herbert:
+  name: Herbert
+  url: https://github.com/miner/herbert
+  category: Schema, Validation
 
 nginx_clojure:
   name: Nginx-Clojure
