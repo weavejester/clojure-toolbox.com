@@ -771,7 +771,12 @@ cats:
 core_match:
   name: core.match
   url: https://github.com/clojure/core.match
-  category: Functional Programming
+  category: Functional Programming, Pattern Matching
+
+defun:
+  name: defun
+  url: https://github.com/killme2008/defun
+  category: Pattern Matching
 
 core_incubator:
   name: core.incubator
