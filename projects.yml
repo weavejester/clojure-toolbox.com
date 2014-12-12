@@ -307,6 +307,11 @@ lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
   category: Asynchronous Programming
+  
+manifold:
+  name: Manifold
+  url: https://github.com/ztellman/manifold
+  category: Asynchronous Programming
 
 core_async:
   name: core.async
