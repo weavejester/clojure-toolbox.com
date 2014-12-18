@@ -2037,3 +2037,8 @@ oj:
   name: OJ
   url: https://github.com/taylorlapeyre/oj
   category: SQL Abstraction
+
+clj_tuple:
+  name: clj-tuple
+  url: https://github.com/ztellman/clj-tuple
+  category: Performance, Data Structures
