@@ -2027,3 +2027,8 @@ backtick:
   name: backtick
   url: https://github.com/brandonbloom/backtick
   category: Macros, Code Generation
+
+oj:
+  name: OJ
+  url: https://github.com/taylorlapeyre/oj
+  category: SQL Abstraction
