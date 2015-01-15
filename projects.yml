@@ -135,7 +135,7 @@ ring:
 
 clj_http:
   name: clj-http
-  url: https://github.com/mmcgrana/clj-http
+  url: https://github.com/dakrone/clj-http 
   category: HTTP Clients
 
 ring_httpcore_adapter:
