@@ -2042,3 +2042,8 @@ clj_tuple:
   name: clj-tuple
   url: https://github.com/ztellman/clj-tuple
   category: Performance, Data Structures
+
+lein_typescript:
+  name: lein-typescript
+  url: https://github.com/vbauer/lein-typescript
+  category: Javascript Generation
