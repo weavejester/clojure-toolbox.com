@@ -1,3 +1,13 @@
+sparkling:
+  name: Sparkling
+  url: https://github.com/gorillalabs/sparkling
+  category: Distributed Programming
+  
+config:
+  name: Config
+  url: https://github.com/gorillalabs/config
+  category: Configuration
+
 leiningen:
   name: Leiningen
   url: https://github.com/technomancy/leiningen
