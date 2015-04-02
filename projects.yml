@@ -838,6 +838,11 @@ nrepl:
   url: https://github.com/clojure/tools.nrepl
   category: REPLs
 
+ultra:
+  name: Ultra
+  url: https://github.com/venantius/ultra
+  category: REPLs, Unit Testing
+
 monger:
   name: Monger
   url: http://clojuremongodb.info/
