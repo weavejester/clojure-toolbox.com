@@ -1102,6 +1102,11 @@ clojure_jdbc:
   name: clojure.jdbc (unofficial)
   url: https://github.com/niwibe/clojure.jdbc
   category: SQL Clients
+  
+suricatta:
+  name: suricatta
+  url: https://github.com/niwibe/suricatta
+  category: SQL Clients, SQL Abstraction
 
 tower:
   name: Tower
