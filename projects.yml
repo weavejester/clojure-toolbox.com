@@ -2067,3 +2067,8 @@ lein_typescript:
   name: lein-typescript
   url: https://github.com/vbauer/lein-typescript
   category: Javascript Generation
+
+tesser:
+  name: Tesser
+  url: https://github.com/aphyr/tesser
+  category: Distributed Programming
