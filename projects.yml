@@ -1973,6 +1973,11 @@ examine:
   url: https://github.com/friemen/examine
   category: Validation
 
+validata:
+  name: Validata
+  url: https://github.com/bluemont/validata
+  category: Validation
+
 parsargs:
   name: Parsargs
   url: https://github.com/friemen/parsargs
