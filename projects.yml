@@ -1363,6 +1363,11 @@ byte_streams:
   url: https://github.com/ztellman/byte-streams
   category: Java Integration
 
+munge_tout:
+  name: munge-tout
+  url: https://github.com/flybe-dev/munge-tout
+  category: Java Integration
+
 endophile:
   name: Endophile
   url: https://github.com/theJohnnyBrown/endophile
