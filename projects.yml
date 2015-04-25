@@ -2092,3 +2092,8 @@ tesser:
   name: Tesser
   url: https://github.com/aphyr/tesser
   category: Distributed Programming
+
+yaclot:
+  name: Yaclot
+  url: https://github.com/konrad-garus/yaclot
+  category: Data Coercion
