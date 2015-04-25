@@ -1798,6 +1798,11 @@ conformity:
   url: https://github.com/rkneufeld/conformity
   category: Datomic
 
+datomic_schema:
+  name: datomic-schema
+  url: https://github.com/Yuppiechef/datomic-schema
+  category: Datomic
+
 ring_codec:
   name: Ring-Codec
   url: https://github.com/ring-clojure/ring-codec
