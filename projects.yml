@@ -813,6 +813,11 @@ watchtower:
   url: https://github.com/ibdknox/watchtower
   category: Filesystem Watchers
 
+hawk:
+  name: Hawk
+  url: https://github.com/wkf/hawk
+  category: Filesystem Watchers
+
 kibit:
   name: Kibit
   url: https://github.com/jonase/kibit
