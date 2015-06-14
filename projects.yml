@@ -2097,3 +2097,8 @@ yaclot:
   name: Yaclot
   url: https://github.com/konrad-garus/yaclot
   category: Data Coercion
+  
+clojurecl:
+  name: ClojureCL
+  url: http://clojurecl.uncomplicate.org/
+  category: OpenCL, Performance, GPGPU, Parallel Computing
