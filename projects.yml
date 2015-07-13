@@ -2103,3 +2103,7 @@ suchwow:
   url: https://github.com/marick/suchwow
   category: Misc. Functions
 
+clojurecl:
+  name: ClojureCL
+  url: http://clojurecl.uncomplicate.org/
+  category: OpenCL
