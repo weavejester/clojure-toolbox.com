@@ -2097,3 +2097,9 @@ yaclot:
   name: Yaclot
   url: https://github.com/konrad-garus/yaclot
   category: Data Coercion
+
+suchwow:
+  name: Suchwow
+  url: https://github.com/marick/suchwow
+  category: Misc. Functions
+
