@@ -237,6 +237,11 @@ http_kit:
   name: http-kit
   url: http://http-kit.org/
   category: Asynchronous HTTP, HTTP Servers
+  
+catacumba:
+  name: Catacumba
+  url: https://github.com/funcool/catacumba
+  category: Asynchronous HTTP, HTTP Servers, Ring Adapters
 
 ring_server:
   name: Ring-Server
