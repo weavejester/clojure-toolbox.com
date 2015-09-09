@@ -1803,6 +1803,11 @@ datomic_schema:
   url: https://github.com/Yuppiechef/datomic-schema
   category: Datomic
 
+tupelo_datomic:
+  name: Tupelo Datomic
+  url: https://github.com/cloojure/tupelo
+  category: Datomic
+
 ring_codec:
   name: Ring-Codec
   url: https://github.com/ring-clojure/ring-codec
