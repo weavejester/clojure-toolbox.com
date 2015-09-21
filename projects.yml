@@ -2122,3 +2122,8 @@ clojurecl:
   name: ClojureCL
   url: http://clojurecl.uncomplicate.org/
   category: OpenCL
+
+happy:
+  name: happy
+  url: https://github.com/jeluard/happy
+  category: HTTP Clients
