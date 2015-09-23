@@ -2122,3 +2122,8 @@ clojurecl:
   name: ClojureCL
   url: http://clojurecl.uncomplicate.org/
   category: OpenCL
+
+closp:
+  name: Closp
+  url: https://github.com/sveri/closp
+  category: Web Frameworks
