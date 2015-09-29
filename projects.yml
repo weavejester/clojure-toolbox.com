@@ -2127,3 +2127,8 @@ closp:
   name: Closp
   url: https://github.com/sveri/closp
   category: Web Frameworks
+
+happy:
+  name: happy
+  url: https://github.com/jeluard/happy
+  category: HTTP Clients
