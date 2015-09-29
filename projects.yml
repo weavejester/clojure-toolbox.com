@@ -1948,7 +1948,7 @@ play_clj:
   url: https://github.com/oakes/play-clj
   category: Game Development
 
-brute:
+clecs:
   name: clecs
   url: https://github.com/muhuk/clecs
   category: Game Development
