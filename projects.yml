@@ -2104,6 +2104,12 @@ herbert:
   category: Schema, Validation
   platforms: [clj]
 
+annotate:
+  name: Annotate
+  url: https://github.com/roomkey/annotate
+  category: Schema, Validation
+  platforms: [clj]
+
 nginx_clojure:
   name: Nginx-Clojure
   url: https://github.com/xfeep/nginx-clojure
