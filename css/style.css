@@ -177,6 +177,11 @@ html.no-js #project-list, html.no-js footer {
     color: #fff;
 }
 
+#main .platform.cljs {
+    background: #e99;
+    color: #fff;
+}
+
 footer {
   bottom: 0;
   left: 0;

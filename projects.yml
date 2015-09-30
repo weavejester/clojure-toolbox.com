@@ -1880,7 +1880,7 @@ medley:
   name: Medley
   url: https://github.com/weavejester/medley
   category: Misc. Functions
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 plumbing:
   name: Plumbing
@@ -1958,7 +1958,7 @@ component:
   name: Component
   url: https://github.com/stuartsierra/component
   category: Reloaded Workflow
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 jig:
   name: Jig
