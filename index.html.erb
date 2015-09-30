@@ -76,24 +76,7 @@
     <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.11.3.min.js"%3E%3C/script%3E'))</script>
 
     <script src="js/jquery.masonry.min.js"></script>
-    <script>
-      $('#project-list').
-        masonry({ transitionDuration: 0, columnWidth: 260 }).
-        css({visibility: 'visible'});
-      $('footer').css({visibility: 'visible'});
-
-      $('#search-query').on('change keyup paste input', function(event) {
-        var query    = $.trim(event.target.value.toLowerCase());
-        var projects = $('#project-list li');
-        if (query == '') {
-          projects.show();
-        } else {
-          projects.hide().filter('[data-search*="' + query + '"]').show();
-        }
-        $('#project-list .category').show().not(':has(li:visible)').hide();
-        $('#project-list').masonry('layout');
-      });
-    </script>
+    <script src="js/main.js"></script>
 
     <!--[if lt IE 7 ]>
       <script src="js/libs/dd_belatedpng.js"></script>
