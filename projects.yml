@@ -682,6 +682,12 @@ fleetdb:
   category: Databases
   platforms: [clj]
 
+datascript:
+  name: DataScript
+  url: https://github.com/tonsky/datascript
+  category: Databases
+  platforms: [cljs]
+
 jiraph:
   name: Jiraph
   url: https://github.com/ninjudd/jiraph
