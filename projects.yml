@@ -2589,3 +2589,27 @@ brutha:
   url: https://github.com/weavejester/brutha
   category: React Interface
   platforms: [cljs]
+
+ring_jetty_component:
+  name: Ring-Jetty-Component
+  url: https://github.com/weavejester/ring-jetty-component
+  category: Components
+  platforms: [clj]
+
+duct_hikaricp_component:
+  name: Duct-HikariCP-Component
+  url: https://github.com/weavejester/duct-hikaricp-component
+  category: Components
+  platforms: [clj]
+
+duct_ragtime_component:
+  name: Duct-Ragtime-Component
+  url: https://github.com/weavejester/duct-ragtime-component
+  category: Components
+  platforms: [clj]
+
+duct_figwheel_component:
+  name: Duct-Figwheel-Component
+  url: https://github.com/weavejester/duct-figwheel-component
+  category: Components
+  platforms: [clj]
