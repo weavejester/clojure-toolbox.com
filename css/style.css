@@ -164,7 +164,7 @@ html.no-js #project-list, html.no-js footer {
 }
 
 #main {
-  margin: auto;
+  margin: 0 auto 45px auto;
   width: 780px;
   font-size: 11pt;
 }
