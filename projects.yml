@@ -166,6 +166,18 @@ lazy_test:
   category: Unit Testing
   platforms: [clj]
 
+eftest:
+  name: Eftest
+  url: https://github.com/weavejester/eftest
+  category: Unit Testing, Test Runners
+  platforms: [clj]
+
+bolth:
+  name: Bolth
+  url: https://github.com/yeller/bolth
+  category: Unit Testing, Test Runners
+  platforms: [clj]
+
 speclj:
   name: Speclj
   url: http://speclj.com
