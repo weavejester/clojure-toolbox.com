@@ -1603,7 +1603,7 @@ reagi:
 pedestal:
   name: Pedestal
   url: http://pedestal.io/
-  category: Web Frameworks, Asynchronous HTTP
+  category: Web Frameworks, Asynchronous HTTP, Web Server Abstraction
   platforms: [clj]
 
 honey_sql:
