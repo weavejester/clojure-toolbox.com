@@ -13,7 +13,7 @@ projects.each do |project|
   end
 end
 
-template = ERB.new(File.read("src/index.html.erb"))
+template = ERB.new(File.read("index.html.erb"))
 
 File.open("index.html", "w") do |f|
   f.write(template.result)
