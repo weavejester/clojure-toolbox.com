@@ -162,6 +162,21 @@ html.no-js #project-list, html.no-js footer {
   text-decoration: none;
 }
 
+#main .platform {
+    display: inline-block;
+    border-radius: 4px;
+    color: #666;
+    background: #ddd;
+    margin: 0 2px;
+    padding: 0 3px;
+    font-size: 9pt;
+}
+
+#main .platform.clj {
+    background: #8be;
+    color: #fff;
+}
+
 footer {
   bottom: 0;
   left: 0;

@@ -2,2133 +2,2560 @@ sparkling:
   name: Sparkling
   url: https://github.com/gorillalabs/sparkling
   category: Distributed Programming
+  platforms: [clj]
   
 config:
   name: Config
   url: https://github.com/gorillalabs/config
   category: Configuration
+  platforms: [clj]
 
 leiningen:
   name: Leiningen
   url: https://github.com/technomancy/leiningen
   category: Build Tools
+  platforms: [clj]
 
 ring_json:
   name: ring-json
   url: https://github.com/ring-clojure/ring-json
   category: Request Middleware, Response Middleware
+  platforms: [clj]
 
 ring_basic_authentication:
   name: ring-basic-authentication
   url: https://github.com/remvee/ring-basic-authentication
   category: Authentication
+  platforms: [clj]
 
 friend:
   name: Friend
   url: https://github.com/cemerick/friend
   category: Authentication, Authorization
+  platforms: [clj]
 
 buddy:
   name: Buddy
   url: https://github.com/niwibe/buddy
   category: Authentication, Authorization, Cryptography, Hashing
+  platforms: [clj]
 
 pocheshiro:
   name: Pocheshiro
   url: https://github.com/inventiLT/Pocheshiro
   category: Authentication
+  platforms: [clj]
 
 ring_gzip_middleware:
   name: ring-gzip-middleware
   url: https://github.com/mikejs/ring-gzip-middleware
   category: Request Middleware
+  platforms: [clj]
 
 enlive:
   name: Enlive
   url: https://github.com/cgrand/enlive
   category: Template Languages
+  platforms: [clj]
 
 selmer:
   name: Selmer
   url: https://github.com/yogthos/Selmer
   category: Template Languages
+  platforms: [clj]
 
 hiccup:
   name: Hiccup
   url: https://github.com/weavejester/hiccup
   category: Template Languages, HTML Generation
+  platforms: [clj]
 
 ring_etag_middleware:
   name: ring-etag-middleware
   url: https://github.com/mikejs/ring-etag-middleware
   category: Request Middleware
+  platforms: [clj]
 
 ring_upload_progress:
   name: ring-upload-progress
   url: https://github.com/joodie/ring-upload-progress
   category: Request Middleware
+  platforms: [clj]
 
 clj_airbrake:
   name: clj-airbrake
   url: https://github.com/leadtune/clj-airbrake
   category: Exception Handling
+  platforms: [clj]
 
 compojure:
   name: Compojure
   url: https://github.com/weavejester/compojure
   category: Web Frameworks
+  platforms: [clj]
 
 moustache:
   name: Moustache
   url: https://github.com/cgrand/moustache
   category: Web Frameworks
+  platforms: [clj]
 
 joodo:
   name: Joodo
   url: http://joodoweb.com
   category: Web Frameworks
+  platforms: [clj]
 
 ring-mock:
   name: Ring-Mock
   url: https://github.com/weavejester/ring-mock
   category: Web Testing
+  platforms: [clj]
 
 kerodon:
   name: Kerodon
   url: https://github.com/xeqi/kerodon
   category: Web Testing
+  platforms: [clj]
 
 peridot:
   name: Peridot
   url: https://github.com/xeqi/peridot
   category: Web Testing
+  platforms: [clj]
 
 ring_netty_adapter:
   name: ring-netty-adapter
   url: https://github.com/datskos/ring-netty-adapter
   category: Ring Adapters
+  platforms: [clj]
 
 ring_mongrel2_adapter:
   name: ring-mongrel2-adapter
   url: https://github.com/mikejs/ring-mongrel2-adapter
   category: Ring Adapters
+  platforms: [clj]
 
 rrss:
   name: RRSS
   url: https://github.com/paraseba/rrss
   category: Ring Sessions
+  platforms: [clj]
   
 ring_ttl_session:
   name: ring-ttl-session
   url: https://github.com/boechat107/ring-ttl-session
   category: Ring Sessions
+  platforms: [clj]
 
 mongodb_session:
   name: mongodb-session
   url: https://github.com/hozumi/mongodb-session
   category: Ring Sessions
+  platforms: [clj]
 
 midje:
   name: Midje
   url: https://github.com/marick/Midje
   category: Unit Testing
+  platforms: [clj]
 
 lazy_test:
   name: Lazytest
   url: https://github.com/stuartsierra/lazytest
   category: Unit Testing
+  platforms: [clj]
 
 speclj:
   name: Speclj
   url: http://speclj.com
   category: Unit Testing
+  platforms: [clj]
 
 ring:
   name: Ring
   url: https://github.com/ring-clojure/ring
   category: Web Server Abstraction
+  platforms: [clj]
 
 clj_http:
   name: clj-http
   url: https://github.com/dakrone/clj-http 
   category: HTTP Clients
+  platforms: [clj]
 
 ring_httpcore_adapter:
   name: ring-httpcore-adapter
   url: https://github.com/mmcgrana/ring-httpcore-adapter
   category: Ring Adapters
+  platforms: [clj]
 
 conjure:
   name: Conjure
   url: http://github.com/macourtney/Conjure
   category: Web Frameworks
+  platforms: [clj]
 
 incanter:
   name: Incanter
   url: http://incanter.org/
   category: Statistical Computing, Math
+  platforms: [clj]
 
 clojail:
   name: Clojail
   url: https://github.com/flatland/clojail
   category: Sandboxes
+  platforms: [clj]
 
 congo_mongo:
   name: CongoMongo
   url: https://github.com/aboekhoff/congomongo
   category: MongoDB Clients
+  platforms: [clj]
 
 karras:
   name: Karras
   url: https://github.com/wilkes/karras
   category: MongoDB Clients
+  platforms: [clj]
 
 fleet:
   name: Fleet
   url: https://github.com/Flamefork/fleet
   category: Template Languages
+  platforms: [clj]
 
 hyperion:
   name: Hyperion
   url: https://github.com/8thlight/hyperion
   category: SQL Abstraction
+  platforms: [clj]
 
 clojureql:
   name: ClojureQL
   url: https://github.com/LauJensen/clojureql
   category: SQL Abstraction
+  platforms: [clj]
 
 postal:
   name: Postal
   url: https://github.com/drewr/postal
   category: Email Sending
+  platforms: [clj]
 
 clj_mail:
   name: clj-mail
   url: https://github.com/MayDaniel/clj-mail
   category: Email Sending
+  platforms: [clj]
 
 mailer:
   name: Mailer
   url: https://github.com/clojurewerkz/mailer
   category: Email Sending
+  platforms: [clj]
 
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
   category: WAR File Generation, Ring Development
+  platforms: [clj]
 
 lein_beanstalk:
   name: lein-beanstalk
   url: https://github.com/weavejester/lein-beanstalk
   category: Deployment Automation
+  platforms: [clj]
 
 leiningen_war:
   name: Leinginen War Plugin
   url: https://github.com/alienscience/leiningen-war
   category: WAR File Generation
+  platforms: [clj]
 
 aleph:
   name: Aleph
   url: https://github.com/ztellman/aleph
   category: Asynchronous HTTP
+  platforms: [clj]
 
 jet:
   name: jet
   url: https://github.com/mpenet/jet
   category: Asynchronous HTTP, HTTP Servers, HTTP Clients
+  platforms: [clj]
 
 http_kit:
   name: http-kit
   url: http://http-kit.org/
   category: Asynchronous HTTP, HTTP Servers
+  platforms: [clj]
   
 catacumba:
   name: Catacumba
   url: https://github.com/funcool/catacumba
   category: Asynchronous HTTP, HTTP Servers, Ring Adapters
+  platforms: [clj]
 
 ring_server:
   name: Ring-Server
   url: https://github.com/weavejester/ring-server
   category: Ring Development
+  platforms: [clj]
 
 clutch:
   name: Clutch
   url: https://github.com/clojure-clutch/clutch
   category: CouchDB Clients
+  platforms: [clj]
 
 appengine_magic:
   name: appengine-magic
   url: https://github.com/gcv/appengine-magic
   category: Google App Engine
+  platforms: [clj]
 
 gaeshi:
   name: gaeshi
   url: https://github.com/slagyr/gaeshi
   category: Google App Engine
+  platforms: [clj]
 
 http_async_client:
   name: http.async.client
   url: https://github.com/neotyk/http.async.client
   category: HTTP Clients
+  platforms: [clj]
 
 clj_stacktrace:
   name: clj-stacktrace
   url: https://github.com/mmcgrana/clj-stacktrace
   category: Exception Handling
+  platforms: [clj]
 
 redis_clojure:
   name: redis-clojure
   url: https://github.com/tavisrudd/redis-clojure
   category: Redis Clients
+  platforms: [clj]
 
 clj_redis:
   name: clj-redis
   url: https://github.com/mmcgrana/clj-redis
   category: Redis Clients
+  platforms: [clj]
 
 sandbar:
   name: Sandbar
   url: https://github.com/brentonashworth/sandbar
   category: Authentication, Ring Sessions, Validation
+  platforms: [clj]
 
 metis:
   name: Metis
   url: https://github.com/mylesmegyesi/metis
   category: Validation
+  platforms: [clj]
 
 validateur:
   name: Validateur
   url: https://github.com/michaelklishin/validateur
   category: Validation
+  platforms: [clj]
 
 vlad:
   name: Vlad
   url: https://github.com/logaan/vlad
   category: Validation
+  platforms: [clj]
 
 marginalia:
   name: Marginalia
   url: https://github.com/fogus/marginalia
   category: Documentation Tools
+  platforms: [clj]
 
 autodoc:
   name: Autodoc
   url: https://github.com/tomfaulhaber/autodoc
   category: Documentation Tools
+  platforms: [clj]
 
 clj_yaml:
   name: clj-yaml
   url: https://github.com/lancepantz/clj-yaml
   category: YAML Parsers
+  platforms: [clj]
 
 lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
   category: Asynchronous Programming
+  platforms: [clj]
   
 manifold:
   name: Manifold
   url: https://github.com/ztellman/manifold
   category: Asynchronous Programming
+  platforms: [clj]
 
 core_async:
   name: core.async
   url: https://github.com/clojure/core.async
   category: Asynchronous Programming
+  platforms: [clj]
 
 irclj:
   name: irclj
   url: https://github.com/flatland/irclj
   category: IRC Bots
+  platforms: [clj]
 
 subrosa:
   name: Subrosa
   url: https://github.com/danlarkin/subrosa
   category: IRC Servers
+  platforms: [clj]
 
 rummage:
   name: Rummage
   url: https://github.com/cemerick/rummage
   category: SimpleDB Clients
+  platforms: [clj]
 
 penumbra:
   name: Penumbra
   url: https://github.com/ztellman/penumbra
   category: Graphics
+  platforms: [clj]
 
 quil:
   name: quil
   url: https://github.com/quil/quil
   category: Graphics
+  platforms: [clj]
 
 pallet:
   name: Pallet
   url: http://pallet.github.com/pallet/
   category: Deployment Automation
+  platforms: [clj]
 
 cascalog:
   name: Cascalog
   url: https://github.com/nathanmarz/cascalog
   category: Distributed Programming
+  platforms: [clj]
 
 swarmiji:
   name: swarmiji
   url: https://github.com/amitrathore/swarmiji
   category: Distributed Programming
+  platforms: [clj]
 
 conduit:
   name: Conduit
   url: https://github.com/jduey/conduit
   category: Stream Processing
+  platforms: [clj]
 
 docjure:
   name: Docjure
   url: https://github.com/ative/docjure
   category: MS Office Documents
+  platforms: [clj]
 
 overtone:
   name: Overtone
   url: https://github.com/overtone/overtone
   category: Music &amp; Sound Synthesis
+  platforms: [clj]
 
 lein_js:
   name: lein-js
   url: https://github.com/maravillas/lein-js
   category: Javascript Minimization
+  platforms: [clj]
 
 swank_clojure:
   name: swank-clojure
   url: https://github.com/technomancy/swank-clojure
   category: Emacs Integration
+  platforms: [clj]
 
 cider:
   name: CIDER
   url: https://github.com/clojure-emacs/cider
   category: Emacs Integration
+  platforms: [clj]
 
 lein_namespace_depends:
   name: lein-namespace-depends
   url: https://github.com/hugoduncan/lein-namespace-depends
   category: Dependency Management
+  platforms: [clj]
 
 lein_diagnostics:
   name: lein-diagnostics
   url: https://github.com/robwolfe/lein-diagnostics
   category: Dependency Management
+  platforms: [clj]
 
 chlorinejs:
   name: chlorinejs
   url: https://github.com/chlorinejs/chlorine
   category: Javascript Generation
+  platforms: [clj]
 
 scriptjure:
   name: Scriptjure
   url: https://github.com/arohner/scriptjure
   category: Javascript Generation
+  platforms: [clj]
 
 clojurejs:
   name: clojurejs
   url: https://github.com/kriyative/clojurejs
   category: Javascript Generation
+  platforms: [clj]
 
 cssgen:
   name: cssgen
   url: https://github.com/paraseba/cssgen
   category: CSS Generation
+  platforms: [clj]
 
 gaka:
   name: Gaka
   url: https://github.com/briancarper/gaka
   category: CSS Generation
+  platforms: [clj]
 
 vimclojure:
   name: VimClojure
   url: https://bitbucket.org/kotarak/vimclojure
   category: Vim Integration
+  platforms: [clj]
 
 session_expiry:
   name: session-expiry
   url: https://github.com/hozumi/session-expiry
   category: Ring Sessions
+  platforms: [clj]
 
 ring_session_riak:
   name: ring-session-riak
   url: https://github.com/ossareh/ring-session-riak
   category: Ring Sessions
+  platforms: [clj]
 
 clout:
   name: Clout
   url: http://github.com/weavejester/clout
   category: Ring Routing
+  platforms: [clj]
 
 counterclockwise:
   name: Counterclockwise
   url: http://code.google.com/p/counterclockwise/
   category: IDE Integration
+  platforms: [clj]
 
 cursive:
   name: Cursive Clojure
   url: https://cursiveclojure.com
   category: IDE Integration
+  platforms: [clj]
 
 wabbitmq:
   name: WabbitMQ
   url: https://github.com/mefesto/wabbitmq
   category: Message Queues, RabbitMQ Clients
+  platforms: [clj]
 
 jnanomsg:
   name: jnanomsg
   url: https://github.com/niwibe/jnanomsg
   category: Message Queues
+  platforms: [clj]
 
 bandalore:
   name: Bandalore
   url: https://github.com/cemerick/bandalore
   category: Message Queues
+  platforms: [clj]
 
 clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
   category: Machine Learning
+  platforms: [clj]
 
 infer:
   name: Infer
   url: https://github.com/aria42/infer
   category: Machine Learning
+  platforms: [clj]
 
 clj_json:
   name: clj-json
   url: https://github.com/mmcgrana/clj-json
   category: JSON Parsers
+  platforms: [clj]
 
 clojuresque:
   name: clojuresque
   url: https://bitbucket.org/kotarak/clojuresque/src
   category: Build Tools
+  platforms: [clj]
 
 clj_time:
   name: clj-time
   url: https://github.com/seancorfield/clj-time
   category: Date and Time
+  platforms: [clj]
 
 clojure_joda_time:
   name: Clojure.Joda-Time
   url: https://github.com/dm3/clojure.joda-time
   category: Date and Time
+  platforms: [clj]
 
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
   category: Neo4j Clients
+  platforms: [clj]
 
 mycroft:
   name: Mycroft
   url: https://github.com/relevance/mycroft
   category: Debugging
+  platforms: [clj]
 
 cdt:
   name: CDT
   url: http://georgejahad.com/clojure/cdt.html
   category: Debugging
+  platforms: [clj]
 
 debug_repl:
   name: debug-repl
   url: https://github.com/georgejahad/debug-repl
   category: Debugging
+  platforms: [clj]
 
 lein_cdt:
   name: lein-cdt
   url: https://github.com/travis/lein-cdt
   category: Debugging
+  platforms: [clj]
 
 dr_evil:
   name: Dr. Evil
   url: https://bitbucket.org/tebeka/dr-evil/src
   category: Debugging
+  platforms: [clj]
 
 ritz:
   name: Ritz
   url: https://github.com/pallet/ritz
   category: Debugging
+  platforms: [clj]
 
 fleetdb:
   name: FleetDB (inactive)
   url: https://github.com/mmcgrana/fleetdb
   category: Databases
+  platforms: [clj]
 
 jiraph:
   name: Jiraph
   url: https://github.com/ninjudd/jiraph
   category: Databases
+  platforms: [clj]
 
 clj_digest:
   name: digest
   url: https://bitbucket.org/tebeka/clj-digest/src
   category: Cryptography, Hashing
+  platforms: [clj]
 
 crypto_random:
   name: crypto-random
   url: https://github.com/weavejester/crypto-random
   category: Cryptography
+  platforms: [clj]
 
 analemma:
   name: Analemma
   url: https://github.com/liebke/analemma
   category: SVG Generation
+  platforms: [clj]
 
 clj_tagsoup:
   name: clj-tagsoup
   url: https://github.com/nathell/clj-tagsoup
   category: HTML Parsers
+  platforms: [clj]
 
 webmine:
   name: Webmine
   url: https://github.com/tol/webmine
   category: HTML Parsers
+  platforms: [clj]
 
 lein_retest:
   name: lein-retest
   url: https://github.com/technomancy/lein-retest
   category: Continuous Testing
+  platforms: [clj]
 
 prism:
   name: prism
   url: https://github.com/aphyr/prism
   category: Continuous Testing
+  platforms: [clj]
 
 lobos:
   name: Lobos
   url: http://budu.github.com/lobos
   category: Database Migrations, SQL Abstraction
+  platforms: [clj]
 
 ring_anti_forgery:
   name: ring-anti-forgery
   url: https://github.com/weavejester/ring-anti-forgery
   category: Ring Security
+  platforms: [clj]
 
 tikkba:
   name: Tikkba
   url: https://github.com/pallix/tikkba
   category: SVG Generation
+  platforms: [clj]
 
 beanstalk:
   name: beanstalk
   url: https://github.com/drsnyder/beanstalk
   category: Message Queues
+  platforms: [clj]
 
 spine:
   name: Spine
   url: https://github.com/mmcgrana/spine
   category: Message Queues
+  platforms: [clj]
 
 slamhound:
   name: Slamhound
   url: https://github.com/technomancy/slamhound
   category: Code Generation
+  platforms: [clj]
 
 cheshire:
   name: Cheshire
   url: https://github.com/dakrone/cheshire
   category: JSON Parsers
+  platforms: [clj]
 
 faker:
   name: Faker
   url: https://github.com/paraseba/faker
   category: Random Data Generation
+  platforms: [clj]
 
 re_rand:
   name: re-rand
   url: https://github.com/weavejester/re-rand
   category: Random Data Generation
+  platforms: [clj]
 
 clucy:
   name: Clucy
   url: https://github.com/weavejester/clucy
   category: Text Search
+  platforms: [clj]
 
 tools.macro:
   name: tools.macro
   url: https://github.com/clojure/tools.macro
   category: Macros
+  platforms: [clj]
 
 thread_expr:
   name: thread-expr
   url: https://github.com/pallet/thread-expr
   category: Macros
+  platforms: [clj]
 
 syntax_rules:
   name: syntax-rules
   url: https://github.com/qbg/syntax-rules
   category: Macros
+  platforms: [clj]
 
 tools.logging:
   name: tools.logging
   url: https://github.com/clojure/tools.logging
   category: Logging
+  platforms: [clj]
 
 calx:
   name: Calx
   url: https://github.com/ztellman/calx
   category: OpenCL
+  platforms: [clj]
 
 clansi:
   name: Clansi
   url: https://github.com/ams-clj/clansi
   category: Terminal Utilities
+  platforms: [clj]
 
 seesaw:
   name: Seesaw
   url: https://github.com/daveray/seesaw
   category: GUIs
+  platforms: [clj]
 
 clojure_opennlp:
   name: Clojure-OpenNLP
   url: https://github.com/dakrone/clojure-opennlp
   category: Natural Language
+  platforms: [clj]
 
 inflections_clj:
   name: inflections-clj
   url: https://github.com/r0man/inflections-clj
   category: Natural Language
+  platforms: [clj]
 
 noir:
   name: Noir
   url: http://webnoir.org/
   category: Web Frameworks
+  platforms: [clj]
 
 snowball_stemmer:
   name: Snowball Stemmer
   url: https://github.com/weavejester/snowball-stemmer
   category: Text Search
+  platforms: [clj]
 
 korma:
   name: Korma
   url: http://sqlkorma.com/
   category: SQL Abstraction
+  platforms: [clj]
 
 slingshot:
   name: Slingshot
   url: https://github.com/scgilardi/slingshot
   category: Exception Handling
+  platforms: [clj]
 
 clojurebot:
   name: clojurebot
   url: https://github.com/hiredman/clojurebot
   category: IRC Bots
+  platforms: [clj]
 
 lazybot:
   name: lazybot
   url: http://lazybot.org/
   category: IRC Bots
+  platforms: [clj]
 
 gloss:
   name: Gloss
   url: https://github.com/ztellman/gloss
   category: Parsing, Binary Data
+  platforms: [clj]
 
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
   category: Logic Programming
+  platforms: [clj]
 
 ns_tracker:
   name: ns-tracker
   url: https://github.com/weavejester/ns-tracker
   category: Filesystem Watchers, Namespace Utilities
+  platforms: [clj]
 
 migratus:
   name: Migratus
   url: https://github.com/pjstadig/migratus
   category: Database Migrations
+  platforms: [clj]
 
 drift:
   name: Drift
   url: https://github.com/macourtney/drift
   category: Database Migrations
+  platforms: [clj]
 
 ragtime:
   name: Ragtime
   url: https://github.com/weavejester/ragtime
   category: Database Migrations
+  platforms: [clj]
 
 joplin:
   name: Joplin
   url: https://github.com/juxt/joplin
   category: Database Migrations
+  platforms: [clj]
 
 clj-sql-up:
   name: clj-sql-up
   url: https://github.com/ckuttruff/clj-sql-up
   category: Database Migrations
+  platforms: [clj]
 
 clj_aws_s3:
   name: clj-aws-s3
   url: https://github.com/weavejester/clj-aws-s3
   category: S3 Clients
+  platforms: [clj]
 
 codox:
   name: Codox
   url: https://github.com/weavejester/codox
   category: Documentation Tools
+  platforms: [clj]
 
 avout:
   name: Avout
   url: http://avout.io/
   category: Distributed Programming
+  platforms: [clj]
 
 algo_generic:
   name: algo.generic
   url: https://github.com/clojure/algo.generic
   category: Functional Programming
+  platforms: [clj]
 
 algo_monads:
   name: algo.monads
   url: https://github.com/clojure/algo.monads
   category: Functional Programming, Monads
+  platforms: [clj]
 
 cats:
   name: cats
   url: https://github.com/niwibe/cats
   category: Functional Programming, Monads
+  platforms: [clj]
 
 core_match:
   name: core.match
   url: https://github.com/clojure/core.match
   category: Functional Programming, Pattern Matching
+  platforms: [clj]
 
 defun:
   name: defun
   url: https://github.com/killme2008/defun
   category: Pattern Matching
+  platforms: [clj]
 
 core_incubator:
   name: core.incubator
   url: https://github.com/clojure/core.incubator
   category: Functional Programming
+  platforms: [clj]
 
 core_cache:
   name: core.cache
   url: https://github.com/clojure/core.cache
   category: Caching
+  platforms: [clj]
 
 core_memoize:
   name: core.memoize
   url: https://github.com/clojure/core.memoize
   category: Caching
+  platforms: [clj]
 
 watchtower:
   name: Watchtower
   url: https://github.com/ibdknox/watchtower
   category: Filesystem Watchers
+  platforms: [clj]
 
 hawk:
   name: Hawk
   url: https://github.com/wkf/hawk
   category: Filesystem Watchers
+  platforms: [clj]
 
 kibit:
   name: Kibit
   url: https://github.com/jonase/kibit
   category: Code Analysis
+  platforms: [clj]
 
 clostache:
   name: Clostache
   url: https://github.com/fhd/clostache
   category: Template Languages
+  platforms: [clj]
 
 parse-ez:
   name: Parse-EZ
   url: https://github.com/protoflex/parse-ez
   category: Parsing
+  platforms: [clj]
 
 qseq:
   name: qseq
   url: https://github.com/mccraigmccraig/qseq
   category: SQL Abstraction
+  platforms: [clj]
 
 nrepl:
   name: nREPL
   url: https://github.com/clojure/tools.nrepl
   category: REPLs
+  platforms: [clj]
 
 ultra:
   name: Ultra
   url: https://github.com/venantius/ultra
   category: REPLs, Unit Testing
+  platforms: [clj]
 
 monger:
   name: Monger
   url: http://clojuremongodb.info/
   category: MongoDB Clients
+  platforms: [clj]
 
 langohr:
   name: Langohr
   url: https://github.com/michaelklishin/langohr
   category: Message Queues, RabbitMQ Clients
+  platforms: [clj]
 
 neocons:
   name: Neocons
   url: https://github.com/michaelklishin/neocons
   category: Neo4j Clients
+  platforms: [clj]
 
 welle:
   name: Welle
   url: http://clojureriak.info/
   category: Riak Clients
+  platforms: [clj]
 
 quartzite:
   name: Quartzite
   url: http://clojurequartz.info/
   category: Scheduling
+  platforms: [clj]
 
 spyglass:
   name: Spyglass
   url: https://github.com/clojurewerkz/spyglass
   category: Memcached Clients, Caching
+  platforms: [clj]
 
 cassaforte:
   name: Cassaforte
   url: https://github.com/clojurewerkz/cassaforte
   category: Cassandra Clients
+  platforms: [clj]
 
 elastisch:
   name: Elastisch
   url: https://github.com/clojurewerkz/elastisch
   category: ElasticSearch Clients, Text Search
+  platforms: [clj]
 
 crouton:
   name: Crouton
   url: https://github.com/weavejester/crouton
   category: HTML Parsers
+  platforms: [clj]
 
 rotary:
   name: Rotary
   url: https://github.com/weavejester/rotary
   category: DynamoDB Clients
+  platforms: [clj]
 
 crypto_keystore:
   name: crypto-keystore
   url: https://github.com/weavejester/crypto-keystore
   category: Cryptography
+  platforms: [clj]
 
 conch:
   name: Conch
   url: https://github.com/Raynes/conch
   category: Terminal Utilities
+  platforms: [clj]
 
 markdown_clj:
   name: markdown-clj
   url: https://github.com/yogthos/markdown-clj
   category: Markdown Parsers
+  platforms: [clj]
 
 cegdown:
   name: Cegdown
   url: https://github.com/Raynes/cegdown
   category: Markdown Parsers
+  platforms: [clj]
 
 clj_pdf:
   name: clj-pdf
   url: https://github.com/yogthos/clj-pdf
   category: PDF Generation
+  platforms: [clj]
 
 clj_rss:
   name: clj-rss
   url: https://github.com/yogthos/clj-rss
   category: RSS Generation
+  platforms: [clj]
 
 ring_buffer:
   name: ring-buffer
   url: https://github.com/amalloy/ring-buffer
   category: Data Structures
+  platforms: [clj]
 
 ordered:
   name: ordered
   url: https://github.com/flatland/ordered
   category: Data Structures
+  platforms: [clj]
 
 immutable_int_map:
   name: data.int-map
   url: https://github.com/clojure/data.int-map
   category: Data Structures, Performance
+  platforms: [clj]
 
 immutable_bitset:
   name: immutable-bitset
   url: https://github.com/ztellman/immutable-bitset
   category: Data Structures, Performance
+  platforms: [clj]
 
 shake:
   name: Shake
   url: https://github.com/sunng87/shake
   category: Terminal Utilities
+  platforms: [clj]
 
 protocol_monads:
   name: protocol-monads
   url: https://github.com/jduey/protocol-monads
   category: Functional Programming, Monads
+  platforms: [clj]
 
 lein_pedantic:
   name: lein-pedantic
   url: https://github.com/xeqi/lein-pedantic
   category: Dependency Management
+  platforms: [clj]
 
 stencil:
   name: Stencil
   url: https://github.com/davidsantiago/stencil
   category: Template Languages
+  platforms: [clj]
 
 tinsel:
   name: Tinsel
   url: https://github.com/davidsantiago/tinsel
   category: Template Languages
+  platforms: [clj]
 
 clj_webdriver:
   name: clj-webdriver
   url: https://github.com/semperos/clj-webdriver
   category: Web Testing
+  platforms: [clj]
 
 evaljs:
   name: evaljs
   url: https://github.com/weavejester/evaljs
   category: Javascript Integration
+  platforms: [clj]
 
 clj_rhino:
   name: clj-rhino
   url: https://github.com/marianoguerra/clj-rhino
   category: Javascript Integration
+  platforms: [clj]
 
 liberator:
   name: Liberator
   url: http://clojure-liberator.github.io/liberator
   category: RESTful Web Services
+  platforms: [clj]
 
 bishop:
   name: Bishop
   url: https://github.com/cmiles74/bishop
   category: RESTful Web Services
+  platforms: [clj]
 
 mississippi:
   name: Mississippi
   url: https://github.com/mikejones/mississippi
   category: Validation
+  platforms: [clj]
 
 bouncer:
   name: Bouncer
   url: https://github.com/leonardoborges/bouncer
   category: Validation
+  platforms: [clj]
 
 data_union_find:
   name: data.union-find
   url: https://github.com/jordanlewis/data.union-find
   category: Data Structures
+  platforms: [clj]
 
 comb:
   name: Comb
   url: https://github.com/weavejester/comb
   category: Template Languages
+  platforms: [clj]
 
 clabango:
   name: Clabango
   url: https://github.com/danlarkin/clabango
   category: Template Languages
+  platforms: [clj]
 
 luminus:
   name: Luminus
   url: http://www.luminusweb.net/
   category: Web Frameworks
+  platforms: [clj]
 
 pantomime:
   name: Pantomime
   url: https://github.com/michaelklishin/pantomime
   category: MIME Types
+  platforms: [clj]
 
 data_json:
   name: data.json
   url: https://github.com/clojure/data.json
   category: JSON Parsers
+  platforms: [clj]
 
 data_csv:
   name: data.csv
   url: https://github.com/clojure/data.csv
   category: CSV Parsers
+  platforms: [clj]
 
 basil:
   name: Basil
   url: https://github.com/kumarshantanu/basil
   category: Template Languages
+  platforms: [clj]
 
 hickory:
   name: Hickory
   url: https://github.com/davidsantiago/hickory
   category: HTML Parsers
+  platforms: [clj]
 
 fireplace_vim:
   name: fireplace.vim
   url: https://github.com/tpope/vim-fireplace
   category: Vim Integration
+  platforms: [clj]
 
 necessary_evil:
   name: necessary-evil
   url: https://github.com/brehaut/necessary-evil
   category: XML-RPC
+  platforms: [clj]
 
 fs:
   name: fs
   url: https://github.com/Raynes/fs
   category: Filesystem Utilities
+  platforms: [clj]
 
 tools_namespace:
   name: tools.namespace
   url: https://github.com/clojure/tools.namespace
   category: Namespace Utilities
+  platforms: [clj]
 
 bultitude:
   name: Bultitude
   url: https://github.com/Raynes/bultitude
   category: Namespace Utilities
+  platforms: [clj]
 
 ojo:
   name: Ojo
   url: https://github.com/rplevy/ojo
   category: Filesystem Watchers
+  platforms: [clj]
 
 filevents:
   name: filevents
   url: https://github.com/Raynes/filevents
   category: Filesystem Watchers
+  platforms: [clj]
 
 innuendo:
   name: Innuendo
   url: https://github.com/Raynes/innuendo
   category: Web API Clients
+  platforms: [clj]
 
 ororo:
   name: Ororo
   url: https://github.com/Raynes/ororo
   category: Web API Clients
+  platforms: [clj]
 
 tentacles:
   name: Tentacles
   url: https://github.com/Raynes/tentacles
   category: Web API Clients
+  platforms: [clj]
 
 clavatar:
   name: Clavatar
   url: https://github.com/Raynes/clavatar
   category: Web API Clients
+  platforms: [clj]
 
 datomic:
   name: Datomic
   url: http://www.datomic.com/
   category: Databases
+  platforms: [clj]
 
 clojure_jdbc:
   name: clojure.jdbc (unofficial)
   url: https://github.com/niwibe/clojure.jdbc
   category: SQL Clients
+  platforms: [clj]
   
 suricatta:
   name: suricatta
   url: https://github.com/niwibe/suricatta
   category: SQL Clients, SQL Abstraction
+  platforms: [clj]
 
 tower:
   name: Tower
   url: https://github.com/ptaoussanis/tower
   category: Internationalization
+  platforms: [clj]
 
 j18n:
   name: j18n
   url: https://bitbucket.org/kotarak/j18n
   category: Internationalization
+  platforms: [clj]
 
 at_at:
   name: at-at
   url: https://github.com/overtone/at-at
   category: Scheduling
+  platforms: [clj]
 
 ring_ratelimit:
   name: ring-ratelimit
   url: https://github.com/myfreeweb/ring-ratelimit
   category: Response Middleware
+  platforms: [clj]
 
 clisk:
   name: Clisk
   url: https://github.com/mikera/clisk
   category: Graphics
+  platforms: [clj]
 
 kern:
   name: Kern
   url: https://github.com/blancas/kern
   category: Parsing
+  platforms: [clj]
 
 morph:
   name: Morph
   url: https://github.com/blancas/morph
   category: Functional Programming, Monads
+  platforms: [clj]
 
 babbage:
   name: Babbage
   url: https://github.com/ReadyForZero/babbage
   category: Functional Programming
+  platforms: [clj]
 
 crypto_password:
   name: crypto-password
   url: https://github.com/weavejester/crypto-password
   category: Cryptography, Password Security
+  platforms: [clj]
 
 scrypt:
   name: scrypt
   url: https://github.com/clojurewerkz/scrypt
   category: Cryptography, Password Security
+  platforms: [clj]
 
 criterium:
   name: Criterium
   url: https://github.com/hugoduncan/criterium
   category: Benchmarking
+  platforms: [clj]
 
 data_priority_map:
   name: data.priority-map
   url: https://github.com/clojure/data.priority-map
   category: Data Structures
+  platforms: [clj]
 
 data_finger_tree:
   name: data.finger-tree
   url: https://github.com/clojure/data.finger-tree
   category: Data Structures
+  platforms: [clj]
 
 clonfig:
   name: clonfig
   url: https://github.com/mccraigmccraig/clonfig
   category: Configuration
+  platforms: [clj]
 
 environ:
   name: Environ
   url: https://github.com/weavejester/environ
   category: Configuration
+  platforms: [clj]
 
 least:
   name: Least
   url: https://github.com/Raynes/least
   category: Web API Clients
+  platforms: [clj]
 
 repetition-hunter:
   name: repetition-hunter
   url: https://github.com/mynomoto/repetition-hunter
   category: Code Analysis
+  platforms: [clj]
 
 garden:
   name: Garden
   url: https://github.com/noprompt/garden
   category: CSS Generation
+  platforms: [clj]
 
 instaparse:
   name: Instaparse
   url: https://github.com/Engelberg/instaparse
   category: Parsing
+  platforms: [clj]
 
 fungp:
   name: fungp
   url: https://github.com/probabilityZero/fungp
   category: Machine Learning
+  platforms: [clj]
 
 conf_er:
   name: conf-er
   url: https://github.com/TouchType/conf-er
   category: Configuration
+  platforms: [clj]
 
 monads:
   name: monads
   url: https://github.com/bwo/monads
   category: Functional Programming, Monads
+  platforms: [clj]
 
 core_rrb_vector:
   name: core.rrb-vector
   url: https://github.com/clojure/core.rrb-vector
   category: Data Structures
+  platforms: [clj]
 
 carbonite:
   name: Carbonite
   url: https://github.com/sritchie/carbonite
   category: Serialization
+  platforms: [clj]
 
 deep_freeze:
   name: Deep Freeze
   url: https://github.com/halgari/deep-freeze
   category: Serialization
+  platforms: [clj]
 
 nippy:
   name: Nippy
   url: https://github.com/ptaoussanis/nippy
   category: Serialization
+  platforms: [clj]
 
 tools_reader:
   name: tools.reader
   url: https://github.com/clojure/tools.reader
   category: Serialization
+  platforms: [clj]
 
 casyn:
   name: Casyn
   url: https://github.com/mpenet/casyn
   category: Cassandra Clients
+  platforms: [clj]
 
 alia:
   name: Alia
   url: https://github.com/mpenet/alia
   category: Cassandra Clients
+  platforms: [clj]
 
 clearley:
   name: Clearley
   url: https://github.com/eightnotrump/clearley
   category: Parsing
+  platforms: [clj]
 
 tools_trace:
   name: tools.trace
   url: https://github.com/clojure/tools.trace
   category: Debugging
+  platforms: [clj]
 
 timbre:
   name: Timbre
   url: https://github.com/ptaoussanis/timbre
   category: Logging
+  platforms: [clj]
 
 sigmund:
   name: Sigmund
   url: https://github.com/zcaudate/sigmund
   category: Diagnostics
+  platforms: [clj]
 
 clj_message_digest:
   name: clj-message-digest
   url: https://github.com/ray1729/clj-message-digest
   category: Cryptography, Hashing
+  platforms: [clj]
 
 pandect:
   name: Pandect
   url: https://github.com/xsc/pandect
   category: Cryptography, Hashing
+  platforms: [clj]
 
 faraday:
   name: Faraday
   url: https://github.com/ptaoussanis/faraday
   category: DynamoDB Clients
+  platforms: [clj]
 
 touchstone:
   name: Touchstone
   url: https://github.com/ptaoussanis/touchstone
   category: A/B Testing
+  platforms: [clj]
 
 chime:
   name: Chime
   url: https://github.com/james-henderson/chime
   category: Scheduling
+  platforms: [clj]
 
 nomad:
   name: Nomad
   url: https://github.com/james-henderson/nomad
   category: Configuration
+  platforms: [clj]
 
 reagi:
   name: Reagi
   url: https://github.com/weavejester/reagi
   category: Reactive Programming
+  platforms: [clj]
 
 pedestal:
   name: Pedestal
   url: http://pedestal.io/
   category: Web Frameworks, Asynchronous HTTP
+  platforms: [clj]
 
 honey_sql:
   name: Honey SQL
   url: https://github.com/jkk/honeysql
   category: SQL Abstraction
+  platforms: [clj]
 
 carmine:
   name: Carmine
   url: https://github.com/ptaoussanis/carmine
   category: Redis Clients
+  platforms: [clj]
 
 clojure-watch:
   name: Clojure Watch
   url: https://github.com/derekchiang/Clojure-Watch
   category: Filesystem Watchers
+  platforms: [clj]
 
 megaref:
   name: megaref
   url: https://github.com/cgrand/megaref
   category: Concurrency
+  platforms: [clj]
 
 fast_zip:
   name: fast-zip
   url: https://github.com/akhudek/fast-zip
   category: Data Structures, Performance, Zippers
+  platforms: [clj]
 
 clojure_csv:
   name: Clojure-CSV
   url: https://github.com/davidsantiago/clojure-csv
   category: CSV Parsers
+  platforms: [clj]
 
 fluokitten:
   name: Fluokitten
   url: http://fluokitten.uncomplicate.org/
   category: Functional Programming, Monads
+  platforms: [clj]
 
 byte_streams:
   name: byte-streams
   url: https://github.com/ztellman/byte-streams
   category: Java Integration
+  platforms: [clj]
 
 munge_tout:
   name: munge-tout
   url: https://github.com/flybe-dev/munge-tout
   category: Java Integration
+  platforms: [clj]
 
 endophile:
   name: Endophile
   url: https://github.com/theJohnnyBrown/endophile
   category: Markdown Parsers
+  platforms: [clj]
 
 hiphip:
   name: HipHip
   url: https://github.com/Prismatic/hiphip
   category: Java Integration, Performance
+  platforms: [clj]
 
 proteus:
   name: Proteus
   url: https://github.com/ztellman/proteus
   category: Performance
+  platforms: [clj]
 
 vertigo:
   name: Vertigo
   url: https://github.com/ztellman/vertigo
   category: Performance
+  platforms: [clj]
 
 chp:
   name: ClojureHomePage
   url: https://github.com/runexec/chp/
   category: Web Frameworks
+  platforms: [clj]
 
 vectorz_clj:
   name: vectorz-clj
   url: https://github.com/mikera/vectorz-clj
   category: Math
+  platforms: [clj]
 
 math_numeric_tower:
   name: math.numeric-tower
   url: https://github.com/clojure/math.numeric-tower
   category: Math
+  platforms: [clj]
 
 potemkin:
   name: Potemkin
   url: https://github.com/ztellman/potemkin
   category: Macros, Namespace Utilities
+  platforms: [clj]
 
 clj-excel:
   name: clj-excel
   url: https://github.com/mebaran/clj-excel
   category: MS Office Documents
+  platforms: [clj]
 
 spreadmap:
   name: spreadmap
   url: https://github.com/cgrand/spreadmap
   category: MS Office Documents
+  platforms: [clj]
 
 lein-ancient:
   name: lein-ancient
   url: https://github.com/xsc/lein-ancient
   category: Dependency Management
+  platforms: [clj]
 
 lein-plz:
   name: lein-plz
   url: https://github.com/johnwalker/lein-plz
   category: Dependency Management
+  platforms: [clj]
 
 euclidean:
   name: Euclidean
   url: https://github.com/weavejester/euclidean
   category: Math
+  platforms: [clj]
 
 route_one:
   name: Route One
   url: https://github.com/clojurewerkz/route-one
   category: Ring Routing
+  platforms: [clj]
 
 red_tape:
   name: Red Tape
   url: http://sjl.bitbucket.org/red-tape/
   category: Validation
+  platforms: [clj]
 
 ring_undertow_adapter:
   name: ring-undertow-adapter
   url: https://github.com/piranha/ring-undertow-adapter
   category: Ring Adapters
+  platforms: [clj]
 
 tools_cli:
   name: tools.cli
   url: https://github.com/clojure/tools.cli
   category: Command Line Tools
+  platforms: [clj]
 
 clojure_android:
   name: clojure-android
   url: https://github.com/clojure-android
   category: Android
+  platforms: [clj]
 
 clj_ml:
   name: clj-ml
   url: https://github.com/antoniogarrote/clj-ml
   category: Machine Learning
+  platforms: [clj]
 
 clj_bigml:
   name: clj-bigml
   url: https://github.com/bigmlcom/clj-bigml
   category: Machine Learning
+  platforms: [clj]
 
 enclog:
   name: enclog
   url: https://github.com/jimpil/enclog
   category: Machine Learning
+  platforms: [clj]
 
 expresso:
   name: expresso
   url: https://github.com/clojure-numerics/expresso
   category: Math
+  platforms: [clj]
 
 core_matrix:
   name: core.matrix
   url: https://github.com/mikera/matrix-api
   category: Math
+  platforms: [clj]
 
 clatrix:
   name: clatrix
   url: https://github.com/tel/clatrix
   category: Math
+  platforms: [clj]
   
 neanderthal:
   name: Neanderthal Matrix
   url: http://neanderthal.uncomplicate.org
   category: Math
+  platforms: [clj]
 
 crypto_equality:
   name: crypto-equality
   url: https://github.com/weavejester/crypto-equality
   category: Cryptography
+  platforms: [clj]
 
 merkle:
   name: Merkle
   url: https://github.com/aphyr/merkle
   category: Data Structures
+  platforms: [clj]
 
 manners:
   name: Manners
   url: https://github.com/RyanMcG/manners
   category: Validation
+  platforms: [clj]
 
 riddley:
   name: Riddley
   url: https://github.com/ztellman/riddley
   category: Code Generation
+  platforms: [clj]
 
 sleight:
   name: Sleight
   url: https://github.com/ztellman/sleight
   category: Code Generation
+  platforms: [clj]
 
 camel_snake_kebab:
   name: Camel-Snake-Kebab
   url: https://github.com/qerub/camel-snake-kebab
   category: String Manipulation
+  platforms: [clj]
 
 lein_midje_doc:
   name: MidjeDoc
   url: https://github.com/zcaudate/lein-midje-doc
   category: Documentation Tools
+  platforms: [clj]
 
 cronj:
   name: Cronj
   url: https://github.com/zcaudate/cronj
   category: Scheduling
+  platforms: [clj]
 
 ribol:
   name: Ribol
   url: https://github.com/zcaudate/ribol
   category: Exception Handling
+  platforms: [clj]
 
 abracad:
   name: Abracad
   url: https://github.com/damballa/abracad
   category: Serialization
+  platforms: [clj]
 
 useful:
   name: Useful
   url: https://github.com/flatland/useful
   category: Misc. Functions
+  platforms: [clj]
 
 medley:
   name: Medley
   url: https://github.com/weavejester/medley
   category: Misc. Functions
+  platforms: [clj]
 
 plumbing:
   name: Plumbing
   url: https://github.com/prismatic/plumbing
   category: Misc. Functions
+  platforms: [clj]
 
 dire:
   name: Dire
   url: https://github.com/MichaelDrogalis/dire
   category: Exception Handling
+  platforms: [clj]
 
 closerve:
   name: CloServe
   url: https://github.com/zhaojw/closerve
   category: Web Frameworks
+  platforms: [clj]
 
 overload_middleware:
   name: overload-middleware
   url: https://github.com/rkday/overload-middleware
   category: Response Middleware
+  platforms: [clj]
 
 caribou:
   name: Caribou
   url: http://let-caribou.in/
   category: Web Frameworks
+  platforms: [clj]
 
 sqlingvo:
   name: SQLingvo
   url: https://github.com/r0man/sqlingvo
   category: SQL Abstraction
+  platforms: [clj]
 
 optimus:
   name: Optimus
   url: https://github.com/magnars/optimus
   category: Front-end Optimization
+  platforms: [clj]
 
 verily:
   name: Verily
   url: https://github.com/jkk/verily
   category: Validation
+  platforms: [clj]
 
 valip:
   name: Valip
   url: https://github.com/weavejester/valip
   category: Validation
+  platforms: [clj]
 
 lein_test_refresh:
   name: lein-test-refresh
   url: https://github.com/jakemcc/lein-test-refresh
   category: Continuous Testing
+  platforms: [clj]
 
 quickie:
   name: quickie
   url: https://github.com/jakepearson/quickie
   category: Continuous Testing
+  platforms: [clj]
 
 annagreta:
   name: annagreta
   url: https://github.com/molst/annagreta
   category: Authorization
+  platforms: [clj]
 
 component:
   name: Component
   url: https://github.com/stuartsierra/component
   category: Reloaded Workflow
+  platforms: [clj]
 
 jig:
   name: Jig
   url: https://github.com/juxt/jig
   category: Reloaded Workflow
+  platforms: [clj]
 
 pisto:
   name: pisto
   url: https://github.com/molst/pisto
   category: Reloaded Workflow
+  platforms: [clj]
 
 reloaded_repl:
   name: reloaded.repl
   url: https://github.com/weavejester/reloaded.repl
   category: Reloaded Workflow
+  platforms: [clj]
 
 buffy:
   name: Buffy
   url: https://github.com/clojurewerkz/buffy
   category: Parsing, Binary Data
+  platforms: [clj]
 
 immutant:
   name: Immutant
   url: http://immutant.org/
   category: HTTP Servers
+  platforms: [clj]
 
 ring_async:
   name: ring-async
   url: https://github.com/ninjudd/ring-async
   category: Asynchronous HTTP
+  platforms: [clj]
 
 hoplon:
   name: hoplon
   url: https://github.com/tailrecursion/hoplon
   category: Web Frameworks, HTML Generation
+  platforms: [clj]
 
 castra:
   name: castra
   url: https://github.com/tailrecursion/castra
   category: RPC
+  platforms: [clj]
 
 slacker:
   name: Slacker
   url: https://github.com/sunng87/slacker
   category: RPC
+  platforms: [clj]
 
 javelin:
   name: javelin
   url: https://github.com/tailrecursion/javelin
   category: Reactive Programming
+  platforms: [clj]
 
 boot:
   name: boot
   url: https://github.com/tailrecursion/boot
   category: Build Tools
+  platforms: [clj]
 
 ring_rewrite:
   name: ring-rewrite
   url: https://github.com/ebaxt/ring-rewrite
   category: Request Middleware, Response Middleware
+  platforms: [clj]
 
 ring_ssl:
   name: ring-ssl
   url: https://github.com/ring-clojure/ring-ssl
   category: Ring Security
+  platforms: [clj]
 
 pigpen:
   name: PigPen
   url: https://github.com/Netflix/PigPen
   category: Distributed Programming
+  platforms: [clj]
 
 gudu:
   name: gudu
   url: https://github.com/thatismatt/gudu
   category: Ring Routing
+  platforms: [clj]
 
 bidi:
   name: bidi
   url: https://github.com/juxt/bidi
   category: Ring Routing
+  platforms: [clj]
 
 schmetterling:
   name: Schmetterling
   url: https://github.com/prismofeverything/schmetterling
   category: Debugging
+  platforms: [clj]
 
 biomass:
   name: biomass
   url: https://github.com/smnirven/biomass
   category: Mechanical Turk Clients
+  platforms: [clj]
 
 swiss_arrows:
   name: swiss-arrows
   url: https://github.com/rplevy/swiss-arrows
   category: Macros
+  platforms: [clj]
 
 synthread:
   name: SynThread
   url: https://github.com/LonoCloud/synthread
   category: Macros
+  platforms: [clj]
 
 core_typed:
   name: core.typed
   url: https://github.com/clojure/core.typed
   category: Static Typing
+  platforms: [clj]
 
 schema:
   name: Schema
   url: https://github.com/Prismatic/schema
   category: Schema, Validation
+  platforms: [clj]
 
 herbert:
   name: Herbert
   url: https://github.com/miner/herbert
   category: Schema, Validation
+  platforms: [clj]
 
 nginx_clojure:
   name: Nginx-Clojure
   url: https://github.com/xfeep/nginx-clojure
   category: HTTP Servers
+  platforms: [clj]
 
 cryogen:
   name: Cryogen
   url : https://github.com/lacarmen/cryogen
   category: Static Site Generation
+  platforms: [clj]
 
 stasis:
   name: Stasis
   url: https://github.com/magnars/stasis
   category: Static Site Generation
+  platforms: [clj]
 
 misaki:
   name: misaki
   url: https://github.com/liquidz/misaki
   category: Static Site Generation
+  platforms: [clj]
 
 madness:
   name: Madness
   url: http://algernon.github.io/madness/
   category: Static Site Generation
+  platforms: [clj]
 
 static:
   name: Static
   url: http://algernon.github.io/madness/
   category: Static Site Generation
+  platforms: [clj]
 
 ecstatic:
   name: Ecstatic
   url: http://samrat.me/ecstatic/
   category: Static Site Generation
+  platforms: [clj]
 
 incise:
   name: Incise
   url: https://github.com/RyanMcG/incise
   category: Static Site Generation
+  platforms: [clj]
 
 ring_http_response:
   name: ring-http-response
   url: https://github.com/metosin/ring-http-response
   category: Ring Utilities
+  platforms: [clj]
 
 bacwn:
   name: Bacwn
   url: https://github.com/tailrecursion/bacwn
   category: Datalog
+  platforms: [clj]
 
 datalog:
   name: datalog
   url: https://github.com/martintrojer/datalog
   category: Datalog
+  platforms: [clj]
 
 conformity:
   name: conformity
   url: https://github.com/rkneufeld/conformity
   category: Datomic
+  platforms: [clj]
 
 datomic_schema:
   name: datomic-schema
   url: https://github.com/Yuppiechef/datomic-schema
   category: Datomic
+  platforms: [clj]
 
 tupelo_datomic:
   name: Tupelo Datomic
   url: https://github.com/cloojure/tupelo
   category: Datomic
+  platforms: [clj]
 
 ring_codec:
   name: Ring-Codec
   url: https://github.com/ring-clojure/ring-codec
   category: Encoding/Decoding
+  platforms: [clj]
 
 data_codec:
   name: data.codec
   url: https://github.com/clojure/data.codec
   category: Encoding/Decoding
+  platforms: [clj]
 
 claypoole:
   name: Claypoole
   url: https://github.com/TheClimateCorporation/claypoole/
   category: Concurrency
+  platforms: [clj]
 
 clj_template:
   name: clj-template
   url: https://github.com/brennonyork/clj-template
   category: Template Languages, HTML Generation
+  platforms: [clj]
 
 eastwood:
   name: Eastwood
   url: https://github.com/jonase/eastwood
   category: Code Analysis
+  platforms: [clj]
 
 stch_routing:
   name: stch.routing
   url: https://github.com/stch-library/routing
   category: Web Frameworks
+  platforms: [clj]
 
 stch_html:
   name: stch.html
   url: https://github.com/stch-library/html
   category: HTML Generation
+  platforms: [clj]
 
 stch_sql:
   name: stch.sql
   url: https://github.com/stch-library/sql
   category: SQL Abstraction
+  platforms: [clj]
 
 stch_schema:
   name: stch.schema
   url: https://github.com/stch-library/schema
   category: Validation
+  platforms: [clj]
 
 stch_stateful:
   name: stch.stateful
   url: https://github.com/stch-library/stateful
   category: Request Middleware, Response Middleware
+  platforms: [clj]
 
 stch_ns:
   name: stch.ns
   url: https://github.com/stch-library/ns
   category: Namespace Utilities
+  platforms: [clj]
 
 expectations:
   name: Expectations
   url: http://jayfields.com/expectations/
   category: Unit Testing
+  platforms: [clj]
 
 drip:
   name: Drip
   url: https://github.com/ninjudd/drip
   category: Preloaders
+  platforms: [clj]
 
 grenchman:
   name: Grenchman
   url: https://github.com/technomancy/grenchman
   category: Preloaders
+  platforms: [clj]
 
 quick:
   name: quick-clojure
   url: https://github.com/benwbooth/quick-clojure
   category: Preloaders
+  platforms: [clj]
 
 puget:
   name: Puget
   url: https://github.com/greglook/puget
   category: Command Line Tools
+  platforms: [clj]
 
 lein-hiera:
   name: lein-hiera
   url: https://github.com/greglook/lein-hiera
   category: Code Analysis
+  platforms: [clj]
 
 clj-pgp:
   name: clj-pgp
   url: https://github.com/greglook/clj-pgp
   category: Cryptography
+  platforms: [clj]
 
 zeus:
   name: zeus
   url: https://github.com/chmllr/zeus
   category: Compression
+  platforms: [clj]
 
 swindon:
   name: swindon
   url: https://github.com/AeroNotix/swindon
   category: Compression
+  platforms: [clj]
 
 lein-jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
   category: Code Analysis
+  platforms: [clj]
 
 lein-jshint:
   name: lein-jshint
   url: https://github.com/vbauer/lein-jshint
   category: Code Analysis
+  platforms: [clj]
 
 lein-plantuml:
   name: lein-plantuml
   url: https://github.com/vbauer/lein-plantuml
   category: Documentation Tools
+  platforms: [clj]
 
 automat:
   name: Automat
   url: https://github.com/ztellman/automat
   category: State Machines, Performance, Parsing
+  platforms: [clj]
 
 brute:
   name: Brute
   url: https://github.com/markmandel/brute
   category: Game Development
+  platforms: [clj]
 
 play_clj:
   name: play-clj
   url: https://github.com/oakes/play-clj
   category: Game Development
+  platforms: [clj]
 
 clecs:
   name: clecs
   url: https://github.com/muhuk/clecs
   category: Game Development
+  platforms: [clj]
 
 data_zip:
   name: data.zip
   url: https://github.com/clojure/data.zip
   category: Zippers
+  platforms: [clj]
 
 zip_visit:
   name: zip-visit
   url: https://github.com/akhudek/zip-visit
   category: Zippers
+  platforms: [clj]
 
 humane_test_output:
   name: Humane Test Output
   url: https://github.com/pjstadig/humane-test-output
   category: Unit Testing
+  platforms: [clj]
 
 seqexp:
   name: Seqexp
   url: https://github.com/cgrand/seqexp
   category: Parsing, Code Generation
+  platforms: [clj]
 
 metam:
   name: Metam
   url: https://github.com/friemen/metam
   category: Code Generation
+  platforms: [clj]
 
 aggregate:
   name: Aggregate
   url: https://github.com/friemen/aggregate
   category: SQL Abstraction
+  platforms: [clj]
 
 examine:
   name: Examine
   url: https://github.com/friemen/examine
   category: Validation
+  platforms: [clj]
 
 validata:
   name: Validata
   url: https://github.com/bluemont/validata
   category: Validation
+  platforms: [clj]
 
 parsargs:
   name: Parsargs
   url: https://github.com/friemen/parsargs
   category: Parsing
+  platforms: [clj]
 
 frinj:
   name: Frinj
   url: https://github.com/martintrojer/frinj
   category: Measurement Units
+  platforms: [clj]
 
 minderbinder:
   name: Minderbinder
   url: https://github.com/fogus/minderbinder
   category: Measurement Units
+  platforms: [clj]
 
 parkour:
   name: Parkour
   url: https://github.com/damballa/parkour
   category: Distributed Programming
+  platforms: [clj]
 
 lein-asciidoctor:
   name: lein-asciidoctor
   url: https://github.com/asciidoctor/asciidoctor-lein-plugin
   category: Documentation Tools
+  platforms: [clj]
 
 yesql:
   name: Yesql
   url: https://github.com/krisajenkins/yesql
   category: SQL Abstraction
+  platforms: [clj]
 
 clojure_java_jdbc:
   name: clojure.java.jdbc
   url: https://github.com/clojure/java.jdbc
   category: SQL Clients
+  platforms: [clj]
 
 rook:
   name: Rook
   url: https://github.com/AvisoNovate/rook
   category: RESTful Web Services, Asynchronous HTTP
+  platforms: [clj]
 
 pretty:
   name: Pretty
   url: https://github.com/AvisoNovate/pretty
   category: Exception Handling, Terminal Utilities
+  platforms: [clj]
 
 tracker:
   name: Tracker
   url: https://github.com/AvisoNovate/tracker
   category: Debugging
+  platforms: [clj]
 
 twixt:
   name: Twixt
   url: https://github.com/AvisoNovate/twixt
   category: Web Frameworks
+  platforms: [clj]
 
 backplane:
   name: Backplane
   url: https://github.com/elasticlearn/backplane
   category: Message Queues
+  platforms: [clj]
 
 lein_coffeescript:
   name: lein-coffeescript
   url: https://github.com/vbauer/lein-coffeescript
   category: Javascript Generation
+  platforms: [clj]
 
 onyx:
   name: Onyx
   url: https://github.com/MichaelDrogalis/onyx
   category: Distributed Programming
+  platforms: [clj]
 
 synaptic:
   name: synaptic
   url: https://github.com/japonophile/synaptic
   category: Machine Learning
+  platforms: [clj]
 
 hikari-cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   category: Connection Pools
+  platforms: [clj]
 
 duckling:
   name: Duckling
   url: http://duckling-lib.org/
   category: Date and Time, Parsing
+  platforms: [clj]
 
 clj_thymeleaf:
   name: clj-thymeleaf
   url: https://github.com/plakat/clj-thymeleaf
   category: Template Languages
+  platforms: [clj]
 
 backtick:
   name: backtick
   url: https://github.com/brandonbloom/backtick
   category: Macros, Code Generation
+  platforms: [clj]
 
 oj:
   name: OJ
   url: https://github.com/taylorlapeyre/oj
   category: SQL Abstraction
+  platforms: [clj]
 
 clj_tuple:
   name: clj-tuple
   url: https://github.com/ztellman/clj-tuple
   category: Performance, Data Structures
+  platforms: [clj]
 
 lein_typescript:
   name: lein-typescript
   url: https://github.com/vbauer/lein-typescript
   category: Javascript Generation
+  platforms: [clj]
 
 tesser:
   name: Tesser
   url: https://github.com/aphyr/tesser
   category: Distributed Programming
+  platforms: [clj]
 
 yaclot:
   name: Yaclot
   url: https://github.com/konrad-garus/yaclot
   category: Data Coercion
+  platforms: [clj]
 
 suchwow:
   name: Suchwow
   url: https://github.com/marick/suchwow
   category: Misc. Functions
+  platforms: [clj]
 
 clojurecl:
   name: ClojureCL
   url: http://clojurecl.uncomplicate.org/
   category: OpenCL
+  platforms: [clj]
 
 closp:
   name: Closp
   url: https://github.com/sveri/closp
   category: Web Frameworks
+  platforms: [clj]
 
 happy:
   name: happy
   url: https://github.com/jeluard/happy
   category: HTTP Clients
+  platforms: [clj]

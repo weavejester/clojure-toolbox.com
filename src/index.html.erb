@@ -37,7 +37,12 @@
             <h2><%= category %></h2>
             <ul>
               <% projects.each do |project| %>
-              <li><a href="<%= project['url'] %>"><%= project['name'] %></a></li>
+              <li>
+                <a href="<%= project['url'] %>"><%= project['name'] %></a>
+                <% project['platforms'].each do |platform| %>
+                <span class="platform <%= platform %>"><%= platform %></span>
+                <% end %>
+              </li>
               <% end %>
             </ul>
           </div>
