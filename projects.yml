@@ -2096,7 +2096,7 @@ schema:
   name: Schema
   url: https://github.com/Prismatic/schema
   category: Schema, Validation
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 herbert:
   name: Herbert
