@@ -14,3 +14,5 @@ $('#search-query').on('change keyup paste input', function(event) {
     $('#project-list .category').show().not(':has(li:visible)').hide();
     $('#project-list').masonry('layout');
 });
+
+$('#search-query').focus();
