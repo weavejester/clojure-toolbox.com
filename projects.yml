@@ -1243,8 +1243,14 @@ clabango:
 luminus:
   name: Luminus
   url: http://www.luminusweb.net/
-  category: Web Frameworks
-  platforms: [clj]
+  category: Web Frameworks, Project Templates
+  platforms: [clj, cljs]
+
+duct:
+  name: Duct
+  url: https://github.com/weavejester/duct
+  category: Web Frameworks, Project Templates
+  platforms: [clj, cljs]
 
 pantomime:
   name: Pantomime
