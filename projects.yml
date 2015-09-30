@@ -2559,3 +2559,21 @@ happy:
   url: https://github.com/jeluard/happy
   category: HTTP Clients
   platforms: [clj]
+
+om:
+  name: Om
+  url: https://github.com/omcljs/om
+  category: React Interface
+  platforms: [cljs]
+
+reagent:
+  name: Reagent
+  url: https://reagent-project.github.io/
+  category: React Interface
+  platforms: [cljs]
+
+brutha:
+  name: Brutha
+  url: https://github.com/weavejester/brutha
+  category: React Interface
+  platforms: [cljs]
