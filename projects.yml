@@ -166,6 +166,12 @@ lazy_test:
   category: Unit Testing
   platforms: [clj]
 
+test_check:
+  name: test.check
+  url: https://github.com/clojure/test.check
+  category: Unit Testing, Random Data Generation
+  platforms: [clj, cljs]
+
 eftest:
   name: Eftest
   url: https://github.com/weavejester/eftest
