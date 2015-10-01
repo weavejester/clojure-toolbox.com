@@ -418,6 +418,12 @@ core_async:
   category: Asynchronous Programming, Syntax Extensions
   platforms: [clj, cljs]
 
+pulsar:
+  name: Pulsar
+  url: http://docs.paralleluniverse.co/pulsar/
+  category: Asynchronous Programming, Syntax Extensions
+  platforms: [clj]
+
 irclj:
   name: irclj
   url: https://github.com/flatland/irclj
