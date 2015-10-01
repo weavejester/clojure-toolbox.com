@@ -636,7 +636,7 @@ clj_json:
 
 clojuresque:
   name: clojuresque
-  url: https://bitbucket.org/kotarak/clojuresque/src
+  url: https://bitbucket.org/clojuresque/clojuresque
   category: Build Tools
   platforms: [clj]
 
