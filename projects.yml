@@ -2518,12 +2518,6 @@ twixt:
   category: Web Frameworks
   platforms: [clj]
 
-backplane:
-  name: Backplane
-  url: https://github.com/elasticlearn/backplane
-  category: Message Queues
-  platforms: [clj]
-
 lein_coffeescript:
   name: lein-coffeescript
   url: https://github.com/vbauer/lein-coffeescript
