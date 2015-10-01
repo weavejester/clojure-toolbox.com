@@ -2631,3 +2631,9 @@ duct_figwheel_component:
   url: https://github.com/weavejester/duct-figwheel-component
   category: Components
   platforms: [clj]
+
+dommy:
+  name: Dommy
+  url: https://github.com/Prismatic/dommy
+  category: DOM Manipulation
+  platforms: [cljs]
