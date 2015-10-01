@@ -512,7 +512,7 @@ cider:
   name: CIDER
   url: https://github.com/clojure-emacs/cider
   category: Emacs Integration
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 clojure_mode:
   name: Clojure Mode
@@ -1077,6 +1077,18 @@ nrepl:
   url: https://github.com/clojure/tools.nrepl
   category: REPLs
   platforms: [clj]
+
+refactor-nrepl:
+  name: Refactor nREPL
+  url: https://github.com/clojure-emacs/refactor-nrepl
+  category: nREPL Middleware
+  platforms: [clj, cljs]
+
+cider-nrepl:
+  name: CIDER nREPL
+  url: https://github.com/clojure-emacs/cider-nrepl
+  category: nREPL Middleware
+  platforms: [clj, cljs]
 
 ultra:
   name: Ultra
