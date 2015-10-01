@@ -490,6 +490,12 @@ overtone:
   category: Music &amp; Sound Synthesis
   platforms: [clj]
 
+hum:
+  name: Hum
+  url: https://github.com/mathias/hum
+  category: Music &amp; Sound Synthesis
+  platforms: [cljs]
+
 lein_js:
   name: lein-js
   url: https://github.com/maravillas/lein-js
