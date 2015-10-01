@@ -2362,6 +2362,12 @@ expect_call:
   category: Unit Testing
   platforms: [clj]
 
+iota:
+  name: iota
+  url: https://github.com/juxt/iota
+  category: Unit Testing
+  platforms: [clj]
+
 drip:
   name: Drip
   url: https://github.com/ninjudd/drip
