@@ -2703,3 +2703,15 @@ descjop:
   url: https://github.com/karad/lein_template_descjop
   category: Project Templates
   platforms: [cljs]
+
+spector:
+  name: Spector
+  url: https://github.com/nathanmarz/specter
+  category: Data Transformation, Functional Programming
+  platforms: [clj, cljs]
+
+traversy:
+  name: Traversy
+  url: https://github.com/ctford/traversy
+  category: Data Transformation, Functional Programming
+  platforms: [clj, cljs]
