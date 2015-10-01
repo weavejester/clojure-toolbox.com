@@ -1234,6 +1234,12 @@ lein_pedantic:
   category: Dependency Management
   platforms: [clj]
 
+mranderson:
+  name: MrAnderson
+  url: https://github.com/benedekfazekas/mranderson
+  category: Dependency Management
+  platforms: [clj]
+
 stencil:
   name: Stencil
   url: https://github.com/davidsantiago/stencil
