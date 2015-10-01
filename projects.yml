@@ -415,7 +415,7 @@ manifold:
 core_async:
   name: core.async
   url: https://github.com/clojure/core.async
-  category: Asynchronous Programming
+  category: Asynchronous Programming, Syntax Extensions
   platforms: [clj]
 
 irclj:
@@ -895,7 +895,7 @@ gloss:
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
-  category: Logic Programming
+  category: Logic Programming, Syntax Extensions
   platforms: [clj]
 
 ns_tracker:
@@ -973,13 +973,13 @@ cats:
 core_match:
   name: core.match
   url: https://github.com/clojure/core.match
-  category: Functional Programming, Pattern Matching
+  category: Functional Programming, Pattern Matching, Syntax Extensions
   platforms: [clj]
 
 defun:
   name: defun
   url: https://github.com/killme2008/defun
-  category: Pattern Matching
+  category: Pattern Matching, Syntax Extensions
   platforms: [clj]
 
 core_incubator:
