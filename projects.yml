@@ -2296,6 +2296,12 @@ expectations:
   category: Unit Testing
   platforms: [clj]
 
+expect_call:
+  name: expect-call
+  url: https://github.com/meredydd/expect-call
+  category: Unit Testing
+  platforms: [clj]
+
 drip:
   name: Drip
   url: https://github.com/ninjudd/drip
