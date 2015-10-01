@@ -2674,6 +2674,18 @@ brutha:
   category: React Interfaces
   platforms: [cljs]
 
+rum:
+  name: Rum
+  url: https://github.com/tonsky/rum
+  category: React Interfaces
+  platforms: [cljs]
+
+quiescent:
+  name: Quiescent
+  url: https://github.com/levand/quiescent
+  category: React Interfaces
+  platforms: [cljs]
+
 ring_jetty_component:
   name: Ring-Jetty-Component
   url: https://github.com/weavejester/ring-jetty-component
