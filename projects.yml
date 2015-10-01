@@ -1999,8 +1999,14 @@ annagreta:
 component:
   name: Component
   url: https://github.com/stuartsierra/component
-  category: Reloaded Workflow
+  category: Reloaded Workflow, Application Frameworks
   platforms: [clj, cljs]
+
+trapperkeeper:
+  name: Trapperkeeper
+  url: https://github.com/puppetlabs/trapperkeeper
+  category: Application Frameworks
+  platforms: [clj]
 
 jig:
   name: Jig
