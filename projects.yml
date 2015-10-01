@@ -2556,7 +2556,7 @@ hikari-cp:
 
 duckling:
   name: Duckling
-  url: http://duckling-lib.org/
+  url: https://github.com/wit-ai/duckling
   category: Date and Time, Parsing
   platforms: [clj]
 
