@@ -898,6 +898,12 @@ core_logic:
   category: Logic Programming, Syntax Extensions
   platforms: [clj, cljs]
 
+intentions:
+  name: Intentions
+  url: https://github.com/weavejester/intentions
+  category: Syntax Extensions
+  platforms: [clj, cljs]
+
 ns_tracker:
   name: ns-tracker
   url: https://github.com/weavejester/ns-tracker
@@ -2373,6 +2379,12 @@ clecs:
   url: https://github.com/muhuk/clecs
   category: Game Development
   platforms: [clj]
+
+ittyon:
+  name: Ittyon
+  url: https://github.com/weavejester/ittyon
+  category: Game Development
+  platforms: [clj, cljs]
 
 data_zip:
   name: data.zip
