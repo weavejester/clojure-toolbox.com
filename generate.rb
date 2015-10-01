@@ -3,7 +3,7 @@ require 'yaml'
 require 'erb'
 require 'set'
 
-projects = YAML.load_file("projects.yml").values.sort_by { |p| p['name'] }
+projects = YAML.load_file("projects.yml").values.sort_by { |p| p['name'].downcase }
 
 @categories = Hash.new { |h, k| h[k] = [] }
 
