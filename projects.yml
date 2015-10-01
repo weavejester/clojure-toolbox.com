@@ -1964,7 +1964,7 @@ plumbing:
   name: Plumbing
   url: https://github.com/prismatic/plumbing
   category: Misc. Functions
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 dire:
   name: Dire
