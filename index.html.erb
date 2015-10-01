@@ -73,7 +73,16 @@
     <script src="js/jquery.masonry.min.js"></script>
     <script>
       $('#project-list').masonry({ singleMode: true }).css({visibility: 'visible'});
-      $('footer').css({visibility: 'visible'});
+			$('footer').css({visibility: 'visible'});
+			$('.toolbox')
+			.addClass('animated')
+			.bind("click mouseenter", function() {
+					$(this)
+					.addClass('bounce')
+					.one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function() {
+						$(this).removeClass('bounce');
+						});
+					});
     </script>
 
     <!--[if lt IE 7 ]>
