@@ -700,6 +700,12 @@ fleetdb:
   category: Databases
   platforms: [clj]
 
+mandoline:
+  name: Mandoline
+  url: https://github.com/TheClimateCorporation/mandoline
+  category: Databases
+  platforms: [clj]
+
 datascript:
   name: DataScript
   url: https://github.com/tonsky/datascript
