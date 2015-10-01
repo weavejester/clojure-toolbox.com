@@ -2075,8 +2075,8 @@ javelin:
   platforms: [clj]
 
 boot:
-  name: boot
-  url: https://github.com/tailrecursion/boot
+  name: Boot
+  url: http://boot-clj.com/
   category: Build Tools
   platforms: [clj]
 
