@@ -2432,7 +2432,7 @@ brute:
   name: Brute
   url: https://github.com/markmandel/brute
   category: Game Development
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 play_clj:
   name: play-clj
