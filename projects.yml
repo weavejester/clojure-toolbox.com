@@ -2673,3 +2673,21 @@ cljfmt:
   url: https://github.com/weavejester/cljfmt
   category: Code Formatting Tools
   platforms: [clj, cljs]
+
+grafter:
+  name: Grafter
+  url: http://grafter.org/
+  category: Linked Data &amp; RDF
+  platforms: [clj]
+
+yesparql:
+  name: YeSPARQL
+  url: https://github.com/joelkuiper/yesparql
+  category: Linked Data &amp; RDF
+  platforms: [clj]
+
+tawny-owl:
+  name: Tawny-OWL
+  url: https://github.com/phillord/tawny-owl
+  category: Linked Data &amp; RDF
+  platforms: [clj]
