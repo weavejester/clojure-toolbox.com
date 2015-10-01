@@ -2131,7 +2131,7 @@ core_typed:
 schema:
   name: Schema
   url: https://github.com/Prismatic/schema
-  category: Schema, Validation
+  category: Schema, Validation, Random Data Generation, Syntax Extensions
   platforms: [clj, cljs]
 
 herbert:
@@ -2143,7 +2143,7 @@ herbert:
 annotate:
   name: Annotate
   url: https://github.com/roomkey/annotate
-  category: Schema, Validation
+  category: Schema, Validation, Syntax Extensions
   platforms: [clj]
 
 nginx_clojure:
