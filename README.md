@@ -1,5 +1,7 @@
 # The Clojure Toolbox
 
+This is the source code for <http://www.clojure-toolbox.com>.
+
 ## Building
 
 Project listing is stored in `projects.yml` in YAML format.
