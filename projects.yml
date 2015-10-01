@@ -2685,3 +2685,9 @@ tawny-owl:
   url: https://github.com/phillord/tawny-owl
   category: Linked Data &amp; RDF
   platforms: [clj]
+  
+descjop:
+  name: descjop
+  url: https://github.com/karad/lein_template_descjop
+  category: Project Templates
+  platforms: [cljs]
