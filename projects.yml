@@ -2661,3 +2661,9 @@ dommy:
   url: https://github.com/Prismatic/dommy
   category: DOM Manipulation
   platforms: [cljs]
+
+cljfmt:
+  name: cljfmt
+  url: https://github.com/weavejester/cljfmt
+  category: Code Formatting Tools
+  platforms: [clj, cljs]
