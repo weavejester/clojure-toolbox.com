@@ -514,6 +514,18 @@ cider:
   category: Emacs Integration
   platforms: [clj]
 
+clojure_mode:
+  name: Clojure Mode
+  url: https://github.com/clojure-emacs/clojure-mode
+  category: Emacs Integration
+  platforms: [clj, cljs]
+
+clj_refactor:
+  name: clj-refactor
+  url: https://github.com/clojure-emacs/clj-refactor.el
+  category: Emacs Integration
+  platforms: [clj, cljs]
+
 lein_namespace_depends:
   name: lein-namespace-depends
   url: https://github.com/hugoduncan/lein-namespace-depends
