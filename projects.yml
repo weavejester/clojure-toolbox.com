@@ -416,7 +416,7 @@ core_async:
   name: core.async
   url: https://github.com/clojure/core.async
   category: Asynchronous Programming, Syntax Extensions
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 irclj:
   name: irclj
@@ -896,7 +896,7 @@ core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
   category: Logic Programming, Syntax Extensions
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 ns_tracker:
   name: ns-tracker
@@ -974,7 +974,7 @@ core_match:
   name: core.match
   url: https://github.com/clojure/core.match
   category: Functional Programming, Pattern Matching, Syntax Extensions
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 defun:
   name: defun
