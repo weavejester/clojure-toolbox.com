@@ -2673,3 +2673,9 @@ cljfmt:
   url: https://github.com/weavejester/cljfmt
   category: Code Formatting Tools
   platforms: [clj, cljs]
+
+descjop:
+  name: descjop
+  url: https://github.com/karad/lein_template_descjop
+  category: Project Templates
+  platforms: [cljs]
