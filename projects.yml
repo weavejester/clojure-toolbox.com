@@ -2745,3 +2745,21 @@ traversy:
   url: https://github.com/ctford/traversy
   category: Data Transformation, Functional Programming
   platforms: [clj, cljs]
+
+figwheel:
+  name: Figwheel
+  url: https://github.com/bhauman/lein-figwheel
+  category: ClojureScript Development
+  platforms: [cljs]
+
+devcards:
+  name: Devcards
+  url: https://github.com/bhauman/devcards
+  category: ClojureScript Development
+  platforms: [cljs]
+
+lein_cljsbuild:
+  name: lein-cljsbuild
+  url: https://github.com/emezeske/lein-cljsbuild
+  category: ClojureScript Development
+  platforms: [cljs]
