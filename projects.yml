@@ -1154,7 +1154,7 @@ markdown_clj:
   name: markdown-clj
   url: https://github.com/yogthos/markdown-clj
   category: Markdown Parsers
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 cegdown:
   name: Cegdown
