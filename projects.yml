@@ -2659,19 +2659,19 @@ happy:
 om:
   name: Om
   url: https://github.com/omcljs/om
-  category: React Interface
+  category: React Interfaces
   platforms: [cljs]
 
 reagent:
   name: Reagent
   url: https://reagent-project.github.io/
-  category: React Interface
+  category: React Interfaces
   platforms: [cljs]
 
 brutha:
   name: Brutha
   url: https://github.com/weavejester/brutha
-  category: React Interface
+  category: React Interfaces
   platforms: [cljs]
 
 ring_jetty_component:
