@@ -2692,6 +2692,18 @@ quiescent:
   category: React Interfaces
   platforms: [cljs]
 
+system:
+  name: System
+  url: https://github.com/danielsz/system
+  category: Components, Reloaded Workflow
+  platforms: [clj]
+
+modular:
+  name: Modular
+  url: https://github.com/juxt/modular
+  category: Components, Reloaded Workflow
+  platforms: [clj]
+
 ring_jetty_component:
   name: Ring-Jetty-Component
   url: https://github.com/weavejester/ring-jetty-component
