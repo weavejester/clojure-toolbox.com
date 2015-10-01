@@ -364,12 +364,6 @@ clj_redis:
   category: Redis Clients
   platforms: [clj]
 
-sandbar:
-  name: Sandbar
-  url: https://github.com/brentonashworth/sandbar
-  category: Authentication, Ring Sessions, Validation
-  platforms: [clj]
-
 metis:
   name: Metis
   url: https://github.com/mylesmegyesi/metis
