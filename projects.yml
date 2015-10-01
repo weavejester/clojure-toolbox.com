@@ -1830,7 +1830,7 @@ clojure_android:
 
 clj_ml:
   name: clj-ml
-  url: https://github.com/antoniogarrote/clj-ml
+  url: https://github.com/joshuaeckroth/clj-ml
   category: Machine Learning
   platforms: [clj]
 
