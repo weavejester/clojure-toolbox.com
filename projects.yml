@@ -1276,6 +1276,12 @@ liberator:
   category: RESTful Web Services
   platforms: [clj]
 
+yada:
+  name: Yada
+  url: https://github.com/juxt/yada
+  category: RESTful Web Services
+  platforms: [clj]
+
 bishop:
   name: Bishop
   url: https://github.com/cmiles74/bishop
