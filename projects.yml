@@ -2202,7 +2202,7 @@ static:
 
 ecstatic:
   name: Ecstatic
-  url: http://samrat.me/ecstatic/
+  url: https://github.com/samrat/ecstatic
   category: Static Site Generation
   platforms: [clj]
 
