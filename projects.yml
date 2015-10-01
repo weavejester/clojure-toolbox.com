@@ -956,7 +956,7 @@ codox:
   name: Codox
   url: https://github.com/weavejester/codox
   category: Documentation Tools
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 avout:
   name: Avout
