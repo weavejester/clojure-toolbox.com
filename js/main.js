@@ -15,4 +15,4 @@ $('#search-query').on('change keyup paste input', function(event) {
     $('#project-list').masonry('layout');
 });
 
-$('#search-query').focus();
+$('#search-query').focus().change();
