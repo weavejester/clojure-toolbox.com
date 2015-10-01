@@ -1324,6 +1324,12 @@ duct:
   category: Web Frameworks, Project Templates
   platforms: [clj, cljs]
 
+chestnut:
+  name: Chestnut
+  url: https://github.com/plexus/chestnut
+  category: Project Templates
+  platforms: [clj, cljs]
+
 pantomime:
   name: Pantomime
   url: https://github.com/michaelklishin/pantomime
