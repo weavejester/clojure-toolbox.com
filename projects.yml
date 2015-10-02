@@ -1282,6 +1282,12 @@ yada:
   category: RESTful Web Services
   platforms: [clj]
 
+compojure_api:
+  name: Compojure-api
+  url: https://github.com/metosin/compojure-api
+  category: RESTful Web Services
+  platforms: [clj]
+
 bishop:
   name: Bishop
   url: https://github.com/cmiles74/bishop
