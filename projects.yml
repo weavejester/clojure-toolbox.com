@@ -109,7 +109,13 @@ joodo:
 ring-mock:
   name: Ring-Mock
   url: https://github.com/ring-clojure/ring-mock
-  category: Web Testing
+  category: Web Testing, Mocking
+  platforms: [clj]
+
+shrubbery:
+  name: Shrubbery
+  url: https://github.com/bguthrie/shrubbery
+  category: Unit Testing, Mocking
   platforms: [clj]
 
 kerodon:
