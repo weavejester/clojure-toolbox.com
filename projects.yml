@@ -2834,4 +2834,4 @@ silk:
   name: Silk
   url: https://github.com/DomKM/silk
   category: Ring Routing, ClojureScript Routing
-  plataforms: [clj, cljs]
+  platforms: [clj, cljs]
