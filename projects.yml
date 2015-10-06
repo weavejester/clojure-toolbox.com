@@ -2931,3 +2931,9 @@ flake:
   url: https://github.com/maxcountryman/flake
   category: ID Generators
   platforms: [clj]
+
+hashids:
+  name: Hashids
+  url: https://github.com/jstrutz/hashids.clj
+  category: ID Generators
+  platforms: [clj]
