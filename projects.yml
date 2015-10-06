@@ -2020,6 +2020,12 @@ ribol:
   category: Exception Handling
   platforms: [clj, cljs]
 
+uncaught:
+  name: uncaught
+  url: https://github.com/pyr/uncaught
+  category: Exception Handling
+  platforms: [clj]
+
 abracad:
   name: Abracad
   url: https://github.com/damballa/abracad
