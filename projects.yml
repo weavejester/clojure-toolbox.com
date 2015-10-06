@@ -2203,13 +2203,13 @@ synthread:
 core_typed:
   name: core.typed
   url: https://github.com/clojure/core.typed
-  category: Static Typing
+  category: Static Typing, Syntax Extensions
   platforms: [clj]
 
 schema:
   name: Schema
   url: https://github.com/Prismatic/schema
-  category: Schema, Validation, Random Data Generation, Syntax Extensions
+  category: Schema, Validation, Random Data Generation, Syntax Extensions, Dynamic Typing
   platforms: [clj, cljs]
 
 herbert:
@@ -2221,7 +2221,7 @@ herbert:
 annotate:
   name: Annotate
   url: https://github.com/roomkey/annotate
-  category: Schema, Validation, Syntax Extensions
+  category: Schema, Validation, Syntax Extensions, Dynamic Typing
   platforms: [clj]
 
 nginx_clojure:
