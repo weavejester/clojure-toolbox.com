@@ -1516,6 +1516,12 @@ clisk:
   category: Graphics
   platforms: [clj]
 
+imagez:
+  name: imagez
+  url: https://github.com/mikera/imagez
+  category: Graphics
+  platforms: [clj]
+
 kern:
   name: Kern
   url: https://github.com/blancas/kern
