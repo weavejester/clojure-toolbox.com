@@ -595,7 +595,7 @@ ring_session_riak:
 clout:
   name: Clout
   url: http://github.com/weavejester/clout
-  category: Ring Routing
+  category: HTTP Routing
   platforms: [clj]
 
 counterclockwise:
@@ -1855,7 +1855,7 @@ euclidean:
 route_one:
   name: Route One
   url: https://github.com/clojurewerkz/route-one
-  category: Ring Routing
+  category: HTTP Routing
   platforms: [clj]
 
 red_tape:
@@ -2167,13 +2167,13 @@ pigpen:
 gudu:
   name: gudu
   url: https://github.com/thatismatt/gudu
-  category: Ring Routing
+  category: HTTP Routing
   platforms: [clj]
 
 bidi:
   name: bidi
   url: https://github.com/juxt/bidi
-  category: Ring Routing, ClojureScript Routing
+  category: HTTP Routing
   platforms: [clj, cljs]
 
 schmetterling:
@@ -2833,5 +2833,5 @@ lein_cljsbuild:
 silk:
   name: Silk
   url: https://github.com/DomKM/silk
-  category: Ring Routing, ClojureScript Routing
+  category: HTTP Routing
   platforms: [clj, cljs]
