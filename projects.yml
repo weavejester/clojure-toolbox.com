@@ -2877,3 +2877,9 @@ sente:
   url: https://github.com/ptaoussanis/sente
   category: Websockets
   platforms: [clj, cljs]
+
+flake:
+  name: Flake
+  url: https://github.com/maxcountryman/flake
+  category: ID Generators
+  platforms: [clj]
