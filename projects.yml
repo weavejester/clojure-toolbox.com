@@ -458,7 +458,7 @@ quil:
   name: quil
   url: https://github.com/quil/quil
   category: Graphics
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 pallet:
   name: Pallet
@@ -884,7 +884,7 @@ inflections_clj:
   name: inflections-clj
   url: https://github.com/r0man/inflections-clj
   category: Natural Language
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 noir:
   name: Noir
@@ -1310,7 +1310,7 @@ bouncer:
   name: Bouncer
   url: https://github.com/leonardoborges/bouncer
   category: Validation
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 data_union_find:
   name: data.union-find
@@ -1478,7 +1478,7 @@ tower:
   name: Tower
   url: https://github.com/ptaoussanis/tower
   category: Internationalization
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 j18n:
   name: j18n
@@ -1988,7 +1988,7 @@ ribol:
   name: Ribol
   url: https://github.com/zcaudate/ribol
   category: Exception Handling
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 abracad:
   name: Abracad
@@ -2150,7 +2150,7 @@ javelin:
   name: Javelin
   url: https://github.com/hoplon/javelin
   category: Reactive Programming
-  platforms: [clj, cljs]
+  platforms: [cljs]
 
 boot:
   name: Boot
@@ -2474,7 +2474,7 @@ automat:
   name: Automat
   url: https://github.com/ztellman/automat
   category: State Machines, Performance, Parsing
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 brute:
   name: Brute
