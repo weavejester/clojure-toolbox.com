@@ -2859,3 +2859,21 @@ secretary:
   url: https://github.com/gf3/secretary
   category: HTTP Routing
   platforms: [cljs]
+
+talaria:
+  name: Talaria
+  url: https://github.com/dwwoelfel/talaria
+  category: Websockets
+  platforms: [clj, cljs]
+
+chord:
+  name: Chord
+  url: https://github.com/jarohen/chord
+  category: Websockets
+  platforms: [clj, cljs]
+
+sente:
+  name: Sente
+  url: https://github.com/ptaoussanis/sente
+  category: Websockets
+  platforms: [clj, cljs]
