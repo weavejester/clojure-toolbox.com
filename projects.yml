@@ -2872,6 +2872,12 @@ traversy:
   category: Data Transformation, Functional Programming
   platforms: [clj, cljs]
 
+instar:
+  name: Instar
+  url: https://github.com/boxed/instar
+  category: Data Transformation, Functional Programming
+  platforms: [clj, cljs]
+
 figwheel:
   name: Figwheel
   url: https://github.com/bhauman/lein-figwheel
