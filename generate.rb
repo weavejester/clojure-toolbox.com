@@ -8,7 +8,7 @@ projects = YAML.load_file("projects.yml").values.sort_by { |p| p['name'].downcas
 @categories = Hash.new { |h, k| h[k] = [] }
 
 projects.each do |project|
-  project['category'].split(',').each do |category|
+  project['categories'].each do |category|
     @categories[category.strip] << project
   end
 end
