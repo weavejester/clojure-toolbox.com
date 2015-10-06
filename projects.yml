@@ -1210,6 +1210,12 @@ ring_buffer:
   category: Data Structures
   platforms: [clj]
 
+aatree:
+  name: aatree
+  url: https://github.com/laforge49/aatree
+  category: Data Structures
+  platforms: [clj]
+
 ordered:
   name: ordered
   url: https://github.com/flatland/ordered
