@@ -2835,3 +2835,9 @@ silk:
   url: https://github.com/DomKM/silk
   category: HTTP Routing
   platforms: [clj, cljs]
+
+secretary:
+  name: Secretary
+  url: https://github.com/gf3/secretary
+  category: HTTP Routing
+  platforms: [cljs]
