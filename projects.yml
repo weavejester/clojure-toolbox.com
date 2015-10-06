@@ -1084,6 +1084,12 @@ nrepl:
   category: REPLs
   platforms: [clj]
 
+gorilla_repl:
+  name: Gorilla REPL
+  url: http://gorilla-repl.org/
+  category: REPLs
+  platforms: [clj]
+
 refactor-nrepl:
   name: Refactor nREPL
   url: https://github.com/clojure-emacs/refactor-nrepl
