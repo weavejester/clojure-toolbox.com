@@ -1963,7 +1963,13 @@ neanderthal:
 crypto_equality:
   name: crypto-equality
   url: https://github.com/weavejester/crypto-equality
-  category: Cryptography
+  category: Cryptography, Constant-Time Equality
+  platforms: [clj]
+
+constance:
+  name: constance
+  url: https://github.com/pyr/constance
+  category: Cryptography, Constant-Time Equality
   platforms: [clj]
 
 merkle:
