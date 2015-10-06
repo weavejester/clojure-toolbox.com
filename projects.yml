@@ -2937,3 +2937,9 @@ hashids:
   url: https://github.com/jstrutz/hashids.clj
   category: ID Generators
   platforms: [clj]
+
+pulley_cps:
+  name: pulley.cps
+  url: https://github.com/positronic-solutions/pulley.cps
+  category: Asynchronous Programming, Syntax Extensions
+  platforms: [clj]
