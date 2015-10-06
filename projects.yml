@@ -1048,6 +1048,12 @@ watchtower:
   category: Filesystem Watchers
   platforms: [clj]
 
+watchman:
+  name: watchman
+  url: https://github.com/pyr/watchman
+  category: Filesystem Watchers
+  platforms: [clj]
+
 hawk:
   name: Hawk
   url: https://github.com/wkf/hawk
