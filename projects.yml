@@ -862,6 +862,12 @@ ring-logger:
   category: Logging
   platforms: [clj]
 
+unilog:
+  name: unilog
+  url: https://github.com/pyr/unilog
+  category: Logging
+  platforms: [clj]
+
 calx:
   name: Calx
   url: https://github.com/ztellman/calx
