@@ -1384,6 +1384,18 @@ fireplace_vim:
   category: Vim Integration
   platforms: [clj]
 
+vim_cider:
+  name: vim-cider
+  url: https://github.com/Deraen/vim-cider
+  category: Vim Integration
+  platforms: [clj]
+
+vim_salve:
+  name: vim-salve
+  url: https://github.com/tpope/vim-salve
+  category: Vim Integration
+  platforms: [clj]
+
 necessary_evil:
   name: necessary-evil
   url: https://github.com/brehaut/necessary-evil
@@ -2105,16 +2117,16 @@ ring_async:
   platforms: [clj]
 
 hoplon:
-  name: hoplon
-  url: https://github.com/tailrecursion/hoplon
+  name: Hoplon
+  url: https://hoplon.io
   category: Web Frameworks, HTML Generation
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 castra:
-  name: castra
-  url: https://github.com/tailrecursion/castra
+  name: Castra
+  url: https://github.com/hoplon/castra
   category: RPC
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 slacker:
   name: Slacker
@@ -2123,10 +2135,10 @@ slacker:
   platforms: [clj]
 
 javelin:
-  name: javelin
-  url: https://github.com/tailrecursion/javelin
+  name: Javelin
+  url: https://github.com/hoplon/javelin
   category: Reactive Programming
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 boot:
   name: Boot
@@ -2161,8 +2173,8 @@ gudu:
 bidi:
   name: bidi
   url: https://github.com/juxt/bidi
-  category: Ring Routing
-  platforms: [clj]
+  category: Ring Routing, ClojureScript Routing
+  platforms: [clj, cljs]
 
 schmetterling:
   name: Schmetterling
@@ -2817,3 +2829,9 @@ lein_cljsbuild:
   url: https://github.com/emezeske/lein-cljsbuild
   category: ClojureScript Development
   platforms: [cljs]
+
+silk:
+  name: Silk
+  url: https://github.com/DomKM/silk
+  category: Ring Routing, ClojureScript Routing
+  plataforms: [clj, cljs]
