@@ -1630,6 +1630,18 @@ nippy:
   category: Serialization
   platforms: [clj]
 
+transit_clj:
+  name: transit-clj
+  url: https://github.com/cognitect/transit-clj
+  category: Serialization
+  platforms: [clj]
+
+transit_cljs:
+  name: transit-cljs
+  url: https://github.com/cognitect/transit-cljs
+  category: Serialization
+  platforms: [cljs]
+
 tools_reader:
   name: tools.reader
   url: https://github.com/clojure/tools.reader
