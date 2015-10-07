@@ -2949,3 +2949,9 @@ mesomatic:
   url: https://github.com/pyr/mesomatic
   categories: [Mesos Clients, Distributed Programming]
   platforms: [clj]
+
+pickler:
+  name: pickler
+  url: https://github.com/pyr/pickler
+  categories: [Python Integration]
+  platforms: [clj]
