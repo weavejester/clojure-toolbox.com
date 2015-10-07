@@ -18,3 +18,5 @@ template = ERB.new(File.read("index.html.erb"))
 File.open("index.html", "w") do |f|
   f.write(template.result)
 end
+
+print "Written #{projects.size} projects in #{@categories.keys.size} categories to index.\n"
