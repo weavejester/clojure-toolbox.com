@@ -469,7 +469,7 @@ pallet:
 cascalog:
   name: Cascalog
   url: https://github.com/nathanmarz/cascalog
-  categories: [Distributed Programming]
+  categories: [Distributed Programming, Hadoop Clients]
   platforms: [clj]
 
 swarmiji:
@@ -2221,7 +2221,7 @@ ring_ssl:
 pigpen:
   name: PigPen
   url: https://github.com/Netflix/PigPen
-  categories: [Distributed Programming]
+  categories: [Distributed Programming, Hadoop Clients]
   platforms: [clj]
 
 gudu:
@@ -2617,7 +2617,7 @@ minderbinder:
 parkour:
   name: Parkour
   url: https://github.com/damballa/parkour
-  categories: [Distributed Programming]
+  categories: [Distributed Programming, Hadoop Clients]
   platforms: [clj]
 
 lein-asciidoctor:
@@ -2725,7 +2725,7 @@ lein_typescript:
 tesser:
   name: Tesser
   url: https://github.com/aphyr/tesser
-  categories: [Distributed Programming]
+  categories: [Distributed Programming, Hadoop Clients]
   platforms: [clj]
 
 yaclot:
