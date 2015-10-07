@@ -2943,3 +2943,9 @@ pulley_cps:
   url: https://github.com/positronic-solutions/pulley.cps
   categories: [Asynchronous Programming, Syntax Extensions]
   platforms: [clj]
+
+mesomatic:
+  name: mesomatic
+  url: https://github.com/pyr/mesomatic
+  categories: [Mesos Clients, Distributed Programming]
+  platforms: [clj]
