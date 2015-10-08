@@ -2009,7 +2009,7 @@ sleight:
   platforms: [clj]
 
 camel_snake_kebab:
-  name: Camel-Snake-Kebab
+  name: camel-snake-kebab
   url: https://github.com/qerub/camel-snake-kebab
   categories: [String Manipulation]
   platforms: [clj, cljs]
