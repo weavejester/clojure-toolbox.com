@@ -1588,6 +1588,12 @@ data_priority_map:
   categories: [Data Structures]
   platforms: [clj]
 
+data_avl:
+  name: data.avl
+  url: https://github.com/clojure/data.avl
+  categories: [Data Structures]
+  platforms: [clj]
+
 data_finger_tree:
   name: data.finger-tree
   url: https://github.com/clojure/data.finger-tree
