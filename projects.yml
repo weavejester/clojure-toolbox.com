@@ -2014,6 +2014,12 @@ merkle:
   categories: [Data Structures]
   platforms: [clj]
 
+ctries_clj:
+  name: ctries.clj
+  url: https://github.com/michalmarczyk/ctries.clj
+  categories: [Data Structures]
+  platforms: [clj]
+
 manners:
   name: Manners
   url: https://github.com/RyanMcG/manners
