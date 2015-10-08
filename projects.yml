@@ -1816,6 +1816,18 @@ clojure_csv:
   categories: [CSV Parsers]
   platforms: [clj]
 
+semantic_csv:
+  name: Semantic CSV
+  url: https://github.com/metasoarous/semantic-csv
+  categories: [CSV Parsers]
+  platforms: [clj]
+
+clojurescript_csv:
+  name: clojurescript.csv
+  url: https://github.com/testdouble/clojurescript.csv
+  categories: [CSV Parsers]
+  platforms: [cljs]
+
 fluokitten:
   name: Fluokitten
   url: http://fluokitten.uncomplicate.org/
