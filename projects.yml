@@ -2014,6 +2014,12 @@ camel_snake_kebab:
   categories: [String Manipulation]
   platforms: [clj]
 
+superstring:
+  name: superstring
+  url: https://github.com/expez/superstring
+  categories: [String Manipulation]
+  platforms: [clj, cljs]
+
 lein_midje_doc:
   name: MidjeDoc
   url: https://github.com/zcaudate/lein-midje-doc
