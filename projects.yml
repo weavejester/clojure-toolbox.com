@@ -2012,13 +2012,19 @@ camel_snake_kebab:
   name: Camel-Snake-Kebab
   url: https://github.com/qerub/camel-snake-kebab
   categories: [String Manipulation]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 superstring:
   name: superstring
   url: https://github.com/expez/superstring
   categories: [String Manipulation]
   platforms: [clj, cljs]
+
+lettercase:
+  name: lettercase
+  url: https://github.com/ToBeReplaced/lettercase
+  categories: [String Manipulation]
+  platforms: [clj]
 
 lein_midje_doc:
   name: MidjeDoc
