@@ -1228,6 +1228,12 @@ ring_buffer:
   categories: [Data Structures]
   platforms: [clj]
 
+rmap:
+  name: Rmap
+  url: https://github.com/aroemers/rmap
+  categories: [Data Structures]
+  platforms: [clj]
+
 aatree:
   name: aatree
   url: https://github.com/laforge49/aatree
