@@ -2968,6 +2968,12 @@ sente:
   categories: [Websockets]
   platforms: [clj, cljs]
 
+gniazdo:
+  name: Gniazdo
+  url: https://github.com/stylefruits/gniazdo
+  categories: [Websockets]
+  platforms: [clj]
+
 flake:
   name: Flake
   url: https://github.com/maxcountryman/flake
