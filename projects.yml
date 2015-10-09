@@ -3003,3 +3003,9 @@ pickler:
   url: https://github.com/pyr/pickler
   categories: [Python Integration]
   platforms: [clj]
+
+hbs:
+  name: hbs
+  url: https://github.com/sunng87/hbs
+  categories: [Template Languages]
+  platforms: [clj]
