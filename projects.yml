@@ -3003,3 +3003,9 @@ pickler:
   url: https://github.com/pyr/pickler
   categories: [Python Integration]
   platforms: [clj]
+
+clara:
+  name: clara-rules
+  url: https://github.com/rbrush/clara-rules
+  categories: [Rule Engine, Logic Programming]
+  platforms: [cljs, cljs]
