@@ -898,12 +898,6 @@ inflections_clj:
   categories: [Natural Language]
   platforms: [clj, cljs]
 
-noir:
-  name: Noir
-  url: http://webnoir.org/
-  categories: [Web Frameworks]
-  platforms: [clj]
-
 snowball_stemmer:
   name: Snowball Stemmer
   url: https://github.com/weavejester/snowball-stemmer
