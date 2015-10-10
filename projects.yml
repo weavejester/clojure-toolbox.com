@@ -2896,8 +2896,8 @@ descjop:
   categories: [Project Templates]
   platforms: [cljs]
 
-spector:
-  name: Spector
+specter:
+  name: Specter
   url: https://github.com/nathanmarz/specter
   categories: [Data Transformation, Functional Programming]
   platforms: [clj, cljs]
