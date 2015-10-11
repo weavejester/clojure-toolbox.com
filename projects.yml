@@ -1234,6 +1234,12 @@ aatree:
   categories: [Data Structures]
   platforms: [clj]
 
+linked:
+  name: linked
+  url: https://github.com/frankiesardo/linked
+  categories: [Data Structures]
+  platforms: [clj, cljs]
+
 ordered:
   name: ordered
   url: https://github.com/amalloy/ordered
