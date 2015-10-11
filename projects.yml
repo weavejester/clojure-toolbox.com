@@ -1244,7 +1244,7 @@ linked:
   name: linked
   url: https://github.com/frankiesardo/linked
   categories: [Data Structures]
-  platforms: [clj cljs]
+  platforms: [clj, cljs]
 
 ordered:
   name: ordered
