@@ -30,6 +30,9 @@
           </div>
         </div>
       </header>
+      <div id="search">
+        <input type="search" id="search-query" placeholder="Search projects">
+      </div>
       <div id="main">
         <div id="project-list">
           <% @categories.sort.each do |category, projects| %>
@@ -37,7 +40,14 @@
             <h2><%= category %></h2>
             <ul>
               <% projects.each do |project| %>
-              <li><a href="<%= project['url'] %>"><%= project['name'] %></a></li>
+              <li data-search="<%= category.downcase %>
+                               <%= project['name'].downcase %>
+                               <%= project['platforms'].join(' ') %>">
+                <a href="<%= project['url'] %>"><%= project['name'] %></a>
+                <% project['platforms'].each do |platform| %>
+                <span class="platform <%= platform %>"><%= platform %></span>
+                <% end %>
+              </li>
               <% end %>
             </ul>
           </div>
@@ -47,7 +57,7 @@
       <footer>
         <div id="copyright">
           <span>
-            The Clojure Toolbox is &copy; 2014
+            The Clojure Toolbox is &copy; 2015
             <a href="http://weavejester.com">James Reeves</a>
           </span>
           <span>
@@ -62,14 +72,11 @@
       </footer>
     </div>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.4.2.min.js"%3E%3C/script%3E'))</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.11.3.min.js"%3E%3C/script%3E'))</script>
 
     <script src="js/jquery.masonry.min.js"></script>
-    <script>
-      $('#project-list').masonry({ singleMode: true }).css({visibility: 'visible'});
-      $('footer').css({visibility: 'visible'});
-    </script>
+    <script src="js/main.js"></script>
 
     <!--[if lt IE 7 ]>
       <script src="js/libs/dd_belatedpng.js"></script>

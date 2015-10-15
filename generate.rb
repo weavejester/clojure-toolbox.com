@@ -3,18 +3,20 @@ require 'yaml'
 require 'erb'
 require 'set'
 
-projects = YAML.load_file("projects.yml").values.sort_by { |p| p['name'] }
+projects = YAML.load_file("projects.yml").values.sort_by { |p| p['name'].downcase }
 
 @categories = Hash.new { |h, k| h[k] = [] }
 
 projects.each do |project|
-  project['category'].split(',').each do |category|
+  project['categories'].each do |category|
     @categories[category.strip] << project
   end
 end
 
-template = ERB.new(File.read("src/index.html.erb"))
+template = ERB.new(File.read("index.html.erb"))
 
 File.open("index.html", "w") do |f|
   f.write(template.result)
 end
+
+print "Written #{projects.size} projects in #{@categories.keys.size} categories to index.\n"
