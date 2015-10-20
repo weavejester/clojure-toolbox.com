@@ -640,6 +640,12 @@ bandalore:
   categories: [Message Queues]
   platforms: [clj]
 
+durable_queue:
+  name: durable-queue
+  url: https://github.com/Factual/durable-queue
+  categories: [Message Queues]
+  platforms: [clj]
+
 clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
