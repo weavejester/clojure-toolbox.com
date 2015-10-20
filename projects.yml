@@ -214,6 +214,12 @@ clj_http_lite:
   categories: [HTTP Clients]
   platforms: [clj]
 
+cljs_http:
+  name: cljs-http
+  url: https://github.com/r0man/cljs-http
+  categories: [HTTP Clients]
+  platforms: [cljs]
+
 ring_httpcore_adapter:
   name: ring-httpcore-adapter
   url: https://github.com/mmcgrana/ring-httpcore-adapter
