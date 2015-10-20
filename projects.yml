@@ -1093,7 +1093,7 @@ kibit:
 clostache:
   name: Clostache
   url: https://github.com/fhd/clostache
-  categories: [Template Languages, Mustache]
+  categories: [Template Languages, Mustache Syntax]
   platforms: [clj]
 
 parse-ez:
@@ -1303,7 +1303,7 @@ mranderson:
 stencil:
   name: Stencil
   url: https://github.com/davidsantiago/stencil
-  categories: [Template Languages, Mustache]
+  categories: [Template Languages, Mustache Syntax]
   platforms: [clj]
 
 tinsel:
@@ -3025,7 +3025,7 @@ pickler:
 hbs:
   name: hbs
   url: https://github.com/sunng87/hbs
-  categories: [Template Languages, Mustache]
+  categories: [Template Languages, Mustache Syntax]
   platforms: [clj]
 
 xmpp_clj:
