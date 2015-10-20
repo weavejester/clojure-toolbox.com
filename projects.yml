@@ -2068,9 +2068,9 @@ lettercase:
   categories: [String Manipulation]
   platforms: [clj]
 
-lein_midje_doc:
-  name: MidjeDoc
-  url: https://github.com/zcaudate/lein-midje-doc
+hydrox:
+  name: Hydrox
+  url: https://github.com/helpshift/hydrox
   categories: [Documentation Tools]
   platforms: [clj]
 
