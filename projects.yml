@@ -2854,6 +2854,24 @@ quiescent:
   categories: [React Interfaces]
   platforms: [cljs]
 
+flupot:
+  name: Flupot
+  url: https://github.com/weavejester/flupot
+  categories: [React DOM]
+  platforms: [cljs]
+
+sablono:
+  name: Ŝablono
+  url: https://github.com/r0man/sablono
+  categories: [React DOM]
+  platforms: [cljs]
+
+kioo:
+  name: Kioo
+  url: https://github.com/ckirkendall/kioo
+  categories: [React DOM]
+  platforms: [cljs]
+
 system:
   name: System
   url: https://github.com/danielsz/system
