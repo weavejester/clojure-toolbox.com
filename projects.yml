@@ -2791,8 +2791,8 @@ clojurecl:
 closp:
   name: Closp
   url: https://github.com/sveri/closp
-  categories: [Web Frameworks]
-  platforms: [clj]
+  categories: [Web Frameworks, Project Templates]
+  platforms: [clj, cljs]
 
 happy:
   name: happy
