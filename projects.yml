@@ -3015,3 +3015,9 @@ hbs:
   url: https://github.com/sunng87/hbs
   categories: [Template Languages, Mustache]
   platforms: [clj]
+
+xmpp_clj:
+  name: xmpp-clj
+  url: https://github.com/slipset/xmpp-clj
+  categories: [XMPP Clients]
+  platforms: [clj]
