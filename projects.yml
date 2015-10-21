@@ -67,8 +67,14 @@ selmer:
 hiccup:
   name: Hiccup
   url: https://github.com/weavejester/hiccup
-  categories: [Template Languages, HTML Generation]
+  categories: [Template Languages, HTML Generation, Hiccup Syntax]
   platforms: [clj]
+
+hiccups:
+  name: Hiccups
+  url: https://github.com/teropa/hiccups
+  categories: [Template Languages, HTML Generation, Hiccup Syntax]
+  platforms: [cljs]
 
 ring_etag_middleware:
   name: ring-etag-middleware
@@ -2863,7 +2869,7 @@ flupot:
 sablono:
   name: Ŝablono
   url: https://github.com/r0man/sablono
-  categories: [React DOM]
+  categories: [React DOM, Hiccup Syntax]
   platforms: [cljs]
 
 kioo:
