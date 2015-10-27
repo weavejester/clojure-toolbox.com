@@ -436,6 +436,12 @@ manifold:
   categories: [Asynchronous Programming]
   platforms: [clj]
 
+imminent:
+  name: Imminent
+  url: https://github.com/leonardoborges/imminent
+  categories: [Asynchronous Programming]
+  platforms: [clj]
+
 core_async:
   name: core.async
   url: https://github.com/clojure/core.async
