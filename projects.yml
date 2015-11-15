@@ -1780,6 +1780,12 @@ pandect:
   categories: [Cryptography, Hashing]
   platforms: [clj]
 
+clj_multihash:
+  name: clj-multihash
+  url: https://github.com/greglook/clj-multihash
+  categories: [Cryptography, Hashing]
+  platforms: [clj]
+
 faraday:
   name: Faraday
   url: https://github.com/ptaoussanis/faraday
