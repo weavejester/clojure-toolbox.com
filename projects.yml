@@ -1024,6 +1024,12 @@ clj_aws_s3:
   categories: [S3 Clients]
   platforms: [clj]
 
+amazonica:
+  name: amazonica
+  url: https://github.com/mcohen01/amazonica
+  categories: [S3 Clients]
+  platforms: [clj]
+
 codox:
   name: Codox
   url: https://github.com/weavejester/codox
