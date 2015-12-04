@@ -3087,3 +3087,9 @@ hugsql:
   url: http://www.hugsql.org
   categories: [SQL Abstraction]
   platforms: [clj]
+
+tagged:
+  name: Tagged
+  url: https://github.com/miner/tagged
+  categories: [edn]
+  platforms: [clj]
