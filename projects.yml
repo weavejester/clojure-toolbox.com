@@ -2455,13 +2455,7 @@ datomic_schema:
 tupelo:
   name: Tupelo
   url: https://github.com/cloojure/tupelo
-  categories: [Misc. Functions]
-  platforms: [clj]
-
-tupelo_datomic:
-  name: Tupelo Datomic
-  url: https://github.com/cloojure/tupelo
-  categories: [Datomic]
+  categories: [Misc. Functions, Datomic]
   platforms: [clj]
 
 ring_codec:
