@@ -3081,3 +3081,9 @@ xmpp_clj:
   url: https://github.com/slipset/xmpp-clj
   categories: [XMPP Clients]
   platforms: [clj]
+
+hugsql:
+  name: HugSQL
+  url: http://www.hugsql.org
+  categories: [SQL Abstraction]
+  platforms: [clj]
