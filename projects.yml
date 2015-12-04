@@ -2453,7 +2453,7 @@ datomic_schema:
   platforms: [clj]
 
 tupelo:
-  name: Tupelo Core
+  name: Tupelo
   url: https://github.com/cloojure/tupelo
   categories: [Misc. Functions]
   platforms: [clj]
