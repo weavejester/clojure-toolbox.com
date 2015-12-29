@@ -333,11 +333,11 @@ http_kit:
   url: http://http-kit.org/
   categories: [Asynchronous HTTP, HTTP Servers]
   platforms: [clj]
-  
+
 catacumba:
   name: Catacumba
   url: https://github.com/funcool/catacumba
-  categories: [Asynchronous HTTP, HTTP Servers, Ring Adapters]
+  categories: [Web Frameworks, Asynchronous HTTP, HTTP Servers, Ring Adapters]
   platforms: [clj]
 
 ring_server:
@@ -1542,13 +1542,13 @@ datomic:
 
 clojure_jdbc:
   name: clojure.jdbc (unofficial)
-  url: https://github.com/niwibe/clojure.jdbc
+  url: https://github.com/funcool/clojure.jdbc
   categories: [SQL Clients]
   platforms: [clj]
   
 suricatta:
   name: suricatta
-  url: https://github.com/niwibe/suricatta
+  url: https://github.com/funcool/suricatta
   categories: [SQL Clients, SQL Abstraction]
   platforms: [clj]
 
