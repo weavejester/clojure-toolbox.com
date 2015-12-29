@@ -424,6 +424,12 @@ clj_yaml:
   categories: [YAML Parsers]
   platforms: [clj]
 
+tubax:
+  name: tubax
+  url: https://github.com/funcool/tubax
+  categories: [XML Parsers]
+  platforms: [cljs]
+
 lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
