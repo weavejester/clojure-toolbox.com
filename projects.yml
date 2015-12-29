@@ -2128,6 +2128,12 @@ camel_snake_kebab:
   categories: [String Manipulation]
   platforms: [clj, cljs]
 
+cuerdas:
+  name: cuerdas
+  url: https://github.com/funcool/cuerdas
+  categories: [String Manipulation]
+  platforms: [clj, cljs]
+
 superstring:
   name: superstring
   url: https://github.com/expez/superstring
