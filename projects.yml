@@ -454,6 +454,12 @@ core_async:
   categories: [Asynchronous Programming, Syntax Extensions]
   platforms: [clj, cljs]
 
+promesa:
+  name: promesa
+  url: https://github.com/funcool/promesa
+  categories: [Asynchronous Programming]
+  platforms: [clj, cljs]
+
 pulsar:
   name: Pulsar
   url: http://docs.paralleluniverse.co/pulsar/
