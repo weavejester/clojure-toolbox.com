@@ -982,6 +982,12 @@ gloss:
   categories: [Parsing, Binary Data]
   platforms: [clj]
 
+octet:
+  name: Octet
+  url: https://github.com/funcool/octet
+  categories: [Binary Data]
+  platforms: [clj, cljs]
+
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
