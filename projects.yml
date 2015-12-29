@@ -1054,6 +1054,12 @@ codox:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
+codeina:
+  name: Codeina
+  url: https://github.com/funcool/codeina
+  categories: [Documentation Tools]
+  platforms: [clj, cljs]
+
 avout:
   name: Avout
   url: http://avout.io/
