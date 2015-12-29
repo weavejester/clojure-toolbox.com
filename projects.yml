@@ -1852,6 +1852,12 @@ reagi:
   categories: [Reactive Programming]
   platforms: [clj]
 
+beicon:
+  name: beicon
+  url: https://github.com/funcool/beicon
+  categories: [Reactive Programming]
+  platforms: [cljs]
+
 pedestal:
   name: Pedestal
   url: http://pedestal.io/
