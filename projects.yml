@@ -3105,3 +3105,9 @@ khroma:
   url: https://github.com/suprematic/khroma
   categories: [Browser Integration]
   platforms: [cljs]
+
+mount:
+  name: mount
+  url: https://github.com/tolitius/mount
+  categories: [Application Frameworks]
+  platforms: [clj, cljs]
