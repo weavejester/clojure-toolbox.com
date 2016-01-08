@@ -760,12 +760,6 @@ ritz:
   categories: [Debugging]
   platforms: [clj]
 
-fleetdb:
-  name: FleetDB (inactive)
-  url: https://github.com/mmcgrana/fleetdb
-  categories: [Databases]
-  platforms: [clj]
-
 mandoline:
   name: Mandoline
   url: https://github.com/TheClimateCorporation/mandoline
