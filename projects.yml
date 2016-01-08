@@ -226,6 +226,12 @@ cljs_http:
   categories: [HTTP Clients]
   platforms: [cljs]
 
+httpurr:
+  name: httpurr
+  url: https://github.com/funcool/httpurr
+  categories: [HTTP Clients]
+  platforms: [cljs]
+
 ring_httpcore_adapter:
   name: ring-httpcore-adapter
   url: https://github.com/mmcgrana/ring-httpcore-adapter
@@ -333,11 +339,11 @@ http_kit:
   url: http://http-kit.org/
   categories: [Asynchronous HTTP, HTTP Servers]
   platforms: [clj]
-  
+
 catacumba:
   name: Catacumba
   url: https://github.com/funcool/catacumba
-  categories: [Asynchronous HTTP, HTTP Servers, Ring Adapters]
+  categories: [Web Frameworks, Asynchronous HTTP, HTTP Servers, Ring Adapters]
   platforms: [clj]
 
 ring_server:
@@ -424,6 +430,12 @@ clj_yaml:
   categories: [YAML Parsers]
   platforms: [clj]
 
+tubax:
+  name: tubax
+  url: https://github.com/funcool/tubax
+  categories: [XML Parsers]
+  platforms: [cljs]
+
 lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
@@ -446,6 +458,12 @@ core_async:
   name: core.async
   url: https://github.com/clojure/core.async
   categories: [Asynchronous Programming, Syntax Extensions]
+  platforms: [clj, cljs]
+
+promesa:
+  name: promesa
+  url: https://github.com/funcool/promesa
+  categories: [Asynchronous Programming]
   platforms: [clj, cljs]
 
 pulsar:
@@ -970,6 +988,12 @@ gloss:
   categories: [Parsing, Binary Data]
   platforms: [clj]
 
+octet:
+  name: Octet
+  url: https://github.com/funcool/octet
+  categories: [Binary Data]
+  platforms: [clj, cljs]
+
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
@@ -1033,6 +1057,12 @@ amazonica:
 codox:
   name: Codox
   url: https://github.com/weavejester/codox
+  categories: [Documentation Tools]
+  platforms: [clj, cljs]
+
+codeina:
+  name: Codeina
+  url: https://github.com/funcool/codeina
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
@@ -1542,13 +1572,13 @@ datomic:
 
 clojure_jdbc:
   name: clojure.jdbc (unofficial)
-  url: https://github.com/niwibe/clojure.jdbc
+  url: https://github.com/funcool/clojure.jdbc
   categories: [SQL Clients]
   platforms: [clj]
   
 suricatta:
   name: suricatta
-  url: https://github.com/niwibe/suricatta
+  url: https://github.com/funcool/suricatta
   categories: [SQL Clients, SQL Abstraction]
   platforms: [clj]
 
@@ -1828,6 +1858,12 @@ reagi:
   categories: [Reactive Programming]
   platforms: [clj]
 
+beicon:
+  name: beicon
+  url: https://github.com/funcool/beicon
+  categories: [Reactive Programming]
+  platforms: [cljs]
+
 pedestal:
   name: Pedestal
   url: http://pedestal.io/
@@ -2095,6 +2131,12 @@ sleight:
 camel_snake_kebab:
   name: camel-snake-kebab
   url: https://github.com/qerub/camel-snake-kebab
+  categories: [String Manipulation]
+  platforms: [clj, cljs]
+
+cuerdas:
+  name: cuerdas
+  url: https://github.com/funcool/cuerdas
   categories: [String Manipulation]
   platforms: [clj, cljs]
 
