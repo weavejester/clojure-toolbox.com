@@ -55,7 +55,7 @@ ring_gzip_middleware:
 enlive:
   name: Enlive
   url: https://github.com/cgrand/enlive
-  categories: [Template Languages]
+  categories: [Scraping, Template Languages]
   platforms: [clj]
 
 selmer:
@@ -3147,3 +3147,9 @@ khroma:
   url: https://github.com/suprematic/khroma
   categories: [Browser Integration]
   platforms: [cljs]
+
+skyscraper:
+  name: Skyscraper
+  url: https://github.com/nathell/skyscraper
+  categories: [Scraping]
+  platforms: [clj]
