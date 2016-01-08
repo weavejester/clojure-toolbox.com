@@ -3153,3 +3153,9 @@ mount:
   url: https://github.com/tolitius/mount
   categories: [Application Frameworks]
   platforms: [clj, cljs]
+
+skyscraper:
+  name: Skyscraper
+  url: https://github.com/nathell/skyscraper
+  categories: [Website Scraping]
+  platforms: [clj]
