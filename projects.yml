@@ -1081,8 +1081,8 @@ algo_monads:
 cats:
   name: cats
   url: https://github.com/niwibe/cats
-  categories: [Functional Programming, Monads]
-  platforms: [clj]
+  categories: [Functional Programming, Monads, Lenses, Data Transformation]
+  platforms: [clj, cljs]
 
 core_match:
   name: core.match
@@ -3019,8 +3019,20 @@ specter:
 traversy:
   name: Traversy
   url: https://github.com/ctford/traversy
-  categories: [Data Transformation, Functional Programming]
+  categories: [Data Transformation, Functional Programming, Lenses]
   platforms: [clj, cljs]
+
+fresnel:
+  name: Fresnel
+  url: https://github.com/ckirkendall/fresnel
+  categories: [Data Transformation, Functional Programming, Lenses]
+  platforms: [clj]
+
+dewdrop:
+  name: Dewdrop
+  url: https://github.com/laforge49/dewdrop
+  categories: [Data Transformation, Functional Programming, Lenses]
+  platforms: [clj]
 
 instar:
   name: Instar
