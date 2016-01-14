@@ -1658,7 +1658,7 @@ data_avl:
   name: data.avl
   url: https://github.com/clojure/data.avl
   categories: [Data Structures]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 data_finger_tree:
   name: data.finger-tree
@@ -1730,7 +1730,7 @@ core_rrb_vector:
   name: core.rrb-vector
   url: https://github.com/clojure/core.rrb-vector
   categories: [Data Structures]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 carbonite:
   name: Carbonite
