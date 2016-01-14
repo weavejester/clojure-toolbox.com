@@ -3058,6 +3058,12 @@ lein_cljsbuild:
   categories: [ClojureScript Development]
   platforms: [cljs]
 
+cljs_devtools:
+  name: cljs-devtools
+  url: https://github.com/binaryage/cljs-devtools
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
 silk:
   name: Silk
   url: https://github.com/DomKM/silk
