@@ -3052,6 +3052,12 @@ devcards:
   categories: [ClojureScript Development]
   platforms: [cljs]
 
+dirac:
+  name: Dirac
+  url: https://github.com/binaryage/dirac
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
 lein_cljsbuild:
   name: lein-cljsbuild
   url: https://github.com/emezeske/lein-cljsbuild
