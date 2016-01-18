@@ -2463,6 +2463,12 @@ incise:
   url: https://github.com/RyanMcG/incise
   categories: [Static Site Generation]
   platforms: [clj]
+  
+perun:
+  name: Perun
+  url: https://github.com/hashobject/perun
+  categories: [Static Site Generation]
+  platforms: [clj]  
 
 ring_http_response:
   name: ring-http-response
