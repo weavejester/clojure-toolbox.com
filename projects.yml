@@ -3165,3 +3165,9 @@ skyscraper:
   url: https://github.com/nathell/skyscraper
   categories: [Website Scraping]
   platforms: [clj]
+
+chromex:
+  name: Chromex
+  url: https://github.com/binaryage/chromex
+  categories: [Browser Integration]
+  platforms: [cljs]
