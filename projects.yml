@@ -3189,3 +3189,9 @@ chromex:
   url: https://github.com/binaryage/chromex
   categories: [Browser Integration]
   platforms: [cljs]
+
+lein-bin:
+  name: lein-bin
+  url: https://github.com/Raynes/lein-bin
+  categories: [Command Line Tools]
+  platforms: [clj]
