@@ -37,7 +37,7 @@ friend:
 buddy:
   name: Buddy
   url: https://github.com/niwibe/buddy
-  categories: [Authentication, Authorization, Cryptography, Hashing]
+  categories: [Authentication, Authorization, Cryptography, Hashing, Password Security]
   platforms: [clj]
 
 pocheshiro:
@@ -343,7 +343,7 @@ http_kit:
 catacumba:
   name: Catacumba
   url: https://github.com/funcool/catacumba
-  categories: [Web Frameworks, Asynchronous HTTP, HTTP Servers, Ring Adapters]
+  categories: [Web Frameworks, Asynchronous HTTP, HTTP Servers, RESTful Web Services, Web Server Abstraction]
   platforms: [clj]
 
 ring_server:
@@ -985,7 +985,7 @@ gloss:
 octet:
   name: Octet
   url: https://github.com/funcool/octet
-  categories: [Binary Data]
+  categories: [Binary Data, Parsing]
   platforms: [clj, cljs]
 
 core_logic:
