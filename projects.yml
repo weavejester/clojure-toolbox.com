@@ -1795,8 +1795,8 @@ tools_trace:
 timbre:
   name: Timbre
   url: https://github.com/ptaoussanis/timbre
-  categories: [Logging]
-  platforms: [clj]
+  categories: [Logging, Benchmarking]
+  platforms: [clj, cljs]
 
 sigmund:
   name: Sigmund
@@ -3189,3 +3189,9 @@ chromex:
   url: https://github.com/binaryage/chromex
   categories: [Browser Integration]
   platforms: [cljs]
+
+truss:
+  name: Truss
+  url: https://github.com/ptaoussanis/truss
+  categories: [Validation, Syntax Extensions, Dynamic Typing]
+  platforms: [clj, cljs]
