@@ -1051,7 +1051,7 @@ amazonica:
 codox:
   name: Codox
   url: https://github.com/weavejester/codox
-  categories: [Documentation Tools]
+  categories: [Documentation Tools, Leiningen Plugins]
   platforms: [clj, cljs]
 
 codeina:
@@ -1135,7 +1135,7 @@ hawk:
 kibit:
   name: Kibit
   url: https://github.com/jonase/kibit
-  categories: [Code Analysis]
+  categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
 clostache:
@@ -2533,7 +2533,7 @@ clj_template:
 eastwood:
   name: Eastwood
   url: https://github.com/jonase/eastwood
-  categories: [Code Analysis]
+  categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
 stch_routing:
@@ -2989,7 +2989,7 @@ dommy:
 cljfmt:
   name: cljfmt
   url: https://github.com/weavejester/cljfmt
-  categories: [Code Formatting Tools]
+  categories: [Code Formatting Tools, Leiningen Plugins]
   platforms: [clj, cljs]
 
 grafter:
