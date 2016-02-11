@@ -2905,7 +2905,7 @@ om:
 reagent:
   name: Reagent
   url: https://reagent-project.github.io/
-  categories: [React Interfaces]
+  categories: [React Interfaces, Hiccup Syntax]
   platforms: [cljs]
 
 brutha:
