@@ -3201,3 +3201,9 @@ lein_bin:
   url: https://github.com/Raynes/lein-bin
   categories: [Command Line Tools, Leiningen Plugins]
   platforms: [clj]
+
+telegenic:
+  name: telegenic
+  url: https://github.com/mikera/telegenic
+  categories: [Video]
+  platforms: [clj]
