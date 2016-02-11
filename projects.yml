@@ -307,19 +307,19 @@ mailer:
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
-  categories: [WAR File Generation, Ring Development]
+  categories: [WAR File Generation, Ring Development, Leiningen Plugins]
   platforms: [clj]
 
 lein_beanstalk:
   name: lein-beanstalk
   url: https://github.com/weavejester/lein-beanstalk
-  categories: [Deployment Automation]
+  categories: [Deployment Automation, Leiningen Plugins]
   platforms: [clj]
 
 leiningen_war:
   name: Leinginen War Plugin
   url: https://github.com/alienscience/leiningen-war
-  categories: [WAR File Generation]
+  categories: [WAR File Generation, Leiningen Plugins]
   platforms: [clj]
 
 aleph:
@@ -553,7 +553,7 @@ hum:
 lein_js:
   name: lein-js
   url: https://github.com/maravillas/lein-js
-  categories: [Javascript Minimization]
+  categories: [Javascript Minimization, Leiningen Plugins]
   platforms: [clj]
 
 swank_clojure:
@@ -583,13 +583,13 @@ clj_refactor:
 lein_namespace_depends:
   name: lein-namespace-depends
   url: https://github.com/hugoduncan/lein-namespace-depends
-  categories: [Dependency Management]
+  categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
 lein_diagnostics:
   name: lein-diagnostics
   url: https://github.com/robwolfe/lein-diagnostics
-  categories: [Dependency Management]
+  categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
 chlorinejs:
@@ -745,7 +745,7 @@ debug_repl:
 lein_cdt:
   name: lein-cdt
   url: https://github.com/travis/lein-cdt
-  categories: [Debugging]
+  categories: [Debugging, Leiningen Plugins]
   platforms: [clj]
 
 dr_evil:
@@ -811,7 +811,7 @@ webmine:
 lein_retest:
   name: lein-retest
   url: https://github.com/technomancy/lein-retest
-  categories: [Continuous Testing]
+  categories: [Continuous Testing, Leiningen Plugins]
   platforms: [clj]
 
 prism:
@@ -1339,7 +1339,7 @@ protocol_monads:
 lein_pedantic:
   name: lein-pedantic
   url: https://github.com/xeqi/lein-pedantic
-  categories: [Dependency Management]
+  categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
 mranderson:
@@ -1993,13 +1993,13 @@ spreadmap:
 lein-ancient:
   name: lein-ancient
   url: https://github.com/xsc/lein-ancient
-  categories: [Dependency Management]
+  categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
 lein-plz:
   name: lein-plz
   url: https://github.com/johnwalker/lein-plz
-  categories: [Dependency Management]
+  categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
 euclidean:
@@ -2245,7 +2245,7 @@ valip:
 lein_test_refresh:
   name: lein-test-refresh
   url: https://github.com/jakemcc/lein-test-refresh
-  categories: [Continuous Testing]
+  categories: [Continuous Testing, Leiningen Plugins]
   platforms: [clj]
 
 quickie:
@@ -2617,7 +2617,7 @@ puget:
 lein-hiera:
   name: lein-hiera
   url: https://github.com/greglook/lein-hiera
-  categories: [Code Analysis]
+  categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
 clj-pgp:
@@ -2641,19 +2641,19 @@ swindon:
 lein-jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
-  categories: [Code Analysis]
+  categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
 lein-jshint:
   name: lein-jshint
   url: https://github.com/vbauer/lein-jshint
-  categories: [Code Analysis]
+  categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
 lein-plantuml:
   name: lein-plantuml
   url: https://github.com/vbauer/lein-plantuml
-  categories: [Documentation Tools]
+  categories: [Documentation Tools, Leiningen Plugins]
   platforms: [clj]
 
 automat:
@@ -2761,7 +2761,7 @@ parkour:
 lein-asciidoctor:
   name: lein-asciidoctor
   url: https://github.com/asciidoctor/asciidoctor-lein-plugin
-  categories: [Documentation Tools]
+  categories: [Documentation Tools, Leiningen Plugins]
   platforms: [clj]
 
 yesql:
@@ -2803,7 +2803,7 @@ twixt:
 lein_coffeescript:
   name: lein-coffeescript
   url: https://github.com/vbauer/lein-coffeescript
-  categories: [Javascript Generation]
+  categories: [Javascript Generation, Leiningen Plugins]
   platforms: [clj]
 
 onyx:
@@ -2857,7 +2857,7 @@ clj_tuple:
 lein_typescript:
   name: lein-typescript
   url: https://github.com/vbauer/lein-typescript
-  categories: [Javascript Generation]
+  categories: [Javascript Generation, Leiningen Plugins]
   platforms: [clj]
 
 tesser:
@@ -3049,7 +3049,7 @@ instar:
 figwheel:
   name: Figwheel
   url: https://github.com/bhauman/lein-figwheel
-  categories: [ClojureScript Development]
+  categories: [ClojureScript Development, Leiningen Plugins]
   platforms: [cljs]
 
 devcards:
@@ -3067,7 +3067,7 @@ dirac:
 lein_cljsbuild:
   name: lein-cljsbuild
   url: https://github.com/emezeske/lein-cljsbuild
-  categories: [ClojureScript Development]
+  categories: [ClojureScript Development, Leiningen Plugins]
   platforms: [cljs]
 
 cljs_devtools:
