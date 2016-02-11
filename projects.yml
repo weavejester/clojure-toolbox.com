@@ -1387,7 +1387,7 @@ liberator:
 yada:
   name: Yada
   url: https://github.com/juxt/yada
-  categories: [RESTful Web Services]
+  categories: [RESTful Web Services, Web Frameworks]
   platforms: [clj]
 
 compojure_api:
