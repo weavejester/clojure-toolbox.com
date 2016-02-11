@@ -3195,3 +3195,9 @@ truss:
   url: https://github.com/ptaoussanis/truss
   categories: [Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
+
+lein_bin:
+  name: lein-bin
+  url: https://github.com/Raynes/lein-bin
+  categories: [Command Line Tools, Leiningen Plugins]
+  platforms: [clj]
