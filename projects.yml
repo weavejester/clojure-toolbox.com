@@ -3,7 +3,7 @@ sparkling:
   url: https://github.com/gorillalabs/sparkling
   categories: [Distributed Programming]
   platforms: [clj]
-  
+
 config:
   name: Config
   url: https://github.com/gorillalabs/config
@@ -153,7 +153,7 @@ rrss:
   url: https://github.com/paraseba/rrss
   categories: [Ring Sessions]
   platforms: [clj]
-  
+
 ring_ttl_session:
   name: ring-ttl-session
   url: https://github.com/boechat107/ring-ttl-session
@@ -210,7 +210,7 @@ ring:
 
 clj_http:
   name: clj-http
-  url: https://github.com/dakrone/clj-http 
+  url: https://github.com/dakrone/clj-http
   categories: [HTTP Clients]
   platforms: [clj]
 
@@ -441,7 +441,7 @@ lamina:
   url: https://github.com/ztellman/lamina
   categories: [Asynchronous Programming]
   platforms: [clj]
-  
+
 manifold:
   name: Manifold
   url: https://github.com/ztellman/manifold
@@ -1569,7 +1569,7 @@ clojure_jdbc:
   url: https://github.com/funcool/clojure.jdbc
   categories: [SQL Clients]
   platforms: [clj]
-  
+
 suricatta:
   name: suricatta
   url: https://github.com/funcool/suricatta
@@ -1683,7 +1683,7 @@ immuconf:
   url: https://github.com/levand/immuconf
   categories: [Configuration]
   platforms: [clj]
-  
+
 least:
   name: Least
   url: https://github.com/Raynes/least
@@ -2073,7 +2073,7 @@ clatrix:
   url: https://github.com/tel/clatrix
   categories: [Math]
   platforms: [clj]
-  
+
 neanderthal:
   name: Neanderthal Matrix
   url: http://neanderthal.uncomplicate.org
@@ -2463,12 +2463,12 @@ incise:
   url: https://github.com/RyanMcG/incise
   categories: [Static Site Generation]
   platforms: [clj]
-  
+
 perun:
   name: Perun
   url: https://github.com/hashobject/perun
   categories: [Static Site Generation]
-  platforms: [clj]  
+  platforms: [clj]
 
 ring_http_response:
   name: ring-http-response
@@ -3009,7 +3009,7 @@ tawny-owl:
   url: https://github.com/phillord/tawny-owl
   categories: [Linked Data &amp; RDF]
   platforms: [clj]
-  
+
 descjop:
   name: descjop
   url: https://github.com/karad/lein_template_descjop
@@ -3207,9 +3207,15 @@ telegenic:
   url: https://github.com/mikera/telegenic
   categories: [Video]
   platforms: [clj]
-  
+
 dec:
   name: dec
   url: https://github.com/devth/dec
   categories: [Configuration]
+  platforms: [clj]
+
+yetibot:
+  name: Yetibot
+  url: https://github.com/devth/yetibot
+  categories: [IRC Bots, Slack Bots]
   platforms: [clj]
