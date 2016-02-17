@@ -3207,3 +3207,9 @@ telegenic:
   url: https://github.com/mikera/telegenic
   categories: [Video]
   platforms: [clj]
+  
+dec:
+  name: dec
+  url: https://github.com/devth/dec
+  categories: [Configuration]
+  platforms: [clj]
