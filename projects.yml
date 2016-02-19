@@ -3219,3 +3219,9 @@ yetibot:
   url: https://github.com/devth/yetibot
   categories: [IRC Bots, Slack Bots]
   platforms: [clj]
+
+structural_typing:
+  name: structural-typing
+  url: https://github.com/marick/structural-typing/
+  categories: [Validation, Syntax Extensions, Dynamic Typing]
+  platforms: [clj]
