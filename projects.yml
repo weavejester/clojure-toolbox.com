@@ -3178,6 +3178,12 @@ mount:
   categories: [Application Frameworks]
   platforms: [clj, cljs]
 
+mount_lite:
+  name: mount-lite
+  url: https://github.com/aroemers/mount-lite
+  categories: [Application Frameworks]
+  platforms: [clj]
+  
 skyscraper:
   name: Skyscraper
   url: https://github.com/nathell/skyscraper
