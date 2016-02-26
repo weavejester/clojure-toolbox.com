@@ -1138,6 +1138,12 @@ kibit:
   categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
+yagni:
+  name: yagni
+  url: https://github.com/venantius/yagni
+  categories: [Code Analysis, Leiningen Plugins]
+  platforms: [clj]
+
 clostache:
   name: Clostache
   url: https://github.com/fhd/clostache
