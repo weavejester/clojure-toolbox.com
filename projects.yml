@@ -1156,6 +1156,12 @@ parse-ez:
   categories: [Parsing]
   platforms: [clj]
 
+glow:
+  name: glow
+  url: https://github.com/venantius/glow
+  categories: [Parsing]
+  platforms: [clj]
+
 qseq:
   name: qseq
   url: https://github.com/mccraigmccraig/qseq
