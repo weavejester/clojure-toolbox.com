@@ -2368,6 +2368,12 @@ bidi:
   categories: [HTTP Routing]
   platforms: [clj, cljs]
 
+accountant:
+  name: accountant
+  url: https://github.com/venantius/accountant
+  categories: [HTTP Routing]
+  platforms: [cljs]
+
 schmetterling:
   name: Schmetterling
   url: https://github.com/prismofeverything/schmetterling
