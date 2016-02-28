@@ -628,6 +628,18 @@ vimclojure:
   categories: [Vim Integration]
   platforms: [clj]
 
+vim_eastwood:
+  name: vim-eastwood
+  url: https://github.com/venantius/vim-eastwood
+  categories: [Vim Integration]
+  platforms: [clj]
+
+vim_cljfmt:
+  name: vim-cljfmt
+  url: https://github.com/venantius/vim-cljfmt
+  categories: [Vim Integration]
+  platforms: [clj]
+
 session_expiry:
   name: session-expiry
   url: https://github.com/hozumi/session-expiry
