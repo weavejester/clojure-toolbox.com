@@ -3261,3 +3261,15 @@ structural_typing:
   url: https://github.com/marick/structural-typing/
   categories: [Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj]
+
+loom:
+  name: Loom
+  url: https://github.com/aysylu/loom
+  categories: [Data Structures, Graphs]
+  platforms: [clj]
+
+ubergraph:
+  name: Ubergraph
+  url: https://github.com/Engelberg/ubergraph
+  categories: [Data Structures, Graphs]
+  platforms: [clj]
