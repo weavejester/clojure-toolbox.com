@@ -3285,3 +3285,15 @@ clara:
   url: http://www.clara-rules.org/
   categories: [Rule Engine, Logic Programming]
   platforms: [clj, cljs]
+
+foundation_pg:
+  name: Foundation/PG
+  url: https://github.com/mikeball/foundation
+  categories: [PostgreSQL Integration]
+  platforms: [clj]
+
+jdbc_pg_sanity:
+  name: jdbc-pg-sanity
+  url: https://github.com/ShaneKilkelly/clj-jdbc-pg-sanity
+  categories: [PostgreSQL Integration]
+  platforms: [clj]
