@@ -1954,6 +1954,12 @@ munge_tout:
   categories: [Java Integration]
   platforms: [clj]
 
+ike_cljj:
+  name: ike.cljj
+  url: https://github.com/ike-tools/ike.cljj
+  categories: [Java Integration]
+  platforms: [clj]
+
 endophile:
   name: Endophile
   url: https://github.com/theJohnnyBrown/endophile
