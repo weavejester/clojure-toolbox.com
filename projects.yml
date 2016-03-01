@@ -3273,3 +3273,9 @@ ubergraph:
   url: https://github.com/Engelberg/ubergraph
   categories: [Data Structures, Graphs]
   platforms: [clj]
+
+clara:
+  name: Clara
+  url: http://www.clara-rules.org/
+  categories: [Rule Engine, Logic Programming]
+  platforms: [clj, cljs]
