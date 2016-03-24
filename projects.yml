@@ -2548,6 +2548,12 @@ datomic_schema:
   categories: [Datomic]
   platforms: [clj]
 
+adi:
+  name: adi
+  url: https://github.com/zcaudate/adi
+  categories: [Datomic]
+  platforms: [clj]
+
 tupelo:
   name: Tupelo
   url: https://github.com/cloojure/tupelo
