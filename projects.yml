@@ -3327,3 +3327,9 @@ money:
   url: https://github.com/clojurewerkz/money
   categories: [Currency]
   platforms: [clj]
+
+franzy:
+  name: Franzy
+  url: https://github.com/ymilky/franzy
+  categories: [Kafka Clients]
+  platforms: [clj]
