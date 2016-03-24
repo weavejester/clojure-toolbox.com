@@ -3226,6 +3226,12 @@ skyscraper:
   categories: [Website Scraping]
   platforms: [clj]
 
+pegasus:
+  name: pegasus
+  url: https://github.com/shriphani/pegasus
+  categories: [Website Scraping]
+  platforms: [clj]
+
 chromex:
   name: Chromex
   url: https://github.com/binaryage/chromex
