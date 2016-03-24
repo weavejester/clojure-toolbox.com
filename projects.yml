@@ -472,6 +472,12 @@ pulsar:
   categories: [Asynchronous Programming, Syntax Extensions]
   platforms: [clj]
 
+vigil:
+  name: Vigil
+  url: https://github.com/ane/vigil
+  categories: [Asynchronous Programming, Asynchronous I/O]
+  platforms: [clj]
+
 irclj:
   name: irclj
   url: https://github.com/flatland/irclj
