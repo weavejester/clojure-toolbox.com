@@ -2224,6 +2224,12 @@ plumbing:
   categories: [Misc. Functions]
   platforms: [clj, cljs]
 
+detritus:
+  name: Detritus
+  url: https://github.com/arrdem/detritus
+  categories: [Misc. Functions]
+  platforms: [clj]
+
 dire:
   name: Dire
   url: https://github.com/MichaelDrogalis/dire
