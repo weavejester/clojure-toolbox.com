@@ -2881,7 +2881,7 @@ hikari-cp:
 duckling:
   name: Duckling
   url: https://github.com/wit-ai/duckling
-  categories: [Date and Time, Parsing]
+  categories: [Date and Time, Natural Language]
   platforms: [clj]
 
 clj_thymeleaf:
