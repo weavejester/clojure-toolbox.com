@@ -3297,3 +3297,9 @@ jdbc_pg_sanity:
   url: https://github.com/ShaneKilkelly/clj-jdbc-pg-sanity
   categories: [PostgreSQL Integration]
   platforms: [clj]
+
+money:
+  name: Money
+  url: https://github.com/clojurewerkz/money
+  categories: [Currency]
+  platforms: [clj]
