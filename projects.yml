@@ -3046,6 +3046,12 @@ jayq:
   categories: [DOM Manipulation, DOM Events]
   platforms: [cljs]
 
+enfocus:
+  name: Enfocus
+  url: https://github.com/ckirkendall/enfocus
+  categories: [DOM Manipulation]
+  platforms: [cljs]
+
 strowger:
   name: Strowger
   url: https://github.com/weavejester/strowger
