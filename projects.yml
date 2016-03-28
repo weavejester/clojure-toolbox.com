@@ -3040,6 +3040,12 @@ dommy:
   categories: [DOM Manipulation, DOM Events]
   platforms: [cljs]
 
+jayq:
+  name: jayq
+  url: https://github.com/ibdknox/jayq
+  categories: [DOM Manipulation, DOM Events]
+  platforms: [cljs]
+
 strowger:
   name: Strowger
   url: https://github.com/weavejester/strowger
