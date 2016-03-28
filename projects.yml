@@ -3037,7 +3037,13 @@ duct_figwheel_component:
 dommy:
   name: Dommy
   url: https://github.com/Prismatic/dommy
-  categories: [DOM Manipulation]
+  categories: [DOM Manipulation, DOM Events]
+  platforms: [cljs]
+
+strowger:
+  name: Strowger
+  url: https://github.com/weavejester/strowger
+  categories: [DOM Events]
   platforms: [cljs]
 
 cljfmt:
