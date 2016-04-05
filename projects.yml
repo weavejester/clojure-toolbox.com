@@ -682,6 +682,12 @@ wabbitmq:
   categories: [Message Queues, RabbitMQ Clients]
   platforms: [clj]
 
+kithara:
+  name: Kithara
+  url: https://github.com/xsc/kithara
+  categories: [Message Queues, RabbitMQ Clients]
+  platforms: [clj]
+
 jnanomsg:
   name: jnanomsg
   url: https://github.com/niwibe/jnanomsg
