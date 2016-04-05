@@ -1975,13 +1975,19 @@ ike_cljj:
 resauce:
   name: Resauce
   url: https://github.com/weavejester/resauce
-  categories: [Java Integration, Java Classpath]
+  categories: [Java Classpath]
   platforms: [clj]
 
 pomegranate:
   name: Pomegranate
   url: https://github.com/cemerick/pomegranate
-  categories: [Java Integration, Java Classpath]
+  categories: [Dependency Management, Java ClassLoaders]
+  platforms: [clj]
+
+shimdandy:
+  name: Shimdandy
+  url: https://github.com/projectodd/shimdandy
+  categories: [Java ClassLoaders]
   platforms: [clj]
 
 endophile:
