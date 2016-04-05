@@ -1972,6 +1972,18 @@ ike_cljj:
   categories: [Java Integration]
   platforms: [clj]
 
+resauce:
+  name: Resauce
+  url: https://github.com/weavejester/resauce
+  categories: [Java Integration, Java Classpath]
+  platforms: [clj]
+
+pomegranate:
+  name: Pomegranate
+  url: https://github.com/cemerick/pomegranate
+  categories: [Java Integration, Java Classpath]
+  platforms: [clj]
+
 endophile:
   name: Endophile
   url: https://github.com/theJohnnyBrown/endophile
