@@ -3375,3 +3375,9 @@ franzy:
   url: https://github.com/ymilky/franzy
   categories: [Kafka Clients]
   platforms: [clj]
+
+relational_mapper:
+  name: Relational Mapper
+  url: https://github.com/netizer/relational_mapper
+  categories: [PostgreSQL Integration, SQL Abstraction]
+  platforms: [clj]
