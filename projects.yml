@@ -3379,5 +3379,5 @@ franzy:
 relational_mapper:
   name: Relational Mapper
   url: https://github.com/netizer/relational_mapper
-  categories: [PostgreSQL Integration, SQL Abstraction]
+  categories: [SQL Abstraction]
   platforms: [clj]
