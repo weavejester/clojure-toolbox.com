@@ -3381,3 +3381,15 @@ relational_mapper:
   url: https://github.com/netizer/relational_mapper
   categories: [SQL Abstraction]
   platforms: [clj]
+
+hipo:
+  name: Hipo
+  url: https://github.com/jeluard/hipo
+  categories: [Template Languages, Hiccup Syntax]
+  platforms: [cljs]
+  
+lucuma:
+  name: Lucuma
+  url: https://github.com/jeluard/lucuma
+  categories: [Web Frameworks]
+  platforms: [cljs]
