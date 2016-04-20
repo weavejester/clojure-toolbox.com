@@ -2972,7 +2972,7 @@ happy:
   name: happy
   url: https://github.com/jeluard/happy
   categories: [HTTP Clients]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 om:
   name: Om
