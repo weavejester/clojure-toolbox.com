@@ -3393,3 +3393,9 @@ lucuma:
   url: https://github.com/jeluard/lucuma
   categories: [DOM Manipulation]
   platforms: [cljs]
+
+astar:
+  name: astar
+  url: https://github.com/arttuka/astar
+  categories: [Pathfinding]
+  platforms: [clj, cljs]
