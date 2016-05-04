@@ -3352,6 +3352,12 @@ ubergraph:
   categories: [Data Structures, Graphs]
   platforms: [clj]
 
+jungerer:
+  name: jungerer
+  url: https://github.com/totakke/jungerer
+  categories: [Data Structures, Graphs]
+  platforms: [clj]
+
 clara:
   name: Clara
   url: http://www.clara-rules.org/
