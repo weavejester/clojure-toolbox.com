@@ -10,6 +10,12 @@ config:
   categories: [Configuration]
   platforms: [clj]
 
+aero:
+  name: Aero
+  url: https://github.com/juxt/aero
+  categories: [Configuration]
+  platforms: [clj]
+
 leiningen:
   name: Leiningen
   url: https://github.com/technomancy/leiningen
