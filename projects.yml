@@ -1696,6 +1696,12 @@ data_priority_map:
   categories: [Data Structures]
   platforms: [clj]
 
+cljs_priority_map:
+  name: cljs-priority-map
+  url: https://github.com/tailrecursion/cljs-priority-map
+  categories: [Data Structures]
+  platforms: [cljs]
+
 data_avl:
   name: data.avl
   url: https://github.com/clojure/data.avl
