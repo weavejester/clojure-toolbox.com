@@ -118,6 +118,12 @@ joodo:
   categories: [Web Frameworks]
   platforms: [clj]
 
+re_frame:
+  name: re-frame
+  url: https://github.com/Day8/re-frame
+  categories: [Web Frameworks]
+  platforms: [cljs]
+
 ring-mock:
   name: Ring-Mock
   url: https://github.com/ring-clojure/ring-mock
