@@ -121,7 +121,13 @@ joodo:
 re_frame:
   name: re-frame
   url: https://github.com/Day8/re-frame
-  categories: [Web Frameworks]
+  categories: [Web Frameworks, React Frameworks]
+  platforms: [cljs]
+
+keechma:
+  name: Keechma
+  url: https://github.com/keechma/keechma
+  categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
 
 ring-mock:
