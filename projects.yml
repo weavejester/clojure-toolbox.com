@@ -3417,3 +3417,9 @@ astar:
   url: https://github.com/arttuka/astar
   categories: [Pathfinding]
   platforms: [clj, cljs]
+
+clj_hclust:
+  name: clj-hclust
+  url: https://github.com/lerouxrgd/clj-hclust
+  categories: [Machine Learning]
+  platforms: [clj]
