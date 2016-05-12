@@ -3094,6 +3094,18 @@ strowger:
   categories: [DOM Events]
   platforms: [cljs]
 
+servant:
+  name: Servant
+  url: https://github.com/MarcoPolo/servant
+  categories: [Web Workers]
+  platforms: [cljs]
+
+butler:
+  name: Butler
+  url: https://github.com/federkasten/butler
+  categories: [Web Workers]
+  platforms: [cljs]
+
 cljfmt:
   name: cljfmt
   url: https://github.com/weavejester/cljfmt
