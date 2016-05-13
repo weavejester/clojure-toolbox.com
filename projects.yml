@@ -3447,3 +3447,9 @@ clj_hclust:
   url: https://github.com/lerouxrgd/clj-hclust
   categories: [Machine Learning]
   platforms: [clj]
+
+fipp:
+  name: Fipp
+  url: https://github.com/brandonbloom/fipp
+  categories: [Pretty Printing]
+  platforms: [clj, cljs]
