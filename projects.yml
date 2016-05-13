@@ -3207,6 +3207,12 @@ cljs_devtools:
   url: https://github.com/binaryage/cljs-devtools
   categories: [ClojureScript Development]
   platforms: [cljs]
+  
+jsx_to_clojurescript:
+  name: JSX to Clojurescript
+  url: https://github.com/madvas/jsx-to-clojurescript
+  categories: [ClojureScript Development]
+  platforms: [cljs]
 
 silk:
   name: Silk
