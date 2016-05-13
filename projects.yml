@@ -3208,7 +3208,7 @@ cljs_devtools:
   categories: [ClojureScript Development]
   platforms: [cljs]
   
-jsx-to-clojurescript:
+jsx_to_clojurescript:
   name: JSX to Clojurescript
   url: https://github.com/madvas/jsx-to-clojurescript
   categories: [ClojureScript Development]
