@@ -3459,3 +3459,9 @@ fipp:
   url: https://github.com/brandonbloom/fipp
   categories: [Pretty Printing]
   platforms: [clj, cljs]
+
+sweet_liberty:
+  name: Sweet Liberty
+  url: https://github.com/RJMetrics/sweet-liberty
+  categories: [RESTful Web Services]
+  platforms: [clj]
