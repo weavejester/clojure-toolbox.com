@@ -100,6 +100,12 @@ clj_airbrake:
   categories: [Exception Handling]
   platforms: [clj]
 
+prone:
+  name: prone
+  url: https://github.com/magnars/prone
+  categories: [Exception Handling, Response Middleware]
+  platforms: [clj]
+
 compojure:
   name: Compojure
   url: https://github.com/weavejester/compojure
