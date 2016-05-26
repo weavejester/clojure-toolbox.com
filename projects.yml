@@ -3459,3 +3459,9 @@ fipp:
   url: https://github.com/brandonbloom/fipp
   categories: [Pretty Printing]
   platforms: [clj, cljs]
+
+gregor:
+  name: Gregor
+  url: https://github.com/weftio/gregor
+  categories: [Kafka Clients]
+  platforms: [clj]
