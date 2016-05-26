@@ -3465,3 +3465,9 @@ gregor:
   url: https://github.com/weftio/gregor
   categories: [Kafka Clients]
   platforms: [clj]
+
+sweet_liberty:
+  name: Sweet Liberty
+  url: https://github.com/RJMetrics/sweet-liberty
+  categories: [RESTful Web Services]
+  platforms: [clj]
