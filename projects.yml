@@ -1916,7 +1916,7 @@ reagi:
   name: Reagi
   url: https://github.com/weavejester/reagi
   categories: [Reactive Programming]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 beicon:
   name: beicon
