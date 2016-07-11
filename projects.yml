@@ -1864,6 +1864,12 @@ timbre:
   categories: [Logging, Benchmarking]
   platforms: [clj, cljs]
 
+tufte:
+  name: Tufte
+  url: https://github.com/ptaoussanis/tufte
+  categories: [Benchmarking]
+  platforms: [clj, cljs]
+
 sigmund:
   name: Sigmund
   url: https://github.com/zcaudate/sigmund
