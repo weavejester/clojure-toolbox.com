@@ -1861,7 +1861,13 @@ tools_trace:
 timbre:
   name: Timbre
   url: https://github.com/ptaoussanis/timbre
-  categories: [Logging, Benchmarking]
+  categories: [Logging]
+  platforms: [clj, cljs]
+
+tufte:
+  name: Tufte
+  url: https://github.com/ptaoussanis/tufte
+  categories: [Benchmarking]
   platforms: [clj, cljs]
 
 sigmund:
