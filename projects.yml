@@ -574,6 +574,12 @@ overtone:
   categories: [Music &amp; Sound Synthesis]
   platforms: [clj]
 
+one_time:
+  name: one-time
+  url: https://github.com/suvash/one-time
+  categories: [Authentication]
+  platforms: [clj]
+
 hum:
   name: Hum
   url: https://github.com/mathias/hum
