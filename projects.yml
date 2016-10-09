@@ -466,6 +466,12 @@ tubax:
   categories: [XML Parsers]
   platforms: [cljs]
 
+clj_xml_validation:
+  name: clj-xml-validation
+  url: https://github.com/bbbates/clj-xml-validation
+  categories: [XML Schema]
+  platforms: [clj]
+
 lamina:
   name: Lamina
   url: https://github.com/ztellman/lamina
