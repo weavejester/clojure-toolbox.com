@@ -440,7 +440,7 @@ marginalia:
   name: Marginalia
   url: https://github.com/fogus/marginalia
   categories: [Documentation Tools]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 autodoc:
   name: Autodoc
