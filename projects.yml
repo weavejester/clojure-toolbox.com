@@ -106,6 +106,12 @@ prone:
   categories: [Exception Handling, Response Middleware]
   platforms: [clj]
 
+safely:
+  name: Safely
+  url: https://github.com/BrunoBonacci/safely
+  categories: [Exception Handling]
+  platforms: [clj]
+
 compojure:
   name: Compojure
   url: https://github.com/weavejester/compojure
