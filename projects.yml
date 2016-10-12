@@ -3208,6 +3208,12 @@ instar:
   categories: [Data Transformation, Functional Programming]
   platforms: [clj, cljs]
 
+tracks:
+  name: tracks
+  url: https://github.com/escherize/tracks
+  categories: [Data Transformation]
+  platforms: [clj]
+
 figwheel:
   name: Figwheel
   url: https://github.com/bhauman/lein-figwheel
