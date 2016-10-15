@@ -836,7 +836,7 @@ datascript:
   name: DataScript
   url: https://github.com/tonsky/datascript
   categories: [Databases]
-  platforms: [cljs]
+  platforms: [clj, cljs]
 
 jiraph:
   name: Jiraph
