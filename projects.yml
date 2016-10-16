@@ -3507,3 +3507,9 @@ sweet_liberty:
   url: https://github.com/RJMetrics/sweet-liberty
   categories: [RESTful Web Services]
   platforms: [clj]
+  
+cljs_oops:
+  name: cljs-oops
+  url: https://github.com/binaryage/cljs-oops
+  categories: [ClojureScript Development, Syntax Extensions]
+  platforms: [cljs]
