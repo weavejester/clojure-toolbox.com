@@ -1888,6 +1888,24 @@ tufte:
   categories: [Benchmarking]
   platforms: [clj, cljs]
 
+tempura:
+  name: Tempura
+  url: https://github.com/ptaoussanis/tempura
+  categories: [Internationalization]
+  platforms: [clj, cljs]
+
+tengen:
+  name: Tengen
+  url: https://github.com/ptaoussanis/tengen
+  categories: [React Frameworks]
+  platforms: [cljs]
+
+encore:
+  name: Encore
+  url: https://github.com/ptaoussanis/encore
+  categories: [Misc. Functions]
+  platforms: [clj, cljs]
+
 sigmund:
   name: Sigmund
   url: https://github.com/zcaudate/sigmund
@@ -1963,7 +1981,7 @@ honey_sql:
 carmine:
   name: Carmine
   url: https://github.com/ptaoussanis/carmine
-  categories: [Redis Clients]
+  categories: [Redis Clients, Message Queues]
   platforms: [clj]
 
 clojure-watch:
