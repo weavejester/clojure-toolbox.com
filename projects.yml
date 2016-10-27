@@ -3537,3 +3537,9 @@ graphql_clj:
   url: https://github.com/tendant/graphql-clj
   categories: [GraphQL]
   platforms: [clj]
+
+lambda_ml:
+  name: lambda-ml
+  url: https://github.com/cloudkj/lambda-ml
+  categories: [Machine Learning]
+  platforms: [clj]
