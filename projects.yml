@@ -3537,3 +3537,9 @@ graphql_clj:
   url: https://github.com/tendant/graphql-clj
   categories: [GraphQL]
   platforms: [clj]
+
+omniconf:
+  name: omniconf
+  url: https://github.com/grammarly/omniconf
+  categories: [Configuration]
+  platforms: [clj]
