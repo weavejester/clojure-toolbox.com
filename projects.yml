@@ -3543,3 +3543,9 @@ omniconf:
   url: https://github.com/grammarly/omniconf
   categories: [Configuration]
   platforms: [clj]
+  
+lambda_ml:
+  name: lambda-ml
+  url: https://github.com/cloudkj/lambda-ml
+  categories: [Machine Learning]
+  platforms: [clj]
