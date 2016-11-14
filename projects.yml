@@ -3549,3 +3549,33 @@ lambda_ml:
   url: https://github.com/cloudkj/lambda-ml
   categories: [Machine Learning]
   platforms: [clj]
+
+again:
+  name: Again
+  url: https://github.com/liwp/again
+  categories: [Retrying Failures]
+  platforms: [clj]
+
+robert_bruce:
+  name: Robert Bruce
+  url: https://github.com/joegallo/robert-bruce
+  categories: [Retrying Failures]
+  platforms: [clj]
+
+perseverance:
+  name: Perseverance
+  url: https://github.com/grammarly/perseverance
+  categories: [Retrying Failures]
+  platforms: [clj]
+
+diehard:
+  name: diehard
+  url: https://github.com/sunng87/diehard
+  categories: [Retrying Failures]
+  platforms: [clj]
+
+manifail:
+  name: manifail
+  url: https://github.com/tulos/manifail
+  categories: [Retrying Failures]
+  platforms: [clj]
