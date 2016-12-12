@@ -3579,3 +3579,9 @@ manifail:
   url: https://github.com/tulos/manifail
   categories: [Retrying Failures]
   platforms: [clj]
+
+cprop:
+  name: cprop
+  url: https://github.com/tolitius/cprop
+  categories: [Configuration]
+  platforms: [clj]
