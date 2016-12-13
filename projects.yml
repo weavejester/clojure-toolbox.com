@@ -2293,7 +2293,7 @@ cronj:
 ribol:
   name: Ribol
   url: https://github.com/zcaudate/ribol
-  categories: [Exception Handling]
+  categories: [Exception Handling, Condition Systems]
   platforms: [clj, cljs]
 
 uncaught:
@@ -3585,3 +3585,9 @@ cprop:
   url: https://github.com/tolitius/cprop
   categories: [Configuration]
   platforms: [clj]
+
+special:
+  name: Special
+  url: https://github.com/clojureman/special
+  categories: [Condition Systems]
+  platforms: [clj, cljs]
