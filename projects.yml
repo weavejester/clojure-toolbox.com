@@ -3580,6 +3580,12 @@ manifail:
   categories: [Retrying Failures]
   platforms: [clj]
 
+cprop:
+  name: cprop
+  url: https://github.com/tolitius/cprop
+  categories: [Configuration]
+  platforms: [clj]
+
 special:
   name: Special
   url: https://github.com/clojureman/special
