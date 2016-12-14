@@ -2404,6 +2404,12 @@ component:
   categories: [Reloaded Workflow, Application Frameworks]
   platforms: [clj, cljs]
 
+integrant:
+  name: Integrant
+  url: https://github.com/weavejester/integrant
+  categories: [Application Frameworks]
+  platforms: [clj, cljs]
+
 trapperkeeper:
   name: Trapperkeeper
   url: https://github.com/puppetlabs/trapperkeeper
