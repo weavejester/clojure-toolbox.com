@@ -1515,6 +1515,12 @@ luminus:
   url: http://www.luminusweb.net/
   categories: [Web Frameworks, Project Templates]
   platforms: [clj, cljs]
+  
+macchiato:
+  name: Macchiato
+  url: https://github.com/macchiato-framework
+  categories: [Web Frameworks, Project Templates]
+  platforms: [cljs]  
 
 duct:
   name: Duct
