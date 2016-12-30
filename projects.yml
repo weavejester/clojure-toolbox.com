@@ -1515,12 +1515,12 @@ luminus:
   url: http://www.luminusweb.net/
   categories: [Web Frameworks, Project Templates]
   platforms: [clj, cljs]
-  
+
 macchiato:
   name: Macchiato
   url: https://github.com/macchiato-framework
   categories: [Web Frameworks, Project Templates]
-  platforms: [cljs]  
+  platforms: [cljs]
 
 duct:
   name: Duct
@@ -1796,7 +1796,7 @@ instaparse:
   name: Instaparse
   url: https://github.com/Engelberg/instaparse
   categories: [Parsing]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 fungp:
   name: fungp
@@ -3273,7 +3273,7 @@ cljs_devtools:
   url: https://github.com/binaryage/cljs-devtools
   categories: [ClojureScript Development]
   platforms: [cljs]
-  
+
 jsx_to_clojurescript:
   name: JSX to Clojurescript
   url: https://github.com/madvas/jsx-to-clojurescript
@@ -3387,7 +3387,7 @@ mount_lite:
   url: https://github.com/aroemers/mount-lite
   categories: [Application Frameworks]
   platforms: [clj]
-  
+
 skyscraper:
   name: Skyscraper
   url: https://github.com/nathell/skyscraper
@@ -3501,7 +3501,7 @@ hipo:
   url: https://github.com/jeluard/hipo
   categories: [Template Languages, Hiccup Syntax]
   platforms: [cljs]
-  
+
 lucuma:
   name: Lucuma
   url: https://github.com/jeluard/lucuma
@@ -3537,7 +3537,7 @@ sweet_liberty:
   url: https://github.com/RJMetrics/sweet-liberty
   categories: [RESTful Web Services]
   platforms: [clj]
-  
+
 cljs_oops:
   name: cljs-oops
   url: https://github.com/binaryage/cljs-oops
@@ -3555,7 +3555,7 @@ omniconf:
   url: https://github.com/grammarly/omniconf
   categories: [Configuration]
   platforms: [clj]
-  
+
 lambda_ml:
   name: lambda-ml
   url: https://github.com/cloudkj/lambda-ml
