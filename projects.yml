@@ -1311,6 +1311,12 @@ elastisch:
   url: https://github.com/clojurewerkz/elastisch
   categories: [ElasticSearch Clients, Text Search]
   platforms: [clj]
+  
+spandex:
+  name: Spandex
+  url: https://github.com/mpenet/spandex
+  categories: [ElasticSearch Clients, Text Search]
+  platforms: [clj]
 
 crouton:
   name: Crouton
