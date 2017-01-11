@@ -2668,6 +2668,12 @@ tupelo:
   categories: [Misc. Functions, Datomic]
   platforms: [clj]
 
+datomock:
+  name: datomock
+  url: https://github.com/vvvvalvalval/datomock
+  categories: [Datomic]
+  platforms: [clj]
+
 ring_codec:
   name: Ring-Codec
   url: https://github.com/ring-clojure/ring-codec
