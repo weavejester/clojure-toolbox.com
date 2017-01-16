@@ -3621,3 +3621,9 @@ envoy:
   url: https://github.com/tolitius/envoy
   categories: [Consul Clients]
   platforms: [clj]
+
+sibiro:
+  name: sibiro
+  url: https://github.com/aroemers/sibiro
+  categories: [HTTP Routing]
+  platforms: [clj, cljs]
