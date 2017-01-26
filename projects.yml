@@ -2667,6 +2667,12 @@ adi:
   url: https://github.com/zcaudate/adi
   categories: [Datomic]
   platforms: [clj]
+  
+molecule:
+  name: molecule
+  url: https://github.com/petergarbers/molecule
+  categories: [Datomic]
+  platforms: [clj]
 
 tupelo:
   name: Tupelo
