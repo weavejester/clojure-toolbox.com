@@ -568,6 +568,12 @@ swarmiji:
   categories: [Distributed Programming]
   platforms: [clj]
 
+storm:
+  name: Storm
+  url: https://storm.apache.org/
+  categories: [Distributed Programming]
+  platforms: [clj]
+
 conduit:
   name: Conduit
   url: https://github.com/jduey/conduit
