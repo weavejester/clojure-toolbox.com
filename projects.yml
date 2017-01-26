@@ -2650,6 +2650,12 @@ datalog:
   categories: [Datalog]
   platforms: [clj]
 
+datalog_rules:
+  name: datalog-rules
+  url: https://github.com/vvvvalvalval/datalog-rules
+  categories: [Datomic]
+  platforms: [clj, cljs]
+
 conformity:
   name: conformity
   url: https://github.com/rkneufeld/conformity
