@@ -3660,6 +3660,6 @@ sibiro:
   
 toucan:
   name: toucan
-  url: https://github.com/camsaul/toucan
+  url: https://github.com/metabase/toucan
   categories: [SQL Abstraction]
   platforms: [clj]
