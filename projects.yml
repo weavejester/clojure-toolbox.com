@@ -460,6 +460,12 @@ clj_yaml:
   categories: [YAML Parsers]
   platforms: [clj]
 
+raml_clj_parser:
+  name: raml-clj-parser
+  url: https://github.com/zacyang/raml-clj-parser
+  categories: [RAML Parsers]
+  platforms: [clj]  
+
 tubax:
   name: tubax
   url: https://github.com/funcool/tubax
