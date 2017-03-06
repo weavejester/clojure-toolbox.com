@@ -658,12 +658,6 @@ scriptjure:
   categories: [Javascript Generation]
   platforms: [clj]
 
-clojurejs:
-  name: clojurejs
-  url: https://github.com/kriyative/clojurejs
-  categories: [Javascript Generation]
-  platforms: [clj]
-
 cssgen:
   name: cssgen
   url: https://github.com/paraseba/cssgen
@@ -1317,7 +1311,7 @@ elastisch:
   url: https://github.com/clojurewerkz/elastisch
   categories: [ElasticSearch Clients, Text Search]
   platforms: [clj]
-  
+
 spandex:
   name: Spandex
   url: https://github.com/mpenet/spandex
@@ -2679,7 +2673,7 @@ adi:
   url: https://github.com/zcaudate/adi
   categories: [Datomic]
   platforms: [clj]
-  
+
 molecule:
   name: molecule
   url: https://github.com/petergarbers/molecule
