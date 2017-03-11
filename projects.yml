@@ -754,6 +754,12 @@ durable_queue:
   categories: [Message Queues]
   platforms: [clj]
 
+clamq:
+  name: clamq
+  url: https://github.com/sbtourist/clamq
+  categories: [Message Queues]
+  platforms: [clj]
+
 clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
