@@ -2552,7 +2552,7 @@ router:
   name: router
   url: https://github.com/darkleaf/router
   categories: [HTTP Routing]
-  platforms: [clj cljs]
+  platforms: [clj, cljs]
 
 schmetterling:
   name: Schmetterling
