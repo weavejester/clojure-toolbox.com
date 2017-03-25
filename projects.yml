@@ -790,11 +790,11 @@ clj_time:
   categories: [Date and Time]
   platforms: [clj]
 
-java-time:
+java_time:
   name: java-time
   url: https://github.com/dm3/clojure.java-time
   categories:  [Date and Time]
-  platforms: [Date]
+  platforms: [clj]
 
 clojure_joda_time:
   name: Clojure.Joda-Time
