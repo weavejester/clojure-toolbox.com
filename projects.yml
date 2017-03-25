@@ -3677,7 +3677,7 @@ sibiro:
   platforms: [clj, cljs]
   
 toucan:
-  name: toucan
+  name: Toucan
   url: https://github.com/metabase/toucan
   categories: [SQL Abstraction]
   platforms: [clj]
