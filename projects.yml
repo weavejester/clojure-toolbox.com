@@ -3675,3 +3675,9 @@ sibiro:
   url: https://github.com/aroemers/sibiro
   categories: [HTTP Routing]
   platforms: [clj, cljs]
+  
+toucan:
+  name: toucan
+  url: https://github.com/metabase/toucan
+  categories: [SQL Abstraction]
+  platforms: [clj]
