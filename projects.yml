@@ -754,6 +754,12 @@ durable_queue:
   categories: [Message Queues]
   platforms: [clj]
 
+clamq:
+  name: clamq
+  url: https://github.com/sbtourist/clamq
+  categories: [Message Queues]
+  platforms: [clj]
+
 clojush:
   name: Clojush
   url: https://github.com/lspector/Clojush
@@ -783,6 +789,12 @@ clj_time:
   url: https://github.com/seancorfield/clj-time
   categories: [Date and Time]
   platforms: [clj]
+
+java-time:
+  name: java-time
+  url: https://github.com/dm3/clojure.java-time
+  categories:  [Date and Time]
+  platforms: [Date]
 
 clojure_joda_time:
   name: Clojure.Joda-Time
