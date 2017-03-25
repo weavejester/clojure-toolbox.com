@@ -347,7 +347,7 @@ lein_beanstalk:
   platforms: [clj]
 
 leiningen_war:
-  name: Leinginen War Plugin
+  name: Leiningen War Plugin
   url: https://github.com/alienscience/leiningen-war
   categories: [WAR File Generation, Leiningen Plugins]
   platforms: [clj]
