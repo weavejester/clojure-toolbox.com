@@ -3681,3 +3681,9 @@ toucan:
   url: https://github.com/metabase/toucan
   categories: [SQL Abstraction]
   platforms: [clj]
+
+pdfn:
+  name: pdfn
+  url: https://github.com/selfsame/pdfn
+  categories: [Pattern Matching]
+  platforms: [clj, cljs]
