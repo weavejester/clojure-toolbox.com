@@ -3687,3 +3687,21 @@ clj_rethinkdb:
   url: https://github.com/apa512/clj-rethinkdb
   categories: [RethinkDB Clients]
   platforms: [clj]
+
+webica:
+  name: Webica
+  url: https://github.com/tmarble/webica
+  categories: [Selenium Webdriver]
+  platforms: [clj]
+
+etaoin:
+  name: Etaoin
+  url: https://github.com/igrishaev/etaoin
+  categories: [Selenium Webdriver]
+  platforms: [clj]
+
+sparkledriver:
+  name: Sparkledriver
+  url: https://github.com/jackrusher/sparkledriver
+  categories: [Selenium Webdriver]
+  platforms: [clj]
