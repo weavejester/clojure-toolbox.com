@@ -1456,12 +1456,6 @@ tinsel:
   categories: [Template Languages]
   platforms: [clj]
 
-clj_webdriver:
-  name: clj-webdriver
-  url: https://github.com/semperos/clj-webdriver
-  categories: [Web Testing]
-  platforms: [clj]
-
 evaljs:
   name: evaljs
   url: https://github.com/weavejester/evaljs
