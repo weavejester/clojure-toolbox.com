@@ -3681,3 +3681,9 @@ pdfn:
   url: https://github.com/selfsame/pdfn
   categories: [Pattern Matching]
   platforms: [clj, cljs]
+
+clj_rethinkdb:
+  name: clj-rethinkdb
+  url: https://github.com/apa512/clj-rethinkdb
+  categories: [RethinkDB Clients]
+  platforms: [clj]
