@@ -550,12 +550,6 @@ quil:
   categories: [Graphics]
   platforms: [clj, cljs]
 
-c2:
-  name: C2
-  url: https://github.com/lynaghk/c2
-  categories: [Graphics]
-  platforms: [cljs]
-
 pallet:
   name: Pallet
   url: http://pallet.github.com/pallet/
