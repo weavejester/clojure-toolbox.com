@@ -718,6 +718,12 @@ cursive:
   categories: [IDE Integration]
   platforms: [clj]
 
+clojure_code:
+  name: Clojure Code
+  url: https://github.com/indiejames/vscode-clojure-debug
+  categories: [IDE Integration]
+  platforms: [clj]
+
 wabbitmq:
   name: WabbitMQ
   url: https://github.com/mefesto/wabbitmq
