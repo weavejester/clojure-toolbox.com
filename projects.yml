@@ -3604,6 +3604,12 @@ alumbra:
   categories: [GraphQL]
   platforms: [clj]
 
+lacinia:
+  name: Lacinia
+  url: https://github.com/walmartlabs/lacinia
+  categories: [GraphQL]
+  platforms: [clj]
+
 omniconf:
   name: omniconf
   url: https://github.com/grammarly/omniconf
