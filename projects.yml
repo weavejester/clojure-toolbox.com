@@ -424,6 +424,12 @@ clj_redis:
   categories: [Redis Clients]
   platforms: [clj]
 
+celtuce:
+  name: celtuce
+  url: https://github.com/lerouxrgd/celtuce
+  categories: [Redis Clients]
+  platforms: [clj]
+
 metis:
   name: Metis
   url: https://github.com/mylesmegyesi/metis
