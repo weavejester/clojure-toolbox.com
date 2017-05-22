@@ -1483,13 +1483,13 @@ clj_rhino:
 liberator:
   name: Liberator
   url: http://clojure-liberator.github.io/liberator
-  categories: [RESTful Web Services]
+  categories: [RESTful Web Services, Content Negotiation]
   platforms: [clj]
 
 yada:
   name: Yada
   url: https://github.com/juxt/yada
-  categories: [RESTful Web Services, Web Frameworks]
+  categories: [RESTful Web Services, Content Negotiation, Web Frameworks]
   platforms: [clj]
 
 compojure_api:
@@ -3722,4 +3722,28 @@ sparkledriver:
   name: Sparkledriver
   url: https://github.com/jackrusher/sparkledriver
   categories: [Selenium Webdriver, Web Testing]
+  platforms: [clj]
+
+muuntaja:
+  name: Muuntaja
+  url: https://github.com/metosin/muuntaja
+  categories: [Content Negotiation, Request Middleware, Response Middleware]
+  platforms: [clj]
+
+ring-middleware-format:
+  name: ring-middleware-format
+  url: https://github.com/ngrunwald/ring-middleware-format
+  categories: [Content Negotiation, Request Middleware, Response Middleware]
+  platforms: [clj]
+
+ring-middleware-accept:
+  name: ring-middleware-accept
+  url: https://github.com/rufoa/ring-middleware-accept
+  categories: [Content Negotiation, Request Middleware]
+  platforms: [clj]
+
+ring-accept-param:
+  name: ring-accept-param
+  url: https://github.com/gmazelier/ring-accept-param
+  categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
