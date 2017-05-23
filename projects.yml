@@ -2895,6 +2895,12 @@ ittyon:
   url: https://github.com/weavejester/ittyon
   categories: [Game Development]
   platforms: [clj, cljs]
+  
+advenjure:
+  name: Advenjure
+  url: https://github.com/facundoolano/advenjure
+  categories: [Game Development]
+  platforms: [clj, cljs]
 
 data_zip:
   name: data.zip
