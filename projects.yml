@@ -166,6 +166,12 @@ peridot:
   categories: [Web Testing]
   platforms: [clj]
 
+restpect:
+  name: Restpect
+  url: https://github.com/facundoolano/restpect
+  categories: [Web Testing, Unit Testing]
+  platforms: [clj]
+
 ring_netty_adapter:
   name: ring-netty-adapter
   url: https://github.com/datskos/ring-netty-adapter
