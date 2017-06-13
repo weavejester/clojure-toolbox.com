@@ -2908,6 +2908,12 @@ advenjure:
   categories: [Game Development]
   platforms: [clj, cljs]
 
+snes-gamepad:
+  name: SNES Gamepad
+  url: https://github.com/victorysoftworks/snes-gamepad-cljs
+  categories: [Game Development]
+  platforms: [cljs]
+
 data_zip:
   name: data.zip
   url: https://github.com/clojure/data.zip
