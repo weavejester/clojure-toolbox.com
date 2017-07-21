@@ -3765,3 +3765,9 @@ ring-accept-param:
   url: https://github.com/gmazelier/ring-accept-param
   categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
+
+couplet:
+  name: Couplet
+  url: https://github.com/glts/couplet
+  categories: [String Manipulation]
+  platforms: [clj]
