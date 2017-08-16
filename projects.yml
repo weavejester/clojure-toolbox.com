@@ -3771,3 +3771,10 @@ multigrep:
   url: https://github.com/pmonks/multigrep
   categories: [Filesystem Utilities]
   platforms: [clj]
+
+spinner:
+  name: spinner
+  url: https://github.com/pmonks/spinner
+  categories: [Command Line Tools]
+  platforms: [clj]
+
