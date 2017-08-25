@@ -718,12 +718,6 @@ session_expiry:
   categories: [Ring Sessions]
   platforms: [clj]
 
-ring_session_riak:
-  name: ring-session-riak
-  url: https://github.com/ossareh/ring-session-riak
-  categories: [Ring Sessions]
-  platforms: [clj]
-
 clout:
   name: Clout
   url: http://github.com/weavejester/clout
@@ -732,13 +726,13 @@ clout:
 
 counterclockwise:
   name: Counterclockwise
-  url: http://code.google.com/p/counterclockwise/
+  url: https://github.com/ccw-ide/ccw
   categories: [IDE Integration]
   platforms: [clj]
 
 cursive:
   name: Cursive Clojure
-  url: https://cursiveclojure.com
+  url: https://cursive-ide.com
   categories: [IDE Integration]
   platforms: [clj]
 
@@ -888,7 +882,7 @@ jiraph:
 
 clj_digest:
   name: digest
-  url: https://bitbucket.org/tebeka/clj-digest/src
+  url: https://github.com/tebeka/clj-digest
   categories: [Cryptography, Hashing]
   platforms: [clj]
 
@@ -2646,13 +2640,7 @@ misaki:
 
 madness:
   name: Madness
-  url: http://algernon.github.io/madness/
-  categories: [Static Site Generation]
-  platforms: [clj]
-
-static:
-  name: Static
-  url: http://algernon.github.io/madness/
+  url: https://github.com/algernon/madness
   categories: [Static Site Generation]
   platforms: [clj]
 
@@ -2802,7 +2790,7 @@ stch_ns:
 
 expectations:
   name: Expectations
-  url: http://jayfields.com/expectations/
+  url: https://clojure-expectations.github.io
   categories: [Unit Testing]
   platforms: [clj]
 
@@ -2852,12 +2840,6 @@ clj-pgp:
   name: clj-pgp
   url: https://github.com/greglook/clj-pgp
   categories: [Cryptography]
-  platforms: [clj]
-
-zeus:
-  name: zeus
-  url: https://github.com/chmllr/zeus
-  categories: [Compression]
   platforms: [clj]
 
 swindon:
