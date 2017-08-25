@@ -3717,7 +3717,7 @@ sibiro:
   url: https://github.com/aroemers/sibiro
   categories: [HTTP Routing]
   platforms: [clj, cljs]
-  
+
 toucan:
   name: Toucan
   url: https://github.com/metabase/toucan
@@ -3776,6 +3776,18 @@ ring-accept-param:
   name: ring-accept-param
   url: https://github.com/gmazelier/ring-accept-param
   categories: [Content Negotiation, Request Middleware]
+  platforms: [clj]
+
+multigrep:
+  name: multigrep
+  url: https://github.com/pmonks/multigrep
+  categories: [Filesystem Utilities]
+  platforms: [clj]
+
+spinner:
+  name: spinner
+  url: https://github.com/pmonks/spinner
+  categories: [Command Line Tools]
   platforms: [clj]
 
 couplet:
