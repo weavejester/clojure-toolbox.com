@@ -262,6 +262,12 @@ cljs_http:
   categories: [HTTP Clients]
   platforms: [cljs]
 
+cljs_ajax:
+  name: cljs-ajax
+  url: https://github.com/JulianBirch/cljs-ajax
+  categories: [HTTP Clients]
+  platforms: [clj, cljs]
+
 httpurr:
   name: httpurr
   url: https://github.com/funcool/httpurr
@@ -556,6 +562,12 @@ penumbra:
   categories: [Graphics]
   platforms: [clj]
 
+clojure2d:
+  name: clojure2d
+  url: https://github.com/Clojure2D/clojure2d
+  categories: [Graphics]
+  platforms: [clj]
+  
 quil:
   name: quil
   url: https://github.com/quil/quil
@@ -3778,3 +3790,14 @@ spinner:
   categories: [Command Line Tools]
   platforms: [clj]
 
+couplet:
+  name: Couplet
+  url: https://github.com/glts/couplet
+  categories: [String Manipulation]
+  platforms: [clj]
+
+certificaat:
+  name: certificaat
+  url: https://github.com/danielsz/certificaat
+  categories: [ACME Clients, Certificate Management]
+  platforms: [clj]
