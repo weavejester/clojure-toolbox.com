@@ -562,6 +562,12 @@ penumbra:
   categories: [Graphics]
   platforms: [clj]
 
+clojure2d:
+  name: clojure2d
+  url: https://github.com/Clojure2D/clojure2d
+  categories: [Graphics]
+  platforms: [clj]
+  
 quil:
   name: quil
   url: https://github.com/quil/quil
