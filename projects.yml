@@ -262,6 +262,12 @@ cljs_http:
   categories: [HTTP Clients]
   platforms: [cljs]
 
+cljs_ajax:
+  name: cljs-ajax
+  url: https://github.com/JulianBirch/cljs-ajax
+  categories: [HTTP Clients]
+  platforms: [clj, cljs]
+
 httpurr:
   name: httpurr
   url: https://github.com/funcool/httpurr
