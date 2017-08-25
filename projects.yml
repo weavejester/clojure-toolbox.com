@@ -3777,3 +3777,9 @@ ring-accept-param:
   url: https://github.com/gmazelier/ring-accept-param
   categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
+
+certificaat:
+  name: certificaat
+  url: https://github.com/danielsz/certificaat
+  categories: [ACME Clients, Certificate Management]
+  platforms: [clj]
