@@ -3778,6 +3778,12 @@ ring-accept-param:
   categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
 
+couplet:
+  name: Couplet
+  url: https://github.com/glts/couplet
+  categories: [String Manipulation]
+  platforms: [clj]
+
 certificaat:
   name: certificaat
   url: https://github.com/danielsz/certificaat
