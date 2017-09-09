@@ -3783,3 +3783,9 @@ certificaat:
   url: https://github.com/danielsz/certificaat
   categories: [ACME Clients, Certificate Management]
   platforms: [clj]
+
+ground:
+  name: ground
+  url: https://github.com/rcullito/ground
+  categories: [Macros]
+  platforms: [clj]
