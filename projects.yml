@@ -482,7 +482,7 @@ raml_clj_parser:
   name: raml-clj-parser
   url: https://github.com/zacyang/raml-clj-parser
   categories: [RAML Parsers]
-  platforms: [clj]  
+  platforms: [clj]
 
 tubax:
   name: tubax
@@ -567,7 +567,7 @@ clojure2d:
   url: https://github.com/Clojure2D/clojure2d
   categories: [Graphics]
   platforms: [clj]
-  
+
 quil:
   name: quil
   url: https://github.com/quil/quil
@@ -2895,7 +2895,7 @@ ittyon:
   url: https://github.com/weavejester/ittyon
   categories: [Game Development]
   platforms: [clj, cljs]
-  
+
 advenjure:
   name: Advenjure
   url: https://github.com/facundoolano/advenjure
@@ -3782,4 +3782,10 @@ certificaat:
   name: certificaat
   url: https://github.com/danielsz/certificaat
   categories: [ACME Clients, Certificate Management]
+  platforms: [clj]
+
+datoteka:
+  name: datoteka
+  url: https://github.com/funcool/datoteka
+  categories: [Filesystem Utilities]
   platforms: [clj]
