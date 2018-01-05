@@ -1,9 +1,3 @@
-clj-kafka/franzy:
-  name: Franzy
-  url: https://github.com/clj-kafka/franzy
-  categories: [Kafka Clients]
-  platforms: [clj]
-  
 sparkling:
   name: Sparkling
   url: https://github.com/gorillalabs/sparkling
