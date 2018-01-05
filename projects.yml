@@ -1612,6 +1612,12 @@ data_csv:
   categories: [CSV Parsers]
   platforms: [clj]
 
+data_xml:
+  name: data.xml
+  url: https://github.com/clojure/data.xml
+  categories: [XML Parsers, XML Generation]
+  platforms: [clj]
+
 basil:
   name: Basil
   url: https://github.com/kumarshantanu/basil
