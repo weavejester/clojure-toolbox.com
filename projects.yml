@@ -3789,3 +3789,9 @@ ground:
   url: https://github.com/rcullito/ground
   categories: [Macros]
   platforms: [clj]
+
+benjamin:
+  name: Benjamin
+  url: https://github.com/danielsz/benjamin
+  categories: [Macros]
+  platform: [clj]
