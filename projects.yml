@@ -3783,3 +3783,9 @@ certificaat:
   url: https://github.com/danielsz/certificaat
   categories: [ACME Clients, Certificate Management]
   platforms: [clj]
+
+benjamin:
+  name: Benjamin
+  url: https://github.com/danielsz/benjamin
+  categories: [Macros]
+  platform: [clj]
