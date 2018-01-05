@@ -867,6 +867,24 @@ ritz:
   url: https://github.com/pallet/ritz
   categories: [Debugging]
   platforms: [clj]
+  
+sayid:
+  name: Sayid
+  url: http://bpiel.github.io/sayid/
+  categories: [Debugging]
+  platforms: [clj]
+  
+spyscope:
+  name: Spyscope
+  url: https://github.com/dgrnbrg/spyscope
+  categories: [Debugging]
+  platforms: [clj]  
+
+scope_capture:
+  name: scope-capture
+  url: https://github.com/vvvvalvalval/scope-capture
+  categories: [Debugging]
+  platforms: [clj, cljs]  
 
 mandoline:
   name: Mandoline
