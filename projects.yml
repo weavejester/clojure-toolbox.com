@@ -1972,6 +1972,12 @@ tengen:
   categories: [React Frameworks]
   platforms: [cljs]
 
+tongue:
+  name: Tongue
+  url: https://github.com/tonsky/tongue
+  categories: [Internationalization]
+  platforms: [clj, cljs]
+
 encore:
   name: Encore
   url: https://github.com/ptaoussanis/encore
