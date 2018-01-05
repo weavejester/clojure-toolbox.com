@@ -3830,4 +3830,4 @@ benjamin:
   name: Benjamin
   url: https://github.com/danielsz/benjamin
   categories: [Macros]
-  platform: [clj]
+  platforms: [clj]
