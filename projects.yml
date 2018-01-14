@@ -158,7 +158,7 @@ talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
   categories: [Unit Testing, Mocking]
-  platforms: [clj cljs]
+  platforms: [clj, cljs]
 
 kerodon:
   name: Kerodon
