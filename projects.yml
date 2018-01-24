@@ -3837,3 +3837,9 @@ benjamin:
   url: https://github.com/danielsz/benjamin
   categories: [Macros]
   platforms: [clj]
+
+oksql:
+  name: oksql
+  url: https://github.com/swlkr/oksql
+  categories: [SQL Abstraction]
+  platforms: [clj]
