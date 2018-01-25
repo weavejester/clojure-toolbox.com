@@ -867,24 +867,24 @@ ritz:
   url: https://github.com/pallet/ritz
   categories: [Debugging]
   platforms: [clj]
-  
+
 sayid:
   name: Sayid
   url: http://bpiel.github.io/sayid/
   categories: [Debugging]
   platforms: [clj]
-  
+
 spyscope:
   name: Spyscope
   url: https://github.com/dgrnbrg/spyscope
   categories: [Debugging]
-  platforms: [clj]  
+  platforms: [clj]
 
 scope_capture:
   name: scope-capture
   url: https://github.com/vvvvalvalval/scope-capture
   categories: [Debugging]
-  platforms: [clj, cljs]  
+  platforms: [clj, cljs]
 
 mandoline:
   name: Mandoline
@@ -3146,12 +3146,6 @@ closp:
   name: Closp
   url: https://github.com/sveri/closp
   categories: [Web Frameworks, Project Templates]
-  platforms: [clj, cljs]
-
-happy:
-  name: happy
-  url: https://github.com/jeluard/happy
-  categories: [HTTP Clients]
   platforms: [clj, cljs]
 
 om:
