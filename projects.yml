@@ -2919,6 +2919,12 @@ play_clj:
   url: https://github.com/oakes/play-clj
   categories: [Game Development]
   platforms: [clj]
+  
+play_cljs:
+  name: play-cljs
+  url: https://github.com/oakes/play-cljs
+  categories: [Game Development]
+  platforms: [cljs]
 
 clecs:
   name: clecs
@@ -3837,3 +3843,9 @@ oksql:
   url: https://github.com/swlkr/oksql
   categories: [SQL Abstraction]
   platforms: [clj]
+  
+Dynadoc:
+  name: Dynadoc
+  url: https://github.com/oakes/Dynadoc
+  categories: [Documentation Tools]
+  platforms: [clj, cljs]
