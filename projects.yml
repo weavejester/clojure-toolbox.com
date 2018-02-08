@@ -3837,3 +3837,9 @@ oksql:
   url: https://github.com/swlkr/oksql
   categories: [SQL Abstraction]
   platforms: [clj]
+
+kampbell:
+  name: Kampbell
+  url: https://github.com/danielsz/kampbell
+  categories: [Databases]
+  platforms: [clj, cljs]
