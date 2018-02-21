@@ -2919,6 +2919,12 @@ play_clj:
   url: https://github.com/oakes/play-clj
   categories: [Game Development]
   platforms: [clj]
+  
+play_cljs:
+  name: play-cljs
+  url: https://github.com/oakes/play-cljs
+  categories: [Game Development]
+  platforms: [cljs]
 
 clecs:
   name: clecs
@@ -3842,4 +3848,10 @@ kampbell:
   name: Kampbell
   url: https://github.com/danielsz/kampbell
   categories: [Databases]
+  platforms: [clj, cljs]
+  
+Dynadoc:
+  name: Dynadoc
+  url: https://github.com/oakes/Dynadoc
+  categories: [Documentation Tools]
   platforms: [clj, cljs]
