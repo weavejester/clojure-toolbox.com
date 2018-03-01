@@ -3855,3 +3855,9 @@ Dynadoc:
   url: https://github.com/oakes/Dynadoc
   categories: [Documentation Tools]
   platforms: [clj, cljs]
+
+Spicerack:
+  name: Spicerack
+  url: https://github.com/jackrusher/spicerack
+  categories: [Databases]
+  platforms: [clj]
