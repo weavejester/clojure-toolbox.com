@@ -2410,6 +2410,12 @@ detritus:
   categories: [Misc. Functions]
   platforms: [clj]
 
+kezban:
+  name: kezban
+  url: https://github.com/ertugrulcetin/kezban
+  categories: [Misc. Functions]
+  platforms: [clj]
+
 dire:
   name: Dire
   url: https://github.com/MichaelDrogalis/dire
