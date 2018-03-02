@@ -3856,7 +3856,7 @@ Dynadoc:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
-Spicerack:
+spicerack:
   name: Spicerack
   url: https://github.com/jackrusher/spicerack
   categories: [Databases]
