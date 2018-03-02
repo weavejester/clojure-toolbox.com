@@ -142,7 +142,7 @@ keechma:
   categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
 
-ring-mock:
+ring_mock:
   name: Ring-Mock
   url: https://github.com/ring-clojure/ring-mock
   categories: [Web Testing, Mocking]
@@ -1006,7 +1006,7 @@ clucy:
   categories: [Text Search]
   platforms: [clj]
 
-tools.macro:
+tools_macro:
   name: tools.macro
   url: https://github.com/clojure/tools.macro
   categories: [Macros]
@@ -1024,13 +1024,13 @@ syntax_rules:
   categories: [Macros]
   platforms: [clj]
 
-tools.logging:
+tools_logging:
   name: tools.logging
   url: https://github.com/clojure/tools.logging
   categories: [Logging]
   platforms: [clj]
 
-ring-logger:
+ring_logger:
   name: Ring-logger
   url: https://github.com/nberger/ring-logger
   categories: [Logging]
@@ -1156,7 +1156,7 @@ joplin:
   categories: [Database Migrations]
   platforms: [clj]
 
-clj-sql-up:
+clj_sql_up:
   name: clj-sql-up
   url: https://github.com/ckuttruff/clj-sql-up
   categories: [Database Migrations]
@@ -1276,7 +1276,7 @@ clostache:
   categories: [Template Languages, Mustache Syntax]
   platforms: [clj]
 
-parse-ez:
+parse_ez:
   name: Parse-EZ
   url: https://github.com/protoflex/parse-ez
   categories: [Parsing]
@@ -1306,13 +1306,13 @@ gorilla_repl:
   categories: [REPLs]
   platforms: [clj]
 
-refactor-nrepl:
+refactor_nrepl:
   name: Refactor nREPL
   url: https://github.com/clojure-emacs/refactor-nrepl
   categories: [nREPL Middleware]
   platforms: [clj, cljs]
 
-cider-nrepl:
+cider_nrepl:
   name: CIDER nREPL
   url: https://github.com/clojure-emacs/cider-nrepl
   categories: [nREPL Middleware]
@@ -1846,7 +1846,7 @@ least:
   categories: [Web API Clients]
   platforms: [clj]
 
-repetition-hunter:
+repetition_hunter:
   name: repetition-hunter
   url: https://github.com/mynomoto/repetition-hunter
   categories: [Code Analysis]
@@ -2062,7 +2062,7 @@ carmine:
   categories: [Redis Clients, Message Queues]
   platforms: [clj]
 
-clojure-watch:
+clojure_watch:
   name: Clojure Watch
   url: https://github.com/derekchiang/Clojure-Watch
   categories: [Filesystem Watchers]
@@ -2188,7 +2188,7 @@ potemkin:
   categories: [Macros, Namespace Utilities]
   platforms: [clj]
 
-clj-excel:
+clj_excel:
   name: clj-excel
   url: https://github.com/mebaran/clj-excel
   categories: [MS Office Documents]
@@ -2200,13 +2200,13 @@ spreadmap:
   categories: [MS Office Documents]
   platforms: [clj]
 
-lein-ancient:
+lein_ancient:
   name: lein-ancient
   url: https://github.com/xsc/lein-ancient
   categories: [Dependency Management, Leiningen Plugins]
   platforms: [clj]
 
-lein-plz:
+lein_plz:
   name: lein-plz
   url: https://github.com/johnwalker/lein-plz
   categories: [Dependency Management, Leiningen Plugins]
@@ -2407,6 +2407,12 @@ plumbing:
 detritus:
   name: Detritus
   url: https://github.com/arrdem/detritus
+  categories: [Misc. Functions]
+  platforms: [clj]
+
+kezban:
+  name: kezban
+  url: https://github.com/ertugrulcetin/kezban
   categories: [Misc. Functions]
   platforms: [clj]
 
@@ -2866,13 +2872,13 @@ puget:
   categories: [Command Line Tools]
   platforms: [clj]
 
-lein-hiera:
+lein_hiera:
   name: lein-hiera
   url: https://github.com/greglook/lein-hiera
   categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
-clj-pgp:
+clj_pgp:
   name: clj-pgp
   url: https://github.com/greglook/clj-pgp
   categories: [Cryptography]
@@ -2884,19 +2890,19 @@ swindon:
   categories: [Compression]
   platforms: [clj]
 
-lein-jslint:
+lein_jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
   categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
-lein-jshint:
+lein_jshint:
   name: lein-jshint
   url: https://github.com/vbauer/lein-jshint
   categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
-lein-plantuml:
+lein_plantuml:
   name: lein-plantuml
   url: https://github.com/vbauer/lein-plantuml
   categories: [Documentation Tools, Leiningen Plugins]
@@ -2944,7 +2950,7 @@ advenjure:
   categories: [Game Development]
   platforms: [clj, cljs]
 
-snes-gamepad:
+snes_gamepad:
   name: SNES Gamepad
   url: https://github.com/victorysoftworks/snes-gamepad-cljs
   categories: [Game Development]
@@ -3022,7 +3028,7 @@ parkour:
   categories: [Distributed Programming, Hadoop Clients]
   platforms: [clj]
 
-lein-asciidoctor:
+lein_asciidoctor:
   name: lein-asciidoctor
   url: https://github.com/asciidoctor/asciidoctor-lein-plugin
   categories: [Documentation Tools, Leiningen Plugins]
@@ -3082,7 +3088,7 @@ synaptic:
   categories: [Machine Learning]
   platforms: [clj]
 
-hikari-cp:
+hikari_cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   categories: [Connection Pools]
@@ -3292,7 +3298,7 @@ yesparql:
   categories: [Linked Data &amp; RDF]
   platforms: [clj]
 
-tawny-owl:
+tawny_owl:
   name: Tawny-OWL
   url: https://github.com/phillord/tawny-owl
   categories: [Linked Data &amp; RDF]
@@ -3778,19 +3784,19 @@ muuntaja:
   categories: [Content Negotiation, Request Middleware, Response Middleware]
   platforms: [clj]
 
-ring-middleware-format:
+ring_middleware_format:
   name: ring-middleware-format
   url: https://github.com/ngrunwald/ring-middleware-format
   categories: [Content Negotiation, Request Middleware, Response Middleware]
   platforms: [clj]
 
-ring-middleware-accept:
+ring_middleware_accept:
   name: ring-middleware-accept
   url: https://github.com/rufoa/ring-middleware-accept
   categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
 
-ring-accept-param:
+ring_accept_param:
   name: ring-accept-param
   url: https://github.com/gmazelier/ring-accept-param
   categories: [Content Negotiation, Request Middleware]
@@ -3850,7 +3856,7 @@ kampbell:
   categories: [Databases]
   platforms: [clj, cljs]
   
-Dynadoc:
+dynadoc:
   name: Dynadoc
   url: https://github.com/oakes/Dynadoc
   categories: [Documentation Tools]
@@ -3860,4 +3866,10 @@ joker:
   name: Joker
   url: https://github.com/candid82/joker
   categories: [Code Analysis, Scripting]
-  platforms: [clj, cljs, go]
+  platforms: [clj, cljs]
+
+spicerack:
+  name: Spicerack
+  url: https://github.com/jackrusher/spicerack
+  categories: [Databases]
+  platforms: [clj]
