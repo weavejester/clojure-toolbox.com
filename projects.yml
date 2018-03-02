@@ -3867,3 +3867,51 @@ uruk:
   url: https://github.com/daveliepmann/uruk
   categories: [Databases, MarkLogic Clients]
   platforms: [clj]
+
+test_runner:
+  name: test-runner
+  url: https://github.com/cognitect-labs/test-runner
+  categories: [Unit Testing]
+  platforms: [clj]
+
+transcriptor:
+  name: transcriptor
+  url: https://github.com/cognitect-labs/transcriptor
+  categories: [REPLs]
+  platforms: [clj]
+
+vase:
+  name: Vase
+  url: https://github.com/cognitect-labs/vase
+  categories: [Datomic, RESTful Web Services]
+  platforms: [clj]
+
+anomalies:
+  name: Anomalies
+  url: https://github.com/cognitect-labs/anomalies
+  categories: [Exception Handling]
+  platforms: [clj, cljs]
+
+tools_deps_alpha:
+  name: tools.deps.alpha
+  url: https://github.com/clojure/tools.deps.alpha
+  categories: [Java Classpath, Dependency Management]
+  platforms: [clj]
+
+tools_gitlibs:
+  name: tools.gitlibs
+  url: https://github.com/clojure/tools.gitlibs
+  categories: [Git]
+  platforms: [clj]
+
+joker:
+  name: Joker
+  url: https://github.com/candid82/joker
+  categories: [Code Analysis, Scripting]
+  platforms: [clj, cljs]
+
+spicerack:
+  name: Spicerack
+  url: https://github.com/jackrusher/spicerack
+  categories: [Databases]
+  platforms: [clj]
