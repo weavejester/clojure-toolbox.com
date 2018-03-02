@@ -3862,6 +3862,12 @@ dynadoc:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
+joker:
+  name: Joker
+  url: https://github.com/candid82/joker
+  categories: [Code Analysis, Scripting]
+  platforms: [clj, cljs]
+
 spicerack:
   name: Spicerack
   url: https://github.com/jackrusher/spicerack
