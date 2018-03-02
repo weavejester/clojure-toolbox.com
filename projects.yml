@@ -3856,7 +3856,7 @@ Dynadoc:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
-test-runner:
+test_runner:
   name: test-runner
   url: https://github.com/cognitect-labs/test-runner
   categories: [Unit Testing]
@@ -3868,25 +3868,25 @@ transcriptor:
   categories: [REPLs]
   platforms: [clj]
 
-Vase:
+vase:
   name: Vase
   url: https://github.com/cognitect-labs/vase
   categories: [Datomic, RESTful Web Services]
   platforms: [clj]
 
-Anomalies:
+anomalies:
   name: Anomalies
   url: https://github.com/cognitect-labs/anomalies
   categories: [Exception Handling]
   platforms: [clj, cljs]
 
-tools.deps.alpha:
+tools_deps_alpha:
   name: tools.deps.alpha
   url: https://github.com/clojure/tools.deps.alpha
   categories: [Java Classpath, Dependency Management]
   platforms: [clj]
 
-tools.gitlibs:
+tools_gitlibs:
   name: tools.gitlibs
   url: https://github.com/clojure/tools.gitlibs
   categories: [Git]
