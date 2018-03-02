@@ -3862,6 +3862,12 @@ dynadoc:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
+uruk:
+  name: Uruk
+  url: https://github.com/daveliepmann/uruk
+  categories: [Databases, MarkLogic Clients]
+  platforms: [clj]
+
 test_runner:
   name: test-runner
   url: https://github.com/cognitect-labs/test-runner
