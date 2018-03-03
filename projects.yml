@@ -3921,3 +3921,33 @@ datawalk:
   url: https://github.com/eggsyntax/datawalk
   categories: [Data Exploration]
   platforms: [clj, cljs]
+
+alda:
+  name: alda
+  url: https://github.com/alda-lang/alda
+  categories: [Music &amp; Sound Synthesis]
+  platforms: [clj]
+
+mantra:
+  name: mantra
+  url: https://github.com/daveyarwood/mantra
+  categories: [Music &amp; Sound Synthesis]
+  platforms: [cljs]
+
+music_theory:
+  name: music-theory
+  url: https://github.com/daveyarwood/music-theory
+  categories: [Music &amp; Sound Synthesis]
+  platforms: [clj, cljs]
+
+chronoid:
+  name: chronoid
+  url: https://github.com/daveyarwood/chronoid
+  categories: [Scheduling]
+  platforms: [cljs]
+
+ezzmq:
+  name: ezzmq
+  url: https://github.com/daveyarwood/ezzmq
+  categories: [Message Queues]
+  platforms: [clj]
