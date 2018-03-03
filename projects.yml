@@ -3916,6 +3916,12 @@ spicerack:
   categories: [Databases]
   platforms: [clj]
 
+datawalk:
+  name: Datawalk
+  url: https://github.com/eggsyntax/datawalk
+  categories: [Data Exploration]
+  platforms: [clj, cljs]
+
 alda:
   name: alda
   url: https://github.com/alda-lang/alda
