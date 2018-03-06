@@ -2470,6 +2470,12 @@ lein_test_refresh:
   categories: [Continuous Testing, Leiningen Plugins]
   platforms: [clj]
 
+lein_autoexpect:
+  name: lein-autoexpect
+  url: https://github.com/clojure-expectations/lein-autoexpect
+  categories: [Continuous Testing, Leiningen Plugins]
+  platforms: [clj]
+
 quickie:
   name: quickie
   url: https://github.com/jakepearson/quickie
