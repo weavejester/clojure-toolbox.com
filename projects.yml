@@ -3630,7 +3630,7 @@ fipp:
 
 gregor:
   name: Gregor
-  url: https://github.com/weftio/gregor
+  url: https://github.com/ccann/gregor
   categories: [Kafka Clients]
   platforms: [clj]
 
