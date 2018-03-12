@@ -3957,3 +3957,21 @@ ezzmq:
   url: https://github.com/daveyarwood/ezzmq
   categories: [Message Queues]
   platforms: [clj]
+  
+klipse-app:
+  name: Klipse Web App
+  url: https://github.com/viebel/klipse
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+  
+klipse-plugin:
+  name: Klipse Web Plugin
+  url: https://github.com/viebel/klipse
+  categories: [Interactive Development]
+  platforms: [cljs]
+
+codox-klipse-theme:
+  name: Codox
+  url: https://github.com/viebel/codox-klipse-theme
+  categories: [Documentation Tools, Leiningen Plugins]
+  platforms: [clj, cljs]
