@@ -3958,20 +3958,20 @@ ezzmq:
   categories: [Message Queues]
   platforms: [clj]
   
-klipse-app:
+klipse_app:
   name: Klipse Web App
   url: https://github.com/viebel/klipse
   categories: [ClojureScript Development]
   platforms: [cljs]
   
-klipse-plugin:
+klipse_plugin:
   name: Klipse Web Plugin
   url: https://github.com/viebel/klipse
   categories: [Interactive Development]
   platforms: [cljs]
 
-codox-klipse-theme:
+codox_klipse_theme:
   name: Codox
   url: https://github.com/viebel/codox-klipse-theme
-  categories: [Documentation Tools, Leiningen Plugins]
+  categories: [Documentation Tools, Codox Themes]
   platforms: [clj, cljs]
