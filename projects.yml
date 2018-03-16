@@ -3971,7 +3971,7 @@ klipse_plugin:
   platforms: [cljs]
 
 codox_klipse_theme:
-  name: Codox
+  name: Codox Klipse Theme
   url: https://github.com/viebel/codox-klipse-theme
   categories: [Documentation Tools, Codox Themes]
   platforms: [clj, cljs]
