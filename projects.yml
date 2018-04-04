@@ -772,6 +772,12 @@ bandalore:
   categories: [Message Queues]
   platforms: [clj]
 
+walkable:
+  name: Walkable
+  url: https://github.com/walkable-server/walkable
+  categories: [SQL Abstraction]
+  platforms: [clj]
+
 durable_queue:
   name: durable-queue
   url: https://github.com/Factual/durable-queue
