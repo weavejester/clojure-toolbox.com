@@ -954,7 +954,7 @@ lobos:
 
 ring_anti_forgery:
   name: ring-anti-forgery
-  url: https://github.com/weavejester/ring-anti-forgery
+  url: https://github.com/ring-clojure/ring-anti-forgery
   categories: [Ring Security]
   platforms: [clj]
 
