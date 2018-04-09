@@ -776,7 +776,7 @@ walkable:
   name: Walkable
   url: https://github.com/walkable-server/walkable
   categories: [SQL Abstraction]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 durable_queue:
   name: durable-queue
