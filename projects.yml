@@ -3997,9 +3997,10 @@ vizdeps:
   name: vizdeps
   url: https://github.com/walmartlabs/vizdeps
   category: [Leiningen Plugins]
-  platforms: [clj
+  platforms: [clj]
 
 system_viz:
   name: system-viz
   url: https://github.com/walmartlabs/system-viz
   category: [Visualization, Application Frameworks]
+  platforms: [clj]
