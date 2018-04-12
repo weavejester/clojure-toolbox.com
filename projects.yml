@@ -2937,7 +2937,7 @@ play_clj:
   url: https://github.com/oakes/play-clj
   categories: [Game Development]
   platforms: [clj]
-  
+
 play_cljs:
   name: play-cljs
   url: https://github.com/oakes/play-cljs
@@ -3068,18 +3068,6 @@ pretty:
   name: Pretty
   url: https://github.com/AvisoNovate/pretty
   categories: [Exception Handling, Terminal Utilities, Pretty Printing]
-  platforms: [clj]
-
-tracker:
-  name: Tracker
-  url: https://github.com/AvisoNovate/tracker
-  categories: [Debugging]
-  platforms: [clj]
-
-twixt:
-  name: Twixt
-  url: https://github.com/AvisoNovate/twixt
-  categories: [Web Frameworks]
   platforms: [clj]
 
 lein_coffeescript:
@@ -3676,6 +3664,11 @@ lacinia:
   categories: [GraphQL]
   platforms: [clj]
 
+lacinia_pedestal:
+  name: lacinia-pedestal
+  url: Application Frameworks
+  categories: [GraphQL, Asynchronous HTTP]
+
 omniconf:
   name: omniconf
   url: https://github.com/grammarly/omniconf
@@ -3867,7 +3860,7 @@ kampbell:
   url: https://github.com/danielsz/kampbell
   categories: [Databases]
   platforms: [clj, cljs]
-  
+
 dynadoc:
   name: Dynadoc
   url: https://github.com/oakes/Dynadoc
@@ -3963,13 +3956,13 @@ ezzmq:
   url: https://github.com/daveyarwood/ezzmq
   categories: [Message Queues]
   platforms: [clj]
-  
+
 klipse_app:
   name: Klipse Web App
   url: https://github.com/viebel/klipse
   categories: [ClojureScript Development]
   platforms: [cljs]
-  
+
 klipse_plugin:
   name: Klipse Web Plugin
   url: https://github.com/viebel/klipse
@@ -3981,3 +3974,33 @@ codox_klipse_theme:
   url: https://github.com/viebel/codox-klipse-theme
   categories: [Documentation Tools, Codox Themes]
   platforms: [clj, cljs]
+
+schematic:
+  name: Schematic
+  url: https://github.com/walmartlabs/schematic
+  category: [Configuration]
+  platforms: [clj]
+
+test_reporting:
+  name: test-reporting
+  url: https://github.com/walmartlabs/test-reporting
+  category: [Unit Testing]
+  platforms: [clj]
+
+dyn_edn:
+  name: dyn-edn
+  url: https://github.com/walmartlabs/dyn-edn
+  category: [Configuration]
+  platforms: [clj]
+
+vizdeps:
+  name: vizdeps
+  url: https://github.com/walmartlabs/vizdeps
+  category: [Leiningen Plugins]
+  platforms: [clj]
+
+system_viz:
+  name: system-viz
+  url: https://github.com/walmartlabs/system-viz
+  category: [Visualization, Application Frameworks]
+  platforms: [clj]
