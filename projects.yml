@@ -3668,6 +3668,7 @@ lacinia_pedestal:
   name: lacinia-pedestal
   url: Application Frameworks
   categories: [GraphQL, Asynchronous HTTP]
+  platforms: [clj]
 
 omniconf:
   name: omniconf
@@ -3978,29 +3979,29 @@ codox_klipse_theme:
 schematic:
   name: Schematic
   url: https://github.com/walmartlabs/schematic
-  category: [Configuration]
+  categories: [Configuration]
   platforms: [clj]
 
 test_reporting:
   name: test-reporting
   url: https://github.com/walmartlabs/test-reporting
-  category: [Unit Testing]
+  categories: [Unit Testing]
   platforms: [clj]
 
 dyn_edn:
   name: dyn-edn
   url: https://github.com/walmartlabs/dyn-edn
-  category: [Configuration]
+  categories: [Configuration]
   platforms: [clj]
 
 vizdeps:
   name: vizdeps
   url: https://github.com/walmartlabs/vizdeps
-  category: [Leiningen Plugins]
+  categories: [Leiningen Plugins]
   platforms: [clj]
 
 system_viz:
   name: system-viz
   url: https://github.com/walmartlabs/system-viz
-  category: [Visualization, Application Frameworks]
+  categories: [Visualization, Application Frameworks]
   platforms: [clj]
