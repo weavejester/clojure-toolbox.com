@@ -1212,8 +1212,8 @@ algo_monads:
 
 cats:
   name: cats
-  url: https://github.com/niwibe/cats
-  categories: [Functional Programming, Monads, Lenses, Data Transformation]
+  url: https://github.com/funcool/cats
+  categories: [Functional Programming, Monads, Data Transformation]
   platforms: [clj, cljs]
 
 core_match:
@@ -4005,3 +4005,9 @@ system_viz:
   url: https://github.com/walmartlabs/system-viz
   categories: [Visualization, Application Frameworks]
   platforms: [clj]
+
+lentes:
+  name: lentes
+  url: https://github.com/funcool/lentes
+  categories: [Lenses]
+  platforms: [clj, cljs]
