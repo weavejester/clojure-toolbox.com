@@ -4012,6 +4012,24 @@ system_viz:
   categories: [Visualization, Application Frameworks]
   platforms: [clj]
 
+where:
+  name: where
+  url: https://github.com/BrunoBonacci/where
+  categories: [DSL, Utilities]
+  platforms: [clj, cljs]
+
+clj-sophia:
+  name: clj-sophia
+  url: https://github.com/BrunoBonacci/clj-sophia
+  categories: [Databases]
+  platforms: [clj]
+
+ring-boost:
+  name: ring-boost
+  url: https://github.com/BrunoBonacci/ring-boost
+  categories: [Caching, Request Middleware, Response Middleware]
+  platforms: [clj]
+
 lentes:
   name: lentes
   url: https://github.com/funcool/lentes
