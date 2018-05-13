@@ -1212,8 +1212,8 @@ algo_monads:
 
 cats:
   name: cats
-  url: https://github.com/niwibe/cats
-  categories: [Functional Programming, Monads, Lenses, Data Transformation]
+  url: https://github.com/funcool/cats
+  categories: [Functional Programming, Monads, Data Transformation]
   platforms: [clj, cljs]
 
 core_match:
@@ -3520,6 +3520,12 @@ lein_bin:
   categories: [Command Line Tools, Leiningen Plugins]
   platforms: [clj]
 
+lein_binplus:
+  name: lein-bin
+  url: https://github.com/BrunoBonacci/lein-binplus
+  categories: [Command Line Tools, Leiningen Plugins]
+  platforms: [clj]
+
 telegenic:
   name: telegenic
   url: https://github.com/mikera/telegenic
@@ -4023,3 +4029,9 @@ ring-boost:
   url: https://github.com/BrunoBonacci/ring-boost
   categories: [Caching, Request Middleware, Response Middleware]
   platforms: [clj]
+
+lentes:
+  name: lentes
+  url: https://github.com/funcool/lentes
+  categories: [Lenses]
+  platforms: [clj, cljs]
