@@ -4041,3 +4041,9 @@ lentes:
   url: https://github.com/funcool/lentes
   categories: [Lenses]
   platforms: [clj, cljs]
+
+vura:
+  name: Vura
+  url: https://github.com/gersak/vura
+  categories: [Date Time Scheduling]
+  platforms: [clj, cljs]
