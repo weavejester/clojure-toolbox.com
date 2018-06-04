@@ -4045,5 +4045,5 @@ lentes:
 vura:
   name: Vura
   url: https://github.com/gersak/vura
-  categories: [Date Time]
+  categories: [Date and Time]
   platforms: [clj, cljs]
