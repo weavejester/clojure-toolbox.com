@@ -4047,3 +4047,9 @@ vura:
   url: https://github.com/gersak/vura
   categories: [Date and Time]
   platforms: [clj, cljs]
+
+clojurice:
+  name: clojurice
+  url: https://github.com/jarcane/clojurice
+  categories: [Web Frameworks, Project Templates]
+  platforms: [clj, cljs]
