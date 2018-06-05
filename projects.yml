@@ -160,6 +160,12 @@ shrubbery:
   categories: [Unit Testing, Mocking]
   platforms: [clj]
 
+spy:
+  name: Spy
+  url: https://github.com/alexanderjamesking/spy
+  categories: [Unit Testing, Mocking]
+  platforms: [clj, cljs]
+  
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
