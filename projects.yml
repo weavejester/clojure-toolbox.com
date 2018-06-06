@@ -4059,3 +4059,9 @@ clojurice:
   url: https://github.com/jarcane/clojurice
   categories: [Web Frameworks, Project Templates]
   platforms: [clj, cljs]
+
+missionary:
+  name: missionary
+  url: https://github.com/leonoel/missionary
+  categories: [Asynchronous Programming]
+  platforms: [clj, cljs]
