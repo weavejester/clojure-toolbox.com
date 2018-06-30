@@ -4065,3 +4065,33 @@ missionary:
   url: https://github.com/leonoel/missionary
   categories: [Asynchronous Programming]
   platforms: [clj, cljs]
+
+spec_alpha:
+  name: spec.alpha
+  url: https://github.com/clojure/spec.alpha
+  categories: [Spec, Schema, Dynamic Typing]
+  platforms: [clj, cljs]
+
+clojure_future_spec:
+  name: clojure-future-spec
+  url: https://github.com/tonsky/clojure-future-spec
+  categories: [Spec]
+  platforms: [clj]
+
+expound:
+  name: Expound
+  url: https://github.com/bhb/expound
+  categories: [Spec]
+  platforms: [clj, cljs]
+
+orchestra:
+  name: Orchestra
+  url: https://github.com/jeaye/orchestra
+  categories: [Spec]
+  platforms: [clj, cljs]
+
+spectrum:
+  name: Spectrum
+  url: https://github.com/arohner/spectrum
+  categories: [Spec, Static Typing]
+  platforms: [clj]
