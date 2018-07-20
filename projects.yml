@@ -147,6 +147,12 @@ keechma:
   url: https://github.com/keechma/keechma
   categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
+  
+kee_frame:
+  name: kee-frame
+  url: https://github.com/ingesolvoll/kee-frame
+  categories: [Web Frameworks, React Frameworks]
+  platforms: [cljs]
 
 ring_mock:
   name: Ring-Mock
