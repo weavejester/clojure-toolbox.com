@@ -22,6 +22,12 @@ aero:
   categories: [Configuration]
   platforms: [clj]
 
+artemis:
+  name: Artemis
+  url: https://github.com/workframers/artemis
+  categories: [GraphQL]
+  platforms: [cljs]
+
 leiningen:
   name: Leiningen
   url: https://github.com/technomancy/leiningen
@@ -147,7 +153,7 @@ keechma:
   url: https://github.com/keechma/keechma
   categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
-  
+
 kee_frame:
   name: kee-frame
   url: https://github.com/ingesolvoll/kee-frame
@@ -171,7 +177,7 @@ spy:
   url: https://github.com/alexanderjamesking/spy
   categories: [Unit Testing, Mocking]
   platforms: [clj, cljs]
-  
+
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
