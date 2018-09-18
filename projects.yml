@@ -4107,3 +4107,9 @@ spectrum:
   url: https://github.com/arohner/spectrum
   categories: [Spec, Static Typing]
   platforms: [clj]
+
+reitit:
+  name: Reitit
+  url: https://github.com/metosin/reitit
+  categories: [HTTP Routing]
+  platforms: [clj, cljs]
