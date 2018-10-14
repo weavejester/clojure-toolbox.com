@@ -4113,3 +4113,9 @@ reitit:
   url: https://github.com/metosin/reitit
   categories: [HTTP Routing]
   platforms: [clj, cljs]
+
+specviz:
+  name: specviz
+  url: https://github.com/jebberjeb/specviz
+  categories: [Spec, Visualization]
+  platforms: [clj]
