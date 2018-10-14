@@ -4119,3 +4119,9 @@ specviz:
   url: https://github.com/jebberjeb/specviz
   categories: [Spec, Visualization]
   platforms: [clj]
+
+clucie:
+  name: Clucie
+  url: https://github.com/federkasten/clucie
+  categories: [Text Search]
+  platforms: [clj]
