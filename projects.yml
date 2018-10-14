@@ -4113,3 +4113,9 @@ reitit:
   url: https://github.com/metosin/reitit
   categories: [HTTP Routing]
   platforms: [clj, cljs]
+
+clucie:
+  name: Clucie
+  url: https://github.com/federkasten/clucie
+  categories: [Text Search]
+  platforms: [clj]
