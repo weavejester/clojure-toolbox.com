@@ -4113,3 +4113,9 @@ reitit:
   url: https://github.com/metosin/reitit
   categories: [HTTP Routing]
   platforms: [clj, cljs]
+
+clj-memory-meter:
+  name: clj-memory-meter
+  url: https://github.com/clojure-goes-fast/clj-memory-meter
+  categories: [Performance, Benchmarking]
+  platforms: [clj]
