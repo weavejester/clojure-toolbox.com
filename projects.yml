@@ -4137,3 +4137,9 @@ clucie:
   url: https://github.com/federkasten/clucie
   categories: [Text Search]
   platforms: [clj]
+
+otarta:
+  name: Otarta
+  url: https://gitlab.com/eval/otarta
+  categories: [Message Queues, MQTT]
+  platforms: [cljs]
