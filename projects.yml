@@ -3970,6 +3970,12 @@ alda:
   categories: [Music &amp; Sound Synthesis]
   platforms: [clj]
 
+edna:
+  name: edna
+  url: https://github.com/oakes/edna
+  categories: [Music &amp; Sound Synthesis]
+  platforms: [clj, cljs]
+
 mantra:
   name: mantra
   url: https://github.com/daveyarwood/mantra
