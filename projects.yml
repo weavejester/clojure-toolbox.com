@@ -4149,3 +4149,9 @@ otarta:
   url: https://gitlab.com/eval/otarta
   categories: [Message Queues, MQTT]
   platforms: [cljs]
+
+satakieli:
+  name: Satakieli
+  url: https://github.com/Vincit/satakieli
+  categories: [Internationalization]
+  platforms: [clj, cljs]
