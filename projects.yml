@@ -1150,6 +1150,12 @@ octet:
   categories: [Binary Data, Parsing]
   platforms: [clj, cljs]
 
+binary:
+  name: Binary
+  url: https://github.com/smee/binary
+  categories: [Binary Data, Parsing]
+  platforms: [clj]
+
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
