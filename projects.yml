@@ -4161,3 +4161,9 @@ satakieli:
   url: https://github.com/Vincit/satakieli
   categories: [Internationalization]
   platforms: [clj, cljs]
+  
+fulcro:
+  name: Fulcro
+  url: https://github.com/fulcrologic/fulcro
+  categories: [Web Frameworks, React Frameworks]
+  platforms: [clj, cljs]
