@@ -4107,6 +4107,12 @@ spec_alpha:
   url: https://github.com/clojure/spec.alpha
   categories: [Spec, Schema, Dynamic Typing]
   platforms: [clj, cljs]
+  
+spec_coerce:
+  name: spec-coerce
+  url: https://github.com/wilkerlucio/spec-coerce
+  categories: [Spec, Data Coercion]
+  platforms: [clj, cljs]
 
 clojure_future_spec:
   name: clojure-future-spec
