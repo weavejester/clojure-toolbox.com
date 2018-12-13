@@ -3591,6 +3591,12 @@ loom:
   url: https://github.com/aysylu/loom
   categories: [Data Structures, Graphs]
   platforms: [clj]
+  
+pathom:
+  name: Pathom
+  url: https://github.com/wilkerlucio/pathom/
+  categories: [Graphs]
+  platforms: [clj,cljs]
 
 ubergraph:
   name: Ubergraph
