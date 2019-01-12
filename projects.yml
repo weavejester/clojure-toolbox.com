@@ -2842,6 +2842,24 @@ eastwood:
   categories: [Code Analysis, Leiningen Plugins]
   platforms: [clj]
 
+bikeshed:
+  name: Bikeshed
+  url: https://github.com/dakrone/lein-bikeshed
+  categories: [Code Analysis, Leiningen Plugins]
+  platforms: [clj]
+
+lein_docstring_checker:
+  name: lein-docstring-checker
+  url: https://github.com/camsaul/lein-docstring-checker
+  categories: [Code Analysis, Leiningen Plugins]
+  platforms: [clj]
+
+lein_check_namespace_decls:
+  name: lein-check-namespace-decls
+  url: https://github.com/camsaul/lein-check-namespace-decls
+  categories: [Code Analysis, Leiningen Plugins]
+  platforms: [clj]
+
 stch_routing:
   name: stch.routing
   url: https://github.com/stch-library/routing
