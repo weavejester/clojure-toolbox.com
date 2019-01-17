@@ -147,6 +147,12 @@ re_frame:
   url: https://github.com/Day8/re-frame
   categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
+  
+tuck:
+  name: tuck
+  url: https://github.com/tatut/tuck
+  categories: [Web Frameworks, React Frameworks]
+  platforms: [cljs]
 
 keechma:
   name: Keechma
@@ -1899,6 +1905,12 @@ garden:
   url: https://github.com/noprompt/garden
   categories: [CSS Generation]
   platforms: [clj]
+  
+garden:
+  name: stylefy
+  url: https://github.com/jarzka/stylefy
+  categories: [CSS Generation]
+  platforms: [cljs]
 
 instaparse:
   name: Instaparse
@@ -2097,6 +2109,12 @@ honey_sql:
   url: https://github.com/jkk/honeysql
   categories: [SQL Abstraction]
   platforms: [clj]
+  
+specql:
+  name: specql
+  url: https://github.com/tatut/specql
+  categories: [SQL Abstraction]
+  platforms: [cljs]
 
 carmine:
   name: Carmine
