@@ -1906,7 +1906,7 @@ garden:
   categories: [CSS Generation]
   platforms: [clj]
   
-garden:
+stylefy:
   name: stylefy
   url: https://github.com/jarzka/stylefy
   categories: [CSS Generation]
