@@ -1718,7 +1718,7 @@ namespacefy:
   name: namespacefy
   url: https://github.com/Jarzka/namespacefy
   categories: [Namespace Utilities]
-  platforms: [clj cljs]
+  platforms: [clj, cljs]
 
 bultitude:
   name: Bultitude
