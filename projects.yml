@@ -1713,6 +1713,12 @@ tools_namespace:
   url: https://github.com/clojure/tools.namespace
   categories: [Namespace Utilities]
   platforms: [clj]
+  
+namespacefy:
+  name: namespacefy
+  url: https://github.com/Jarzka/namespacefy
+  categories: [Namespace Utilities]
+  platforms: [clj cljs]
 
 bultitude:
   name: Bultitude
