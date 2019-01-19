@@ -2120,7 +2120,7 @@ specql:
   name: specql
   url: https://github.com/tatut/specql
   categories: [SQL Abstraction]
-  platforms: [cljs]
+  platforms: [clj, cljs]
 
 carmine:
   name: Carmine
