@@ -4269,3 +4269,9 @@ depot:
   url: https://github.com/Olical/depot 
   categories: [tools.deps]
   platform: [clj]
+
+scenari:
+  name: Scenari
+  url: https://github.com/jgrodziski/scenari
+  categories: [Unit Testing]
+  platform: [clj]
