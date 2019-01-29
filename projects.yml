@@ -4221,3 +4221,51 @@ fulcro:
   url: https://github.com/fulcrologic/fulcro
   categories: [Web Frameworks, React Frameworks]
   platforms: [clj, cljs]
+
+metav:
+  name: Metav
+  url: https://github.com/jgrodziski/metav
+  categories: [tools.deps]
+  platform: [clj]
+  
+depstar:
+  name: Depstar
+  url: https://github.com/healthfinch/depstar 
+  categories: [tools.deps]
+  platform: [clj]
+
+cambada:
+  name: Cambada
+  url: https://github.com/luchiniatwork/cambada
+  categories: [tools.deps]
+  platform: [clj]
+
+pack.alpha:
+  name: Pack
+  url: https://github.com/juxt/pack.alpha 
+  categories: [tools.deps]
+  platform: [clj]
+
+lein-tools-deps:
+  name: lein-tools-deps 
+  url: https://github.com/RickMoynihan/lein-tools-deps 
+  categories: [tools.deps]
+  platform: [clj]
+  
+clj-new:
+  name: clj-new 
+  url: https://github.com/seancorfield/clj-new
+  categories: [tools.deps]
+  platform: [clj]
+  
+dot-clojure-deps.edn:
+  name: dot-clojure-deps.edn 
+  url: https://github.com/seancorfield/dot-clojure
+  categories: [tools.deps]
+  platform: [clj]
+  
+depot:
+  name: Depot 
+  url: https://github.com/Olical/depot 
+  categories: [tools.deps]
+  platform: [clj]
