@@ -4221,3 +4221,58 @@ fulcro:
   url: https://github.com/fulcrologic/fulcro
   categories: [Web Frameworks, React Frameworks]
   platforms: [clj, cljs]
+
+scenari:
+  name: Scenari
+  url: https://github.com/jgrodziski/scenari
+  categories: [Unit Testing]
+  platform: [clj]
+
+metav:
+  name: Metav
+  url: https://github.com/jgrodziski/metav
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+  
+depstar:
+  name: Depstar
+  url: https://github.com/healthfinch/depstar 
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+
+cambada:
+  name: Cambada
+  url: https://github.com/luchiniatwork/cambada
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+
+pack.alpha:
+  name: Pack
+  url: https://github.com/juxt/pack.alpha 
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+
+lein-tools-deps:
+  name: lein-tools-deps 
+  url: https://github.com/RickMoynihan/lein-tools-deps 
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+  
+clj-new:
+  name: clj-new 
+  url: https://github.com/seancorfield/clj-new
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+  
+dot-clojure-deps.edn:
+  name: dot-clojure-deps.edn 
+  url: https://github.com/seancorfield/dot-clojure
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+  
+depot:
+  name: Depot 
+  url: https://github.com/Olical/depot 
+  categories: [Tools.deps Tooling]
+  platform: [clj]
+ 
