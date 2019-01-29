@@ -4221,3 +4221,9 @@ fulcro:
   url: https://github.com/fulcrologic/fulcro
   categories: [Web Frameworks, React Frameworks]
   platforms: [clj, cljs]
+
+scenari:
+  name: Scenari
+  url: https://github.com/jgrodziski/scenari
+  categories: [Unit Testing]
+  platform: [clj]
