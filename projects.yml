@@ -3682,6 +3682,12 @@ franzy:
   categories: [Kafka Clients]
   platforms: [clj]
 
+jackdaw:
+  name: Jackdaw
+  url: https://github.com/FundingCircle/jackdaw/
+  categories: [Kafka Clients]
+  platforms: [clj]
+
 relational_mapper:
   name: Relational Mapper
   url: https://github.com/netizer/relational_mapper
