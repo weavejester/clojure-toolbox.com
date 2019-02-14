@@ -4287,3 +4287,9 @@ scenari:
   url: https://github.com/jgrodziski/scenari
   categories: [Unit Testing]
   platforms: [clj]
+
+injure:
+  name: injure
+  url: https://github.com/leonoel/injure
+  categories: [Dependency Injection]
+  platforms: [clj, cljs]
