@@ -3016,6 +3016,12 @@ play_cljs:
   categories: [Game Development]
   platforms: [cljs]
 
+play_cljc:
+  name: play-cljc
+  url: https://github.com/oakes/play-cljc
+  categories: [Game Development]
+  platforms: [clj, cljs]
+
 clecs:
   name: clecs
   url: https://github.com/muhuk/clecs
