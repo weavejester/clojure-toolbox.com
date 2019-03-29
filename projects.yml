@@ -4293,3 +4293,9 @@ herb:
   url: https://github.com/roosta/herb
   categories: [CSS Generation]
   platforms: [clj, cljs]
+  
+arachne:
+  name: Arachne
+  url: https://github.com/arachne-framework/arachne-core
+  categories: [Web Frameworks]
+  platforms: [clj]
