@@ -2974,6 +2974,12 @@ swindon:
   categories: [Compression]
   platforms: [clj]
 
+clj_compress:
+  name: clj-compress
+  url: https://github.com/mikeananev/clj-compress
+  categories: [Compression]
+  platforms: [clj]
+
 lein_jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
