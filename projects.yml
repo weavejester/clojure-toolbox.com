@@ -4293,3 +4293,21 @@ herb:
   url: https://github.com/roosta/herb
   categories: [CSS Generation]
   platforms: [clj, cljs]
+
+cortex:
+  name: Cortex
+  url: https://github.com/originrose/cortex
+  categories: [Machine Learning]
+  platforms: [clj]
+  
+flare:
+  name: Flare
+  url: https://github.com/aria42/flare
+  categories: [Machine Learning]
+  platforms: [clj]
+  
+dl4clj:
+  name: Dl4clj
+  url: https://github.com/yetanalytics/dl4clj
+  categories: [Machine Learning]
+  platforms: [clj]
