@@ -3622,6 +3622,12 @@ dec:
   categories: [Configuration]
   platforms: [clj]
 
+oneconfig:
+  name: 1Config
+  url: https://github.com/BrunoBonacci/1config
+  categories: [Configuration]
+  platforms: [clj]
+
 yetibot:
   name: Yetibot
   url: https://github.com/devth/yetibot
