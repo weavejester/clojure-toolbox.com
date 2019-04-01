@@ -2974,6 +2974,12 @@ swindon:
   categories: [Compression]
   platforms: [clj]
 
+clj_compress:
+  name: clj-compress
+  url: https://github.com/mikeananev/clj-compress
+  categories: [Compression]
+  platforms: [clj]
+
 lein_jslint:
   name: lein-jslint
   url: https://github.com/vbauer/lein-jslint
@@ -3015,6 +3021,12 @@ play_cljs:
   url: https://github.com/oakes/play-cljs
   categories: [Game Development]
   platforms: [cljs]
+
+play_cljc:
+  name: play-cljc
+  url: https://github.com/oakes/play-cljc
+  categories: [Game Development]
+  platforms: [clj, cljs]
 
 clecs:
   name: clecs
@@ -4310,4 +4322,10 @@ dl4clj:
   name: Dl4clj
   url: https://github.com/yetanalytics/dl4clj
   categories: [Machine Learning]
+  platforms: [clj]
+
+coast:
+  name: Coast
+  url: https://github.com/coast-framework/coast
+  categories: [Web Frameworks]
   platforms: [clj]
