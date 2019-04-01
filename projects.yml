@@ -2821,8 +2821,17 @@ molecule:
 tupelo:
   name: Tupelo
   url: https://github.com/cloojure/tupelo
-  categories: [Misc. Functions, Datomic]
-  platforms: [clj]
+  categories:
+    - Data Transformation
+    - Date and Time
+    - Datomic
+    - Misc. Functions
+    - Unit Testing
+    - HTML Parsers
+    - JSON Parsers
+    - YAML Parsers
+    - XML Parsers
+  platforms: [clj, cljs]
 
 datomock:
   name: datomock
