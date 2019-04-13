@@ -4219,7 +4219,7 @@ reitit:
   categories: [HTTP Routing, Web Frameworks, RESTful Web Services, Asynchronous HTTP]
   platforms: [clj, cljs]
 
-clj-memory-meter:
+clj_memory_meter:
   name: clj-memory-meter
   url: https://github.com/clojure-goes-fast/clj-memory-meter
   categories: [Performance, Benchmarking]
