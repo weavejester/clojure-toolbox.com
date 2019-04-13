@@ -1579,7 +1579,7 @@ yada:
 compojure_api:
   name: Compojure-api
   url: https://github.com/metosin/compojure-api
-  categories: [RESTful Web Services]
+  categories: [RESTful Web Services, Web Frameworks]
   platforms: [clj]
 
 bishop:
@@ -4216,7 +4216,7 @@ spectrum:
 reitit:
   name: Reitit
   url: https://github.com/metosin/reitit
-  categories: [HTTP Routing]
+  categories: [HTTP Routing, Web Frameworks, RESTful Web Services, Asynchronous HTTP]
   platforms: [clj, cljs]
 
 clj-memory-meter:
@@ -4349,4 +4349,28 @@ coast:
   name: Coast
   url: https://github.com/coast-framework/coast
   categories: [Web Frameworks]
+  platforms: [clj]
+
+jsonista:
+  name: Jsonista
+  url: https://github.com/metosin/jsonista
+  categories: [JSON Parsers]
+  platforms: [clj]
+
+spec_tools:
+  name: Spec-Tools
+  url: https://github.com/metosin/spec-tools
+  categories: [Spec]
+  platforms: [clj, cljs]
+
+schema_tools:
+  name: Schema-Tools
+  url: https://github.com/metosin/schema-tools
+  categories: [Schema]
+  platforms: [clj, cljs]
+
+schema_viz:
+  name: Schema-Viz
+  url: https://github.com/metosin/schema-viz
+  categories: [Schema]
   platforms: [clj]
