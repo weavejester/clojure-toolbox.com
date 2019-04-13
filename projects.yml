@@ -4357,19 +4357,19 @@ jsonista:
   categories: [JSON Parsers]
   platforms: [clj]
 
-spec-tools:
+spec_tools:
   name: Spec-Tools
   url: https://github.com/metosin/spec-tools
   categories: [Spec]
   platforms: [clj, cljs]
 
-schema-tools:
+schema_tools:
   name: Schema-Tools
   url: https://github.com/metosin/schema-tools
   categories: [Schema]
   platforms: [clj, cljs]
 
-schema-viz:
+schema_viz:
   name: Schema-Viz
   url: https://github.com/metosin/schema-viz
   categories: [Schema]
