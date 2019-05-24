@@ -4374,3 +4374,15 @@ schema_viz:
   url: https://github.com/metosin/schema-viz
   categories: [Schema]
   platforms: [clj]
+
+meander:
+  name: Meander
+  url: https://github.com/noprompt/meander
+  categories: [Data Transformation]
+  platforms: [clj, cljs]
+
+supdate:
+  name: Supdate
+  url: https://github.com/vvvvalvalval/supdate
+  categories: [Data Transformation]
+  platforms: [clj, cljs]
