@@ -2758,12 +2758,6 @@ madness:
   categories: [Static Site Generation]
   platforms: [clj]
 
-ecstatic:
-  name: Ecstatic
-  url: https://github.com/samrat/ecstatic
-  categories: [Static Site Generation]
-  platforms: [clj]
-
 incise:
   name: Incise
   url: https://github.com/RyanMcG/incise
