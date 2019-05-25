@@ -2758,12 +2758,6 @@ madness:
   categories: [Static Site Generation]
   platforms: [clj]
 
-ecstatic:
-  name: Ecstatic
-  url: https://github.com/samrat/ecstatic
-  categories: [Static Site Generation]
-  platforms: [clj]
-
 incise:
   name: Incise
   url: https://github.com/RyanMcG/incise
@@ -4219,7 +4213,7 @@ reitit:
   categories: [HTTP Routing, Web Frameworks, RESTful Web Services, Asynchronous HTTP]
   platforms: [clj, cljs]
 
-clj-memory-meter:
+clj_memory_meter:
   name: clj-memory-meter
   url: https://github.com/clojure-goes-fast/clj-memory-meter
   categories: [Performance, Benchmarking]
@@ -4374,6 +4368,18 @@ schema_viz:
   url: https://github.com/metosin/schema-viz
   categories: [Schema]
   platforms: [clj]
+
+meander:
+  name: Meander
+  url: https://github.com/noprompt/meander
+  categories: [Data Transformation]
+  platforms: [clj, cljs]
+
+supdate:
+  name: Supdate
+  url: https://github.com/vvvvalvalval/supdate
+  categories: [Data Transformation]
+  platforms: [clj, cljs]
 
 stencil_core:
   name: Stencil Core
