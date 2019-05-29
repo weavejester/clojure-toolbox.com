@@ -4380,3 +4380,10 @@ supdate:
   url: https://github.com/vvvvalvalval/supdate
   categories: [Data Transformation]
   platforms: [clj, cljs]
+
+clj_async_profiler:
+  name: clj-async-profiler
+  url: https://github.com/clojure-goes-fast/clj-async-profiler
+  categories: [Performance]
+  platforms: [clj]
+
