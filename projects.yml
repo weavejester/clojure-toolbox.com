@@ -4380,3 +4380,9 @@ supdate:
   url: https://github.com/vvvvalvalval/supdate
   categories: [Data Transformation]
   platforms: [clj, cljs]
+
+clojurephant:
+  name: clojurephant
+  url: https://github.com/clojurephant/clojurephant
+  categories: [Build Tools]
+  platforms: [clj, cljs]
