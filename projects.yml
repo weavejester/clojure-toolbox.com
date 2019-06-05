@@ -4387,3 +4387,9 @@ clj_async_profiler:
   categories: [Performance]
   platforms: [clj]
 
+stencil_core:
+  name: Stencil Core
+  url: https://github.com/erdos/stencil
+  categories: [MS Office Documents]
+  platforms: [clj]
+  
