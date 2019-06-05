@@ -4381,6 +4381,12 @@ supdate:
   categories: [Data Transformation]
   platforms: [clj, cljs]
 
+clojurephant:
+  name: clojurephant
+  url: https://github.com/clojurephant/clojurephant
+  categories: [Build Tools]
+  platforms: [clj, cljs]
+
 clj_async_profiler:
   name: clj-async-profiler
   url: https://github.com/clojure-goes-fast/clj-async-profiler
@@ -4392,4 +4398,3 @@ stencil_core:
   url: https://github.com/erdos/stencil
   categories: [MS Office Documents]
   platforms: [clj]
-  
