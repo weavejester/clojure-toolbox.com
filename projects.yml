@@ -4380,3 +4380,9 @@ supdate:
   url: https://github.com/vvvvalvalval/supdate
   categories: [Data Transformation]
   platforms: [clj, cljs]
+
+stencil_core:
+  name: Stencil Core
+  url: https://github.com/erdos/stencil
+  categories: [MS Office Documents]
+  platforms: [clj]
