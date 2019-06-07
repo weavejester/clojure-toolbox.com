@@ -4399,7 +4399,7 @@ stencil_core:
   categories: [MS Office Documents]
   platforms: [clj]
 
-clj-kondo:
+clj_kondo:
   name: clj-kondo
   url: https://github.com/borkdude/clj-kondo
   categories: [Code Analysis]
