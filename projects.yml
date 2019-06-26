@@ -3787,6 +3787,12 @@ lacinia_pedestal:
   categories: [GraphQL, Asynchronous HTTP]
   platforms: [clj]
 
+leona:
+  name: Leona
+  url: https://github.com/WorksHub/leona
+  categories: [GraphQL]
+  platforms: [clj]
+
 omniconf:
   name: omniconf
   url: https://github.com/grammarly/omniconf
