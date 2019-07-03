@@ -3265,6 +3265,12 @@ brutha:
   categories: [React Interfaces]
   platforms: [cljs]
 
+cljsx:
+  name: CLJSX
+  url: https://github.com/peterhudec/cljsx
+  categories: [React Interfaces, React DOM]
+  platforms: [clj, cljs]
+
 rum:
   name: Rum
   url: https://github.com/tonsky/rum
