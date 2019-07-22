@@ -267,6 +267,18 @@ bolth:
   url: https://github.com/yeller/bolth
   categories: [Unit Testing, Test Runners]
   platforms: [clj]
+  
+kaocha:
+  name: Kaocha
+  url: https://github.com/lambdaisland/kaocha
+  categories: [Test Runners]
+  platforms: [clj]
+  
+kaocha_cljs:
+  name: Kaocha-cljs
+  url: https://github.com/lambdaisland/kaocha-cljs
+  categories: [Test Runners]
+  platforms: [cljs]
 
 speclj:
   name: Speclj
