@@ -274,7 +274,7 @@ kaocha:
   categories: [Test Runners]
   platforms: [clj]
   
-kaocha-cljs:
+kaocha_cljs:
   name: Kaocha-cljs
   url: https://github.com/lambdaisland/kaocha-cljs
   categories: [Test Runners]
