@@ -880,6 +880,24 @@ clojure_joda_time:
   categories: [Date and Time]
   platforms: [clj]
 
+tick:
+  name: tick
+  url: https://github.com/juxt/tick
+  categories: [Date and Time]
+  platforms: [clj, cljs]
+
+cljc_java_time:
+  name: cljc.java-time
+  url: https://github.com/henryw374/cljc.java-time
+  categories: [Date and Time]
+  platforms: [clj, cljs]
+
+time_literals:
+  name: time-literals
+  url: https://github.com/henryw374/time-literals
+  categories: [Date and Time]
+  platforms: [clj, cljs]
+
 borneo:
   name: borneo
   url: https://github.com/wagjo/borneo
