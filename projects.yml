@@ -4429,7 +4429,7 @@ clj_kondo:
   categories: [Code Analysis]
   platforms: [clj, cljs]
 
-reduce-fsm:
+reduce_fsm:
   name: reduce-fsm
   url: https://github.com/cdorrat/reduce-fsm
   categories: [State Machines]
