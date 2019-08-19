@@ -4428,3 +4428,15 @@ clj_kondo:
   url: https://github.com/borkdude/clj-kondo
   categories: [Code Analysis]
   platforms: [clj, cljs]
+
+reduce-fsm:
+  name: reduce-fsm
+  url: https://github.com/cdorrat/reduce-fsm
+  categories: [State Machines]
+  platforms: [clj]
+
+tilakone:
+  name: tilakone
+  url: https://github.com/metosin/tilakone
+  categories: [State Machines]
+  platforms: [clj, cljs]
