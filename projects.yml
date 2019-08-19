@@ -3778,7 +3778,13 @@ sweet_liberty:
 cljs_oops:
   name: cljs-oops
   url: https://github.com/binaryage/cljs-oops
-  categories: [ClojureScript Development, Syntax Extensions]
+  categories: [ClojureScript Development, Syntax Extensions, Javascript Interop]
+  platforms: [cljs]
+
+js_interop:
+  name: js-interop
+  url: https://github.com/appliedsciencestudio/js-interop
+  categories: [ClojureScript Development, Syntax Extensions, Javascript Interop]
   platforms: [cljs]
 
 graphql_clj:
