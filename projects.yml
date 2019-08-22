@@ -4464,3 +4464,9 @@ tilakone:
   url: https://github.com/metosin/tilakone
   categories: [State Machines]
   platforms: [clj, cljs]
+
+oz:
+  name: Oz
+  url: om/metasoarous/oz
+  categories: [Data Exploration, Visualization, Static Site Generation]
+  platforms: [clj, cljs]
