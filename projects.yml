@@ -4467,6 +4467,6 @@ tilakone:
 
 oz:
   name: Oz
-  url: om/metasoarous/oz
+  url: https://github.com/metasoarous/oz
   categories: [Data Exploration, Visualization, Static Site Generation]
   platforms: [clj, cljs]
