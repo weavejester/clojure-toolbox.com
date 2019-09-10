@@ -3209,6 +3209,12 @@ hikari_cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   categories: [Connection Pools]
+  platforms: [clj]  
+  
+metabase_connection_pool:
+  name: metabase/connection-pool
+  url: https://github.com/metabase/connection-pool
+  categories: [Connection Pools]
   platforms: [clj]
 
 duckling:
