@@ -4470,3 +4470,9 @@ oz:
   url: https://github.com/metasoarous/oz
   categories: [Data Exploration, Visualization, Static Site Generation]
   platforms: [clj, cljs]
+
+caesium:
+  name: caesium
+  url: https://github.com/lvh/caesium
+  categories: [Cryptography]
+  platforms: [clj]
