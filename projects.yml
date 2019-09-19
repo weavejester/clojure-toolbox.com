@@ -298,12 +298,6 @@ clj_http:
   categories: [HTTP Clients]
   platforms: [clj]
 
-clj_http_lite:
-  name: clj-http-lite
-  url: https://github.com/hiredman/clj-http-lite
-  categories: [HTTP Clients]
-  platforms: [clj]
-
 cljs_http:
   name: cljs-http
   url: https://github.com/r0man/cljs-http
@@ -416,12 +410,6 @@ aleph:
   name: Aleph
   url: https://github.com/ztellman/aleph
   categories: [Asynchronous HTTP]
-  platforms: [clj]
-
-jet:
-  name: jet
-  url: https://github.com/mpenet/jet
-  categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients]
   platforms: [clj]
 
 http_kit:
