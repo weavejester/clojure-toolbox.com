@@ -4470,3 +4470,9 @@ caesium:
   url: https://github.com/lvh/caesium
   categories: [Cryptography]
   platforms: [clj]
+
+clope:
+  name: clope
+  url: https://github.com/leonoel/clope
+  categories: [Data Structures]
+  platforms: [clj, cljs]
