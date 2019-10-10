@@ -4476,3 +4476,9 @@ clope:
   url: https://github.com/leonoel/clope
   categories: [Data Structures]
   platforms: [clj, cljs]
+
+datasplash:
+  name: Datasplash
+  url: https://github.com/ngrunwald/datasplash
+  categories: [Google Dataflow]
+  platforms: [clj]
