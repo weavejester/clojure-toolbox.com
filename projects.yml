@@ -4476,3 +4476,9 @@ clope:
   url: https://github.com/leonoel/clope
   categories: [Data Structures]
   platforms: [clj, cljs]
+
+shadow-cljs:
+  name: shadow-cljs
+  url: https://shadow-cljs.org
+  categories: [ClojureScript Development]
+  platforms: [cljs]
