@@ -4476,3 +4476,9 @@ clope:
   url: https://github.com/leonoel/clope
   categories: [Data Structures]
   platforms: [clj, cljs]
+
+ash_ra_template:
+  name: Ash Ra Template (ART)
+  url: https://github.com/vivid-inc/ash-ra-template
+  category: [Template Languages]
+  platforms: [clj]
