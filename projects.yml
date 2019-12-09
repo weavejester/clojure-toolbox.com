@@ -4480,7 +4480,7 @@ clope:
 ash_ra_template:
   name: Ash Ra Template (ART)
   url: https://github.com/vivid-inc/ash-ra-template
-  category: [Template Languages]
+  categories: [Template Languages]
   platforms: [clj]
 
 shadow_cljs:
