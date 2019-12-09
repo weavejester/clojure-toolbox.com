@@ -4477,6 +4477,12 @@ clope:
   categories: [Data Structures]
   platforms: [clj, cljs]
 
+shadow_cljs:
+  name: shadow-cljs
+  url: https://shadow-cljs.org
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
 datasplash:
   name: Datasplash
   url: https://github.com/ngrunwald/datasplash
