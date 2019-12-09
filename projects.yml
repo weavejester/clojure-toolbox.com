@@ -147,7 +147,7 @@ re_frame:
   url: https://github.com/Day8/re-frame
   categories: [Web Frameworks, React Frameworks]
   platforms: [cljs]
-  
+
 tuck:
   name: tuck
   url: https://github.com/tatut/tuck
@@ -267,13 +267,13 @@ bolth:
   url: https://github.com/yeller/bolth
   categories: [Unit Testing, Test Runners]
   platforms: [clj]
-  
+
 kaocha:
   name: Kaocha
   url: https://github.com/lambdaisland/kaocha
   categories: [Test Runners]
   platforms: [clj]
-  
+
 kaocha_cljs:
   name: Kaocha-cljs
   url: https://github.com/lambdaisland/kaocha-cljs
@@ -501,7 +501,7 @@ marginalia:
   url: https://github.com/fogus/marginalia
   categories: [Documentation Tools]
   platforms: [clj, cljs]
-  
+
 cljdoc:
   name: cljdoc
   url: https://github.com/cljdoc/cljdoc
@@ -1731,7 +1731,7 @@ tools_namespace:
   url: https://github.com/clojure/tools.namespace
   categories: [Namespace Utilities]
   platforms: [clj]
-  
+
 namespacefy:
   name: namespacefy
   url: https://github.com/Jarzka/namespacefy
@@ -1929,7 +1929,7 @@ garden:
   url: https://github.com/noprompt/garden
   categories: [CSS Generation]
   platforms: [clj]
-  
+
 stylefy:
   name: stylefy
   url: https://github.com/jarzka/stylefy
@@ -2133,7 +2133,7 @@ honey_sql:
   url: https://github.com/jkk/honeysql
   categories: [SQL Abstraction]
   platforms: [clj]
-  
+
 specql:
   name: specql
   url: https://github.com/tatut/specql
@@ -3197,8 +3197,8 @@ hikari_cp:
   name: hikari-cp
   url: https://github.com/tomekw/hikari-cp
   categories: [Connection Pools]
-  platforms: [clj]  
-  
+  platforms: [clj]
+
 metabase_connection_pool:
   name: metabase/connection-pool
   url: https://github.com/metabase/connection-pool
@@ -3678,7 +3678,7 @@ loom:
   url: https://github.com/aysylu/loom
   categories: [Data Structures, Graphs]
   platforms: [clj]
-  
+
 pathom:
   name: Pathom
   url: https://github.com/wilkerlucio/pathom/
@@ -4218,7 +4218,7 @@ spec_alpha:
   url: https://github.com/clojure/spec.alpha
   categories: [Spec, Schema, Dynamic Typing]
   platforms: [clj, cljs]
-  
+
 spec_coerce:
   name: spec-coerce
   url: https://github.com/wilkerlucio/spec-coerce
@@ -4284,7 +4284,7 @@ satakieli:
   url: https://github.com/Vincit/satakieli
   categories: [Internationalization]
   platforms: [clj, cljs]
-  
+
 fulcro:
   name: Fulcro
   url: https://github.com/fulcrologic/fulcro
@@ -4296,10 +4296,10 @@ metav:
   url: https://github.com/jgrodziski/metav
   categories: [tools.deps]
   platforms: [clj]
-  
+
 depstar:
   name: Depstar
-  url: https://github.com/healthfinch/depstar 
+  url: https://github.com/healthfinch/depstar
   categories: [tools.deps]
   platforms: [clj]
 
@@ -4311,31 +4311,31 @@ cambada:
 
 pack_alpha:
   name: Pack
-  url: https://github.com/juxt/pack.alpha 
+  url: https://github.com/juxt/pack.alpha
   categories: [tools.deps]
   platforms: [clj]
 
 lein-tools_deps:
-  name: lein-tools-deps 
-  url: https://github.com/RickMoynihan/lein-tools-deps 
+  name: lein-tools-deps
+  url: https://github.com/RickMoynihan/lein-tools-deps
   categories: [tools.deps]
   platforms: [clj]
-  
+
 clj_new:
-  name: clj-new 
+  name: clj-new
   url: https://github.com/seancorfield/clj-new
   categories: [tools.deps]
   platforms: [clj]
-  
+
 dot_clojure_deps_edn:
-  name: dot-clojure-deps.edn 
+  name: dot-clojure-deps.edn
   url: https://github.com/seancorfield/dot-clojure
   categories: [tools.deps]
   platforms: [clj]
-  
+
 depot:
-  name: Depot 
-  url: https://github.com/Olical/depot 
+  name: Depot
+  url: https://github.com/Olical/depot
   categories: [tools.deps]
   platforms: [clj]
 
@@ -4356,7 +4356,7 @@ herb:
   url: https://github.com/roosta/herb
   categories: [CSS Generation]
   platforms: [clj, cljs]
-  
+
 arachne:
   name: Arachne
   url: https://github.com/arachne-framework/arachne-core
@@ -4368,13 +4368,13 @@ cortex:
   url: https://github.com/originrose/cortex
   categories: [Machine Learning]
   platforms: [clj]
-  
+
 flare:
   name: Flare
   url: https://github.com/aria42/flare
   categories: [Machine Learning]
   platforms: [clj]
-  
+
 dl4clj:
   name: Dl4clj
   url: https://github.com/yetanalytics/dl4clj
@@ -4477,8 +4477,14 @@ clope:
   categories: [Data Structures]
   platforms: [clj, cljs]
 
-shadow-cljs:
+shadow_cljs:
   name: shadow-cljs
   url: https://shadow-cljs.org
   categories: [ClojureScript Development]
   platforms: [cljs]
+
+datasplash:
+  name: Datasplash
+  url: https://github.com/ngrunwald/datasplash
+  categories: [Google Dataflow]
+  platforms: [clj]
