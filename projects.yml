@@ -4477,6 +4477,12 @@ clope:
   categories: [Data Structures]
   platforms: [clj, cljs]
 
+ash_ra_template:
+  name: Ash Ra Template (ART)
+  url: https://github.com/vivid-inc/ash-ra-template
+  category: [Template Languages]
+  platforms: [clj]
+
 shadow_cljs:
   name: shadow-cljs
   url: https://shadow-cljs.org
