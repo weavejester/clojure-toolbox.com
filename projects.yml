@@ -1222,12 +1222,6 @@ joplin:
   categories: [Database Migrations]
   platforms: [clj]
 
-clj_sql_up:
-  name: clj-sql-up
-  url: https://github.com/ckuttruff/clj-sql-up
-  categories: [Database Migrations]
-  platforms: [clj]
-
 clj_aws_s3:
   name: clj-aws-s3
   url: https://github.com/weavejester/clj-aws-s3
@@ -4500,3 +4494,9 @@ missing:
   url: https://github.com/vodori/missing
   categories: [Misc. Functions]
   platforms: [clj]
+
+postmortem:
+  name: Postmortem
+  url: https://github.com/athos/postmortem
+  categories: [Debugging]
+  platforms: [clj, cljs]
