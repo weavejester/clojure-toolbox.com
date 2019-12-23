@@ -4494,3 +4494,9 @@ datasplash:
   url: https://github.com/ngrunwald/datasplash
   categories: [Google Dataflow]
   platforms: [clj]
+
+postmortem:
+  name: Postmortem
+  url: https://github.com/athos/postmortem
+  categories: [Debugging]
+  platforms: [clj, cljs]
