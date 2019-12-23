@@ -4488,6 +4488,12 @@ datasplash:
   url: https://github.com/ngrunwald/datasplash
   categories: [Google Dataflow]
   platforms: [clj]
+  
+missing:
+  name: Missing
+  url: https://github.com/vodori/missing
+  categories: [Misc. Functions]
+  platforms: [clj]
 
 postmortem:
   name: Postmortem
