@@ -4488,7 +4488,7 @@ datasplash:
   url: https://github.com/ngrunwald/datasplash
   categories: [Google Dataflow]
   platforms: [clj]
-  
+
 missing:
   name: Missing
   url: https://github.com/vodori/missing
@@ -4499,4 +4499,10 @@ postmortem:
   name: Postmortem
   url: https://github.com/athos/postmortem
   categories: [Debugging]
+  platforms: [clj, cljs]
+
+compound:
+  name: compound
+  url: https://github.com/riverford/compound
+  categories: [Databases]
   platforms: [clj, cljs]
