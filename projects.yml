@@ -1090,6 +1090,12 @@ tools_logging:
   categories: [Logging]
   platforms: [clj]
 
+cambium:
+  name: Cambium
+  url: https://cambium-clojure.github.io/
+  categories: [Logging]
+  platforms: [clj, cljs]
+
 ring_logger:
   name: Ring-logger
   url: https://github.com/nberger/ring-logger
