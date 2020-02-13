@@ -4500,3 +4500,9 @@ postmortem:
   url: https://github.com/athos/postmortem
   categories: [Debugging]
   platforms: [clj, cljs]
+  
+firestore_clj:
+  name: firestore-clj
+  url: https://github.com/polvotech/firestore-clj
+  categories: [Databases]
+  platforms: [clj]
