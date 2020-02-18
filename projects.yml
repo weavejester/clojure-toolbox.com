@@ -1090,6 +1090,12 @@ tools_logging:
   categories: [Logging]
   platforms: [clj]
 
+cambium:
+  name: Cambium
+  url: https://cambium-clojure.github.io/
+  categories: [Logging]
+  platforms: [clj, cljs]
+
 ring_logger:
   name: Ring-logger
   url: https://github.com/nberger/ring-logger
@@ -4488,7 +4494,7 @@ datasplash:
   url: https://github.com/ngrunwald/datasplash
   categories: [Google Dataflow]
   platforms: [clj]
-  
+
 missing:
   name: Missing
   url: https://github.com/vodori/missing
@@ -4506,3 +4512,9 @@ firestore_clj:
   url: https://github.com/polvotech/firestore-clj
   categories: [Databases]
   platforms: [clj]
+
+compound:
+  name: compound
+  url: https://github.com/riverford/compound
+  categories: [Databases]
+  platforms: [clj, cljs]
