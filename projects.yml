@@ -4522,5 +4522,5 @@ compound:
 phlegyas:
   name: phlegyas
   url: https://github.com/dspearson/phlegyas
-  categories: [9P]
+  categories: [Filesystems]
   platforms: [clj]
