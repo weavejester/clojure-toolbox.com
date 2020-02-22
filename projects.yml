@@ -4518,3 +4518,9 @@ compound:
   url: https://github.com/riverford/compound
   categories: [Databases]
   platforms: [clj, cljs]
+
+pdfboxing:
+  name: pdfboxing
+  url: https://github.com/dotemacs/pdfboxing
+  categories: [PDF Manipulation]
+  platforms: [clj]
