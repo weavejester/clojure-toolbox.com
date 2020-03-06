@@ -4519,6 +4519,12 @@ compound:
   categories: [Databases]
   platforms: [clj, cljs]
 
+pdfboxing:
+  name: pdfboxing
+  url: https://github.com/dotemacs/pdfboxing
+  categories: [PDF Manipulation]
+  platforms: [clj]
+
 phlegyas:
   name: phlegyas
   url: https://github.com/dspearson/phlegyas
