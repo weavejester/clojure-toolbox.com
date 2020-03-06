@@ -4518,3 +4518,9 @@ compound:
   url: https://github.com/riverford/compound
   categories: [Databases]
   platforms: [clj, cljs]
+
+phlegyas:
+  name: phlegyas
+  url: https://github.com/dspearson/phlegyas
+  categories: [Filesystems]
+  platforms: [clj]
