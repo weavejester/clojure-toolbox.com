@@ -316,6 +316,12 @@ httpurr:
   categories: [HTTP Clients]
   platforms: [cljs]
 
+hato:
+  name: hato
+  url: https://github.com/gnarroway/hato
+  categories: [HTTP Clients]
+  platforms: [clj]
+
 ring_httpcore_adapter:
   name: ring-httpcore-adapter
   url: https://github.com/mmcgrana/ring-httpcore-adapter
