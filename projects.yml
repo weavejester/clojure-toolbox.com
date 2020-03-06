@@ -3613,6 +3613,12 @@ mount_lite:
   categories: [Application Frameworks]
   platforms: [clj]
 
+systemic:
+  name: systemic
+  url: https://github.com/teknql/systemic
+  categories: [Application Frameworks]
+  platforms: [clj]
+
 skyscraper:
   name: Skyscraper
   url: https://github.com/nathell/skyscraper
