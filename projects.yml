@@ -124,6 +124,12 @@ safely:
   categories: [Exception Handling]
   platforms: [clj]
 
+mulog:
+  name: Mulog (μ/log)
+  url: https://github.com/BrunoBonacci/mulog
+  categories: [Logging, Metrics]
+  platforms: [clj]
+
 compojure:
   name: Compojure
   url: https://github.com/weavejester/compojure
