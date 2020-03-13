@@ -508,6 +508,12 @@ marginalia:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
+sidenotes:
+  name: Sidenotes
+  url: https://github.com/captain-porcelain/sidenotes
+  categories: [Documentation Tools]
+  platforms: [clj, cljs]
+
 cljdoc:
   name: cljdoc
   url: https://github.com/cljdoc/cljdoc
