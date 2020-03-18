@@ -4542,3 +4542,9 @@ phlegyas:
   url: https://github.com/dspearson/phlegyas
   categories: [Filesystems]
   platforms: [clj]
+
+membrane:
+  name: membrane
+  url: https://github.com/phronmophobic/membrane
+  categories: [GUIs]
+  platforms: [clj, cljs]
