@@ -4542,3 +4542,9 @@ phlegyas:
   url: https://github.com/dspearson/phlegyas
   categories: [Filesystems]
   platforms: [clj]
+
+patika:
+  name: patika
+  url: https://github.com/ertugrulcetin/patika
+  categories: [HTTP Routing]
+  platforms: [clj]
