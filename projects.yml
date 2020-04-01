@@ -4542,3 +4542,21 @@ phlegyas:
   url: https://github.com/dspearson/phlegyas
   categories: [Filesystems]
   platforms: [clj]
+
+boot-art:
+  name: boot-art (Ash Ra Template)
+  url: https://github.com/vivid-inc/ash-ra-template
+  categories: [Boot Tasks]
+  platforms: [clj]
+
+lein-art:
+  name: lein-art (Ash Ra Template)
+  url: https://github.com/vivid-inc/ash-ra-template
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
+clojure-maven-plugin:
+  name: vivid:clojure-maven-plugin
+  url: https://github.com/vivid-inc/clojure-maven-plugin
+  categories: [Build Tools, Maven Integration]
+  platforms: [clj]
