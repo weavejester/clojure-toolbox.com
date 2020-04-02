@@ -4542,3 +4542,9 @@ phlegyas:
   url: https://github.com/dspearson/phlegyas
   categories: [Filesystems]
   platforms: [clj]
+
+calva:
+  name: Calva
+  url: https://github.com/BetterThanTomorrow/calva
+  categories: [IDE Integration]
+  platforms: [clj, cljs]
