@@ -4549,6 +4549,12 @@ phlegyas:
   categories: [Filesystems]
   platforms: [clj]
 
+membrane:
+  name: Membrane
+  url: https://github.com/phronmophobic/membrane
+  categories: [GUIs]
+  platforms: [clj, cljs]
+
 haslett:
   name: Haslett
   url: https://github.com/weavejester/haslett
