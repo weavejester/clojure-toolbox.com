@@ -4549,6 +4549,12 @@ phlegyas:
   categories: [Filesystems]
   platforms: [clj]
 
+patika:
+  name: patika
+  url: https://github.com/ertugrulcetin/patika
+  categories: [HTTP Routing]
+  platforms: [clj]
+
 membrane:
   name: Membrane
   url: https://github.com/phronmophobic/membrane
