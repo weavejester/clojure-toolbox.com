@@ -4549,6 +4549,12 @@ phlegyas:
   categories: [Filesystems]
   platforms: [clj]
 
+haslett:
+  name: Haslett
+  url: https://github.com/weavejester/haslett
+  categories: [Websockets]
+  platforms: [cljs]
+
 calva:
   name: Calva
   url: https://github.com/BetterThanTomorrow/calva
