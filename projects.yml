@@ -508,6 +508,12 @@ marginalia:
   categories: [Documentation Tools]
   platforms: [clj, cljs]
 
+sidenotes:
+  name: Sidenotes
+  url: https://github.com/captain-porcelain/sidenotes
+  categories: [Documentation Tools]
+  platforms: [clj, cljs]
+
 cljdoc:
   name: cljdoc
   url: https://github.com/cljdoc/cljdoc
@@ -4495,6 +4501,18 @@ ash_ra_template:
   categories: [Template Languages]
   platforms: [clj]
 
+boot-art:
+  name: boot-art
+  url: https://github.com/vivid-inc/ash-ra-template
+  categories: [Boot Tasks]
+  platforms: [clj]
+
+lein-art:
+  name: lein-art
+  url: https://github.com/vivid-inc/ash-ra-template
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
 shadow_cljs:
   name: shadow-cljs
   url: https://shadow-cljs.org
@@ -4543,17 +4561,29 @@ phlegyas:
   categories: [Filesystems]
   platforms: [clj]
 
-boot-art:
-  name: boot-art (Ash Ra Template)
-  url: https://github.com/vivid-inc/ash-ra-template
-  categories: [Boot Tasks]
+patika:
+  name: patika
+  url: https://github.com/ertugrulcetin/patika
+  categories: [HTTP Routing]
   platforms: [clj]
 
-lein-art:
-  name: lein-art (Ash Ra Template)
-  url: https://github.com/vivid-inc/ash-ra-template
-  categories: [Leiningen Plugins]
-  platforms: [clj]
+membrane:
+  name: Membrane
+  url: https://github.com/phronmophobic/membrane
+  categories: [GUIs]
+  platforms: [clj, cljs]
+
+haslett:
+  name: Haslett
+  url: https://github.com/weavejester/haslett
+  categories: [Websockets]
+  platforms: [cljs]
+
+calva:
+  name: Calva
+  url: https://github.com/BetterThanTomorrow/calva
+  categories: [IDE Integration]
+  platforms: [clj, cljs]
 
 clojure-maven-plugin:
   name: vivid:clojure-maven-plugin
