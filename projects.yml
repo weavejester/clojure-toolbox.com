@@ -4501,18 +4501,6 @@ ash_ra_template:
   categories: [Template Languages]
   platforms: [clj]
 
-boot-art:
-  name: boot-art
-  url: https://github.com/vivid-inc/ash-ra-template
-  categories: [Boot Tasks]
-  platforms: [clj]
-
-lein-art:
-  name: lein-art
-  url: https://github.com/vivid-inc/ash-ra-template
-  categories: [Leiningen Plugins]
-  platforms: [clj]
-
 shadow_cljs:
   name: shadow-cljs
   url: https://shadow-cljs.org
