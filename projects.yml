@@ -4573,8 +4573,8 @@ calva:
   categories: [IDE Integration]
   platforms: [clj, cljs]
 
-clojure-maven-plugin:
-  name: vivid:clojure-maven-plugin
+vivid-clojure-maven-plugin:
+  name: Vivid Clojure Maven Plugin
   url: https://github.com/vivid-inc/clojure-maven-plugin
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
