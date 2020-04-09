@@ -4578,3 +4578,10 @@ vivid_clojure_maven_plugin:
   url: https://github.com/vivid-inc/clojure-maven-plugin
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
+
+context:
+  name: context
+  url: https://github.com/redstarssystems/context
+  categories: [Application Frameworks]
+  platforms: [clj]
+
