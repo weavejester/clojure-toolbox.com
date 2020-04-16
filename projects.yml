@@ -3084,6 +3084,12 @@ snes_gamepad:
   url: https://github.com/victorysoftworks/snes-gamepad-cljs
   categories: [Game Development]
   platforms: [cljs]
+  
+minicosm:
+  name: minicosm
+  url: https://github.com/jarcane/minicosm
+  categories: [Game Development]
+  platforms: [cljs]
 
 data_zip:
   name: data.zip
