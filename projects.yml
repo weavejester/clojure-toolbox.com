@@ -124,6 +124,12 @@ safely:
   categories: [Exception Handling]
   platforms: [clj]
 
+mulog:
+  name: Mulog (μ/log)
+  url: https://github.com/BrunoBonacci/mulog
+  categories: [Logging, Metrics]
+  platforms: [clj]
+
 compojure:
   name: Compojure
   url: https://github.com/weavejester/compojure
@@ -3084,6 +3090,12 @@ snes_gamepad:
   url: https://github.com/victorysoftworks/snes-gamepad-cljs
   categories: [Game Development]
   platforms: [cljs]
+  
+minicosm:
+  name: minicosm
+  url: https://github.com/jarcane/minicosm
+  categories: [Game Development]
+  platforms: [cljs]
 
 data_zip:
   name: data.zip
@@ -4583,4 +4595,10 @@ babashka:
   name: babashka
   url: https://github.com/borkdude/babashka
   categories: [Scripting]
+  platforms: [clj]
+
+context:
+  name: context
+  url: https://github.com/redstarssystems/context
+  categories: [Application Frameworks]
   platforms: [clj]
