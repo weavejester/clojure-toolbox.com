@@ -4578,3 +4578,9 @@ vivid_clojure_maven_plugin:
   url: https://github.com/vivid-inc/clojure-maven-plugin
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
+  
+graphqlize:
+  name: GraphQLize
+  url: https://www.graphqlize.org
+  categories: [GraphQL, PostgreSQL Integration, MySQL Integration]
+  platforms: [clj]
