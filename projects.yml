@@ -4591,9 +4591,14 @@ vivid_clojure_maven_plugin:
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
 
+babashka:
+  name: babashka
+  url: https://github.com/borkdude/babashka
+  categories: [Scripting]
+  platforms: [clj]
+
 context:
   name: context
   url: https://github.com/redstarssystems/context
   categories: [Application Frameworks]
   platforms: [clj]
-
