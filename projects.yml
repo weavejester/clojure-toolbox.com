@@ -1952,7 +1952,7 @@ stylefy:
   name: stylefy
   url: https://github.com/jarzka/stylefy
   categories: [CSS Generation]
-  platforms: [cljs]
+  platforms: [clj, cljs]
 
 instaparse:
   name: Instaparse
