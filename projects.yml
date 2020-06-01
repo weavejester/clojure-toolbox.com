@@ -4590,7 +4590,7 @@ vivid_clojure_maven_plugin:
   url: https://github.com/vivid-inc/clojure-maven-plugin
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
-
+  
 babashka:
   name: babashka
   url: https://github.com/borkdude/babashka
@@ -4601,4 +4601,10 @@ context:
   name: context
   url: https://github.com/redstarssystems/context
   categories: [Application Frameworks]
+  platforms: [clj]
+  
+graphqlize:
+  name: GraphQLize
+  url: https://www.graphqlize.org
+  categories: [GraphQL]
   platforms: [clj]
