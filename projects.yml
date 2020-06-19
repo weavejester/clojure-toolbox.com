@@ -4608,3 +4608,9 @@ graphqlize:
   url: https://www.graphqlize.org
   categories: [GraphQL]
   platforms: [clj]
+
+pogonos:
+  name: Pogonos
+  url: https://github.com/athos/pogonos
+  categories: [Template Languages]
+  platforms: [clj, cljs]
