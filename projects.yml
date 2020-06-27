@@ -4614,3 +4614,9 @@ pogonos:
   url: https://github.com/athos/pogonos
   categories: [Template Languages]
   platforms: [clj, cljs]
+
+lifted:
+  name: lifted
+  url: https://github.com/aroemers/lifted
+  categories: [Macros, Code Generation]
+  platforms: [clj]
