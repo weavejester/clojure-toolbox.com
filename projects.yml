@@ -3628,7 +3628,7 @@ mount:
 mount_lite:
   name: mount-lite
   url: https://github.com/aroemers/mount-lite
-  categories: [Application Frameworks]
+  categories: [Application Frameworks, Reloaded Workflow]
   platforms: [clj]
 
 systemic:
