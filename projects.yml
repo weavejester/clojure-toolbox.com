@@ -1517,7 +1517,7 @@ ring_buffer:
   platforms: [clj]
 
 rmap:
-  name: Rmap
+  name: rmap
   url: https://github.com/aroemers/rmap
   categories: [Data Structures]
   platforms: [clj]
