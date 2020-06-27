@@ -4620,3 +4620,9 @@ lifted:
   url: https://github.com/aroemers/lifted
   categories: [Macros, Code Generation]
   platforms: [clj]
+
+redelay:
+  name: redelay
+  url: https://github.com/aroemers/redelay
+  categories: [Reloaded Workflow, Application Frameworks]
+  platforms: [clj]
