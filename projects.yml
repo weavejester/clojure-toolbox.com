@@ -1517,7 +1517,7 @@ ring_buffer:
   platforms: [clj]
 
 rmap:
-  name: Rmap
+  name: rmap
   url: https://github.com/aroemers/rmap
   categories: [Data Structures]
   platforms: [clj]
@@ -3628,7 +3628,7 @@ mount:
 mount_lite:
   name: mount-lite
   url: https://github.com/aroemers/mount-lite
-  categories: [Application Frameworks]
+  categories: [Application Frameworks, Reloaded Workflow]
   platforms: [clj]
 
 systemic:
@@ -4614,3 +4614,15 @@ pogonos:
   url: https://github.com/athos/pogonos
   categories: [Template Languages]
   platforms: [clj, cljs]
+
+lifted:
+  name: lifted
+  url: https://github.com/aroemers/lifted
+  categories: [Macros, Code Generation]
+  platforms: [clj]
+
+redelay:
+  name: redelay
+  url: https://github.com/aroemers/redelay
+  categories: [Reloaded Workflow, Application Frameworks]
+  platforms: [clj]
