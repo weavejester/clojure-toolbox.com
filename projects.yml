@@ -1732,6 +1732,12 @@ vim_salve:
   categories: [Vim Integration]
   platforms: [clj]
 
+vim_iced:
+  name: vim-iced
+  url: https://github.com/liquidz/vim-iced
+  categories: [Vim Integration]
+  platforms: [clj]
+
 necessary_evil:
   name: necessary-evil
   url: https://github.com/brehaut/necessary-evil
