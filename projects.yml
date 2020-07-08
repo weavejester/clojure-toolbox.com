@@ -1246,16 +1246,22 @@ joplin:
   categories: [Database Migrations]
   platforms: [clj]
 
-clj_aws_s3:
-  name: clj-aws-s3
-  url: https://github.com/weavejester/clj-aws-s3
-  categories: [S3 Clients]
-  platforms: [clj]
-
 amazonica:
   name: amazonica
   url: https://github.com/mcohen01/amazonica
-  categories: [S3 Clients]
+  categories: [Amazon Web Services]
+  platforms: [clj]
+
+aws-api:
+  name: aws-api
+  url: https://github.com/cognitect-labs/aws-api
+  categories: [Amazon Web Services]
+  platforms: [clj]
+
+clj_aws_s3:
+  name: clj-aws-s3
+  url: https://github.com/weavejester/clj-aws-s3
+  categories: [Amazon Web Services]
   platforms: [clj]
 
 codox:
