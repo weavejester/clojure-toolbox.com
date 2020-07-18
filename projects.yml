@@ -1249,19 +1249,19 @@ joplin:
 amazonica:
   name: amazonica
   url: https://github.com/mcohen01/amazonica
-  categories: [Amazon Web Services]
+  categories: [Amazon Web Services (AWS)]
   platforms: [clj]
 
-aws-api:
+aws_api:
   name: aws-api
   url: https://github.com/cognitect-labs/aws-api
-  categories: [Amazon Web Services]
+  categories: [Amazon Web Services (AWS)]
   platforms: [clj]
 
 clj_aws_s3:
   name: clj-aws-s3
   url: https://github.com/weavejester/clj-aws-s3
-  categories: [Amazon Web Services]
+  categories: [Amazon Web Services (AWS)]
   platforms: [clj]
 
 codox:
