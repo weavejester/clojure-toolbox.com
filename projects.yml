@@ -3745,6 +3745,12 @@ clara:
   categories: [Rule Engine, Logic Programming]
   platforms: [clj, cljs]
 
+odoyle:
+  name: O'Doyle
+  url: https://github.com/oakes/odoyle-rules
+  categories: [Rule Engine, Logic Programming]
+  platforms: [clj, cljs]
+
 foundation_pg:
   name: Foundation/PG
   url: https://github.com/mikeball/foundation
