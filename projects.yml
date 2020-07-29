@@ -4644,3 +4644,9 @@ redelay:
   url: https://github.com/aroemers/redelay
   categories: [Reloaded Workflow, Application Frameworks]
   platforms: [clj]
+
+regal:
+  name: Regal
+  url: https://github.com/lambdaisland/regal
+  categories: [Regular Expressions]
+  platforms: [clj]
