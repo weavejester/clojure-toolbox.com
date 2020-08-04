@@ -3439,6 +3439,12 @@ cljfmt:
   categories: [Code Formatting Tools, Leiningen Plugins]
   platforms: [clj, cljs]
 
+cljstyle:
+  name: cljstyle
+  url: https://github.com/greglook/cljstyle
+  categories: [Code Formatting Tools]
+  platforms: [clj, cljs]
+
 grafter:
   name: Grafter
   url: http://grafter.org/
