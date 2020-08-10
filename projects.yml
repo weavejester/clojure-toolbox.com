@@ -4656,3 +4656,9 @@ regal:
   url: https://github.com/lambdaisland/regal
   categories: [Regular Expressions]
   platforms: [clj]
+
+cartus:
+  name: cartus
+  url: https://github.com/logicblocks/cartus
+  categories: [Logging, Metrics]
+  platforms: [clj]
