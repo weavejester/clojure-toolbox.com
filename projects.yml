@@ -976,6 +976,12 @@ datascript:
   categories: [Databases]
   platforms: [clj, cljs]
 
+datalevin:
+  name: Datalevin
+  url: https://github.com/juji-io/datalevin
+  categories: [Databases]
+  platforms: [clj]
+
 jiraph:
   name: Jiraph
   url: https://github.com/ninjudd/jiraph
