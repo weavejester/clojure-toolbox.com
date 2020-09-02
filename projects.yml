@@ -592,6 +592,12 @@ pulsar:
   categories: [Asynchronous Programming, Syntax Extensions]
   platforms: [clj]
 
+tapestry:
+  name: Tapestry
+  url: https://github.com/teknql/tapestry
+  categories: [Asynchronous Programming, Asynchronous I/O]
+  platforms: [clj]
+
 vigil:
   name: Vigil
   url: https://github.com/ane/vigil
