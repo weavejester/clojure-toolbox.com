@@ -249,6 +249,12 @@ midje:
   url: https://github.com/marick/Midje
   categories: [Unit Testing]
   platforms: [clj]
+  
+matcher_combinators:
+  name: matcher-combinators
+  url: https://github.com/nubank/matcher-combinators
+  categories: [Unit Testing]  
+  platforms: [clj]  
 
 lazy_test:
   name: Lazytest
