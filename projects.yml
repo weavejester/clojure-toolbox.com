@@ -4680,3 +4680,9 @@ cartus:
   url: https://github.com/logicblocks/cartus
   categories: [Logging, Metrics]
   platforms: [clj]
+
+portal:
+  name: portal
+  url: https://github.com/djblue/portal
+  categories: [Data Exploration]
+  platforms: [clj, cljs]
