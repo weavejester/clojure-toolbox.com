@@ -3704,7 +3704,7 @@ lein_bin:
   platforms: [clj]
 
 lein_binplus:
-  name: lein-bin
+  name: lein-binplus
   url: https://github.com/BrunoBonacci/lein-binplus
   categories: [Command Line Tools, Leiningen Plugins]
   platforms: [clj]
