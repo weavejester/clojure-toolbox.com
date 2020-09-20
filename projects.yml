@@ -4686,3 +4686,9 @@ portal:
   url: https://github.com/djblue/portal
   categories: [Data Exploration]
   platforms: [clj, cljs]
+
+roll:
+  name: Roll
+  url: https://github.com/dimovich/roll
+  categories: [Web Frameworks]
+  platforms: [clj, cljs]
