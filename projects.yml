@@ -4704,3 +4704,9 @@ sheetah:
   url: https://github.com/jgrodziski/sheetah
   categories: [MS Office Documents, Google Suite]
   platforms: [clj]
+
+keycloak_clojure:
+  name: Keycloak-Clojure
+  url: https://github.com/jgrodziski/keycloak-clojure
+  categories: [Keycloak Integration]
+  platforms: [clj]
