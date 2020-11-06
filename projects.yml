@@ -193,7 +193,7 @@ spy:
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
-  categories: [Unit Testing, Mocking]
+  categories: [Unit Testing, Mocking, Random Data Generation]
   platforms: [clj, cljs]
 
 kerodon:
