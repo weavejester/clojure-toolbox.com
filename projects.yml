@@ -4698,3 +4698,9 @@ tadam:
   url: https://www.tadam-framework.dev/
   categories: [Web Frameworks, Project Templates]
   platforms: [clj]
+
+reaver:
+  name: Reaver
+  url: https://github.com/mischov/reaver
+  categories: [HTML Parsers]
+  platforms: [clj]
