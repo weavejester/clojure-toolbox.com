@@ -193,7 +193,7 @@ spy:
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
-  categories: [Unit Testing, Mocking]
+  categories: [Unit Testing, Mocking, Random Data Generation]
   platforms: [clj, cljs]
 
 kerodon:
@@ -4703,4 +4703,16 @@ reaver:
   name: Reaver
   url: https://github.com/mischov/reaver
   categories: [HTML Parsers]
+  platforms: [clj]
+
+sheetah:
+  name: Sheetah
+  url: https://github.com/jgrodziski/sheetah
+  categories: [MS Office Documents, Google Workspace Integration]
+  platforms: [clj]
+
+keycloak_clojure:
+  name: Keycloak-Clojure
+  url: https://github.com/jgrodziski/keycloak-clojure
+  categories: [Authentication, Authorization]
   platforms: [clj]
