@@ -4699,6 +4699,12 @@ tadam:
   categories: [Web Frameworks, Project Templates]
   platforms: [clj]
 
+reaver:
+  name: Reaver
+  url: https://github.com/mischov/reaver
+  categories: [HTML Parsers]
+  platforms: [clj]
+
 sheetah:
   name: Sheetah
   url: https://github.com/jgrodziski/sheetah
