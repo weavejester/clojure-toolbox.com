@@ -4716,3 +4716,9 @@ keycloak_clojure:
   url: https://github.com/jgrodziski/keycloak-clojure
   categories: [Authentication, Authorization]
   platforms: [clj]
+
+conjure:
+  name: Conjure
+  url: https://github.com/Olical/conjure
+  categories: [Vim Integration]
+  platforms: [clj, cljs]
