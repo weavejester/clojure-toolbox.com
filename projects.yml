@@ -1222,6 +1222,12 @@ binary:
   categories: [Binary Data, Parsing]
   platforms: [clj]
 
+parse_struct:
+  name: parse_struct
+  url: https://github.com/fctorial/parse_struct
+  categories: [Binary Data, Parsing]
+  platforms: [clj]
+
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
