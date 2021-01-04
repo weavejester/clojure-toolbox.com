@@ -1,3 +1,9 @@
+ez-wire:
+  name: ez-wire
+  url: https://github.com/emil0r/ez-wire
+  categories: [DOM Manipulation]
+  platforms: [cljs]
+
 editscript:
   name: EditScript
   url: https://github.com/juji-io/editscript
@@ -249,12 +255,12 @@ midje:
   url: https://github.com/marick/Midje
   categories: [Unit Testing]
   platforms: [clj]
-  
+
 matcher_combinators:
   name: matcher-combinators
   url: https://github.com/nubank/matcher-combinators
-  categories: [Unit Testing]  
-  platforms: [clj]  
+  categories: [Unit Testing]
+  platforms: [clj]
 
 lazy_test:
   name: Lazytest
@@ -3126,7 +3132,7 @@ snes_gamepad:
   url: https://github.com/victorysoftworks/snes-gamepad-cljs
   categories: [Game Development]
   platforms: [cljs]
-  
+
 minicosm:
   name: minicosm
   url: https://github.com/jarcane/minicosm
@@ -4584,7 +4590,7 @@ postmortem:
   url: https://github.com/athos/postmortem
   categories: [Debugging]
   platforms: [clj, cljs]
-  
+
 firestore_clj:
   name: firestore-clj
   url: https://github.com/polvotech/firestore-clj
@@ -4638,7 +4644,7 @@ vivid_clojure_maven_plugin:
   url: https://github.com/vivid-inc/clojure-maven-plugin
   categories: [Build Tools, Maven Integration]
   platforms: [clj]
-  
+
 babashka:
   name: babashka
   url: https://github.com/borkdude/babashka
@@ -4650,7 +4656,7 @@ context:
   url: https://github.com/redstarssystems/context
   categories: [Application Frameworks]
   platforms: [clj]
-  
+
 graphqlize:
   name: GraphQLize
   url: https://www.graphqlize.org
