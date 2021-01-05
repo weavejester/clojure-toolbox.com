@@ -280,6 +280,12 @@ bolth:
   categories: [Unit Testing, Test Runners]
   platforms: [clj]
 
+tst:
+  name: tst
+  url: https://github.com/fctorial/tst
+  categories: [Unit Testing, Continuous Testing]
+  platforms: [clj, cljs]
+
 kaocha:
   name: Kaocha
   url: https://github.com/lambdaisland/kaocha
