@@ -2662,6 +2662,18 @@ integrant:
   categories: [Application Frameworks]
   platforms: [clj, cljs]
 
+clip:
+  name: Clip
+  url: https://github.com/juxt/clip
+  categories: [Application Frameworks]
+  platforms: [clj, cljs]
+
+objection:
+  name: Objection
+  url: https://github.com/riverford/objection
+  categories: [Application Frameworks]
+  platforms: [clj]
+
 trapperkeeper:
   name: Trapperkeeper
   url: https://github.com/puppetlabs/trapperkeeper
