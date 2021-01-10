@@ -4357,6 +4357,18 @@ orchestra:
   categories: [Spec]
   platforms: [clj, cljs]
 
+ghostwheel:
+  name: Ghostwheel
+  url: https://github.com/gnl/ghostwheel
+  categories: [Spec]
+  platforms: [clj, cljs]
+
+guardrails:
+  name: Guardrails
+  url: https://github.com/fulcrologic/guardrails
+  categories: [Spec]
+  platforms: [clj, cljs]
+
 spectrum:
   name: Spectrum
   url: https://github.com/arohner/spectrum
