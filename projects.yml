@@ -4445,7 +4445,7 @@ practicalli_clojure_deps_edn:
   name: practicalli-clojure-deps-edn
   url: https://github.com/practicalli/clojure-deps-edn
   categories: [tools.deps]
-  platform: [clj]
+  platforms: [clj]
 
 dot_clojure_deps_edn:
   name: dot-clojure-deps.edn
