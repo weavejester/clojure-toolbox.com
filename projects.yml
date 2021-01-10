@@ -346,6 +346,12 @@ hato:
   categories: [HTTP Clients]
   platforms: [clj]
 
+java_http_clj:
+  name: java-http-clj
+  url: https://github.com/schmee/java-http-clj
+  categories: [HTTP Clients, Websockets, Asynchronous HTTP]
+  platforms: [clj]
+
 ring_httpcore_adapter:
   name: ring-httpcore-adapter
   url: https://github.com/mmcgrana/ring-httpcore-adapter
