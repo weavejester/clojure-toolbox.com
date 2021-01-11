@@ -4360,7 +4360,7 @@ orchestra:
 ghostwheel:
   name: Ghostwheel
   url: https://github.com/gnl/ghostwheel
-  categories: [Spec]
+  categories: [Spec, Debugging, Unit Testing]
   platforms: [clj, cljs]
 
 guardrails:
