@@ -958,7 +958,8 @@ cdt:
   categories: [Debugging]
   platforms: [clj]
 
-debug_repl:
+debug_
+:
   name: debug-repl
   url: https://github.com/georgejahad/debug-repl
   categories: [Debugging]
@@ -1444,6 +1445,12 @@ gorilla_repl:
   categories: [REPLs]
   platforms: [clj]
 
+planck:
+  name: Planck
+  url: https://planck-repl.org/
+  categories: [REPLs]
+  platform: [cljs]
+ 
 refactor_nrepl:
   name: Refactor nREPL
   url: https://github.com/clojure-emacs/refactor-nrepl
