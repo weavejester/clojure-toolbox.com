@@ -72,7 +72,7 @@ pocheshiro:
 
 ring_gzip_middleware:
   name: ring-gzip-middleware
-  url: https://github.com/mikejs/ring-gzip-middleware
+  url: https://github.com/clj-commons/ring-gzip-middleware
   categories: [Request Middleware]
   platforms: [clj]
 
@@ -450,7 +450,7 @@ leiningen_war:
 
 aleph:
   name: Aleph
-  url: https://github.com/ztellman/aleph
+  url: https://github.com/clj-commons/aleph
   categories: [Asynchronous HTTP]
   platforms: [clj]
 
@@ -564,7 +564,7 @@ autodoc:
 
 clj_yaml:
   name: clj-yaml
-  url: https://github.com/lancepantz/clj-yaml
+  url: https://github.com/clj-commons/clj-yaml
   categories: [YAML Parsers]
   platforms: [clj]
 
@@ -594,7 +594,7 @@ lamina:
 
 manifold:
   name: Manifold
-  url: https://github.com/ztellman/manifold
+  url: https://github.com/clj-commons/manifold
   categories: [Asynchronous Programming]
   platforms: [clj]
 
@@ -990,7 +990,7 @@ sayid:
 
 spyscope:
   name: Spyscope
-  url: https://github.com/dgrnbrg/spyscope
+  url: https://github.com/clj-commons/spyscope
   categories: [Debugging]
   platforms: [clj]
 
@@ -1536,7 +1536,7 @@ crypto_keystore:
 
 conch:
   name: Conch
-  url: https://github.com/Raynes/conch
+  url: https://github.com/clj-commons/conch
   categories: [Terminal Utilities]
   platforms: [clj]
 
@@ -1566,7 +1566,7 @@ clj_rss:
 
 ring_buffer:
   name: ring-buffer
-  url: https://github.com/amalloy/ring-buffer
+  url: https://github.com/clj-commons/ring-buffer
   categories: [Data Structures]
   platforms: [clj]
 
@@ -1590,7 +1590,7 @@ linked:
 
 ordered:
   name: ordered
-  url: https://github.com/amalloy/ordered
+  url: https://github.com/clj-commons/ordered
   categories: [Data Structures]
   platforms: [clj]
 
@@ -1800,7 +1800,7 @@ necessary_evil:
 
 fs:
   name: fs
-  url: https://github.com/Raynes/fs
+  url: https://github.com/clj-commons/fs
   categories: [Filesystem Utilities]
   platforms: [clj]
 
@@ -1848,7 +1848,7 @@ ororo:
 
 tentacles:
   name: Tentacles
-  url: https://github.com/Raynes/tentacles
+  url: https://github.com/clj-commons/tentacles
   categories: [Web API Clients]
   platforms: [clj]
 
@@ -2268,7 +2268,7 @@ fluokitten:
 
 byte_streams:
   name: byte-streams
-  url: https://github.com/ztellman/byte-streams
+  url: https://github.com/clj-commons/byte-streams
   categories: [Java Integration]
   platforms: [clj]
 
@@ -2292,7 +2292,7 @@ resauce:
 
 pomegranate:
   name: Pomegranate
-  url: https://github.com/cemerick/pomegranate
+  url: https://github.com/clj-commons/pomegranate
   categories: [Dependency Management, Java ClassLoaders]
   platforms: [clj]
 
@@ -2346,7 +2346,7 @@ math_numeric_tower:
 
 potemkin:
   name: Potemkin
-  url: https://github.com/ztellman/potemkin
+  url: https://github.com/clj-commons/potemkin
   categories: [Macros, Namespace Utilities]
   platforms: [clj]
 
@@ -2496,7 +2496,7 @@ sleight:
 
 camel_snake_kebab:
   name: camel-snake-kebab
-  url: https://github.com/qerub/camel-snake-kebab
+  url: https://github.com/clj-commons/camel-snake-kebab
   categories: [String Manipulation]
   platforms: [clj, cljs]
 
@@ -2550,7 +2550,7 @@ abracad:
 
 useful:
   name: Useful
-  url: https://github.com/flatland/useful
+  url: https://github.com/clj-commons/useful
   categories: [Misc. Functions]
   platforms: [clj]
 
@@ -3609,7 +3609,7 @@ silk:
 
 secretary:
   name: Secretary
-  url: https://github.com/gf3/secretary
+  url: https://github.com/clj-commons/secretary
   categories: [HTTP Routing]
   platforms: [cljs]
 
@@ -4083,13 +4083,13 @@ ring_accept_param:
 
 multigrep:
   name: multigrep
-  url: https://github.com/pmonks/multigrep
+  url: https://github.com/clj-commons/multigrep
   categories: [Filesystem Utilities]
   platforms: [clj]
 
 spinner:
   name: spinner
-  url: https://github.com/pmonks/spinner
+  url: https://github.com/clj-commons/spinner
   categories: [Command Line Tools]
   platforms: [clj]
 
