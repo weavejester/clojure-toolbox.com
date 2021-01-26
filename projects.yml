@@ -670,6 +670,12 @@ quil:
   categories: [Graphics]
   platforms: [clj, cljs]
 
+cljfx:
+  name: Cljfx
+  url: https://github.com/cljfx/cljfx
+  categories: [Graphics, GUIs]
+  platforms: [clj]
+
 pallet:
   name: Pallet
   url: http://pallet.github.com/pallet/
