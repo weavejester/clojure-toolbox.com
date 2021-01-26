@@ -4081,6 +4081,12 @@ ring_accept_param:
   categories: [Content Negotiation, Request Middleware]
   platforms: [clj]
 
+pick:
+  name: pick
+  url: https://github.com/juxt/pick
+  categories: [Content Negotiation]
+  platforms: [clj]
+
 multigrep:
   name: multigrep
   url: https://github.com/clj-commons/multigrep
