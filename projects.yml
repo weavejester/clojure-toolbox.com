@@ -4747,6 +4747,24 @@ portal:
   categories: [Data Exploration]
   platforms: [clj, cljs]
 
+reveal:
+  name: Reveal
+  url: https://github.com/vlaaad/reveal
+  categories: [Data Exploration]
+  platforms: [clj, cljs]
+
+rebl:
+  name: REBL
+  url: https://docs.datomic.com/cloud/other-tools/REBL.html
+  categories: [Data Exploration, Datomic]
+  platforms: [clj]
+
+clojure_inspector:
+  name: clojure.inspector
+  url: https://clojure.github.io/clojure/clojure.inspector-api.html
+  categories: [Data Exploration]
+  platforms: [clj]
+
 roll:
   name: Roll
   url: https://github.com/dimovich/roll
