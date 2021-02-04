@@ -4759,12 +4759,6 @@ rebl:
   categories: [Data Exploration, Datomic]
   platforms: [clj]
 
-clojure_inspector:
-  name: clojure.inspector
-  url: https://clojure.github.io/clojure/clojure.inspector-api.html
-  categories: [Data Exploration]
-  platforms: [clj]
-
 roll:
   name: Roll
   url: https://github.com/dimovich/roll
