@@ -583,7 +583,25 @@ tubax:
 clj_xml_validation:
   name: clj-xml-validation
   url: https://github.com/bbbates/clj-xml-validation
-  categories: [XML Schema]
+  categories: [XML Schema, Validation]
+  platforms: [clj]
+
+jinx:
+  name: jinx
+  url: https://github.com/juxt/jinx
+  categories: [Schema, Validation]
+  platforms: [clj, cljs]
+
+scjsv:
+  name: scjsv
+  url: https://github.com/metosin/scjsv
+  categories: [Schema, Validation]
+  platforms: [clj]
+
+json_schema:
+  name: json-schema
+  url: https://github.com/luposlip/json-schema
+  categories: [Schema, Validation]
   platforms: [clj]
 
 lamina:
@@ -2826,7 +2844,7 @@ core_typed:
 
 schema:
   name: Schema
-  url: https://github.com/Prismatic/schema
+  url: https://github.com/plumatic/schema
   categories: [Schema, Validation, Random Data Generation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
 
@@ -4342,7 +4360,7 @@ missionary:
 spec_alpha:
   name: spec.alpha
   url: https://github.com/clojure/spec.alpha
-  categories: [Spec, Schema, Dynamic Typing]
+  categories: [Spec, Schema, Dynamic Typing, Validation]
   platforms: [clj, cljs]
 
 spec_coerce:
@@ -4351,11 +4369,41 @@ spec_coerce:
   categories: [Spec, Data Coercion]
   platforms: [clj, cljs]
 
+coax:
+  name: coax
+  url: https://github.com/exoscale/coax
+  categories: [Spec, Data Coercion]
+  platforms: [clj, cljs]
+
 clojure_future_spec:
   name: clojure-future-spec
   url: https://github.com/tonsky/clojure-future-spec
   categories: [Spec]
   platforms: [clj]
+
+malli:
+  name: malli
+  url: https://github.com/metosin/malli
+  categories: [Schema, Dynamic Typing, Validation, Random Data Generation]
+  platforms: [clj, cljs]
+
+minimallist:
+  name: minimallist
+  url: https://github.com/green-coder/minimallist
+  categories: [Schema, Dynamic Typing, Validation, Random Data Generation]
+  platforms: [clj, cljs]
+
+spec_provider:
+  name: spec-provider
+  url: https://github.com/stathissideris/spec-provider
+  categories: [Spec, Schema]
+  platforms: [clj, cljs]
+
+struct:
+  name: struct
+  url: https://github.com/funcool/struct
+  categories: [Schema, Validation]
+  platforms: [clj, cljs]
 
 expound:
   name: Expound
