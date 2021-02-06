@@ -583,25 +583,25 @@ tubax:
 clj_xml_validation:
   name: clj-xml-validation
   url: https://github.com/bbbates/clj-xml-validation
-  categories: [XML Schema, Validation]
+  categories: [XML Schema]
   platforms: [clj]
 
 jinx:
   name: jinx
   url: https://github.com/juxt/jinx
-  categories: [Schema, Validation]
+  categories: [Schema]
   platforms: [clj, cljs]
 
 scjsv:
   name: scjsv
   url: https://github.com/metosin/scjsv
-  categories: [Schema, Validation]
+  categories: [Schema]
   platforms: [clj]
 
 json_schema:
   name: json-schema
   url: https://github.com/luposlip/json-schema
-  categories: [Schema, Validation]
+  categories: [Schema]
   platforms: [clj]
 
 lamina:
