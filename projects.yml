@@ -589,19 +589,19 @@ clj_xml_validation:
 jinx:
   name: jinx
   url: https://github.com/juxt/jinx
-  categories: [Schema]
+  categories: [JSON Schema]
   platforms: [clj, cljs]
 
 scjsv:
   name: scjsv
   url: https://github.com/metosin/scjsv
-  categories: [Schema]
+  categories: [JSON Schema]
   platforms: [clj]
 
 json_schema:
   name: json-schema
   url: https://github.com/luposlip/json-schema
-  categories: [Schema]
+  categories: [JSON Schema]
   platforms: [clj]
 
 lamina:
