@@ -4384,13 +4384,13 @@ clojure_future_spec:
 malli:
   name: malli
   url: https://github.com/metosin/malli
-  categories: [Schema, Dynamic Typing, Validation, Random Data Generation]
+  categories: [Schema, Validation, Random Data Generation]
   platforms: [clj, cljs]
 
 minimallist:
   name: minimallist
   url: https://github.com/green-coder/minimallist
-  categories: [Schema, Dynamic Typing, Validation, Random Data Generation]
+  categories: [Schema, Validation, Random Data Generation]
   platforms: [clj, cljs]
 
 spec_provider:
