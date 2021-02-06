@@ -2686,6 +2686,12 @@ trapperkeeper:
   categories: [Application Frameworks]
   platforms: [clj]
 
+polylith:
+  name: Polylith
+  url: https://github.com/polyfy/polylith
+  categories: [Application Architectures]
+  platforms: [clj]
+
 jig:
   name: Jig
   url: https://github.com/juxt/jig
