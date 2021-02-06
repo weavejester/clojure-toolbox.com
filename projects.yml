@@ -2689,7 +2689,7 @@ trapperkeeper:
 polylith:
   name: Polylith
   url: https://github.com/polyfy/polylith
-  categories: [Application Architectures]
+  categories: [Application Frameworks]
   platforms: [clj]
 
 jig:
