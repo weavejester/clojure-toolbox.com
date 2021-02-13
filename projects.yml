@@ -1468,6 +1468,12 @@ gorilla_repl:
   categories: [REPLs]
   platforms: [clj]
 
+planck:
+  name: Planck
+  url: https://planck-repl.org/
+  categories: [REPLs]
+  platforms: [cljs]
+
 refactor_nrepl:
   name: Refactor nREPL
   url: https://github.com/clojure-emacs/refactor-nrepl
