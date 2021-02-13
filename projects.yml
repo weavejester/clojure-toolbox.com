@@ -3541,6 +3541,12 @@ cljstyle:
   categories: [Code Formatting Tools]
   platforms: [clj, cljs]
 
+zprint:
+  name: zprint
+  url: https://github.com/kkinnear/zprint
+  categories: [Code Formatting Tools]
+  platforms: [clj, cljs]
+
 grafter:
   name: Grafter
   url: http://grafter.org/
