@@ -1192,6 +1192,24 @@ unilog:
   categories: [Logging]
   platforms: [clj]
 
+glogi:
+  name: glogi (Glögi)
+  url: https://github.com/lambdaisland/glogi
+  categories: [Logging]
+  platforms: [cljs]
+
+log4j2_clojure:
+  name: log4j2-clojure
+  url: https://github.com/funcool/log4j2-clojure
+  categories: [Logging]
+  platforms: [clj]
+
+rollcage:
+  name: rollcage
+  url: https://github.com/circleci/rollcage
+  categories: [Logging]
+  platforms: [clj]
+
 calx:
   name: Calx
   url: https://github.com/ztellman/calx
