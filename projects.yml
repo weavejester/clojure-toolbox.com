@@ -451,19 +451,31 @@ leiningen_war:
 aleph:
   name: Aleph
   url: https://github.com/clj-commons/aleph
-  categories: [Asynchronous HTTP]
+  categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients, Asynchronous I/O, Websockets]
   platforms: [clj]
 
 http_kit:
   name: http-kit
-  url: http://http-kit.org/
-  categories: [Asynchronous HTTP, HTTP Servers]
+  url: https://github.com/http-kit/http-kit
+  categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients, Websockets]
   platforms: [clj]
 
 catacumba:
   name: Catacumba
   url: https://github.com/funcool/catacumba
   categories: [Web Frameworks, Asynchronous HTTP, HTTP Servers, RESTful Web Services, Web Server Abstraction]
+  platforms: [clj]
+
+donkey:
+  name: Donkey
+  url: https://github.com/AppsFlyer/donkey
+  categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients]
+  platforms: [clj]
+
+pohjavirta:
+  name: pohjavirta
+  url: https://github.com/metosin/pohjavirta
+  categories: [Asynchronous HTTP, HTTP Servers, Websockets]
   platforms: [clj]
 
 ring_server:
