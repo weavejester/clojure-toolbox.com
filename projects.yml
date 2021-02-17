@@ -2868,7 +2868,7 @@ herbert:
 
 annotate:
   name: Annotate
-  url: https://github.com/roomkey/annotate
+  url: https://github.com/coconutpalm/annotate
   categories: [Schema, Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj]
 
@@ -4429,22 +4429,28 @@ expound:
   categories: [Spec]
   platforms: [clj, cljs]
 
+aave:
+  name: aave
+  url: https://github.com/teknql/aave
+  categories: [Dynamic Typing]
+  platforms: [clj, cljs]
+
 orchestra:
   name: Orchestra
   url: https://github.com/jeaye/orchestra
-  categories: [Spec]
+  categories: [Spec, Dynamic Typing]
   platforms: [clj, cljs]
 
 ghostwheel:
   name: Ghostwheel
   url: https://github.com/gnl/ghostwheel
-  categories: [Spec, Debugging, Unit Testing]
+  categories: [Spec, Debugging, Unit Testing, Dynamic Typing]
   platforms: [clj, cljs]
 
 guardrails:
   name: Guardrails
   url: https://github.com/fulcrologic/guardrails
-  categories: [Spec]
+  categories: [Spec, Dynamic Typing]
   platforms: [clj, cljs]
 
 spectrum:
