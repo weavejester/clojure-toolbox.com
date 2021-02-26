@@ -664,6 +664,42 @@ vigil:
   categories: [Asynchronous Programming, Asynchronous I/O]
   platforms: [clj]
 
+wsscode_async:
+  name: wsscode-async
+  url: https://github.com/wilkerlucio/wsscode-async
+  categories: [Asynchronous Programming, Exception Handling, Unit Testing]
+  platforms: [clj, cljs]
+
+full_async:
+  name: full.async
+  url: https://github.com/fullcontact/full.async
+  categories: [Asynchronous Programming, Exception Handling, Retrying Failures]
+  platforms: [clj, cljs]
+
+more_async:
+  name: more.async
+  url: https://github.com/bsless/more.async
+  categories: [Asynchronous Programming]
+  platforms: [clj]
+
+corelli:
+  name: corelli
+  url: https://github.com/bsless/corelli
+  categories: [Asynchronous Programming]
+  platforms: [clj]
+
+kitchen_async:
+  name: kitchen-async
+  url: https://github.com/athos/kitchen-async
+  categories: [Asynchronous Programming]
+  platforms: [cljs]
+
+timer_cljs:
+  name: timer.cljs
+  url: https://github.com/helins-io/timer.cljs
+  categories: [Asynchronous Programming, Scheduling]
+  platforms: [cljs]
+
 irclj:
   name: irclj
   url: https://github.com/flatland/irclj
