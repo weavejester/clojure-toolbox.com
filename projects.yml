@@ -738,7 +738,7 @@ conduit:
 
 docjure:
   name: Docjure
-  url: https://github.com/ative/docjure
+  url: https://github.com/mjul/docjure
   categories: [MS Office Documents]
   platforms: [clj]
 
@@ -2419,6 +2419,18 @@ clj_excel:
 spreadmap:
   name: spreadmap
   url: https://github.com/cgrand/spreadmap
+  categories: [MS Office Documents]
+  platforms: [clj]
+
+fxl:
+  name: fxl
+  url: https://github.com/zero-one-group/fxl
+  categories: [MS Office Documents]
+  platforms: [clj]
+
+excel_clj:
+  name: excel-clj
+  url: https://github.com/matthewdowney/excel-clj
   categories: [MS Office Documents]
   platforms: [clj]
 
@@ -4894,7 +4906,7 @@ reaver:
 sheetah:
   name: Sheetah
   url: https://github.com/jgrodziski/sheetah
-  categories: [MS Office Documents, Google Workspace Integration]
+  categories: [Google Workspace Integration]
   platforms: [clj]
 
 keycloak_clojure:
