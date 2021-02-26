@@ -1205,7 +1205,7 @@ unilog:
   platforms: [clj]
 
 glogi:
-  name: glogi (Glögi)
+  name: Glögi
   url: https://github.com/lambdaisland/glogi
   categories: [Logging]
   platforms: [cljs]
