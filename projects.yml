@@ -4992,3 +4992,27 @@ conjure:
   url: https://github.com/Olical/conjure
   categories: [Vim Integration]
   platforms: [clj, cljs]
+
+k8s_api:
+  name: k8s-api
+  url: https://github.com/nubank/k8s-api
+  categories: [Kubernetes Clients]
+  platforms: [clj]
+
+clojure_kubernetes_client:
+  name: clojure-kubernetes-client
+  url: https://github.com/exoscale/clojure-kubernetes-client
+  categories: [Kubernetes Clients]
+  platforms: [clj]
+
+lambda_kube:
+  name: Lambda-Kube
+  url: https://github.com/brosenan/lambda-kube
+  categories: [Kubernetes Clients]
+  platforms: [clj]
+
+keenest_rube:
+  name: keenest-rube
+  url: https://github.com/blak3mill3r/keenest-rube
+  categories: [Kubernetes Clients]
+  platforms: [clj]
