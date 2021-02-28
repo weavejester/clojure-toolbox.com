@@ -1056,7 +1056,7 @@ lein_cdt:
 
 dr_evil:
   name: Dr. Evil
-  url: https://bitbucket.org/tebeka/dr-evil/src
+  url: https://github.com/tebeka/dr-evil
   categories: [Debugging]
   platforms: [clj]
 
@@ -1068,7 +1068,7 @@ ritz:
 
 sayid:
   name: Sayid
-  url: http://bpiel.github.io/sayid/
+  url: https://github.com/clojure-emacs/sayid
   categories: [Debugging]
   platforms: [clj]
 
@@ -1081,6 +1081,24 @@ spyscope:
 scope_capture:
   name: scope-capture
   url: https://github.com/vvvvalvalval/scope-capture
+  categories: [Debugging]
+  platforms: [clj, cljs]
+
+hashp:
+  name: hashp
+  url: https://github.com/weavejester/hashp
+  categories: [Debugging]
+  platforms: [clj, cljs]
+
+mate_clj:
+  name: mate-clj
+  url: https://github.com/AppsFlyer/mate-clj
+  categories: [Debugging]
+  platforms: [clj]
+
+flow_storm_debugger:
+  name: Flow-storm debugger
+  url: https://github.com/jpmonettas/flow-storm-debugger
   categories: [Debugging]
   platforms: [clj, cljs]
 
