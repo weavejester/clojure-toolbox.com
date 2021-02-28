@@ -3961,6 +3961,18 @@ odoyle:
   categories: [Rule Engine, Logic Programming]
   platforms: [clj, cljs]
 
+clara_eav:
+  name: clara-eav
+  url: https://github.com/clyfe/clara-eav
+  categories: [Rule Engine, Logic Programming]
+  platforms: [clj, cljs]
+
+minikusari:
+  name: minikusari
+  url: https://github.com/frankiesardo/minikusari
+  categories: [Rule Engine, Logic Programming]
+  platforms: [clj, cljs]
+
 foundation_pg:
   name: Foundation/PG
   url: https://github.com/mikeball/foundation
