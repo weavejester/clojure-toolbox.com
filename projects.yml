@@ -628,6 +628,18 @@ manifold:
   categories: [Asynchronous Programming]
   platforms: [clj]
 
+manifold_cljs:
+  name: manifold-cljs
+  url: https://github.com/dm3/manifold-cljs
+  categories: [Asynchronous Programming]
+  platforms: [cljs]
+
+auspex:
+  name: auspex
+  url: https://github.com/mpenet/auspex
+  categories: [Asynchronous Programming]
+  platforms: [clj]
+
 imminent:
   name: Imminent
   url: https://github.com/leonardoborges/imminent
@@ -3070,6 +3082,18 @@ data_codec:
 claypoole:
   name: Claypoole
   url: https://github.com/TheClimateCorporation/claypoole/
+  categories: [Concurrency]
+  platforms: [clj]
+
+dirigiste:
+  name: dirigiste
+  url: https://github.com/ztellman/dirigiste
+  categories: [Concurrency]
+  platforms: [clj]
+
+lasync:
+  name: lasync
+  url: https://github.com/tolitius/lasync
   categories: [Concurrency]
   platforms: [clj]
 
