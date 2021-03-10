@@ -1076,7 +1076,7 @@ spyscope:
   name: Spyscope
   url: https://github.com/clj-commons/spyscope
   categories: [Debugging]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 scope_capture:
   name: scope-capture
