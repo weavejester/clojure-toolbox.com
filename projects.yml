@@ -304,6 +304,18 @@ kaocha_cljs:
   categories: [Test Runners]
   platforms: [cljs]
 
+kaocha_cljs2:
+  name: kaocha-cljs2
+  url: https://github.com/lambdaisland/kaocha-cljs2
+  categories: [Test Runners]
+  platforms: [cljs]
+
+cljs_test_runner:
+  name: cljs-test-runner
+  url: https://github.com/Olical/cljs-test-runner
+  categories: [Test Runners]
+  platforms: [cljs]
+
 speclj:
   name: Speclj
   url: http://speclj.com
@@ -4360,7 +4372,7 @@ uruk:
 test_runner:
   name: test-runner
   url: https://github.com/cognitect-labs/test-runner
-  categories: [Unit Testing]
+  categories: [Test Runners]
   platforms: [clj]
 
 transcriptor:
