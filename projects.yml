@@ -1326,7 +1326,7 @@ snowball_stemmer:
 
 korma:
   name: Korma
-  url: http://sqlkorma.com/
+  url: https://github.com/korma/Korma
   categories: [SQL Abstraction]
   platforms: [clj]
 
@@ -2334,15 +2334,27 @@ pedestal:
 
 honey_sql:
   name: Honey SQL
-  url: https://github.com/jkk/honeysql
+  url: https://github.com/seancorfield/honeysql
   categories: [SQL Abstraction]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 specql:
   name: specql
   url: https://github.com/tatut/specql
   categories: [SQL Abstraction]
   platforms: [clj, cljs]
+
+seql:
+  name: seql
+  url: https://github.com/exoscale/seql
+  categories: [SQL Abstraction]
+  platforms: [clj]
+
+honeyeql:
+  name: HoneyEQL
+  url: https://github.com/graphqlize/honeyeql
+  categories: [SQL Abstraction]
+  platforms: [clj]
 
 carmine:
   name: Carmine
@@ -3415,6 +3427,12 @@ clojure_java_jdbc:
   categories: [SQL Clients]
   platforms: [clj]
 
+next_jdbc:
+  name: next-jdbc
+  url: https://github.com/seancorfield/next-jdbc
+  categories: [SQL Clients]
+  platforms: [clj]
+
 rook:
   name: Rook
   url: https://github.com/AvisoNovate/rook
@@ -3455,6 +3473,12 @@ metabase_connection_pool:
   name: metabase/connection-pool
   url: https://github.com/metabase/connection-pool
   categories: [Connection Pools]
+  platforms: [clj]
+
+gungnir:
+  name: Gungnir
+  url: https://github.com/kwrooijen/gungnir
+  categories: [SQL Clients, SQL Abstraction, Schema, Validation, Connection Pools, Database Migrations]
   platforms: [clj]
 
 duckling:
@@ -4001,6 +4025,12 @@ jdbc_pg_sanity:
   name: jdbc-pg-sanity
   url: https://github.com/ShaneKilkelly/clj-jdbc-pg-sanity
   categories: [PostgreSQL Integration]
+  platforms: [clj]
+
+penkala:
+  name: Penkala
+  url: https://github.com/retro/penkala
+  categories: [PostgreSQL Integration, SQL Abstraction]
   platforms: [clj]
 
 money:
