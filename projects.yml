@@ -2710,10 +2710,22 @@ uncaught:
   categories: [Exception Handling]
   platforms: [clj]
 
+cawasser_protobuf:
+  name: cawasser/protobuf
+  url: https://github.com/cawasser/protobuf
+  categories: [Data Serialization, Schema]
+  platforms: [clj]
+
+lancaster:
+  name: Lancaster
+  url: https://github.com/deercreeklabs/lancaster
+  categories: [Data Serialization, Schema]
+  platforms: [clj, cljs]
+
 abracad:
   name: Abracad
   url: https://github.com/damballa/abracad
-  categories: [Data Serialization]
+  categories: [Data Serialization, Schema]
   platforms: [clj]
 
 useful:
