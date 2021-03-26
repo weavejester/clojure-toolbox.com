@@ -2254,6 +2254,18 @@ timbre:
   categories: [Logging]
   platforms: [clj, cljs]
 
+timbre_json_appender:
+  name: timbre-json-appender
+  url: https://github.com/viesti/timbre-json-appender
+  categories: [Logging]
+  platforms: [clj]
+
+clj_loga:
+  name: clj-loga
+  url: https://github.com/FundingCircle/clj-loga
+  categories: [Logging]
+  platforms: [clj]
+
 tufte:
   name: Tufte
   url: https://github.com/ptaoussanis/tufte
