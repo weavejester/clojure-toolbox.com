@@ -1294,6 +1294,12 @@ log4j2_clojure:
   categories: [Logging]
   platforms: [clj]
 
+clojure_log4j2:
+  name: clojure.log4j2
+  url: https://github.com/henryw374/clojure.log4j2
+  categories: [Logging]
+  platforms: [clj]
+
 rollcage:
   name: rollcage
   url: https://github.com/circleci/rollcage
