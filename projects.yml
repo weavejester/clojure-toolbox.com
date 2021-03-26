@@ -1390,6 +1390,18 @@ parse_struct:
   categories: [Binary Data, Parsing]
   platforms: [clj]
 
+binf_cljc:
+  name: binf.cljc
+  url: https://github.com/helins/binf.cljc
+  categories: [Binary Data, Parsing]
+  platforms: [clj, cljs]
+
+byte_transforms:
+  name: byte-transforms
+  url: https://github.com/clj-commons/byte-transforms
+  categories: [Binary Data, Compression, Hashing]
+  platforms: [clj]
+
 core_logic:
   name: core.logic
   url: https://github.com/clojure/core.logic
