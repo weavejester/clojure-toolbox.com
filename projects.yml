@@ -5080,5 +5080,5 @@ keenest_rube:
 clj_camel:
   name: clj-camel
   url: https://github.com/TakeoffTech/clj-camel
-  categories: [Enterprise Integration Patterns, Message-oriented Middleware]
+  categories: [Enterprise Integration Patterns]
   platforms: [clj]
