@@ -4255,6 +4255,18 @@ special:
   categories: [Condition Systems]
   platforms: [clj, cljs]
 
+pure_conditioning:
+  name: Pure Conditioning
+  url: https://github.com/pangloss/pure-conditioning
+  categories: [Condition Systems]
+  platforms: [clj]
+
+rp_condition:
+  name: rp.condition
+  url: https://github.com/rentpath/rp-condition-clj
+  categories: [Condition Systems]
+  platforms: [clj]
+
 chazel:
   name: chazel
   url: https://github.com/tolitius/chazel
