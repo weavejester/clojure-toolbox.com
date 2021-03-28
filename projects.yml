@@ -2176,6 +2176,30 @@ instaparse:
   categories: [Parsing]
   platforms: [clj, cljs]
 
+parcera:
+  name: parcera
+  url: https://github.com/carocad/parcera
+  categories: [Parsing]
+  platforms: [clj, cljs]
+
+squarepeg:
+  name: squarepeg
+  url: https://github.com/ericnormand/squarepeg
+  categories: [Parsing]
+  platforms: [clj]
+
+crustimoney:
+  name: Crustimoney
+  url: https://github.com/aroemers/crustimoney
+  categories: [Parsing]
+  platforms: [clj]
+
+commandline_clj:
+  name: commandline-clj
+  url: https://github.com/r0man/commandline-clj
+  categories: [Parsing]
+  platforms: [clj]
+
 fungp:
   name: fungp
   url: https://github.com/probabilityZero/fungp
@@ -2250,7 +2274,7 @@ alia:
 
 clearley:
   name: Clearley
-  url: https://github.com/eightnotrump/clearley
+  url: https://github.com/mthvedt/clearley
   categories: [Parsing]
   platforms: [clj]
 
@@ -3413,6 +3437,12 @@ seqexp:
   name: Seqexp
   url: https://github.com/cgrand/seqexp
   categories: [Parsing, Code Generation]
+  platforms: [clj]
+
+seqex:
+  name: seqex
+  url: https://github.com/jclaggett/seqex
+  categories: [Parsing]
   platforms: [clj]
 
 metam:
