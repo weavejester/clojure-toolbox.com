@@ -5130,3 +5130,9 @@ keenest_rube:
   url: https://github.com/blak3mill3r/keenest-rube
   categories: [Kubernetes Clients]
   platforms: [clj]
+
+clj_camel:
+  name: clj-camel
+  url: https://github.com/TakeoffTech/clj-camel
+  categories: [Enterprise Integration Patterns]
+  platforms: [clj]
