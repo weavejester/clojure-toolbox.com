@@ -4107,7 +4107,61 @@ jackdaw:
 
 kafka_clj:
   name: kafka.clj
-  url: https://github.com/dvlopt/kafka.clj
+  url: https://github.com/helins/kafka.clj
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+ketu:
+  name: Ketu
+  url: https://github.com/AppsFlyer/ketu
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+kinsky:
+  name: Kinsky
+  url: https://github.com/pyr/kinsky
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+willa:
+  name: willa
+  url: https://github.com/DaveWM/willa
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+ksml:
+  name: ksml
+  url: https://github.com/cddr/ksml
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+noah:
+  name: noah
+  url: https://github.com/blak3mill3r/noah
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+rp_jackdaw_clj:
+  name: rp-jackdaw-clj
+  url: https://github.com/rentpath/rp-jackdaw-clj
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+kafka_streams_clojure:
+  name: kafka-streams-clojure
+  url: https://github.com/bobby/kafka-streams-clojure
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+ottla:
+  name: Ottla
+  url: https://github.com/chartbeat-labs/ottla
+  categories: [Kafka Clients]
+  platforms: [clj]
+
+ziggurat:
+  name: Ziggurat
+  url: https://github.com/gojek/ziggurat
   categories: [Kafka Clients]
   platforms: [clj]
 
