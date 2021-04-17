@@ -4993,6 +4993,30 @@ oz:
   categories: [Data Exploration, Visualization, Static Site Generation]
   platforms: [clj, cljs]
 
+hanami:
+  name: Hanami
+  url: https://github.com/jsa-aerial/hanami
+  categories: [Visualization]
+  platforms: [clj, cljs]
+
+saite:
+  name: Saite
+  url: https://github.com/jsa-aerial/saite
+  categories: [Visualization]
+  platforms: [clj, cljs]
+
+clojupyter:
+  name: clojupyter
+  url: https://github.com/clojupyter/clojupyter
+  categories: [Visualization]
+  platforms: [clj]
+
+re_echarts:
+  name: re-echarts
+  url: https://github.com/kimim/re-echarts
+  categories: [Visualization]
+  platforms: [cljs]
+
 caesium:
   name: caesium
   url: https://github.com/lvh/caesium
@@ -5154,6 +5178,12 @@ rebl:
   url: https://docs.datomic.com/cloud/other-tools/REBL.html
   categories: [Data Exploration, Datomic]
   platforms: [clj]
+
+coll_pen:
+  name: coll-pen
+  url: https://github.com/dscarpetti/coll-pen
+  categories: [Data Exploration]
+  platforms: [cljs]
 
 roll:
   name: Roll
