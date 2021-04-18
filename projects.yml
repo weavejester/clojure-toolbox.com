@@ -1139,7 +1139,7 @@ jiraph:
   platforms: [clj]
 
 clj_digest:
-  name: digest
+  name: clj-digest
   url: https://github.com/tebeka/clj-digest
   categories: [Cryptography, Hashing]
   platforms: [clj]
@@ -2354,6 +2354,18 @@ clj_multihash:
   name: clj-multihash
   url: https://github.com/greglook/clj-multihash
   categories: [Cryptography, Hashing]
+  platforms: [clj]
+
+hasch:
+  name: hasch
+  url: https://github.com/replikativ/hasch
+  categories: [Hashing]
+  platforms: [clj, cljs]
+
+sketchy:
+  name: sketchy
+  url: https://github.com/bigmlcom/sketchy
+  categories: [Hashing]
   platforms: [clj]
 
 faraday:
