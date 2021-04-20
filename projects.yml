@@ -2104,6 +2104,18 @@ criterium:
   categories: [Benchmarking]
   platforms: [clj]
 
+jmh_clojure:
+  name: jmh-clojure
+  url: https://github.com/jgpc42/jmh-clojure
+  categories: [Benchmarking]
+  platforms: [clj]
+
+needle:
+  name: Needle
+  url: https://github.com/Tyruiop/needle
+  categories: [Benchmarking]
+  platforms: [clj]
+
 data_priority_map:
   name: data.priority-map
   url: https://github.com/clojure/data.priority-map
@@ -4792,7 +4804,7 @@ reitit:
 clj_memory_meter:
   name: clj-memory-meter
   url: https://github.com/clojure-goes-fast/clj-memory-meter
-  categories: [Performance, Benchmarking]
+  categories: [Benchmarking]
   platforms: [clj]
 
 specviz:
@@ -4972,7 +4984,7 @@ clojurephant:
 clj_async_profiler:
   name: clj-async-profiler
   url: https://github.com/clojure-goes-fast/clj-async-profiler
-  categories: [Performance]
+  categories: [Benchmarking]
   platforms: [clj]
 
 stencil_core:
