@@ -46,6 +46,24 @@ ring_json:
   categories: [Request Middleware, Response Middleware]
   platforms: [clj]
 
+lein_nvd:
+  name: lein-nvd
+  url: https://github.com/rm-hull/lein-nvd
+  categories: [Vulnerability Checking]
+  platforms: [clj]
+
+clj_nvd:
+  name: clj-nvd
+  url: https://github.com/miikka/clj-nvd
+  categories: [Vulnerability Checking]
+  platforms: [clj]
+
+owasp_dependency_check_skill:
+  name: owasp-dependency-check-skill
+  url: https://github.com/atomist-skills/owasp-dependency-check-skill
+  categories: [Vulnerability Checking]
+  platforms: [clj]
+
 ring_basic_authentication:
   name: ring-basic-authentication
   url: https://github.com/remvee/ring-basic-authentication
