@@ -58,12 +58,6 @@ clj_nvd:
   categories: [Vulnerability Checking]
   platforms: [clj]
 
-owasp_dependency_check_skill:
-  name: owasp-dependency-check-skill
-  url: https://github.com/atomist-skills/owasp-dependency-check-skill
-  categories: [Vulnerability Checking]
-  platforms: [clj]
-
 ring_basic_authentication:
   name: ring-basic-authentication
   url: https://github.com/remvee/ring-basic-authentication
