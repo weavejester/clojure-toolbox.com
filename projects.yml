@@ -466,6 +466,42 @@ lein_beanstalk:
   categories: [Deployment Automation, Leiningen Plugins]
   platforms: [clj]
 
+spire:
+  name: spire
+  url: https://github.com/epiccastle/spire
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+lines:
+  name: lines
+  url: https://github.com/rosineygp/lines
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+terra:
+  name: Terra
+  url: https://github.com/luchiniatwork/terra
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+crucible:
+  name: crucible
+  url: https://github.com/brabster/crucible
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+dad:
+  name: Dad
+  url: https://github.com/liquidz/dad
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+almonds:
+  name: almonds
+  url: https://github.com/murtaza52/almonds
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
 leiningen_war:
   name: Leiningen War Plugin
   url: https://github.com/alienscience/leiningen-war
@@ -780,8 +816,8 @@ cljfx:
 
 pallet:
   name: Pallet
-  url: http://pallet.github.com/pallet/
-  categories: [Deployment Automation]
+  url: https://github.com/pallet/pallet
+  categories: [Infrastructure Provisioning]
   platforms: [clj]
 
 cascalog:
