@@ -4825,6 +4825,12 @@ orchestra:
   categories: [Spec, Dynamic Typing]
   platforms: [clj, cljs]
 
+speced_def:
+  name: speced.def
+  url: https://github.com/nedap/speced.def
+  categories: [Spec, Dynamic Typing]
+  platforms: [clj, cljs]
+
 ghostwheel:
   name: Ghostwheel
   url: https://github.com/gnl/ghostwheel
