@@ -1810,6 +1810,18 @@ immutable_bitset:
   categories: [Data Structures, Performance]
   platforms: [clj]
 
+Cause:
+  name: Cause
+  url: https://github.com/smothers/cause
+  categories: [Data Structures]
+  platforms: [clj, cljs]
+
+schism:
+  name: schism
+  url: https://github.com/aredington/schism
+  categories: [Data Structures]
+  platforms: [clj, cljs]
+
 shake:
   name: Shake
   url: https://github.com/sunng87/shake
