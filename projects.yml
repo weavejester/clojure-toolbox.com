@@ -5119,6 +5119,18 @@ shadow_cljs:
   categories: [ClojureScript Development]
   platforms: [cljs]
 
+krell:
+  name: krell
+  url: https://github.com/vouch-opensource/krell
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
+Re_Natal:
+  name: Re-Natal
+  url: https://github.com/drapanjanas/re-natal
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
 datasplash:
   name: Datasplash
   url: https://github.com/ngrunwald/datasplash
