@@ -1810,7 +1810,7 @@ immutable_bitset:
   categories: [Data Structures, Performance]
   platforms: [clj]
 
-Cause:
+cause:
   name: Cause
   url: https://github.com/smothers/cause
   categories: [Data Structures]
