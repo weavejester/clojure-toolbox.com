@@ -5125,7 +5125,7 @@ krell:
   categories: [ClojureScript Development]
   platforms: [cljs]
 
-Re_Natal:
+re_natal:
   name: Re-Natal
   url: https://github.com/drapanjanas/re-natal
   categories: [ClojureScript Development]
