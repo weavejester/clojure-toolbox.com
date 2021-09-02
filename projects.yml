@@ -1384,6 +1384,18 @@ inflections_clj:
   categories: [Natural Language]
   platforms: [clj, cljs]
 
+datalinguist:
+  name: DataLinguist
+  url: https://github.com/simongray/datalinguist
+  categories: [Natural Language]
+  platforms: [clj]
+
+phonetics:
+  name: Phonetics
+  url: https://github.com/eihli/phonetics
+  categories: [Natural Language]
+  platforms: [clj]
+
 snowball_stemmer:
   name: Snowball Stemmer
   url: https://github.com/weavejester/snowball-stemmer
