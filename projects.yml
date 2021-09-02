@@ -214,6 +214,18 @@ talltale:
   categories: [Unit Testing, Mocking, Random Data Generation]
   platforms: [clj, cljs]
 
+mockfn:
+  name: mockfn
+  url: https://github.com/nubank/mockfn
+  categories: [Unit Testing, Mocking]
+  platforms: [clj, cljs]
+
+mockery:
+  name: Mockery
+  url: https://github.com/igrishaev/mockery
+  categories: [Unit Testing, Mocking]
+  platforms: [clj]
+
 kerodon:
   name: Kerodon
   url: https://github.com/xeqi/kerodon
@@ -3268,7 +3280,7 @@ tupelo:
 datomock:
   name: datomock
   url: https://github.com/vvvvalvalval/datomock
-  categories: [Datomic]
+  categories: [Datomic, Mocking]
   platforms: [clj]
 
 ring_codec:
