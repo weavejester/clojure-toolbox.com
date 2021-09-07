@@ -244,6 +244,18 @@ restpect:
   categories: [Web Testing, Unit Testing]
   platforms: [clj]
 
+kamera:
+  name: kamera
+  url: https://github.com/oliyh/kamera
+  categories: [Web Testing]
+  platforms: [clj, cljs]
+
+cypress_clojurescript_preprocessor:
+  name: cypress-clojurescript-preprocessor
+  url: https://github.com/viesti/cypress-clojurescript-preprocessor
+  categories: [Web Testing]
+  platforms: [cljs]
+
 ring_netty_adapter:
   name: ring-netty-adapter
   url: https://github.com/datskos/ring-netty-adapter
