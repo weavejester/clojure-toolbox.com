@@ -832,6 +832,18 @@ pallet:
   categories: [Infrastructure Provisioning]
   platforms: [clj]
 
+dda_pallet:
+  name: dda-pallet
+  url: https://github.com/DomainDrivenArchitecture/dda-pallet
+  categories: [Infrastructure Provisioning]
+  platforms: [clj]
+
+pulumi_cljs:
+  name: pulumi-cljs
+  url: https://github.com/modern-energy/pulumi-cljs
+  categories: [Infrastructure Provisioning]
+  platforms: [cljs]
+
 cascalog:
   name: Cascalog
   url: https://github.com/nathanmarz/cascalog
