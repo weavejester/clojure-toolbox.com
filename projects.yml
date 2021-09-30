@@ -46,9 +46,9 @@ ring_json:
   categories: [Request Middleware, Response Middleware]
   platforms: [clj]
 
-lein_nvd:
-  name: lein-nvd
-  url: https://github.com/rm-hull/lein-nvd
+nvd_clojure:
+  name: nvd-clojure
+  url: https://github.com/rm-hull/nvd-clojure/
   categories: [Vulnerability Checking]
   platforms: [clj]
 
@@ -162,7 +162,7 @@ moustache:
 
 joodo:
   name: Joodo
-  url: http://joodoweb.com
+  url: https://github.com/slagyr/joodo
   categories: [Web Frameworks]
   platforms: [clj]
 
@@ -354,7 +354,7 @@ cljs_test_runner:
 
 speclj:
   name: Speclj
-  url: http://speclj.com
+  url: https://github.com/slagyr/speclj
   categories: [Unit Testing]
   platforms: [clj]
 
@@ -972,7 +972,7 @@ gaka:
 
 vimclojure:
   name: VimClojure
-  url: https://bitbucket.org/kotarak/vimclojure
+  url: https://github.com/vim-scripts/VimClojure
   categories: [Vim Integration]
   platforms: [clj]
 
@@ -1080,7 +1080,7 @@ clj_json:
 
 clojuresque:
   name: clojuresque
-  url: https://bitbucket.org/clojuresque/clojuresque
+  url: https://github.com/clojuresque/base
   categories: [Build Tools]
   platforms: [clj]
 
@@ -1266,7 +1266,7 @@ prism:
 
 lobos:
   name: Lobos
-  url: http://budu.github.com/lobos
+  url: https://github.com/budu/lobos
   categories: [Database Migrations, SQL Abstraction]
   platforms: [clj]
 
@@ -1458,7 +1458,7 @@ clojurebot:
 
 lazybot:
   name: lazybot
-  url: http://lazybot.org/
+  url: https://github.com/Raynes/lazybot
   categories: [IRC Bots]
   platforms: [clj]
 
@@ -1974,7 +1974,7 @@ clabango:
 
 luminus:
   name: Luminus
-  url: http://www.luminusweb.net/
+  url: https://luminusweb.com/
   categories: [Web Frameworks, Project Templates]
   platforms: [clj, cljs]
 
@@ -2736,7 +2736,7 @@ route_one:
 
 red_tape:
   name: Red Tape
-  url: http://sjl.bitbucket.org/red-tape/
+  url: https://github.com/sjl/red-tape
   categories: [Validation]
   platforms: [clj]
 
@@ -2958,7 +2958,7 @@ overload_middleware:
 
 caribou:
   name: Caribou
-  url: http://let-caribou.in/
+  url: https://github.com/caribou/caribou
   categories: [Web Frameworks]
   platforms: [clj]
 
@@ -3108,7 +3108,7 @@ javelin:
 
 boot:
   name: Boot
-  url: http://boot-clj.com/
+  url: https://boot-clj.github.io/
   categories: [Build Tools]
   platforms: [clj]
 
@@ -3909,7 +3909,7 @@ zprint:
 
 grafter:
   name: Grafter
-  url: http://grafter.org/
+  url: https://github.com/swirrl/grafter
   categories: [Linked Data &amp; RDF]
   platforms: [clj]
 
@@ -4407,7 +4407,7 @@ lacinia:
 
 lacinia_pedestal:
   name: lacinia-pedestal
-  url: Application Frameworks
+  url: https://github.com/walmartlabs/lacinia-pedestal
   categories: [GraphQL, Asynchronous HTTP]
   platforms: [clj]
 
@@ -5175,7 +5175,7 @@ ash_ra_template:
 
 shadow_cljs:
   name: shadow-cljs
-  url: https://shadow-cljs.org
+  url: https://github.com/thheller/shadow-cljs
   categories: [ClojureScript Development]
   platforms: [cljs]
 
