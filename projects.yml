@@ -2140,12 +2140,6 @@ suricatta:
   categories: [SQL Clients, SQL Abstraction]
   platforms: [clj]
 
-tower:
-  name: Tower
-  url: https://github.com/ptaoussanis/tower
-  categories: [Internationalization]
-  platforms: [clj, cljs]
-
 j18n:
   name: j18n
   url: https://bitbucket.org/kotarak/j18n
