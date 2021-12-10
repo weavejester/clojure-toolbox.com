@@ -1197,6 +1197,12 @@ flow_storm_debugger:
   url: https://github.com/jpmonettas/flow-storm-debugger
   categories: [Debugging]
   platforms: [clj, cljs]
+  
+omni_trace:
+  name: omni-trace
+  url: https://github.com/cyrik/omni-trace
+  categories: [Debugging]
+  platforms: [clj, cljs]
 
 mandoline:
   name: Mandoline
