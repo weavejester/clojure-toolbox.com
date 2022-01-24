@@ -5406,3 +5406,9 @@ clj_camel:
   url: https://github.com/TakeoffTech/clj-camel
   categories: [Enterprise Integration Patterns]
   platforms: [clj]
+
+salutem:
+  name: salutem
+  url: https://github.com/logicblocks/salutem
+  categories: [Monitoring, Metrics]
+  platforms: [clj]
