@@ -386,7 +386,7 @@ httpurr:
   name: httpurr
   url: https://github.com/funcool/httpurr
   categories: [HTTP Clients]
-  platforms: [cljs]
+  platforms: [clj, cljs]
 
 hato:
   name: hato
