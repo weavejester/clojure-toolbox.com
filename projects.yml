@@ -5442,3 +5442,9 @@ truegrit:
   url: https://github.com/KingMob/TrueGrit
   categories: [Retrying Failures]
   platforms: [clj]
+
+pp_grid:
+  name: pp-grid
+  url: https://github.com/rorokimdim/pp-grid
+  categories: [Terminal Utilities, Pretty Printing, Visualization]
+  platforms: [clj]
