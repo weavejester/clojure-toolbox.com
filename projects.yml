@@ -478,6 +478,12 @@ mailer:
   categories: [Email Sending]
   platforms: [clj]
 
+tarayo:
+  name: tarayo
+  url: https://github.com/toyokumo/tarayo
+  categories: [Email Sending]
+  platforms: [clj]
+
 lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
