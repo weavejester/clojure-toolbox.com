@@ -5412,3 +5412,9 @@ salutem:
   url: https://github.com/logicblocks/salutem
   categories: [Monitoring, Metrics]
   platforms: [clj]
+
+truegrit:
+  name: True Grit
+  url: https://github.com/KingMob/TrueGrit
+  categories: [Retrying Failures]
+  platforms: [clj]
