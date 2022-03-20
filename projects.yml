@@ -5578,7 +5578,7 @@ cljc_misc:
 replikativ:
   name: replikativ
   url: https://github.com/replikativ/replikativ
-  categories: [Distributed]
+  categories: [Distributed Programming]
   platforms: [clj, cljs]
 
 shadow_env:
@@ -5596,13 +5596,13 @@ nbb:
 dali:
   name: dali
   url: https://github.com/stathissideris/dali
-  categories: [SVG]
+  categories: [SVG Generation]
   platforms: [cljs]
 
 geom:
   name: thi.ng/geom
   url: https://github.com/thi-ng/geom
-  categories: [Geometry]
+  categories: [Math]
   platforms: [clj, cljs]
 
 viscous:
