@@ -157,7 +157,31 @@ safely:
 mulog:
   name: Mulog (μ/log)
   url: https://github.com/BrunoBonacci/mulog
-  categories: [Logging, Metrics]
+  categories: [Logging, Metrics, Tracing]
+  platforms: [clj]
+
+clj_otel:
+  name: clj-otel
+  url: https://github.com/steffan-westcott/clj-otel
+  categories: [Tracing]
+  platforms: [clj]
+
+opencensus_clojure:
+  name: opencensus-clojure
+  url: https://github.com/uswitch/opencensus-clojure
+  categories: [Tracing]
+  platforms: [clj]
+
+opentracing_clj:
+  name: opentracing-clj
+  url: https://github.com/alvinfrancis/opentracing-clj
+  categories: [Tracing]
+  platforms: [clj]
+
+ken:
+  name: ken
+  url: https://github.com/amperity/ken
+  categories: [Tracing]
   platforms: [clj]
 
 compojure:
@@ -487,6 +511,12 @@ clj_mail:
 mailer:
   name: Mailer
   url: https://github.com/clojurewerkz/mailer
+  categories: [Email Sending]
+  platforms: [clj]
+
+tarayo:
+  name: tarayo
+  url: https://github.com/toyokumo/tarayo
   categories: [Email Sending]
   platforms: [clj]
 
@@ -1213,7 +1243,7 @@ flow_storm_debugger:
 omni_trace:
   name: omni-trace
   url: https://github.com/cyrik/omni-trace
-  categories: [Debugging]
+  categories: [Debugging, Tracing]
   platforms: [clj, cljs]
 
 mandoline:
@@ -2413,7 +2443,7 @@ clearley:
 tools_trace:
   name: tools.trace
   url: https://github.com/clojure/tools.trace
-  categories: [Debugging]
+  categories: [Debugging, Tracing]
   platforms: [clj]
 
 timbre:
