@@ -5442,3 +5442,9 @@ truegrit:
   url: https://github.com/KingMob/TrueGrit
   categories: [Retrying Failures]
   platforms: [clj]
+
+rewrite_clj:
+  name: rewrite-clj
+  url: https://github.com/clj-commons/rewrite-clj
+  categories: [Data Transformation, Code Analysis]
+  platforms: [clj, cljs]
