@@ -453,7 +453,7 @@ incanter:
   url: http://incanter.org/
   categories: [Statistical Computing, Math]
   platforms: [clj]
-  
+
 sicmutils:
   name: SICMUtils
   url: https://github.com/sicmutils/sicmutils
@@ -1239,7 +1239,7 @@ flow_storm_debugger:
   url: https://github.com/jpmonettas/flow-storm-debugger
   categories: [Debugging]
   platforms: [clj, cljs]
-  
+
 omni_trace:
   name: omni-trace
   url: https://github.com/cyrik/omni-trace
@@ -5460,6 +5460,12 @@ truegrit:
   url: https://github.com/KingMob/TrueGrit
   categories: [Retrying Failures]
   platforms: [clj]
+
+rewrite_clj:
+  name: rewrite-clj
+  url: https://github.com/clj-commons/rewrite-clj
+  categories: [Data Transformation, Code Analysis]
+  platforms: [clj, cljs]
 
 ambly:
   name: Ambly
