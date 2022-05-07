@@ -5468,14 +5468,14 @@ ambly:
   platforms: [cljs]
 
 pyramid:
-  name: Lacina
+  name: Pyramid
   url: https://github.com/lilactown/pyramid
   categories: [Graphs, EQL]
   platforms: [clj, cljs]
 
 asami:
   name: Asami
-  url: https://github.com/threatgrid/asami
+  url: https://github.com/quoll/asami
   categories: [Graphs]
   platforms: [clj, cljs]
 
@@ -5545,12 +5545,6 @@ coffi:
   categories: [Foreign Function Interface]
   platforms: [clj]
 
-malli:
-  name: malli
-  url: https://github.com/metosin/malli
-  categories: [Schema]
-  platforms: [clj, cljs]
-
 antq:
   name: Antq
   url: https://github.com/liquidz/antq
@@ -5566,12 +5560,6 @@ pathom_viz:
 cascade:
   name: cascade
   url: https://github.com/lilactown/cascade
-  categories: [Asynchronous Programming]
-  platforms: [clj]
-
-more_async:
-  name: more.async
-  url: https://github.com/bsless/more.async
   categories: [Asynchronous Programming]
   platforms: [clj]
 
