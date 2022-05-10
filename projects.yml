@@ -4810,7 +4810,7 @@ system_viz:
 where:
   name: where
   url: https://github.com/BrunoBonacci/where
-  categories: [DSL, Utilities]
+  categories: [Predicates]
   platforms: [clj, cljs]
 
 clj-sophia:
