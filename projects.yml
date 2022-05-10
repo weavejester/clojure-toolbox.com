@@ -5443,6 +5443,12 @@ truegrit:
   categories: [Retrying Failures]
   platforms: [clj]
 
+html_to_hiccup:
+  name: html-to-hiccup
+  url: https://github.com/green-coder/html-to-hiccup
+  categories: [HTML Parsers]
+  platforms: [clj, cljs]
+
 rewrite_clj:
   name: rewrite-clj
   url: https://github.com/clj-commons/rewrite-clj
