@@ -5443,6 +5443,12 @@ truegrit:
   categories: [Retrying Failures]
   platforms: [clj]
 
+pp_grid:
+  name: pp-grid
+  url: https://github.com/rorokimdim/pp-grid
+  categories: [Terminal Utilities, Pretty Printing, Visualization]
+  platforms: [clj]
+
 html_to_hiccup:
   name: html-to-hiccup
   url: https://github.com/green-coder/html-to-hiccup
