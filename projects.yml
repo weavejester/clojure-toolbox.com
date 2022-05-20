@@ -5524,7 +5524,7 @@ scittle:
 uri:
   name: uri
   url: https://github.com/lambdaisland/uri
-  categories: [Utilities]
+  categories: [URI/URL]
   platforms: [clj, cljs]
 
 jirazzz:
@@ -5596,7 +5596,7 @@ martian:
 cljc_misc:
   name: CLJC Misc
   url: https://github.com/wilkerlucio/cljc-misc
-  categories: [Utilities]
+  categories: [Misc. Functions]
   platforms: [clj, cljs]
 
 replikativ:
