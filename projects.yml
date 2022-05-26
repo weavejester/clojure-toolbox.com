@@ -1342,6 +1342,12 @@ cheshire:
   categories: [JSON Parsers]
   platforms: [clj]
 
+charred:
+  name: Charred
+  url: https://github.com/cnuernber/charred
+  categories: [JSON Parsers]
+  platforms: [clj]
+
 faker:
   name: Faker
   url: https://github.com/paraseba/faker
