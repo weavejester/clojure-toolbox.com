@@ -5460,3 +5460,9 @@ rewrite_clj:
   url: https://github.com/clj-commons/rewrite-clj
   categories: [Data Transformation, Code Analysis]
   platforms: [clj, cljs]
+
+mindra_clj:
+  name: mindra-clj
+  url: https://github.com/rorokimdim/mindra-clj
+  categories: [Graphics, Visualization]
+  platforms: [clj]
