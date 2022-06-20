@@ -5542,7 +5542,7 @@ scittle:
 uri:
   name: uri
   url: https://github.com/lambdaisland/uri
-  categories: [URI/URL]
+  categories: [URI/URLs]
   platforms: [clj, cljs]
 
 jirazzz:
