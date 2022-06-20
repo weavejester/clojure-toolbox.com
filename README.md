@@ -6,7 +6,7 @@ This is the source code for <https://www.clojure-toolbox.com>.
 
 Project listing is stored in `projects.yml` in YAML format.
 
-Build the new index page with `./scripts/generate.rb`.
+Build the new index page with `./script/generate.rb`.
 
 Deploy with `./upload.sh` (if you have permissions to the S3 bucket).
 
