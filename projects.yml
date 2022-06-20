@@ -1261,7 +1261,13 @@ datascript:
 datalevin:
   name: Datalevin
   url: https://github.com/juji-io/datalevin
-  categories: [Databases]
+  categories: [Databases, Text Search]
+  platforms: [clj]
+
+symspell_clj:
+  name: symspell-clj
+  url: https://github.com/juji-io/symspell-clj
+  categories: [Text Search]
   platforms: [clj]
 
 jiraph:
