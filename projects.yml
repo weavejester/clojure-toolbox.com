@@ -1606,12 +1606,6 @@ aws_api:
   categories: [Amazon Web Services (AWS)]
   platforms: [clj]
 
-clj_aws_s3:
-  name: clj-aws-s3
-  url: https://github.com/weavejester/clj-aws-s3
-  categories: [Amazon Web Services (AWS)]
-  platforms: [clj]
-
 codox:
   name: Codox
   url: https://github.com/weavejester/codox
