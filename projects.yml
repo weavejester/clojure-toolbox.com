@@ -76,6 +76,18 @@ buddy:
   categories: [Authentication, Authorization, Cryptography, Hashing, Password Security]
   platforms: [clj]
 
+buddy_auth:
+  name: Buddy-Auth
+  url: https://github.com/funcool/buddy-auth
+  categories: [Authentication, Authorization]
+  platforms: [clj]
+
+buddy_sign:
+  name: Buddy-Sign
+  url: https://github.com/funcool/buddy-sign
+  categories: [Cryptography, Hashing, Password Security]
+  platforms: [clj]
+
 pocheshiro:
   name: Pocheshiro
   url: https://github.com/inventiLT/Pocheshiro
@@ -1249,7 +1261,13 @@ datascript:
 datalevin:
   name: Datalevin
   url: https://github.com/juji-io/datalevin
-  categories: [Databases]
+  categories: [Databases, Text Search]
+  platforms: [clj]
+
+symspell_clj:
+  name: symspell-clj
+  url: https://github.com/juji-io/symspell-clj
+  categories: [Text Search]
   platforms: [clj]
 
 jiraph:
@@ -1339,6 +1357,12 @@ slamhound:
 cheshire:
   name: Cheshire
   url: https://github.com/dakrone/cheshire
+  categories: [JSON Parsers]
+  platforms: [clj]
+
+charred:
+  name: Charred
+  url: https://github.com/cnuernber/charred
   categories: [JSON Parsers]
   platforms: [clj]
 
@@ -1585,12 +1609,6 @@ amazonica:
 aws_api:
   name: aws-api
   url: https://github.com/cognitect-labs/aws-api
-  categories: [Amazon Web Services (AWS)]
-  platforms: [clj]
-
-clj_aws_s3:
-  name: clj-aws-s3
-  url: https://github.com/weavejester/clj-aws-s3
   categories: [Amazon Web Services (AWS)]
   platforms: [clj]
 
@@ -4225,6 +4243,12 @@ pathom:
   categories: [Graphs]
   platforms: [clj,cljs]
 
+pathom3:
+  name: Pathom 3
+  url: https://github.com/wilkerlucio/pathom3
+  categories: [Graphs, EQL]
+  platforms: [clj,cljs]
+
 ubergraph:
   name: Ubergraph
   url: https://github.com/Engelberg/ubergraph
@@ -5465,4 +5489,340 @@ goose:
   name: Goose
   url: https://github.com/nilenso/goose
   categories: [Scheduling, Asynchronous Programming]
+  platforms: [clj]
+  
+mindra_clj:
+  name: mindra-clj
+  url: https://github.com/rorokimdim/mindra-clj
+  categories: [Graphics, Visualization]
+  platforms: [clj]
+
+ambly:
+  name: Ambly
+  url: https://github.com/mfikes/ambly
+  categories: [REPLs]
+  platforms: [cljs]
+
+pyramid:
+  name: Pyramid
+  url: https://github.com/lilactown/pyramid
+  categories: [Graphs, EQL]
+  platforms: [clj, cljs]
+
+asami:
+  name: Asami
+  url: https://github.com/quoll/asami
+  categories: [Graphs]
+  platforms: [clj, cljs]
+
+clj_docker_client:
+  name: clj-docker-client
+  url: https://github.com/into-docker/clj-docker-client
+  categories: [Docker Integration]
+  platforms: [clj]
+
+contajners:
+  name: contajners
+  url: https://github.com/lispyclouds/contajners
+  categories: [Docker Integration]
+  platforms: [clj]
+
+clj_statecharts:
+  name: clj-statecharts
+  url: https://github.com/lucywang000/clj-statecharts
+  categories: [State Machines]
+  platforms: [clj, cljs]
+
+statecharts:
+  name: statecharts
+  url: https://github.com/fulcrologic/statecharts
+  categories: [State Machines]
+  platforms: [clj, cljs]
+
+obb:
+  name: obb
+  url: https://github.com/babashka/obb
+  categories: [Scripting]
+  platforms: [cljs]
+
+scittle:
+  name: scittle
+  url: https://github.com/babashka/scittle
+  categories: [ClojureScript Development, Web Frameworks]
+  platforms: [cljs]
+
+uri:
+  name: uri
+  url: https://github.com/lambdaisland/uri
+  categories: [URI/URLs]
+  platforms: [clj, cljs]
+
+jirazzz:
+  name: jirazzz
+  url: https://github.com/rwstauner/jirazzz
+  categories: [Scripting]
+  platforms: [clj]
+
+bencode:
+  name: bencode
+  url: https://github.com/nrepl/bencode
+  categories: [Encoding/Decoding]
+  platforms: [clj]
+
+babashka_nrepl:
+  name: babashka.nrepl
+  url: https://github.com/babashka/babashka.nrepl
+  categories: [REPLs]
+  platforms: [clj]
+
+coffi:
+  name: coffi
+  url: https://github.com/IGJoshua/coffi
+  categories: [Foreign Function Interface]
+  platforms: [clj]
+
+antq:
+  name: Antq
+  url: https://github.com/liquidz/antq
+  categories: [Dependency Management]
+  platforms: [clj]
+
+pathom_viz:
+  name: Pathom Viz
+  url: https://github.com/wilkerlucio/pathom-viz
+  categories: [Graphs, EQL]
+  platforms: [clj]
+
+cascade:
+  name: cascade
+  url: https://github.com/lilactown/cascade
+  categories: [Asynchronous Programming]
+  platforms: [clj]
+
+cljs_bean:
+  name: CLJS Bean
+  url: https://github.com/mfikes/cljs-bean
+  categories: [Javascript Interop]
+  platforms: [clj]
+
+injest:
+  name: injest
+  url: https://github.com/johnmn3/injest
+  categories: [Syntax Extensions]
+  platforms: [clj]
+
+uclj:
+  name: uclj
+  url: https://github.com/erdos/uclj
+  categories: [Scripting]
+  platforms: [clj]
+
+martian:
+  name: Martian
+  url: https://github.com/oliyh/martian
+  categories: [HTTP Clients]
+  platforms: [clj, cljs]
+
+cljc_misc:
+  name: CLJC Misc
+  url: https://github.com/wilkerlucio/cljc-misc
+  categories: [Misc. Functions]
+  platforms: [clj, cljs]
+
+replikativ:
+  name: replikativ
+  url: https://github.com/replikativ/replikativ
+  categories: [Distributed Programming]
+  platforms: [clj, cljs]
+
+shadow_env:
+  name: shadow-env
+  url: https://github.com/mhuebert/shadow-env
+  categories: [Interactive Development]
+  platforms: [clj, cljs]
+
+nbb:
+  name: nbb
+  url: https://github.com/babashka/nbb
+  categories: [Scripting]
+  platforms: [cljs]
+
+dali:
+  name: dali
+  url: https://github.com/stathissideris/dali
+  categories: [SVG Generation]
+  platforms: [cljs]
+
+geom:
+  name: thi.ng/geom
+  url: https://github.com/thi-ng/geom
+  categories: [Math]
+  platforms: [clj, cljs]
+
+viscous:
+  name: Viscous
+  url: https://github.com/phronmophobic/viscous
+  categories: [Visualization, Pretty Printing]
+  platforms: [clj, cljs]
+
+scicloj_ml:
+  name: scicloj.ml
+  url: https://github.com/scicloj/scicloj.ml
+  categories: [Machine Learning]
+  platforms: [clj]
+
+daphne:
+  name: Daphne
+  url: https://github.com/plai-group/daphne
+  categories: [Machine Learning]
+  platforms: [clj]
+
+helix:
+  name: Helix
+  url: https://github.com/lilactown/helix
+  categories: [React Frameworks]
+  platforms: [cljs]
+
+deps_new:
+  name: deps-new
+  url: https://github.com/seancorfield/deps-new
+  categories: [tools.deps]
+  platforms: [clj]
+
+avclj:
+  name: avclj
+  url: https://github.com/cnuernber/avclj
+  categories: [Foreign Function Interface, Video]
+  platforms: [clj]
+
+datascript_transit:
+  name: datascript-transit
+  url: https://github.com/tonsky/datascript-transit
+  categories: [Encoding/Decoding]
+  platforms: [clj, cljs]
+
+nativity:
+  name: nativity
+  url: https://github.com/MnRA/nativity
+  categories: [Scripting]
+  platforms: [clj]
+
+headlessui_reagent:
+  name: headlessui-reagent
+  url: https://github.com/mainej/headlessui-reagent
+  categories: [React Interfaces]
+  platforms: [clj]
+
+trikl:
+  name: Trikl
+  url: https://github.com/lambdaisland/trikl
+  categories: [GUIs]
+  platforms: [clj]
+
+edamame:
+  name: Edamame
+  url: https://github.com/borkdude/edamame
+  categories: [edn, Parsing]
+  platforms: [clj, cljs]
+
+pure_frame:
+  name: pure-frame
+  url: https://github.com/binaryage/pure-frame
+  categories: [React Frameworks]
+  platforms: [cljs]
+
+freerange:
+  name: freerange
+  url: https://github.com/nextjournal/freerange
+  categories: [React Frameworks]
+  platforms: [cljs]
+
+liquid:
+  name: liquid
+  url: https://github.com/mogenslund/liquid
+  categories: [Code Editors]
+  platforms: [clj]
+
+nextjournal_clojure_mode:
+  name: clojure-mode
+  url: https://github.com/nextjournal/clojure-mode
+  categories: [Code Editors]
+  platforms: [cljs]
+
+reclur:
+  name: reclur
+  url: https://github.com/kjkostlan/reclur
+  categories: [Code Editors]
+  platforms: [clj]
+
+calcit_editor:
+  name: Calcit Code Editors
+  url: https://github.com/Cirru/calcit-editor
+  categories: [Code Editors]
+  platforms: [clj, cljs]
+
+clooj:
+  name: clooj
+  url: https://github.com/arthuredelstein/clooj
+  categories: [Code Editors]
+  platforms: [clj]
+
+betterCode:
+  name: BetterCode
+  url: https://github.com/vision-05/betterCode
+  categories: [Code Editors]
+  platforms: [clj]
+
+skija:
+  name: Skija
+  url: https://github.com/HumbleUI/Skija
+  categories: [Graphics, GUIs]
+  platforms: [clj]
+
+lezer_clojure:
+  name: lezer-clojure
+  url: https://github.com/lezer-parser/clojure
+  categories: [edn, Parsing]
+  platforms: [clj]
+
+org_parser:
+  name: org-parser
+  url: https://github.com/200ok-ch/org-parser
+  categories: [Org Parsers]
+  platforms: [clj, cljs]
+
+debux:
+  name: debux
+  url: https://github.com/philoskim/debux
+  categories: [Debugging]
+  platforms: [clj, cljs]
+
+clj_watson:
+  name: clj-watson
+  url: https://github.com/clj-holmes/clj-watson
+  categories: [Vulnerability Checking]
+  platforms: [clj]
+
+workspaces:
+  name: workspaces
+  url: https://github.com/nubank/workspaces
+  categories: [ClojureScript Development]
+  platforms: [cljs]
+
+grape:
+  name: Grape
+  url: https://github.com/bfontaine/grape
+  categories: [edn, Parsing]
+  platforms: [clj]
+
+grasp:
+  name: grasp
+  url: https://github.com/borkdude/grasp
+  categories: [edn, Parsing]
+  platforms: [clj]
+
+babashka_fs:
+  name: babashka.fs
+  url: https://github.com/babashka/fs
+  categories: [Scripting, Filesystem Utilities]
   platforms: [clj]
