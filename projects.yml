@@ -5485,6 +5485,12 @@ rewrite_clj:
   categories: [Data Transformation, Code Analysis]
   platforms: [clj, cljs]
 
+goose:
+  name: Goose
+  url: https://github.com/nilenso/goose
+  categories: [Scheduling, Asynchronous Programming]
+  platforms: [clj]
+  
 mindra_clj:
   name: mindra-clj
   url: https://github.com/rorokimdim/mindra-clj
