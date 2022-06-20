@@ -5485,6 +5485,12 @@ rewrite_clj:
   categories: [Data Transformation, Code Analysis]
   platforms: [clj, cljs]
 
+mindra_clj:
+  name: mindra-clj
+  url: https://github.com/rorokimdim/mindra-clj
+  categories: [Graphics, Visualization]
+  platforms: [clj]
+
 ambly:
   name: Ambly
   url: https://github.com/mfikes/ambly
