@@ -5578,7 +5578,7 @@ babashka_nrepl:
 coffi:
   name: coffi
   url: https://github.com/IGJoshua/coffi
-  categories: [Foreign Function Interface]
+  categories: [Foreign Function Interface (FFI)]
   platforms: [clj]
 
 antq:
@@ -5692,7 +5692,7 @@ deps_new:
 avclj:
   name: avclj
   url: https://github.com/cnuernber/avclj
-  categories: [Foreign Function Interface, Video]
+  categories: [Foreign Function Interface (FFI), Video]
   platforms: [clj]
 
 datascript_transit:
