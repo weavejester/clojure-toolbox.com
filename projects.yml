@@ -5821,6 +5821,12 @@ babashka_fs:
   categories: [Scripting, Filesystem Utilities]
   platforms: [clj]
 
+crispin:
+  name: Crispin
+  url: https://github.com/dunaj-project/crispin
+  categories: [Logging]
+  platforms: [clj]
+
 integrant_async:
   name: integrant-async
   url: https://github.com/strojure/integrant-async
