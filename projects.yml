@@ -5820,3 +5820,51 @@ babashka_fs:
   url: https://github.com/babashka/fs
   categories: [Scripting, Filesystem Utilities]
   platforms: [clj]
+
+integrant_async:
+  name: integrant-async
+  url: https://github.com/strojure/integrant-async
+  categories: [Application Frameworks]
+  platforms: [clj]
+
+fitter:
+  name: fitter
+  url: https://github.com/strojure/fitter
+  categories: [Application Frameworks]
+  platforms: [clj]
+
+caffeine_memoize:
+  name: caffeine-memoize
+  url: https://github.com/strojure/caffeine-memoize
+  categories: [Caching]
+  platforms: [clj]
+
+memoize_one:
+  name: memoize-one
+  url: https://github.com/strojure/memoize-one
+  categories: [Caching]
+  platforms: [clj]
+
+slf4j_mdc:
+  name: slf4j-mdc
+  url: https://github.com/strojure/slf4j-mdc
+  categories: [Logging]
+  platforms: [clj]
+
+ansi_escape:
+  name: ansi-escape
+  url: https://github.com/strojure/ansi-escape
+  categories: [Terminal Utilities]
+  platforms: [clj]
+
+jmustache:
+  name: jmustache
+  url: https://github.com/strojure/jmustache
+  categories: [Template Languages, Mustache Syntax]
+  platforms: [clj]
+
+vectops:
+  name: vectops
+  url: https://github.com/strojure/vectops
+  categories: [Data Transformation]
+  platforms: [clj, cljs]
