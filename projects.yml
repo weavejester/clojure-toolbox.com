@@ -5874,3 +5874,15 @@ vectops:
   url: https://github.com/strojure/vectops
   categories: [Data Transformation]
   platforms: [clj, cljs]
+
+lein-uber-shade:
+  name: lein-uber-shade
+  url: https://github.com/obohrer/lein-uber-shade
+  categories: [Build Tools, Dependency Management]
+  platforms: [clj]
+  
+shade:
+  name: shade
+  url: https://github.com/haines/shade
+  categories: [Build Tools, Dependency Management]
+  platforms: [clj]
