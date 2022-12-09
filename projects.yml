@@ -5886,3 +5886,9 @@ shade:
   url: https://github.com/haines/shade
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
+
+JSXGraph:
+  name: JSXGraph
+  url: https://github.com/mentat-collective/jsxgraph.cljs
+  categories: [Math, Visualization]
+  platforms: [cljs]
