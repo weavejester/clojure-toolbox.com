@@ -1792,12 +1792,6 @@ welle:
   categories: [Riak Clients]
   platforms: [clj]
 
-quartzite:
-  name: Quartzite
-  url: http://clojurequartz.info/
-  categories: [Scheduling]
-  platforms: [clj]
-
 spyglass:
   name: Spyglass
   url: https://github.com/clojurewerkz/spyglass
