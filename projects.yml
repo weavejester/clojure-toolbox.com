@@ -5886,3 +5886,9 @@ shade:
   url: https://github.com/haines/shade
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
+
+staticly:
+  name: Staticly
+  url: https://github.com/defsquare/staticly
+  categories: [Static Site Generation]
+  platforms: [clj]
