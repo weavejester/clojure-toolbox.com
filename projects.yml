@@ -5886,3 +5886,9 @@ shade:
   url: https://github.com/haines/shade
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
+
+malapropism:
+  name: malapropism
+  url: https://github.com/dpassen/malapropism
+  categories: [Configuration]
+  platforms: [clj]
