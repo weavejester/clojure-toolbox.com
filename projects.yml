@@ -5892,3 +5892,9 @@ JSXGraph:
   url: https://github.com/mentat-collective/jsxgraph.cljs
   categories: [Math, Visualization]
   platforms: [cljs]
+
+malapropism:
+  name: malapropism
+  url: https://github.com/dpassen/malapropism
+  categories: [Configuration]
+  platforms: [clj]
