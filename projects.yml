@@ -5887,6 +5887,12 @@ shade:
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
 
+staticly:
+  name: Staticly
+  url: https://github.com/defsquare/staticly
+  categories: [Static Site Generation]
+  platforms: [clj]
+
 JSXGraph:
   name: JSXGraph
   url: https://github.com/mentat-collective/jsxgraph.cljs
