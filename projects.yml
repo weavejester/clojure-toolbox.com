@@ -1794,7 +1794,7 @@ welle:
 
 quartzite:
   name: Quartzite
-  url: http://clojurequartz.info/
+  url: https://github.com/michaelklishin/quartzite
   categories: [Scheduling]
   platforms: [clj]
 
