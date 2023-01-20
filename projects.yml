@@ -5239,6 +5239,12 @@ datasplash:
   categories: [Google Dataflow]
   platforms: [clj]
 
+thurber:
+  name: Thurber
+  url: https://github.com/atdixon/thurber
+  categories: [Google Dataflow]
+  platforms: [clj]
+
 missing:
   name: Missing
   url: https://github.com/vodori/missing
