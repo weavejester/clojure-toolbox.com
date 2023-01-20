@@ -1510,6 +1510,12 @@ slingshot:
   categories: [Exception Handling]
   platforms: [clj]
 
+ex:
+  name: Ex
+  url: https://github.com/exoscale/ex
+  categories: [Exception Handling]
+  platforms: [clj]
+
 clojurebot:
   name: clojurebot
   url: https://github.com/hiredman/clojurebot
