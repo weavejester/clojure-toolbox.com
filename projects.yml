@@ -244,6 +244,12 @@ spy:
   categories: [Unit Testing, Mocking]
   platforms: [clj, cljs]
 
+bond:
+  name: Bond
+  url: https://github.com/circleci/bond
+  categories: [Unit Testing, Mocking]
+  platforms: [clj]
+
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
