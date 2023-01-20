@@ -1135,7 +1135,7 @@ clj_time:
 java_time:
   name: java-time
   url: https://github.com/dm3/clojure.java-time
-  categories:  [Date and Time]
+  categories: [Date and Time]
   platforms: [clj]
 
 clojure_joda_time:
@@ -3258,7 +3258,7 @@ nginx_clojure:
 
 cryogen:
   name: Cryogen
-  url : https://github.com/lacarmen/cryogen
+  url: https://github.com/lacarmen/cryogen
   categories: [Static Site Generation]
   platforms: [clj]
 
@@ -4241,13 +4241,13 @@ pathom:
   name: Pathom
   url: https://github.com/wilkerlucio/pathom/
   categories: [Graphs]
-  platforms: [clj,cljs]
+  platforms: [clj, cljs]
 
 pathom3:
   name: Pathom 3
   url: https://github.com/wilkerlucio/pathom3
   categories: [Graphs, EQL]
-  platforms: [clj,cljs]
+  platforms: [clj, cljs]
 
 ubergraph:
   name: Ubergraph
@@ -5484,7 +5484,7 @@ goose:
   url: https://github.com/nilenso/goose
   categories: [Scheduling, Asynchronous Programming]
   platforms: [clj]
-  
+
 mindra_clj:
   name: mindra-clj
   url: https://github.com/rorokimdim/mindra-clj
@@ -5880,7 +5880,7 @@ lein-uber-shade:
   url: https://github.com/obohrer/lein-uber-shade
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
-  
+
 shade:
   name: shade
   url: https://github.com/haines/shade
