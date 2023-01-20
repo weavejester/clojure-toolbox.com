@@ -4717,6 +4717,12 @@ tools_gitlibs:
   categories: [Git]
   platforms: [clj]
 
+tools_build:
+  name: tools.build
+  url: https://github.com/clojure/tools.build
+  categories: [Build Tools, tools.deps]
+  platforms: [clj]
+
 joker:
   name: Joker
   url: https://github.com/candid82/joker
