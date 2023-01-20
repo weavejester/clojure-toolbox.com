@@ -1363,7 +1363,7 @@ cheshire:
 charred:
   name: Charred
   url: https://github.com/cnuernber/charred
-  categories: [JSON Parsers]
+  categories: [JSON Parsers, CSV Parsers]
   platforms: [clj]
 
 faker:
