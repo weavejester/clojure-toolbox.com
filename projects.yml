@@ -1906,6 +1906,12 @@ immutable_int_map:
   categories: [Data Structures, Performance]
   platforms: [clj]
 
+bifurcan:
+  name: bifurcan
+  url: https://github.com/lacuna/bifurcan
+  categories: [Data Structures, Performance]
+  platforms: [clj]
+
 cause:
   name: Cause
   url: https://github.com/smothers/cause
