@@ -1906,12 +1906,6 @@ immutable_int_map:
   categories: [Data Structures, Performance]
   platforms: [clj]
 
-immutable_bitset:
-  name: immutable-bitset
-  url: https://github.com/ztellman/immutable-bitset
-  categories: [Data Structures, Performance]
-  platforms: [clj]
-
 cause:
   name: Cause
   url: https://github.com/smothers/cause
