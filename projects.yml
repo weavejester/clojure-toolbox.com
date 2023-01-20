@@ -4111,6 +4111,12 @@ hashids:
   categories: [ID Generators]
   platforms: [clj]
 
+clj_ulid:
+  name: clj-ulid
+  url: https://github.com/theikkila/clj-ulid
+  categories: [ID Generators]
+  platforms: [clj]
+
 pulley_cps:
   name: pulley.cps
   url: https://github.com/positronic-solutions/pulley.cps
