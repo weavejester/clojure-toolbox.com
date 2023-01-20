@@ -5413,7 +5413,7 @@ keycloak_clojure:
   categories: [Authentication, Authorization]
   platforms: [clj]
 
-conjure:
+conjure_nvim:
   name: Conjure
   url: https://github.com/Olical/conjure
   categories: [Vim Integration]
