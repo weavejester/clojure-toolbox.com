@@ -244,6 +244,12 @@ spy:
   categories: [Unit Testing, Mocking]
   platforms: [clj, cljs]
 
+bond:
+  name: Bond
+  url: https://github.com/circleci/bond
+  categories: [Unit Testing, Mocking]
+  platforms: [clj]
+
 talltale:
   name: Talltale
   url: https://github.com/jgrodziski/talltale
@@ -1135,7 +1141,7 @@ clj_time:
 java_time:
   name: java-time
   url: https://github.com/dm3/clojure.java-time
-  categories:  [Date and Time]
+  categories: [Date and Time]
   platforms: [clj]
 
 clojure_joda_time:
@@ -1363,7 +1369,7 @@ cheshire:
 charred:
   name: Charred
   url: https://github.com/cnuernber/charred
-  categories: [JSON Parsers]
+  categories: [JSON Parsers, CSV Parsers]
   platforms: [clj]
 
 faker:
@@ -1507,6 +1513,12 @@ korma:
 slingshot:
   name: Slingshot
   url: https://github.com/scgilardi/slingshot
+  categories: [Exception Handling]
+  platforms: [clj]
+
+ex:
+  name: Ex
+  url: https://github.com/exoscale/ex
   categories: [Exception Handling]
   platforms: [clj]
 
@@ -1906,9 +1918,9 @@ immutable_int_map:
   categories: [Data Structures, Performance]
   platforms: [clj]
 
-immutable_bitset:
-  name: immutable-bitset
-  url: https://github.com/ztellman/immutable-bitset
+bifurcan:
+  name: bifurcan
+  url: https://github.com/lacuna/bifurcan
   categories: [Data Structures, Performance]
   platforms: [clj]
 
@@ -3258,7 +3270,7 @@ nginx_clojure:
 
 cryogen:
   name: Cryogen
-  url : https://github.com/lacarmen/cryogen
+  url: https://github.com/lacarmen/cryogen
   categories: [Static Site Generation]
   platforms: [clj]
 
@@ -4099,6 +4111,12 @@ hashids:
   categories: [ID Generators]
   platforms: [clj]
 
+clj_ulid:
+  name: clj-ulid
+  url: https://github.com/theikkila/clj-ulid
+  categories: [ID Generators]
+  platforms: [clj]
+
 pulley_cps:
   name: pulley.cps
   url: https://github.com/positronic-solutions/pulley.cps
@@ -4241,13 +4259,13 @@ pathom:
   name: Pathom
   url: https://github.com/wilkerlucio/pathom/
   categories: [Graphs]
-  platforms: [clj,cljs]
+  platforms: [clj, cljs]
 
 pathom3:
   name: Pathom 3
   url: https://github.com/wilkerlucio/pathom3
   categories: [Graphs, EQL]
-  platforms: [clj,cljs]
+  platforms: [clj, cljs]
 
 ubergraph:
   name: Ubergraph
@@ -4721,6 +4739,12 @@ tools_gitlibs:
   name: tools.gitlibs
   url: https://github.com/clojure/tools.gitlibs
   categories: [Git]
+  platforms: [clj]
+
+tools_build:
+  name: tools.build
+  url: https://github.com/clojure/tools.build
+  categories: [Build Tools, tools.deps]
   platforms: [clj]
 
 joker:
@@ -5245,6 +5269,12 @@ datasplash:
   categories: [Google Dataflow]
   platforms: [clj]
 
+thurber:
+  name: Thurber
+  url: https://github.com/atdixon/thurber
+  categories: [Google Dataflow]
+  platforms: [clj]
+
 missing:
   name: Missing
   url: https://github.com/vodori/missing
@@ -5413,7 +5443,7 @@ keycloak_clojure:
   categories: [Authentication, Authorization]
   platforms: [clj]
 
-conjure:
+conjure_nvim:
   name: Conjure
   url: https://github.com/Olical/conjure
   categories: [Vim Integration]
@@ -5484,7 +5514,7 @@ goose:
   url: https://github.com/nilenso/goose
   categories: [Scheduling, Asynchronous Programming]
   platforms: [clj]
-  
+
 mindra_clj:
   name: mindra-clj
   url: https://github.com/rorokimdim/mindra-clj
@@ -5880,7 +5910,7 @@ lein-uber-shade:
   url: https://github.com/obohrer/lein-uber-shade
   categories: [Build Tools, Dependency Management]
   platforms: [clj]
-  
+
 shade:
   name: shade
   url: https://github.com/haines/shade
