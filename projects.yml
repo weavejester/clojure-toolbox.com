@@ -646,12 +646,6 @@ clj_stacktrace:
   categories: [Exception Handling]
   platforms: [clj]
 
-redis_clojure:
-  name: redis-clojure
-  url: https://github.com/tavisrudd/redis-clojure
-  categories: [Redis Clients]
-  platforms: [clj]
-
 clj_redis:
   name: clj-redis
   url: https://github.com/mmcgrana/clj-redis
