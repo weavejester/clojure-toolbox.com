@@ -2404,6 +2404,12 @@ carbonite:
   categories: [Data Serialization]
   platforms: [clj]
 
+clojure_msgpack:
+  name: clojure-msgpack
+  url: https://github.com/edma2/clojure-msgpack
+  categories: [Data Serialization]
+  platforms: [clj]
+
 deep_freeze:
   name: Deep Freeze
   url: https://github.com/halgari/deep-freeze
