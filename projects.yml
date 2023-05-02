@@ -484,6 +484,12 @@ karras:
   categories: [MongoDB Clients]
   platforms: [clj]
 
+cmql:
+  name: cMQL
+  url: https://cmql.org/documentation/
+  categories: [MongoDB Clients]
+  platforms: [clj]
+
 fleet:
   name: Fleet
   url: https://github.com/Flamefork/fleet
