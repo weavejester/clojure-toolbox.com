@@ -958,6 +958,12 @@ cider:
   categories: [Emacs Integration]
   platforms: [clj, cljs]
 
+monroe:
+  name: Monroe
+  url: https://github.com/sanel/monroe
+  categories: [Emacs Integration]
+  platforms: [clj]
+
 clojure_mode:
   name: Clojure Mode
   url: https://github.com/clojure-emacs/clojure-mode
