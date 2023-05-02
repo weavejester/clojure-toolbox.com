@@ -1186,12 +1186,6 @@ debug_repl:
   categories: [Debugging]
   platforms: [clj]
 
-lein_cdt:
-  name: lein-cdt
-  url: https://github.com/travis/lein-cdt
-  categories: [Debugging, Leiningen Plugins]
-  platforms: [clj]
-
 dr_evil:
   name: Dr. Evil
   url: https://github.com/tebeka/dr-evil
