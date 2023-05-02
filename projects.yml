@@ -5946,3 +5946,9 @@ discljord:
   url: https://github.com/discljord/discljord
   categories: [Discord Integration]
   platforms: [clj]
+
+convex_cljc:
+  name: convex.cljc
+  url: https://github.com/Convex-Dev/convex.cljc
+  categories: [Blockchain]
+  platforms: [clj]
