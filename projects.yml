@@ -952,12 +952,6 @@ lein_js:
   categories: [Javascript Minimization, Leiningen Plugins]
   platforms: [clj]
 
-swank_clojure:
-  name: swank-clojure
-  url: https://github.com/technomancy/swank-clojure
-  categories: [Emacs Integration]
-  platforms: [clj]
-
 cider:
   name: CIDER
   url: https://github.com/clojure-emacs/cider
