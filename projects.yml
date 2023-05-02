@@ -5940,3 +5940,9 @@ greenlight:
   url: https://github.com/amperity/greenlight
   categories: [Integration Testing]
   platforms: [clj]
+
+discljord:
+  name: Discljord
+  url: https://github.com/discljord/discljord
+  categories: [Discord Integration]
+  platforms: [clj]
