@@ -5928,3 +5928,9 @@ malapropism:
   url: https://github.com/dpassen/malapropism
   categories: [Configuration]
   platforms: [clj]
+
+greenlight:
+  name: Greenlight
+  url: https://github.com/amperity/greenlight
+  categories: [Integration Testing]
+  platforms: [clj]
