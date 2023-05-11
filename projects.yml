@@ -2188,12 +2188,6 @@ datomic:
   categories: [Databases]
   platforms: [clj]
 
-clojure_jdbc:
-  name: clojure.jdbc (unofficial)
-  url: https://github.com/funcool/clojure.jdbc
-  categories: [SQL Clients]
-  platforms: [clj]
-
 suricatta:
   name: suricatta
   url: https://github.com/funcool/suricatta
