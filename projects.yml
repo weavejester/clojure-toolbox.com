@@ -310,6 +310,12 @@ ring_mongrel2_adapter:
   categories: [Ring Adapters]
   platforms: [clj]
 
+ring_jetty9_adapter:
+  name: ring-jetty9-adapter
+  url: https://github.com/sunng87/ring-jetty9-adapter
+  categories: [Ring Adapters]
+  platforms: [clj]
+
 rrss:
   name: RRSS
   url: https://github.com/paraseba/rrss
