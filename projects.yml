@@ -5927,7 +5927,7 @@ babashka_fs:
 crispin:
   name: Crispin
   url: https://github.com/dunaj-project/crispin
-  categories: [Logging]
+  categories: [Configuration]
   platforms: [clj]
 
 integrant_async:
