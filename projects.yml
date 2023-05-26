@@ -6025,3 +6025,66 @@ convex_cljc:
   url: https://github.com/Convex-Dev/convex.cljc
   categories: [Blockchain]
   platforms: [clj]
+
+cloverage:
+  name: cloverage
+  url: https://github.com/cloverage/cloverage
+  categories: [Code Coverage, Test Runners]
+  platforms: [clj]
+  description: Clojure test coverage tool
+
+test_generative:
+  name: test.generative
+  url: https://github.com/clojure/test.generative/
+  categories: [Test Runners, Random Data Generation]
+  platforms: [clj]
+  description: Generative test runner
+
+clj-ssh:
+  name: clj-ssh
+  url: https://github.com/clj-commons/clj-ssh
+  categories: [SSH, Shell]
+  platforms: [clj]
+  description: SSH in Clojure using jsch
+
+metrics_clojure:
+  name: metrics-clojure
+  url: https://github.com/metrics-clojure/metrics-clojure
+  categories: [Metrics]
+  platforms: [clj]
+  description: Clojure wrapper for Coda Hale's Metrics library
+
+clj_statsd:
+  name: clj-statsd
+  url: https://github.com/pyr/clj-statsd
+  categories: [Metrics]
+  platforms: [clj]
+  description: Clojure client for statsd
+
+riemann:
+  name: riemann
+  url: https://riemann.io/
+  categories: [Metrics, Monitoring]
+  platforms: [clj]
+  description: A network event stream processing system, in Clojure
+
+reply:
+  name: REPL-y
+  url: https://github.com/trptcolin/reply
+  categories: [REPLs, Terminal Utilities]
+  platforms: [clj]
+  description: A fitter, happier, more productive REPL for Clojure
+
+math_combinatorics:
+  name: math.combinatorics
+  url: https://github.com/clojure/math.combinatorics
+  categories: [Math]
+  platforms: [clj, cljs]
+  description: A library for generating combinations and permutations
+
+java_jmx:
+  name: java.jmx
+  url: https://github.com/clojure/java.jmx
+  categories: [Java Integration]
+  platforms: [clj]
+  description: Clojure wrapper for Java Management Extensions (JMX)
