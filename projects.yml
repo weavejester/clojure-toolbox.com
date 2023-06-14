@@ -1,3 +1,9 @@
+kit:
+  name: Kit
+  url: https://kit-clj.github.io/
+  categories: [Application Frameworks]
+  platforms: [clj]
+
 ez-wire:
   name: ez-wire
   url: https://github.com/emil0r/ez-wire
