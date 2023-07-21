@@ -6101,3 +6101,9 @@ deps_try:
   categories: [tools.deps, REPLs]
   platforms: [clj]
   description: Quickly try out Clojure libraries via rebel-readline
+
+biff:
+  name: Biff
+  url: https://biffweb.com/
+  categories: [Web Frameworks]
+  platforms: [clj]
