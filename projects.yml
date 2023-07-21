@@ -6088,3 +6088,9 @@ java_jmx:
   categories: [Java Integration]
   platforms: [clj]
   description: Clojure wrapper for Java Management Extensions (JMX)
+
+biff:
+  name: Biff
+  url: https://biffweb.com/
+  categories: [Web Frameworks]
+  platforms: [clj]
