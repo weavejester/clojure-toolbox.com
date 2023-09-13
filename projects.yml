@@ -6094,3 +6094,10 @@ java_jmx:
   categories: [Java Integration]
   platforms: [clj]
   description: Clojure wrapper for Java Management Extensions (JMX)
+
+deps_try:
+  name: deps-try
+  url: https://github.com/eval/deps-try
+  categories: [tools.deps, REPLs]
+  platforms: [clj]
+  description: Quickly try out Clojure libraries via rebel-readline
