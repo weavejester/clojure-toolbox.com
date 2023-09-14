@@ -1,3 +1,9 @@
+kit:
+  name: Kit
+  url: https://kit-clj.github.io/
+  categories: [Application Frameworks]
+  platforms: [clj]
+
 ez-wire:
   name: ez-wire
   url: https://github.com/emil0r/ez-wire
@@ -6109,3 +6115,10 @@ realize:
   categories: [Data Coercion, Data Structures]
   platforms: [clj, cljs]
   description: A library to realize Clojure data structures; no more laziness
+
+deps_try:
+  name: deps-try
+  url: https://github.com/eval/deps-try
+  categories: [tools.deps, REPLs]
+  platforms: [clj]
+  description: Quickly try out Clojure libraries via rebel-readline
