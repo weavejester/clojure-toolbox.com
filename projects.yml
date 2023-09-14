@@ -6090,7 +6090,7 @@ java_jmx:
   description: Clojure wrapper for Java Management Extensions (JMX)
 
 test-with-files:
-  name: test-with-files
+  name: test_with_files
   url: https://github.com/magnars/test-with-files
   categories: [Mocking, Unit Testing]
   platforms: [clj]
