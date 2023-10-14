@@ -2549,7 +2549,7 @@ clj_loga:
 tufte:
   name: Tufte
   url: https://github.com/ptaoussanis/tufte
-  categories: [Benchmarking]
+  categories: [Benchmarking, Profiling]
   platforms: [clj, cljs]
 
 tempura:
@@ -5249,7 +5249,7 @@ clojurephant:
 clj_async_profiler:
   name: clj-async-profiler
   url: https://github.com/clojure-goes-fast/clj-async-profiler
-  categories: [Benchmarking]
+  categories: [Benchmarking, Profiling]
   platforms: [clj]
 
 stencil_core:
