@@ -1270,7 +1270,7 @@ mate_clj:
 flow_storm_debugger:
   name: Flow-storm debugger
   url: https://github.com/jpmonettas/flow-storm-debugger
-  categories: [Debugging]
+  categories: [Debugging, Tracing]
   platforms: [clj, cljs]
 
 omni_trace:
@@ -6101,3 +6101,17 @@ deps_try:
   categories: [tools.deps, REPLs]
   platforms: [clj]
   description: Quickly try out Clojure libraries via rebel-readline
+
+playback:
+  name: playback
+  url: https://github.com/gnl/playback
+  categories: [Debugging, Tracing]
+  platforms: [clj, cljs]
+  description: Easier-than-print dataflow tracing to tap> and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data
+
+build_simple:
+  name: build.simple
+  url: https://github.com/gnl/build.simple
+  categories: [tools.deps]
+  platforms: [clj]
+  description: tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen
