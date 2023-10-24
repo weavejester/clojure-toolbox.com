@@ -6101,3 +6101,10 @@ deps_try:
   categories: [tools.deps, REPLs]
   platforms: [clj]
   description: Quickly try out Clojure libraries via rebel-readline
+
+snitch:
+  name: snitch
+  url: https://github.com/AbhinavOmprakash/snitch
+  categories: [Debugging]
+  platforms: [clj, cljs]
+  description: Snitch injects inline defs in your functions and multimethods, enabling a REPL-based debugging workflow
