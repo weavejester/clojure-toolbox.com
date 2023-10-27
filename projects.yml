@@ -6095,6 +6095,27 @@ java_jmx:
   platforms: [clj]
   description: Clojure wrapper for Java Management Extensions (JMX)
 
+test_with_files:
+  name: test-with-files
+  url: https://github.com/magnars/test-with-files
+  categories: [Mocking, Unit Testing]
+  platforms: [clj]
+  description: A Clojure library to easily write tests with files
+
+confair:
+  name: Confair
+  url: https://github.com/magnars/confair
+  categories: [Configuration]
+  platforms: [clj]
+  description: A novel configuration/secret encryption library for Clojure
+
+realize:
+  name: Realize
+  url: https://github.com/magnars/realize
+  categories: [Data Coercion, Data Structures]
+  platforms: [clj, cljs]
+  description: A library to realize Clojure data structures; no more laziness
+
 deps_try:
   name: deps-try
   url: https://github.com/eval/deps-try
