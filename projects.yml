@@ -1270,7 +1270,7 @@ mate_clj:
 flow_storm_debugger:
   name: Flow-storm debugger
   url: https://github.com/jpmonettas/flow-storm-debugger
-  categories: [Debugging]
+  categories: [Debugging, Tracing]
   platforms: [clj, cljs]
 
 omni_trace:
@@ -2549,7 +2549,7 @@ clj_loga:
 tufte:
   name: Tufte
   url: https://github.com/ptaoussanis/tufte
-  categories: [Benchmarking]
+  categories: [Benchmarking, Profiling]
   platforms: [clj, cljs]
 
 tempura:
@@ -5249,7 +5249,7 @@ clojurephant:
 clj_async_profiler:
   name: clj-async-profiler
   url: https://github.com/clojure-goes-fast/clj-async-profiler
-  categories: [Benchmarking]
+  categories: [Benchmarking, Profiling]
   platforms: [clj]
 
 stencil_core:
@@ -6095,6 +6095,27 @@ java_jmx:
   platforms: [clj]
   description: Clojure wrapper for Java Management Extensions (JMX)
 
+test_with_files:
+  name: test-with-files
+  url: https://github.com/magnars/test-with-files
+  categories: [Mocking, Unit Testing]
+  platforms: [clj]
+  description: A Clojure library to easily write tests with files
+
+confair:
+  name: Confair
+  url: https://github.com/magnars/confair
+  categories: [Configuration]
+  platforms: [clj]
+  description: A novel configuration/secret encryption library for Clojure
+
+realize:
+  name: Realize
+  url: https://github.com/magnars/realize
+  categories: [Data Coercion, Data Structures]
+  platforms: [clj, cljs]
+  description: A library to realize Clojure data structures; no more laziness
+
 deps_try:
   name: deps-try
   url: https://github.com/eval/deps-try
@@ -6108,3 +6129,23 @@ snitch:
   categories: [Debugging]
   platforms: [clj, cljs]
   description: Snitch injects inline defs in your functions and multimethods, enabling a REPL-based debugging workflow
+
+playback:
+  name: playback
+  url: https://github.com/gnl/playback
+  categories: [Debugging, Tracing]
+  platforms: [clj, cljs]
+  description: Easier-than-print dataflow tracing to tap> and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data
+
+build_simple:
+  name: build.simple
+  url: https://github.com/gnl/build.simple
+  categories: [tools.deps]
+  platforms: [clj]
+  description: tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen
+
+biff:
+  name: Biff
+  url: https://biffweb.com/
+  categories: [Web Frameworks]
+  platforms: [clj]
