@@ -6123,6 +6123,13 @@ deps_try:
   platforms: [clj]
   description: Quickly try out Clojure libraries via rebel-readline
 
+uix2:
+  name: uix2
+  url: https://github.com/pitch-io/uix
+  categories: [React Interfaces, Hiccup Syntax]
+  platforms: [cljs]
+  description: A simple ClojureScript interface to React.
+
 snitch:
   name: snitch
   url: https://github.com/AbhinavOmprakash/snitch
