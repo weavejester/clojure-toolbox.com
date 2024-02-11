@@ -5051,8 +5051,9 @@ ghostwheel:
 guardrails:
   name: Guardrails
   url: https://github.com/fulcrologic/guardrails
-  categories: [Spec, Dynamic Typing]
+  categories: [Spec, Dynamic Typing, Syntax Extensions, Validation, Schema]
   platforms: [clj, cljs]
+  description: Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli
 
 spectrum:
   name: Spectrum
@@ -6140,7 +6141,7 @@ snitch:
 playback:
   name: Playback
   url: https://github.com/gnl/playback
-  categories: [Debugging, Tracing]
+  categories: [Debugging, Tracing, Interactive Development]
   platforms: [clj, cljs]
   description: Easier-than-print dataflow tracing to tap> and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data
 
