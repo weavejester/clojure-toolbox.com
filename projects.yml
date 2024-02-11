@@ -6156,3 +6156,17 @@ biff:
   url: https://biffweb.com/
   categories: [Web Frameworks]
   platforms: [clj]
+
+protojure:
+  name: Protojure
+  url: https://protojure.readthedocs.io
+  categories: [Data Serialization, RPC]
+  platforms: [clj]
+  description: Native Clojure support for Google Protocol Buffers and GRPC
+
+temporal_clojure_sdk:
+  name: Temporal SDK
+  url: https://cljdoc.org/d/io.github.manetu/temporal-sdk
+  categories: [Application Frameworks, Retrying Failures, Workflow Engines]
+  platforms: [clj]
+  description: A framework for authoring Temporal Workflows and Activities in Clojure
