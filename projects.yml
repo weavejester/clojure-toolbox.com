@@ -4478,6 +4478,12 @@ ziggurat:
   categories: [Kafka Clients]
   platforms: [clj]
 
+clj_alpakka_kafka:
+  name: clj-alpakka-kafka
+  url: https://github.com/fr33m0nk/clj-alpakka-kafka
+  categories: [Kafka Clients]
+  platforms: [clj]
+
 relational_mapper:
   name: Relational Mapper
   url: https://github.com/netizer/relational_mapper
