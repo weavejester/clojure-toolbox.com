@@ -1448,7 +1448,7 @@ cambium:
   name: Cambium
   url: https://cambium-clojure.github.io/
   categories: [Logging]
-  platforms: [clj, cljs]
+  platforms: [clj]
 
 ring_logger:
   name: Ring-logger
