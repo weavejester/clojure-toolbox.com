@@ -3315,6 +3315,12 @@ core_typed:
   categories: [Static Typing, Syntax Extensions]
   platforms: [clj]
 
+typedclojure:
+  name: typedclojure
+  url: https://github.com/typedclojure/typedclojure
+  categories: [Static Typing, Syntax Extensions]
+  platforms: [clj, cljs]
+
 schema:
   name: Schema
   url: https://github.com/plumatic/schema
