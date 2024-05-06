@@ -620,7 +620,7 @@ http_kit:
   url: https://github.com/http-kit/http-kit
   categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients, Websockets]
   platforms: [clj]
-  description: High-performance event-driven HTTP client/server for Clojure
+  description: Simple, high-performance event-driven HTTP client+server for Clojure
 
 catacumba:
   name: Catacumba
@@ -2478,7 +2478,7 @@ deep_freeze:
 
 nippy:
   name: Nippy
-  url: https://github.com/ptaoussanis/nippy
+  url: https://www.taoensso.com/nippy
   categories: [Data Serialization]
   platforms: [clj]
   description: High-performance serialization library for Clojure
@@ -2529,10 +2529,10 @@ tools_trace:
 
 timbre:
   name: Timbre
-  url: https://github.com/ptaoussanis/timbre
+  url: https://www.taoensso.com/timbre
   categories: [Logging]
   platforms: [clj, cljs]
-  description: Simple, flexible, all-Clojure logging. No XML!
+  description: Pure Clojure/Script logging library
 
 timbre_json_appender:
   name: timbre-json-appender
@@ -2548,21 +2548,24 @@ clj_loga:
 
 tufte:
   name: Tufte
-  url: https://github.com/ptaoussanis/tufte
+  url: https://www.taoensso.com/tufte
   categories: [Benchmarking, Profiling]
   platforms: [clj, cljs]
+  description: Simple performance monitoring library for Clojure/Script
 
 tempura:
   name: Tempura
-  url: https://github.com/ptaoussanis/tempura
+  url: https://www.taoensso.com/tempura
   categories: [Internationalization]
   platforms: [clj, cljs]
+  description: Simple text localization library for Clojure/Script
 
 tengen:
   name: Tengen
-  url: https://github.com/ptaoussanis/tengen
+  url: https://www.taoensso.com/tengen
   categories: [React Frameworks]
   platforms: [cljs]
+  description: Simple React component DSL for Clojure/Script
 
 tongue:
   name: Tongue
@@ -2572,9 +2575,10 @@ tongue:
 
 encore:
   name: Encore
-  url: https://github.com/ptaoussanis/encore
+  url: https://www.taoensso.com/encore
   categories: [Misc. Functions]
   platforms: [clj, cljs]
+  description: Core utils library for Clojure/Script
 
 sigmund:
   name: Sigmund
@@ -2614,15 +2618,17 @@ sketchy:
 
 faraday:
   name: Faraday
-  url: https://github.com/ptaoussanis/faraday
+  url: https://www.taoensso.com/faraday
   categories: [DynamoDB Clients]
   platforms: [clj]
+  description: Amazon DynamoDB client for Clojure
 
 touchstone:
   name: Touchstone
-  url: https://github.com/ptaoussanis/touchstone
+  url: https://www.taoensso.com/touchstone
   categories: [A/B Testing]
   platforms: [clj]
+  description: Simple A/B testing library for Clojure
 
 chime:
   name: Chime
@@ -2681,10 +2687,10 @@ honeyeql:
 
 carmine:
   name: Carmine
-  url: https://github.com/ptaoussanis/carmine
+  url: https://www.taoensso.com/carmine
   categories: [Redis Clients, Message Queues]
   platforms: [clj]
-  description: A great Clojure client for Redis
+  description: Redis client + message queue for Clojure
 
 clojure_watch:
   name: Clojure Watch
@@ -4168,9 +4174,10 @@ chord:
 
 sente:
   name: Sente
-  url: https://github.com/ptaoussanis/sente
+  url: https://www.taoensso.com/sente
   categories: [Websockets]
   platforms: [clj, cljs]
+  description: Realtime web comms library for Clojure/Script
 
 gniazdo:
   name: Gniazdo
@@ -4282,9 +4289,10 @@ chromex:
 
 truss:
   name: Truss
-  url: https://github.com/ptaoussanis/truss
-  categories: [Validation, Syntax Extensions, Dynamic Typing]
+  url: https://www.taoensso.com/truss
+  categories: [Schema, Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
+  description: Assertions micro-library for Clojure/Script
 
 lein_bin:
   name: lein-bin
