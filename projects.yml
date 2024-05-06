@@ -6177,3 +6177,17 @@ temporal_clojure_sdk:
   categories: [Application Frameworks, Retrying Failures, Workflow Engines]
   platforms: [clj]
   description: A framework for authoring Temporal Workflows and Activities in Clojure
+
+tempel:
+  name: Tempel
+  url: https://www.taoensso.com/tempel
+  categories: [Authentication, Cryptography, Password Security]
+  platforms: [clj]
+  description: Data security framework for Clojure
+
+telemere:
+  name: Telemere
+  url: https://www.taoensso.com/telemere
+  categories: [Logging, Metrics, Tracing]
+  platforms: [clj, cljs]
+  description: Structured telemetry library for Clojure/Script
