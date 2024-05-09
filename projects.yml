@@ -3309,11 +3309,11 @@ synthread:
   categories: [Macros]
   platforms: [clj]
 
-core_typed:
-  name: core.typed
-  url: https://github.com/clojure/core.typed
+typedclojure:
+  name: Typed Clojure
+  url: https://github.com/typedclojure/typedclojure
   categories: [Static Typing, Syntax Extensions]
-  platforms: [clj]
+  platforms: [clj, cljs]
 
 schema:
   name: Schema
