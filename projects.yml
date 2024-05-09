@@ -6186,6 +6186,13 @@ temporal_clojure_sdk:
   platforms: [clj]
   description: A framework for authoring Temporal Workflows and Activities in Clojure
 
+quasi_una_fantasia:
+  name: Quasi una fantasia
+  url: https://github.com/shashurup/quasi-una-fantasia
+  categories: [REPLs, Shell]
+  platforms: [clj, cljs]
+  description: Quasi una fantasia is a rich Clojure REPL, shell and a lot more.
+
 tempel:
   name: Tempel
   url: https://www.taoensso.com/tempel
