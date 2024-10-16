@@ -6206,3 +6206,10 @@ telemere:
   categories: [Logging, Metrics, Tracing]
   platforms: [clj, cljs]
   description: Structured telemetry library for Clojure/Script
+
+splint:
+  name: Splint
+  url: https://github.com/NoahTheDuke/splint
+  categories: [Code Analysis]
+  platforms: [clj, cljs]
+  description: Linter for Clojure/script focused on style and code shape.
