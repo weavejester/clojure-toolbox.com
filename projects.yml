@@ -3691,6 +3691,55 @@ data_zip:
   categories: [Zippers]
   platforms: [clj]
 
+remus:
+  name: Remus
+  url: https://github.com/igrishaev/remus
+  categories: [RSS Generation]
+  platforms: [clj]
+  description: Attentive RSS/Atom feed parser for Clojure
+
+bogus:
+  name: Bogus
+  url: https://github.com/igrishaev/bogus
+  categories: [Debugging, Tracing]
+  platforms: [clj]
+  description: A simple GUI debugger for Clojure
+
+zippo:
+  name: Zippo
+  url: https://github.com/igrishaev/zippo
+  categories: [Zippers]
+  platforms: [clj]
+  description: Additions to the standard clojure.zip package
+
+deed:
+  name: Deed
+  url: https://github.com/igrishaev/deed
+  categories: [Data Serialization]
+  platforms: [clj]
+  description: Fast, flexible, 0-deps (de)serialization library for Clojure
+
+teleward:
+  name: Teleward
+  url: https://github.com/igrishaev/teleward
+  categories: [Telegram]
+  platforms: [clj]
+  description: Captcha bot for Telegram in Clojure + GraalVM
+
+pg2:
+  name: pg2
+  url: https://github.com/igrishaev/pg2
+  categories: [SQL Clients]
+  platforms: [clj]
+  description: A fast PostgreSQL driver for Clojure
+
+user-agent:
+  name: user-agent
+  url: https://github.com/igrishaev/user-agent
+  categories: [HTTP Utilities]
+  platforms: [clj]
+  description: User-Agent parser for Clojure
+
 zip_visit:
   name: zip-visit
   url: https://github.com/akhudek/zip-visit
