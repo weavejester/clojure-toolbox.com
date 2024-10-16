@@ -4,7 +4,7 @@ kit:
   categories: [Application Frameworks]
   platforms: [clj]
 
-ez-wire:
+ez_wire:
   name: ez-wire
   url: https://github.com/emil0r/ez-wire
   categories: [DOM Manipulation]
@@ -3733,7 +3733,7 @@ pg2:
   platforms: [clj]
   description: A fast PostgreSQL driver for Clojure
 
-user-agent:
+user_agent:
   name: user-agent
   url: https://github.com/igrishaev/user-agent
   categories: [HTTP Utilities]
@@ -4997,13 +4997,13 @@ where:
   categories: [Predicates]
   platforms: [clj, cljs]
 
-clj-sophia:
+clj_sophia:
   name: clj-sophia
   url: https://github.com/BrunoBonacci/clj-sophia
   categories: [Databases]
   platforms: [clj]
 
-ring-boost:
+ring_boost:
   name: ring-boost
   url: https://github.com/BrunoBonacci/ring-boost
   categories: [Caching, Request Middleware, Response Middleware]
@@ -5190,7 +5190,7 @@ pack_alpha:
   categories: [tools.deps]
   platforms: [clj]
 
-lein-tools_deps:
+lein_tools_deps:
   name: lein-tools-deps
   url: https://github.com/RickMoynihan/lein-tools-deps
   categories: [tools.deps]
@@ -6048,7 +6048,7 @@ vectops:
   categories: [Data Transformation]
   platforms: [clj, cljs]
 
-lein-uber-shade:
+lein_uber_shade:
   name: lein-uber-shade
   url: https://github.com/obohrer/lein-uber-shade
   categories: [Build Tools, Dependency Management]
@@ -6110,7 +6110,7 @@ test_generative:
   platforms: [clj]
   description: Generative test runner
 
-clj-ssh:
+clj_ssh:
   name: clj-ssh
   url: https://github.com/clj-commons/clj-ssh
   categories: [SSH, Shell]
@@ -6270,7 +6270,7 @@ plenish:
   platforms: [clj]
   description: Sync Datomic to a RDBMS.
 
-deja-fu:
+deja_fu:
   name: deja-fu
   url: https://github.com/lambdaisland/deja-fu
   categories: [Date and Time]
