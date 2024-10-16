@@ -358,8 +358,8 @@ matcher_combinators:
 
 lazy_test:
   name: Lazytest
-  url: https://github.com/stuartsierra/lazytest
-  categories: [Unit Testing]
+  url: https://github.com/noahtheduke/lazytest
+  categories: [Unit Testing, Test Runners]
   platforms: [clj]
 
 test_check:
