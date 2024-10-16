@@ -6256,6 +6256,41 @@ telemere:
   platforms: [clj, cljs]
   description: Structured telemetry library for Clojure/Script
 
+ornament:
+  name: ornament
+  url: https://github.com/lambdaisland/ornament
+  categories: [CSS Generation]
+  platforms: [clj, cljs]
+  description: Styled components library with CSS-generation features for Clojure/Script
+
+plenish:
+  name: plenish
+  url: https://github.com/lambdaisland/plenish
+  categories: [Datomic, Change Data Capture (CDC)]
+  platforms: [clj]
+  description: Sync Datomic to a RDBMS.
+
+deja-fu:
+  name: deja-fu
+  url: https://github.com/lambdaisland/deja-fu
+  categories: [Date and Time]
+  platforms: [cljs]
+  description: Lightweight ClojureScript local time/date library
+
+fetch:
+  name: fetch
+  url: https://github.com/lambdaisland/fetch
+  categories: [Asynchronous Programming]
+  platforms: [cljs]
+  description: ClojureScript wrapper around the JavaScript fetch API
+
+witchcraft:
+  name: witchcraft
+  url: https://github.com/lambdaisland/witchcraft
+  categories: [Game Development]
+  platforms: [clj]
+  description: Clojure API for Bukkit-based Minecraft servers (Spigot/Paper/Glowstone)
+
 splint:
   name: Splint
   url: https://github.com/NoahTheDuke/splint
