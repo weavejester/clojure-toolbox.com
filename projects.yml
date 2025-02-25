@@ -6297,3 +6297,10 @@ splint:
   categories: [Code Analysis]
   platforms: [clj, cljs]
   description: Linter for Clojure/script focused on style and code shape.
+
+qslice:
+  name: qslice
+  url: https://github.com/favila/qslice
+  categories: [Datomic Datalog]
+  platforms: [clj]
+  description: Library for programmatically building conditional datalog queries.
