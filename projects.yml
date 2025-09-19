@@ -6305,6 +6305,41 @@ splint:
   platforms: [clj, cljs]
   description: Linter for Clojure/script focused on style and code shape.
 
+kushi:
+  name: Kushi
+  url: https://github.com/kushidesign/kushi
+  categories: [ClojureScript Development, CSS Generation, Syntax Extensions]
+  platforms: [cljs]
+  description: UI design library for ClojureScript
+
+domo:
+  name: Domo
+  url: https://github.com/kushidesign/domo
+  categories: [DOM Events, DOM Manipulation, ClojureScript Development]
+  platforms: [cljs]
+  description: A ClojureScript DOM utility library.
+
+bling:
+  name: Bling
+  url: https://github.com/paintparty/bling
+  categories: [Pretty Printing, Terminal Utilities, Exception Handling]
+  platforms: [clj, cljs]
+  description: Rich text console printing for Clojure, ClojureScript, and Babashka.
+
+fireworks:
+  name: Fireworks
+  url: https://github.com/paintparty/fireworks
+  categories: [Pretty Printing, Terminal Utilities, Tracing, Debugging, Interactive Development]
+  platforms: [clj, cljs]
+  description: A themeable tapping library for Clojure, ClojureScript, and Babashka.
+
+lasertag:
+  name: Lasertag
+  url: https://github.com/paintparty/lasertag
+  categories: [Javascript Interop, Java Interop, Visualization, Code Analysis]
+  platforms: [clj, cljs]
+  description: A library for categorizing types of values in Clojure, ClojureScript, and Babashka.
+
 zodiac:
   name: Zodiac
   url: https://github.com/brettatoms/zodiac
