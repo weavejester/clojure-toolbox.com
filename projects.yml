@@ -6304,3 +6304,10 @@ splint:
   categories: [Code Analysis]
   platforms: [clj, cljs]
   description: Linter for Clojure/script focused on style and code shape.
+
+zodiac:
+  name: Zodiac
+  url: https://github.com/brettatoms/zodiac
+  categories: [Web Frameworks]
+  platforms: [clj]
+  description: A Flask inspired web framework.
