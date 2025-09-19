@@ -3719,7 +3719,7 @@ deed:
   platforms: [clj]
   description: Fast, flexible, 0-deps (de)serialization library for Clojure
 
-clj-tg-bot-api:
+clj_tg_bot_api:
   name: Clojure Telegram Bot API
   url: https://github.com/marksto/clj-tg-bot-api
   categories: [Telegram]
