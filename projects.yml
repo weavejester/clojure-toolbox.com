@@ -6305,6 +6305,13 @@ splint:
   platforms: [clj, cljs]
   description: Linter for Clojure/script focused on style and code shape.
 
+wagontrain:
+  name: Wagontrain
+  url: https://github.com/lambdaisland/wagontrain
+  categories: [Datomic, Database Migrations]
+  platforms: [clj]
+  description: Database migration for Datomic.
+
 kushi:
   name: Kushi
   url: https://github.com/kushidesign/kushi
