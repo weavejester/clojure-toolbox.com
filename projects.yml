@@ -4341,7 +4341,7 @@ truss:
   url: https://www.taoensso.com/truss
   categories: [Schema, Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
-  description: Assertions micro-library for Clojure/Script
+  description: Micro toolkit for Clojure/Script errors
 
 lein_bin:
   name: lein-bin
@@ -6248,6 +6248,13 @@ tempel:
   categories: [Authentication, Cryptography, Password Security]
   platforms: [clj]
   description: Data security framework for Clojure
+
+trove:
+  name: Trove
+  url: https://www.taoensso.com/trove
+  categories: [Logging]
+  platforms: [clj, cljs]
+  description: Modern logging facade for Clojure/Script
 
 telemere:
   name: Telemere
