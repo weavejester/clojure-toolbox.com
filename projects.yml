@@ -4341,7 +4341,7 @@ truss:
   url: https://www.taoensso.com/truss
   categories: [Schema, Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
-  description: Assertions micro-library for Clojure/Script
+  description: Micro toolkit for Clojure/Script errors
 
 lein_bin:
   name: lein-bin
@@ -6249,6 +6249,13 @@ tempel:
   platforms: [clj]
   description: Data security framework for Clojure
 
+trove:
+  name: Trove
+  url: https://www.taoensso.com/trove
+  categories: [Logging]
+  platforms: [clj, cljs]
+  description: Modern logging facade for Clojure/Script
+
 telemere:
   name: Telemere
   url: https://www.taoensso.com/telemere
@@ -6332,3 +6339,10 @@ lasertag:
   categories: [Javascript Interop, Java Interop, Visualization, Code Analysis]
   platforms: [clj, cljs]
   description: A library for categorizing types of values in Clojure, ClojureScript, and Babashka.
+
+zodiac:
+  name: Zodiac
+  url: https://github.com/brettatoms/zodiac
+  categories: [Web Frameworks]
+  platforms: [clj]
+  description: A Flask inspired web framework.
