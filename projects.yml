@@ -4,7 +4,7 @@ kit:
   categories: [Application Frameworks]
   platforms: [clj]
 
-ez-wire:
+ez_wire:
   name: ez-wire
   url: https://github.com/emil0r/ez-wire
   categories: [DOM Manipulation]
@@ -358,8 +358,8 @@ matcher_combinators:
 
 lazy_test:
   name: Lazytest
-  url: https://github.com/stuartsierra/lazytest
-  categories: [Unit Testing]
+  url: https://github.com/noahtheduke/lazytest
+  categories: [Unit Testing, Test Runners]
   platforms: [clj]
 
 test_check:
@@ -3733,7 +3733,7 @@ pg2:
   platforms: [clj]
   description: A fast PostgreSQL driver for Clojure
 
-user-agent:
+user_agent:
   name: user-agent
   url: https://github.com/igrishaev/user-agent
   categories: [HTTP Utilities]
@@ -4341,7 +4341,7 @@ truss:
   url: https://www.taoensso.com/truss
   categories: [Schema, Validation, Syntax Extensions, Dynamic Typing]
   platforms: [clj, cljs]
-  description: Assertions micro-library for Clojure/Script
+  description: Micro toolkit for Clojure/Script errors
 
 lein_bin:
   name: lein-bin
@@ -4997,13 +4997,13 @@ where:
   categories: [Predicates]
   platforms: [clj, cljs]
 
-clj-sophia:
+clj_sophia:
   name: clj-sophia
   url: https://github.com/BrunoBonacci/clj-sophia
   categories: [Databases]
   platforms: [clj]
 
-ring-boost:
+ring_boost:
   name: ring-boost
   url: https://github.com/BrunoBonacci/ring-boost
   categories: [Caching, Request Middleware, Response Middleware]
@@ -5190,7 +5190,7 @@ pack_alpha:
   categories: [tools.deps]
   platforms: [clj]
 
-lein-tools_deps:
+lein_tools_deps:
   name: lein-tools-deps
   url: https://github.com/RickMoynihan/lein-tools-deps
   categories: [tools.deps]
@@ -6048,7 +6048,7 @@ vectops:
   categories: [Data Transformation]
   platforms: [clj, cljs]
 
-lein-uber-shade:
+lein_uber_shade:
   name: lein-uber-shade
   url: https://github.com/obohrer/lein-uber-shade
   categories: [Build Tools, Dependency Management]
@@ -6110,7 +6110,7 @@ test_generative:
   platforms: [clj]
   description: Generative test runner
 
-clj-ssh:
+clj_ssh:
   name: clj-ssh
   url: https://github.com/clj-commons/clj-ssh
   categories: [SSH, Shell]
@@ -6249,6 +6249,13 @@ tempel:
   platforms: [clj]
   description: Data security framework for Clojure
 
+trove:
+  name: Trove
+  url: https://www.taoensso.com/trove
+  categories: [Logging]
+  platforms: [clj, cljs]
+  description: Modern logging facade for Clojure/Script
+
 telemere:
   name: Telemere
   url: https://www.taoensso.com/telemere
@@ -6270,7 +6277,7 @@ plenish:
   platforms: [clj]
   description: Sync Datomic to a RDBMS.
 
-deja-fu:
+deja_fu:
   name: deja-fu
   url: https://github.com/lambdaisland/deja-fu
   categories: [Date and Time]
@@ -6304,3 +6311,45 @@ wagontrain:
   categories: [Datomic, Database Migrations]
   platforms: [clj]
   description: Database migration for Datomic.
+
+kushi:
+  name: Kushi
+  url: https://github.com/kushidesign/kushi
+  categories: [ClojureScript Development, CSS Generation, Syntax Extensions]
+  platforms: [cljs]
+  description: UI design library for ClojureScript
+
+domo:
+  name: Domo
+  url: https://github.com/kushidesign/domo
+  categories: [DOM Events, DOM Manipulation, ClojureScript Development]
+  platforms: [cljs]
+  description: A ClojureScript DOM utility library.
+
+bling:
+  name: Bling
+  url: https://github.com/paintparty/bling
+  categories: [Pretty Printing, Terminal Utilities, Exception Handling]
+  platforms: [clj, cljs]
+  description: Rich text console printing for Clojure, ClojureScript, and Babashka.
+
+fireworks:
+  name: Fireworks
+  url: https://github.com/paintparty/fireworks
+  categories: [Pretty Printing, Terminal Utilities, Tracing, Debugging, Interactive Development]
+  platforms: [clj, cljs]
+  description: A themeable tapping library for Clojure, ClojureScript, and Babashka.
+
+lasertag:
+  name: Lasertag
+  url: https://github.com/paintparty/lasertag
+  categories: [Javascript Interop, Java Interop, Visualization, Code Analysis]
+  platforms: [clj, cljs]
+  description: A library for categorizing types of values in Clojure, ClojureScript, and Babashka.
+
+zodiac:
+  name: Zodiac
+  url: https://github.com/brettatoms/zodiac
+  categories: [Web Frameworks]
+  platforms: [clj]
+  description: A Flask inspired web framework.
