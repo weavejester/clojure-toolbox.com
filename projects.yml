@@ -6367,3 +6367,24 @@ zodiac:
   categories: [Web Frameworks]
   platforms: [clj]
   description: A Flask inspired web framework.
+
+lambdaisland_cli:
+  name: lambdaisland/cli
+  url: https://github.com/lambdaisland/cli
+  categories: [Command Line Tools]
+  platforms: [clj]
+  description: Opinionated command line argument handling, with excellent support for subcommands
+
+lambdaisland_config:
+  name: lambdaisland/config
+  url: https://github.com/lambdaisland/config
+  categories: [Configuration]
+  platforms: [clj]
+  description: Clojure configuration library
+
+makina:
+  name: makina
+  url: https://github.com/lambdaisland/makina
+  categories: [Reloaded Workflow]
+  platforms: [clj]
+  description: Clojure System/component lifecycle management
