@@ -6388,3 +6388,136 @@ makina:
   categories: [Reloaded Workflow]
   platforms: [clj]
   description: Clojure System/component lifecycle management
+
+ansi:
+  name: ansi
+  url: https://github.com/lambdaisland/ansi
+  categories: [Terminal Utilities]
+  platforms: [clj, cljs]
+  description: Parse ANSI color escape sequences to Hiccup syntax
+
+chui:
+  name: chui
+  url: https://github.com/lambdaisland/chui
+  categories: [Web Testing]
+  platforms: [cljs]
+  description: Re-implements the test runner to allow more dynamic and fine-grained control, with a browser UI for running tests
+
+lambdaisland_classpath:
+  name: lambdaisland/classpath
+  url: https://github.com/lambdaisland/classpath
+  categories: [Java ClassLoaders]
+  platforms: [clj]
+  description: Helpers for inspecting and manipulating the JVM classpath; supports dynamic classpath updates in Clojure projects
+
+cljbox2d:
+  name: cljbox2d
+  url: https://github.com/lambdaisland/cljbox2d
+  categories: [Game Development]
+  platforms: [clj]
+  description: Clojure wrapper around the Box2D physics engine
+
+daedalus:
+  name: daedalus
+  url: https://github.com/lambdaisland/daedalus
+  categories: [Game Development]
+  platforms: [cljs]
+  description: ClojureScript wrapper for hxdaedalus-js path-finding and triangulation
+
+data-printers:
+  name: data-printers
+  url: https://github.com/lambdaisland/data-printers
+  categories: [Debugging]
+  platforms: [clj, cljs]
+  description: Pretty-printing of Clojure data structures, often used in REPL / debugging contexts
+
+deep-diff2:
+  name: deep-diff2
+  url: https://github.com/lambdaisland/deep-diff2
+  categories: [Diffing]
+  platforms: [clj, cljs]
+  description: Recursively compare Clojure / ClojureScript data structures and produce a colorized diff
+
+dom-types:
+  name: dom-types
+  url: https://github.com/lambdaisland/dom-types
+  categories: [DOM Manipulation]
+  platforms: [cljs]
+  description: Typed representation of DOM nodes / types for use in ClojureScript contexts
+
+edn-lines:
+  name: edn-lines
+  url: https://github.com/lambdaisland/edn-lines
+  categories: [edn]
+  platforms: [clj]
+  description: Library for dealing with newline separated EDN files
+
+embedkit:
+  name: embedkit
+  url: https://github.com/lambdaisland/embedkit
+  categories: [dashboard]
+  platforms: [clj]
+  description: Use Metabase as a dashboard engine
+
+funnel:
+  name: funnel
+  url: https://github.com/lambdaisland/funnel
+  categories: [Websockets]
+  platforms: [clj]
+  description: Transit-over-WebSocket Message Relay
+
+funnel-client:
+  name: funnel-client
+  url: https://github.com/lambdaisland/funnel-client
+  categories: [Websockets]
+  platforms: [clj, cljs]
+  description: Websocket client for Funnel + examples
+
+garden-watcher:
+  name: garden-watcher
+  url: https://github.com/lambdaisland/garden-watcher
+  categories: [CSS Generation]
+  platforms: [clj]
+  description: Utility to watch CSS (Garden) files and auto-recompile on changes
+
+lambdaisalnd_hiccup:
+  name: lambdaisland/hiccup
+  url: https://github.com/lambdaisland/hiccup
+  categories: [HTML Generation]
+  platforms: [clj]
+  description: Enlive-backed Hiccup implementation
+
+kaocha-boot:
+  name: kaocha-boot
+  url: https://github.com/lambdaisland/kaocha-boot
+  categories: [Test Runners, Build Tools]
+  platforms: [clj]
+  description: Boot integration for the Kaocha test runner
+
+kaocha-cloverage:
+  name: kaocha-cloverage
+  url: https://github.com/lambdaisland/kaocha-cloverage
+  categories: [Test Runners]
+  platforms: [clj]
+  description: Coverage reporting integration for Kaocha
+
+kaocha-cucumber:
+  name: kaocha-cucumber
+  url: https://github.com/lambdaisland/kaocha-cucumber
+  categories: [Test Runners]
+  platforms: [clj]
+  description: Cucumber (Behavior-Driven Development) support for Kaocha
+
+kaocha-junit-xml:
+  name: kaocha-junit-xml
+  url: https://github.com/lambdaisland/kaocha-junit-xml
+  categories: [Test Runners]
+  platforms: [clj]
+  description: JUnit XML output formatter for Kaocha
+
+nrepl-proxy:
+  name: nrepl-proxy
+  url: https://github.com/lambdaisland/nrepl-proxy
+  categories: [Debugging, nREPL Middleware]
+  platforms: [clj]
+  description: Proxy for debugging nREPL interactions
