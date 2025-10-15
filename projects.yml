@@ -96,6 +96,12 @@ buddy_sign:
   categories: [Cryptography, Hashing, Password Security]
   platforms: [clj]
 
+eacl:
+  name: EACL
+  url: https://github.com/theronic/eacl
+  categories: [Authorization]
+  platforms: [clj]
+
 pocheshiro:
   name: Pocheshiro
   url: https://github.com/inventiLT/Pocheshiro
