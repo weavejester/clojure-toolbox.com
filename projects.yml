@@ -6401,14 +6401,14 @@ chui:
   url: https://github.com/lambdaisland/chui
   categories: [Web Testing]
   platforms: [cljs]
-  description: Re-implements the test runner to allow more dynamic and fine-grained control, with a browser UI for running tests ([github.com](https://github.com/lambdaisland/chui?utm_source=chatgpt.com))
+  description: Re-implements the test runner to allow more dynamic and fine-grained control, with a browser UI for running tests
 
 lambdaisland_classpath:
   name: lambdaisland/classpath
   url: https://github.com/lambdaisland/classpath
   categories: [Java ClassLoaders]
   platforms: [clj]
-  description: Helpers for inspecting and manipulating the JVM classpath; supports dynamic classpath updates in Clojure projects ([lambdaisland.com](https://lambdaisland.com/blog/2021-08-25-classpath-is-a-lie))
+  description: Helpers for inspecting and manipulating the JVM classpath; supports dynamic classpath updates in Clojure projects
 
 cljbox2d:
   name: cljbox2d
