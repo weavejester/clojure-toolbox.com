@@ -3,8 +3,15 @@ $('#project-list').
     css({visibility: 'visible'});
 $('footer').css({visibility: 'visible'});
 
-$('#search-query').on('change keyup paste input', function(event) {
-    var query    = $.trim(event.target.value.toLowerCase());
+function debounce(f, wait){
+  var timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => f(...args), wait)
+  };
+};
+
+function filterProjectsBySearch(query){
     var projects = $('#project-list li');
     if (query == '') {
         projects.show();
@@ -13,6 +20,13 @@ $('#search-query').on('change keyup paste input', function(event) {
     }
     $('#project-list .category').show().not(':has(li:visible)').hide();
     $('#project-list').masonry('layout');
+}
+
+var debouncedSearch = debounce(filterProjectsBySearch, 100);
+
+$('#search-query').on('change keyup paste input', function(event) {
+    var query = $.trim(event.target.value.toLowerCase());
+    debouncedSearch(query)
 });
 
 $('#search-query').focus().change();
