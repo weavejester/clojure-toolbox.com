@@ -6319,6 +6319,13 @@ qslice:
   platforms: [clj]
   description: Library for programmatically building conditional datalog queries.
 
+datomic-session:
+  name: datomic-session
+  url: https://github.com/hozumi/datomic-session
+  categories: [Datomic, Ring Sessions]
+  platforms: [clj]
+  description: Library for programmatically building conditional datalog queries.
+
 wagontrain:
   name: Wagontrain
   url: https://github.com/lambdaisland/wagontrain
