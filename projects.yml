@@ -6388,3 +6388,10 @@ makina:
   categories: [Reloaded Workflow]
   platforms: [clj]
   description: Clojure System/component lifecycle management
+
+Oak:
+  name: Oak
+  url: https://git.gaiwan.co/gaiwan/Oak
+  categories: [Authentication, Authorization, Password Security]
+  platforms: [clj]
+  description: Headless Identity Provider (idp) service that supports OAuth 2.0, OpenID Connect and 2FA.
