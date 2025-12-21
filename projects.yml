@@ -6389,7 +6389,7 @@ makina:
   platforms: [clj]
   description: Clojure System/component lifecycle management
 
-Oak:
+oak:
   name: Oak
   url: https://git.gaiwan.co/gaiwan/Oak
   categories: [Authentication, Authorization, Password Security]
