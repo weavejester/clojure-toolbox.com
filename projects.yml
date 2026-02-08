@@ -6457,10 +6457,16 @@ makina:
   platforms: [clj]
   description: Clojure System/component lifecycle management
 
+oak:
+  name: Oak
+  url: https://git.gaiwan.co/gaiwan/Oak
+  categories: [Authentication, Authorization, Password Security]
+  platforms: [clj]
+  description: Headless Identity Provider (idp) service that supports OAuth 2.0, OpenID Connect and 2FA.
+  
 clipper:
   name: Clipper
   url: https://github.com/ruroru/clipper
   categories: [GeoIP]
   platforms: [clj]
   description: Dependency free GeoIP library for clojure
-
