@@ -126,6 +126,12 @@ selmer:
   categories: [Template Languages]
   platforms: [clj]
 
+majavat:
+  name: Majavat
+  url: https://github.com/ruroru/majavat
+  categories: [Template Languages]
+  platforms: [clj]
+
 hiccup:
   name: Hiccup
   url: https://github.com/weavejester/hiccup
@@ -329,6 +335,12 @@ ring_mongrel2_adapter:
 ring_jetty9_adapter:
   name: ring-jetty9-adapter
   url: https://github.com/sunng87/ring-jetty9-adapter
+  categories: [Ring Adapters]
+  platforms: [clj]
+
+ring_http_exchange:
+  name: ring-http-exchange
+  url: https://github.com/ruroru/ring-http-exchange
   categories: [Ring Adapters]
   platforms: [clj]
 
@@ -564,6 +576,36 @@ lein_ring:
   name: lein-ring
   url: https://github.com/weavejester/lein-ring
   categories: [WAR File Generation, Ring Development, Leiningen Plugins]
+  platforms: [clj]
+
+lein_archive:
+  name: lein-archive
+  url: https://github.com/ruroru/lein-archive
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
+lein_copy_deps:
+  name: lein-copy-deps
+  url: https://github.com/ruroru/lein-copy-deps
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
+lein_cavalo:
+  name: lein-cavalo
+  url: https://github.com/ruroru/lein-cavalo
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
+lein_bump:
+  name: lein-bump
+  url: https://github.com/ruroru/lein-bump
+  categories: [Leiningen Plugins]
+  platforms: [clj]
+
+lein_strict_check:
+  name: lein-strict_check
+  url: https://github.com/ruroru/lein-strict-check
+  categories: [Leiningen Plugins]
   platforms: [clj]
 
 lein_beanstalk:
@@ -2126,6 +2168,13 @@ pantomime:
   categories: [MIME Types]
   platforms: [clj]
   description: A tiny Clojure library that deals with Internet media types (MIME types) and content type detection
+
+surykatka:
+  name: Surykatka
+  url: https://github.com/ruroru/surykatka
+  categories: [MIME Types]
+  platforms: [clj]
+  description: A Clojure library that identifies file type based on magic numbers.
 
 data_json:
   name: data.json
@@ -4301,6 +4350,12 @@ hugsql:
   categories: [SQL Abstraction]
   platforms: [clj]
 
+boa-sql:
+  name: Boa-SQL
+  url: https://github.com/ruroru/boa-sql
+  categories: [SQL Abstraction]
+  platforms: [clj]
+
 tagged:
   name: Tagged
   url: https://github.com/miner/tagged
@@ -6394,3 +6449,11 @@ makina:
   categories: [Reloaded Workflow]
   platforms: [clj]
   description: Clojure System/component lifecycle management
+
+clipper:
+  name: Clipper
+  url: https://github.com/ruroru/clipper
+  categories: [GeoIP]
+  platforms: [clj]
+  description: Dependency free GeoIP library for clojure
+
