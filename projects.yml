@@ -4350,7 +4350,7 @@ hugsql:
   categories: [SQL Abstraction]
   platforms: [clj]
 
-boa-sql:
+boa_sql:
   name: Boa-SQL
   url: https://github.com/ruroru/boa-sql
   categories: [SQL Abstraction]
@@ -6380,7 +6380,7 @@ qslice:
   platforms: [clj]
   description: Library for programmatically building conditional datalog queries.
 
-datomic-session:
+datomic_session:
   name: datomic-session
   url: https://github.com/hozumi/datomic-session
   categories: [Datomic, Ring Sessions]
