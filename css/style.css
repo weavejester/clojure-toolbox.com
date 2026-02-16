@@ -155,11 +155,24 @@ header #j {
   box-shadow: 0 0 10px #7be;
 }
 
-html.no-js #project-list, html.no-js footer {
+html.no-js footer {
   visibility: visible;
 }
 
-#project-list, footer {
+#project-list {
+  display: grid;
+  grid-gap: 1em 30px;
+  grid-template-columns: repeat( auto-fill, minmax( 200px, 1fr ) ); 
+  grid-auto-rows: 0;
+  visibility: hidden;
+}
+
+html.no-js #project-list {
+  grid-auto-rows: auto;
+  visibility: visible;
+}
+
+footer {
   visibility: hidden;
 }
 
@@ -167,13 +180,6 @@ html.no-js #project-list, html.no-js footer {
   margin: 0 auto 45px auto;
   width: 780px;
   font-size: 11pt;
-}
-
-#main .category {
-  width: 230px;
-  padding-left: 30px;
-  float: left;
-  margin-bottom: 1em;
 }
 
 #main .category h2 {
