@@ -6470,3 +6470,10 @@ clipper:
   categories: [GeoIP]
   platforms: [clj]
   description: Dependency free GeoIP library for clojure
+
+mirthsync:
+  name: mirthSync
+  url: https://saga-it.com/products/mirthsync
+  categories: [Deployment Automation]
+  platforms: [clj]
+  description: Pushes and pulls Mirth Connect / Open Integration Engine channels, code templates and configuration to a Git repository
