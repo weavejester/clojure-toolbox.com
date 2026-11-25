@@ -6483,3 +6483,9 @@ html_to_hiccup:
   url: https://github.com/jacobemcken/html-to-md
   categories: [HTML Parsers]
   platforms: [clj]
+
+aws_simple_sign:
+  name: aws-simple-sign
+  url: https://github.com/jacobemcken/aws-simple-sign
+  categories: [Amazon Web Services (AWS)]
+  platforms: [clj]
