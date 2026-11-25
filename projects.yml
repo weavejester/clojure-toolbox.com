@@ -6477,3 +6477,9 @@ mirthsync:
   categories: [Deployment Automation]
   platforms: [clj]
   description: Pushes and pulls Mirth Connect / Open Integration Engine channels, code templates and configuration to a Git repository
+
+html_to_hiccup:
+  name: html-to-md
+  url: https://github.com/jacobemcken/html-to-md
+  categories: [HTML Parsers]
+  platforms: [clj]
